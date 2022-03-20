@@ -91,3 +91,4 @@
 17.03.2022 11:42:35	Политлозунги и призывы к блокировке сервисов, не исключен пуш malicious code в указанные в списки библиотеки	Stop Russia IT	https://github.com/stop-war-in-ukraine/stop-russia-it	По ссылке список сервисов, ссылок на обсуждения, петиции на change.org
 17.03.2022 14:38:21	Политические лозунги	plantUml web ресурс	https://plantuml.com/ru/	Я аналитик, я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии
 17.03.2022 17:46:57	Политические лозунги	filestash	https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d	С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали
+21.03.2022 06:44:32	Political slogans	ztime	https://github.com/AlexXZero/ztime	Don't use these repos!
