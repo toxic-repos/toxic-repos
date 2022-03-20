@@ -95,3 +95,4 @@
 | 16.03.2022  | 19:24:10  | Политические лозунги  | PHPUnit | https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c  | Шильдик #StandWithUkraine  |
 | 16.03.2022  | 20:23:15  | Политические лозунги  | tasmota  | https://github.com/arendst/Tasmota/commit/98cbf2587a1a914bbd16996ebb48dd451d3da448  | Варьируется от сообщений в логе до неработоспособности устройства  |
 | 16.03.2022  | 22:08:01  | Политические лозунги  | StandWithUkraine | https://github.com/vshymanskyy/StandWithUkraine  | Список интегрировавших к себе призывы задонатить вна Украину в README.md  |
+| 21.03.2022 | 06:44:32 |	Political slogans |	ztime	| https://github.com/AlexXZero/ztime |	Don't use these repos! |
