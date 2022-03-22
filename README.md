@@ -4,8 +4,11 @@
 Это может нести угрозу людям, а также подрывает доверие к Open Source комьюнити и Open Source как таковому.
 
 # ВАЖНО
-[Для оперативной связи по вопросам списка](https://t.me/toxic_repos)
+> [Для оперативной связи по вопросам списка](https://t.me/toxic_repos)
+> 
 > https://t.me/toxic_repos
+
+> E-mail для связи: info@toxic-repos.ru
 
 # Статистика
 [Опасных репозиториев](./toxic-repos.md): 30
