@@ -4,11 +4,11 @@
 Это может нести угрозу людям, а также подрывает доверие к Open Source комьюнити и Open Source как таковому.
 
 # Статистика
-[Опасных репозиториев](./toxic-repos.md): 19
+[Опасных репозиториев](./toxic-repos.md): 30
 
-[Репозиторий с пропагандой](./propaganda-repos.md): 93
+[Репозиторий с пропагандой](./propaganda-repos.md): 96
 
-[DDoS репозиториев](./ddos-repos.md): 16
+[DDoS репозиториев](./ddos-repos.md): 30
 
 [Откатившиеся репозитории](./repos-that-changed-their-minds.md): 2
 
