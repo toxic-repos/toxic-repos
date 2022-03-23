@@ -34,5 +34,4 @@
 22.03.2022 1:58	Малварь, шифровальщик или иные фатальные угрозы	Anti-Prop/antiprop_basic	https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab	DDoS tool, working from browser, against RU resources					
 21.03.2022 9:44	Малварь, шифровальщик или иные фатальные угрозы	StopWar.pro	https://StopWar.pro	популярная приложуха для отрабатывания url					
 21.03.2022 5:06	Малварь, шифровальщик или иные фатальные угрозы	Shopware	https://www.shopware.com/	заблокирован доступ с русских ip, заблокирован русский аккаунт при заходе через VPN, предупреждений не было					
-20.03.2022 22:42	Малварь, шифровальщик или иные фатальные угрозы	Firefox	https://phabricator.services.mozilla.com/D140898	удалил поиск Яндекса					
-20.03.2022 12:43	Малварь, шифровальщик или иные фатальные угрозы	element	https://github.com/ElemeFE/element/pull/14632/files	Малварь					
+20.03.2022 22:42	Малварь, шифровальщик или иные фатальные угрозы	Firefox	https://phabricator.services.mozilla.com/D140898	удалил поиск Яндекса

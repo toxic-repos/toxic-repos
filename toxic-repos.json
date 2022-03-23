@@ -257,12 +257,5 @@
 		"productname": "Firefox",
 		"url": "https://phabricator.services.mozilla.com/D140898",
 		"comment": "\u0443\u0434\u0430\u043b\u0438\u043b \u043f\u043e\u0438\u0441\u043a \u042f\u043d\u0434\u0435\u043a\u0441\u0430"
-	},
-	"field38": {
-		"datetime": "20.03.2022 12:43",
-		"problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c, \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a \u0438\u043b\u0438 \u0438\u043d\u044b\u0435 \u0444\u0430\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0443\u0433\u0440\u043e\u0437\u044b",
-		"productname": "element",
-		"url": "https://github.com/ElemeFE/element/pull/14632/files",
-		"comment": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c"
 	}
 }
