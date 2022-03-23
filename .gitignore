@@ -1,3 +1,6 @@
 .idea/
 src/
+clean.json
+clean.txt
 converter.py
+txt-converter.py
