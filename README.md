@@ -25,4 +25,4 @@
 - Зеркалирование репозиториев пакетов.
 - Включение в CI как минимум поиска по ключевым словам, UTF символам с изображением украинского флага и сравнение списка файлов с вайтлистом.
 - Ресерч по инструментам анализа кода.
-- Отправка репорта на [Github report content](https://support.github.com/contact/report-abuse?category=report-content&report=other&report_type=unspecified)
+- Отправка репорта по [инструкции](./HOW-TO-REPORT.md)
