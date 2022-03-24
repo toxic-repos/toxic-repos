@@ -11,7 +11,7 @@
 > E-mail для связи: info@toxic-repos.ru
 
 # Статистика
-[Опасных репозиториев](./toxic-repos.md): 38
+[Опасных репозиториев](./toxic-repos.md): 37
 
 [Репозиторий с пропагандой](./propaganda-repos.md): 173
 
