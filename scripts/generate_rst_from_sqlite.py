@@ -41,7 +41,7 @@ def main() -> None:
             "содержащих протестное программное обеспечение"
         )
         .add_indents(2)
-        .add_create_contents()
+        .add_create_contents(name="Обзор", depth_level=1)
         .add_indents(2)
     )
 
