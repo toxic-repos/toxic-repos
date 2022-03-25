@@ -1,2 +1,4 @@
 .idea/
 src/
+sqlite3.def
+sqlite3.dll
