@@ -1,2 +1,6 @@
 .idea/
 src/
+utils/sqlite-converter.py
+utils/txt-converter.py
+sqlite3.def
+sqlite3.dll
