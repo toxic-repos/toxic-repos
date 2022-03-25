@@ -3,7 +3,7 @@
 В последнее время участились случаи добавления в популярные Open Source проекты кода разной степени опасности.
 Это может нести угрозу людям, а также подрывает доверие к Open Source комьюнити и Open Source как таковому.
 
-[:url:](https://toxic-repos.ru/) | [:speech_balloon:](https://t.me/toxic_repos) | [:email:](info@toxic-repos.ru)
+[:link:](https://toxic-repos.ru/) | [:speech_balloon:](https://t.me/toxic_repos) | [:email:](info@toxic-repos.ru)
 
 # Дополнительно
 [TXT](./clean.txt)
