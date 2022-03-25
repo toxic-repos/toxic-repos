@@ -3,12 +3,7 @@
 В последнее время участились случаи добавления в популярные Open Source проекты кода разной степени опасности.
 Это может нести угрозу людям, а также подрывает доверие к Open Source комьюнити и Open Source как таковому.
 
-# Важно
-> [Для оперативной связи по вопросам списка](https://t.me/toxic_repos)
-> 
-> https://t.me/toxic_repos
-
-> E-mail для связи: info@toxic-repos.ru
+[:url:](https://toxic-repos.ru/) | [:speech_balloon:](https://t.me/toxic_repos) | [:email:](info@toxic-repos.ru)
 
 # Дополнительно
 [TXT](./clean.txt)
