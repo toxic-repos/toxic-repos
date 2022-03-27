@@ -9,6 +9,10 @@ from dataclasses import dataclass
 from rst_builder import RSTMaker, RSTBuilder
 
 
+DATABASE_PATH = Path("data/sqlite/toxic-repos.sqlite3")
+OUT_FILE_PATH = Path("toxic-repos.rst")
+
+
 @dataclass
 class DataModel():
     data: str
@@ -18,7 +22,7 @@ class DataModel():
 
 
 def main() -> None:
-    connection = sqlite3.connect(Path("sqlite/toxic-repos.sqlite3"))
+    connection = sqlite3.connect(DATABASE_PATH)
     cursor = connection.cursor()
 
     data: t.Dict[str, t.List[DataModel]] = defaultdict(list)
@@ -60,7 +64,7 @@ def main() -> None:
             result.add_text(data_model.description)
             result.add_indents(2)
 
-    with open("toxic-repos.rst", "w") as fp:
+    with open(OUT_FILE_PATH, "w") as fp:
         fp.write(result.get_result())
 
 
