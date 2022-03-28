@@ -7,7 +7,7 @@
 
 [Список репозиториев](toxic-repos.rst)
 
-[:link:](https://toxic-repos.ru/) | [:speech_balloon:](https://t.me/toxic_repos) | [:email:](info@toxic-repos.ru)
+[:link: Наш сайт](https://toxic-repos.ru/) | [:speech_balloon: Наш Телеграм чат](https://t.me/toxic_repos) | [:email: Наша почта](info@toxic-repos.ru)
 
 ## Дополнительно
 
