@@ -3,9 +3,14 @@
 import sys
 import sqlite3
 import json
+from pathlib import Path
 
-infile = "../toxic-repos.txt"
-outfile = "../toxic-repos.json"
+
+INPUT_FILE_PATH = Path("data/txt/toxic-repos.txt")
+OUT_FILE_PATH = Path("data/json/toxic-repos.json")
+DATABASE_PATH = Path("data/sqlite/toxic-repos.sqlite3")
+
+
 # output JSON format (array of dicts):
 #[
 #  {
@@ -33,7 +38,7 @@ TABLE_CREATION_QUERY = """
 
 toxics_array = []
 fields = ["datetime", "problemtype", "productname", "url", "comment"]
-with open(infile, 'r', encoding='utf-8') as fh:
+with open(INPUT_FILE_PATH, 'r', encoding='utf-8') as fh:
     print("Читаем txt файл", file=sys.stderr)
     # not using `logging` or `loguru` module to avoid need for dependency
     for line in fh:
@@ -41,14 +46,14 @@ with open(infile, 'r', encoding='utf-8') as fh:
         print(f'Прочитана и распознана строка: {description}', file=sys.stderr)
         toxics_array.append(dict(zip(fields, description)))
 
-with open(outfile, 'w', encoding='utf-8') as out_file:
+with open(OUT_FILE_PATH, 'w', encoding='utf-8') as out_file:
     print("Пишем json файл", file=sys.stderr)
     json.dump(toxics_array, out_file, indent=2)
 
 db = None # default value for case when DB failde to be opened
 try:
     print("Соединяемся с SQLite базой", file=sys.stderr)
-    db = sqlite3.connect("../sqlite/toxic-repos.sqlite3")
+    db = sqlite3.connect(DATABASE_PATH)
     c = db.cursor()
     c.execute(TABLE_CREATION_QUERY)
     for one_txc in toxics_array:
