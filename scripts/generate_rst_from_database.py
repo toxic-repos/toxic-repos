@@ -15,7 +15,7 @@ OUT_FILE_PATH = Path("toxic-repos.rst")
 
 @dataclass
 class DataModel():
-    data: str
+    datetime: str
     name: str
     commit_link: str
     description: str
@@ -27,10 +27,10 @@ def main() -> None:
 
     data: t.Dict[str, t.List[DataModel]] = defaultdict(list)
 
-    for row in cursor.execute("SELECT * FROM repos ORDER BY problemtype"):
+    for row in cursor.execute("SELECT * FROM repos ORDER BY problem_type"):
         data[row[2]].append(
             DataModel(
-                data=row[1],
+                datetime=row[1],
                 name=row[3],
                 commit_link=row[4],
                 description=row[5],
@@ -57,7 +57,7 @@ def main() -> None:
             result.add_header3(data_model.name)
             result.add_indents(1)
             result.add_text(
-                f"{data_model.data} | "
+                f"{data_model.datetime} | "
                 f"`Commit <{data_model.commit_link}>`__"
             )
             result.add_indents(2)

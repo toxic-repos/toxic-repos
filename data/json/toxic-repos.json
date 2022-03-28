@@ -1,1591 +1,1591 @@
 [
-  {
-    "datetime": "18.03.2022 18:23",
-    "problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c",
-    "productname": "Kinoko",
-    "url": "https://f-droid.org/en/packages/com.ero.kinoko/",
-    "comment": "\u041f\u043e\u0441\u043b\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430\u043f\u0440\u043e\u0447\u044c \u0443\u0431\u0438\u043b \u0442\u0435\u043b\u0435\u0444\u043e\u043d. \u041f\u043e\u043a\u0430 \u0435\u0434\u0438\u043d\u0438\u0447\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439."
-  },
-  {
-    "datetime": "18.03.2022 11:04",
-    "problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c",
-    "productname": "Onefetch",
-    "url": "https://github.com/o2sh/onefetch",
-    "comment": "\u041f\u0440\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043f\u043e\u0434\u043c\u0435\u043d\u044f\u0435\u0442 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443 libgcc_s.so.1, \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0435\u0442 \u043e\u0442\u0432\u0435\u0447\u0430\u0442\u044c \u0438 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0432\u044b\u0434\u0430\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u0443 kernel panic. \u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \u043d\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430. \u0412\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u0445 \u043a\u043e\u043c\u043c\u0438\u0442\u043e\u0432 \u043d\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043e."
-  },
-  {
-    "datetime": "18.03.2022 10:46",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "https://github.com/Yaffle/EventSource",
-    "url": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
-    "comment": "https://github.com/Yaffle/EventSource/issues/199"
-  },
-  {
-    "datetime": "17.03.2022 15:19",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "RedisDesktopManager",
-    "url": "https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22",
-    "comment": "\u043a\u0430\u043a \u0431\u044b \u0447\u0435\u0433\u043e \u0435\u0449\u0435 \u0442\u0443\u0434\u0430 \u043d\u0435 \u0437\u0430\u043b\u043e\u0436\u0438\u043b\u0438 \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e"
-  },
-  {
-    "datetime": "17.03.2022 14:00",
-    "problemtype": "\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0441\u0431\u043e\u0440\u043a\u0430",
-    "productname": "https://packagist.org/packages/fomvasss/laravel-dadata",
-    "url": "https://github.com/fomvasss/laravel-dadata",
-    "comment": "\u0423\u0434\u0430\u043b\u0435\u043d \u0441 github"
-  },
-  {
-    "datetime": "17.03.2022 13:33",
-    "problemtype": "\u0411\u044d\u043a\u0434\u043e\u0440",
-    "productname": "WordPress \u043f\u043b\u0430\u0433\u0438\u043d Mistape",
-    "url": "https://wordpress.org/plugins/mistape/",
-    "comment": "\u0427\u0435\u0440\u0435\u0437 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c \u0432 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u043c \u043f\u043b\u0430\u0433\u0438\u043d\u0435 Mistape \u0437\u043b\u043e\u0443\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0438\u043a \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0440\u0430\u0437\u0434\u0435\u043b\u0430\u043c \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430, \u0437\u0430\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u043b\u0430\u0433\u0438\u043d UnderConstruction, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0441\u0430\u0439\u0442\u0430 \u0432\u044b\u0432\u043e\u0434\u0438\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e. \u041e\u0431\u044b\u0447\u043d\u043e \u044d\u0442\u043e \u0432\u0438\u0434\u0436\u0435\u0442 \u043d\u0430 \u0442\u0435\u043c\u0443 \u0442\u0435\u043a\u0443\u0449\u0438\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435. \u0410\u0432\u0442\u043e\u0440 \u043f\u043b\u0430\u0433\u0438\u043d\u0430 24 \u0444\u0435\u0432\u0440\u0430\u043b\u044f \u0432\u043d\u0451\u0441 \u0432 \u043d\u0435\u0433\u043e \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f. \u0414\u043e\u0436\u0434\u0430\u043b\u0441\u044f, \u043f\u043e\u043a\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0440\u0430\u0437\u043e\u0439\u0434\u0451\u0442\u0441\u044f \u043f\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c \u0438 \u043d\u0430\u0447\u0430\u043b \u0447\u0435\u0440\u0435\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u043d\u0435\u0439 \u044d\u043a\u0441\u043f\u043b\u0443\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u043d\u0435\u0441\u0451\u043d\u043d\u0443\u044e \u0442\u0443\u0434\u0430 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c."
-  },
-  {
-    "datetime": "17.03.2022 13:29",
-    "problemtype": "\u0411\u044d\u043a\u0434\u043e\u0440",
-    "productname": "\u0413\u043b\u044f\u043d\u0435\u0446",
-    "url": "https://drupal.ru/glyanec-scam",
-    "comment": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u00ab\u0413\u043b\u044f\u043d\u0435\u0446\u00bb \u0432\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442 \u043d\u0430 \u0441\u0430\u0439\u0442\u044b \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432 \u0432\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u044b\u0439 \u043a\u043e\u0434 \u0434\u043b\u044f \u043e\u0431\u0445\u043e\u0434\u0430 \u0437\u0430\u0449\u0438\u0442\u044b \u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u043e\u043b\u043d\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0441\u0430\u0439\u0442\u0430\u043c. \u041e\u043d\u0438 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u044d\u0442\u043e \u00ab\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u043c \u0432\u0445\u043e\u0434\u043e\u043c\u00bb. 26 \u0444\u0435\u0432\u0440\u0430\u043b\u044f \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u00ab\u0413\u043b\u044f\u043d\u0435\u0446\u00bb \u0417\u0430\u0438\u043a\u0430 \u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0432 \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u043e\u043c \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c-\u0447\u0430\u0442\u0435 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0441\u0430\u0439\u0442\u044b, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0435 \u0432 \u0435\u0433\u043e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0431\u0443\u0434\u0443\u0442 \u00ab\u0432\u0437\u043b\u043e\u043c\u0430\u043d\u044b\u00bb."
-  },
-  {
-    "datetime": "17.03.2022 12:56",
-    "problemtype": "\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0441\u0431\u043e\u0440\u043a\u0430",
-    "productname": "yandex-php-library",
-    "url": "https://github.com/nixsolutions/yandex-php-library/blob/master/README.md",
-    "comment": "\u0417\u0430\u043c\u0435\u0442\u0438\u043b \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0441 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u043e\u0439 \u0434\u043d\u0435\u0439 10 \u043d\u0430\u0437\u0430\u0434"
-  },
-  {
-    "datetime": "17.03.2022 12:56",
-    "problemtype": "\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0441\u0431\u043e\u0440\u043a\u0430",
-    "productname": "Un-Official Yandex-XML PHP library",
-    "url": "https://packagist.org/packages/anton-shevchuk/yandex-xml-library",
-    "comment": "\u0412 packagist \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0430 \u0432\u0435\u0440\u0441\u0438\u044f \u043f\u0430\u043a\u0435\u0442\u0430 \u0441 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u043c, \u0430 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u044b \u0438\u0437 \u0433\u0438\u0442\u0445\u0430\u0431\u0430. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 - \u043f\u043e\u043b\u043e\u043c\u0430\u043d\u0430\u044f \u0441\u0431\u043e\u0440\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430"
-  },
-  {
-    "datetime": "17.03.2022 8:16",
-    "problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c",
-    "productname": "node-ipc",
-    "url": "https://github.com/RIAEvangelist/node-ipc/issues/233",
-    "comment": "https://github.com/RIAEvangelist/node-ipc/issues/233 \u0412 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443 node-ipc \u0434\u043e\u0431\u0430\u0432\u0438\u043b\u0438 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a \u0434\u043b\u044f ip \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u0438 https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js\t \u041e\u043d\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u0432\u0441\u044e \u0444\u0441 \u0437\u0430\u043a\u0438\u0434\u044b\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u0434\u0435\u0447\u043a\u0430\u043c\u0438, \u0435\u0441\u043b\u0438 \u0442\u044b \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438. \u041f\u0440\u0438\u0447\u0435\u043c \u0432\u0440\u0443\u0447\u043d\u0443\u044e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0438 25% \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0438 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0442\u0430\u0439\u043c\u0430\u0443\u0442\u0430, \u0447\u0442\u043e\u0431\u044b \u044d\u0442\u0430 \u0448\u0442\u0443\u043a\u0430 \u0431\u044b\u043b\u0430 \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u043e\u0445\u043e\u0436\u0435 \u043d\u0430 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0438\u0439 \u0431\u0430\u0433, \u0447\u0435\u043c \u043d\u0430 \u0447\u0442\u043e-\u0442\u043e \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u043d\u043e\u0435. https://github.com/RIAEvangelist/node-ipc/commit/1220522453a0388cb4af1a74fe9a0482b6b3a9f3\t\u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0441\u0435\u0440\u0447 \u0430\u0432\u0442\u043e\u0440\u0430 \u0441\u0430\u043c\u043e\u0433\u043e \u043f\u0435\u0440\u0432\u043e\u0433\u043e issue, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043a\u043e\u0434\u0430. \u0421\u0435\u0439\u0447\u0430\u0441 \u0435\u0433\u043e issue \u043f\u043e\u0442\u0451\u0440 \u0430\u0432\u0442\u043e\u0440 node-ipc, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043f\u0435\u0440\u0435\u0435\u0445\u0430\u043b \u0432 gist: https://gist.github.com/MidSpike/f7ae3457420af78a54b38a31cc0c809c \u041f\u043e \u0441\u0441\u044b\u043b\u043a\u0435 \u0435\u0441\u0442\u044c \u0442\u0430\u0439\u043c\u043b\u0430\u0439\u043d \u0441\u043e\u0431\u044b\u0442\u0438\u044f, \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043c\u0435\u0440\u044b \u043c\u0438\u043d\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0443\u0449\u0435\u0440\u0431\u0430. \u041f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c \u043e\u0442\u043a\u0430\u0442\u0438\u043b\u0438 https://github.com/arendst/Tasmota/commit/ba32044bb25b820a104428585bf4c91c4e927f88\u00a0,\u00a0https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320"
-  },
-  {
-    "datetime": "17.03.2022 2:02",
-    "problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c",
-    "productname": "https://github.com/RIAEvangelist/peacenotwar",
-    "url": "https://github.com/RIAEvangelist/peacenotwar",
-    "comment": "\u0421\u0430\u043c\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0443\u0434\u0430\u043b\u044f\u044e\u0449\u0430\u044f \u0444\u0430\u0439\u043b\u043e\u0432\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043f\u043e IP \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u0438"
-  },
-  {
-    "datetime": "16.03.2022 18:10",
-    "problemtype": "\u041c\u0430\u043b\u0432\u0430\u0440\u044c",
-    "productname": "es5-ext",
-    "url": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2",
-    "comment": "\u041a\u043e\u043b\u043b\u0435\u0433\u0438, \u043e\u0431\u0440\u0430\u0449\u0430\u0435\u043c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 https://www.npmjs.com/package/es5-ext \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u043b\u0430\u0441\u044c \u0434\u043e \u044d\u0442\u043e\u0433\u043e 2 \u0433\u043e\u0434\u0430 \u043d\u0430\u0447\u0430\u043b\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u043a\u0430\u043a \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0443\u044e \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0443, \u0442\u0430\u043a \u0438 \u043a\u043e\u0434 \u043f\u043e \u0442\u0430\u0439\u043c\u0437\u043e\u043d\u0435 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0443\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044e \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0444\u0430\u0439\u043b - _postinstall.js"
-  },
-  {
-    "datetime": "22.03.2022 20:41",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "pgcli",
-    "url": "https://github.com/dbcli/pgcli/commit/6884c298e6845a4d870ac815a1ed269063fe3ddc",
-    "comment": "#StandWithUkraine"
-  },
-  {
-    "datetime": "22.03.2022 19:42",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Security-Code-Scan",
-    "url": "https://github.com/security-code-scan/security-code-scan/releases/tag/5.6.2",
-    "comment": "I'm the author. :)"
-  },
-  {
-    "datetime": "22.03.2022 19:26",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PHPUnit",
-    "url": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
-    "comment": "#StandWithUkraine"
-  },
-  {
-    "datetime": "22.03.2022 19:16",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PHPUnit 9.5.19",
-    "url": "https://packagist.org/packages/phpunit/phpunit",
-    "comment": "PHPUnit 9.5.19 #StandWithUkraine"
-  },
-  {
-    "datetime": "22.03.2022 16:44",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://piccy.info/",
-    "url": "https://piccy.info/",
-    "comment": "\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \"\"\"\u0421\u0430\u0439\u0442 \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e\" \u0420\u043e\u0441\u0441\u0438\u044f \u043d\u0430\u043f\u0430\u043b\u0430 \u043d\u0430 \u043d\u0430\u0441 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0442\u044c \"\u043c\u0438\u0440\u043d\u043e\u0435 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435\"\"\""
-  },
-  {
-    "datetime": "22.03.2022 15:56",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "UpdatePack7R2",
-    "url": "https://blog.simplix.info/",
-    "comment": "\"\u041d\u0435\u0442 \u043f\u0443\u0448\u0430. \u0412 \u0441\u0431\u043e\u0440\u043a\u0435 \u043e\u0442 11.03 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0441 \u0437\u0430\u0434\u0430\u043d\u043d\u044b\u043c\u0438 TZ \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438\u043b\u0438 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438 \u0432\u044b\u0431\u0438\u0432\u0430\u0435\u0442 \u043e\u043a\u043d\u043e \"\"\u0432\u0430\u0448\u0430 \u0441\u0442\u0440\u0430\u043d\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043e\u0439\u043d\u0443...\"\" \u0438 \u0440\u0430\u0431\u043e\u0442\u0430 \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442\u0441\u044f.\""
-  },
-  {
-    "datetime": "22.03.2022 15:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "WebdriverIO",
-    "url": "https://github.com/webdriverio/webdriverio/commit/efd781a7ba432bae7720de03704f6a12409da978",
-    "comment": "StandWithUkraine banner in \u0432 README.md"
-  },
-  {
-    "datetime": "22.03.2022 15:04",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Instant Games Bridge",
-    "url": "https://github.com/mewtongames/instant-games-bridge",
-    "comment": "\u0412\u043c\u0435\u0441\u0442\u043e \u0431\u0430\u043d\u043d\u0435\u0440\u043e\u0432 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u043a \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438"
-  },
-  {
-    "datetime": "22.03.2022 14:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "VK Blue - \u043f\u043b\u0430\u0433\u0438\u043d Google Chrome",
-    "url": "https://chrome.google.com/webstore/detail/vk-blue-%D1%8D%D0%BA%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%B8-%D1%81%D0%BA%D1%80%D0%BE/pckkddchhdhkfapanbkcalloijbbjhbd",
-    "comment": "\u041f\u043b\u0430\u0433\u0438\u043d \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043b\u0443\u0448\u0438\u0432\u0430\u043d\u0438\u044f \u043c\u0443\u0437\u044b\u043a\u0438 \u0412\u041a. \u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u044d\u0442\u043e: https://ibb.co/P91dP36"
-  },
-  {
-    "datetime": "22.03.2022 12:47",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Yad",
-    "url": "https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a",
-    "comment": "\"\u0412\u044b\u0440\u0435\u0437\u0430\u043d\u0438\u0435 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \"\"DROP K HUJAM russian translation\"\" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); \u0410\u0432\u0442\u043e\u0440 - \u0423\u043a\u0440\u0430\u0438\u043d\u0435\u0446, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0435\u0437\u0435\u0440\u0432\u0435 \u0441\u0438\u043b \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043e\u0431\u043e\u0440\u043e\u043d\u044b (https://github.com/v1cont/yad/issues/107#issuecomment-1062908246), \"\"\u0426\u0435\u043b\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u0432\u044b\u043f\u0443\u0441\u043a\u0430 \u0431\u044b\u043b\u0438 \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0438 \u044d\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438, \u0430 \u043d\u0435 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438. \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0431\u044b\u043b\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430 \u0438\u0437 yad.\"\"\""
-  },
-  {
-    "datetime": "22.03.2022 6:14",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Svelte (https://svelte.dev/) \u0438 Svelte-Kit (https://kit.svelte.dev/)",
-    "url": "-",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "22.03.2022 1:56",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "outdatedregime/change",
-    "url": "https://github.com/outdatedregime/change/commit/f22e7f90a5bb8fe2b8f0001d9774fe495084d234",
-    "comment": "Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
-  },
-  {
-    "datetime": "22.03.2022 1:53",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "in-solidarity-with-ukraine",
-    "url": "https://github.com/core-hacked/in-solidarity-with-ukraine/commit/60af44e10440e5fed49aea4e80d84530e46c6ab8",
-    "comment": "\"A simple repository with HTML/CSS Ukraine flag and \"\"stop war\"\" text on it.\""
-  },
-  {
-    "datetime": "22.03.2022 1:51",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "ukrfetch",
-    "url": "https://github.com/ukrfetch/ukrfetch/commit/362853d86a64d093c5ddb8d11d8d06ec69cd7c7c",
-    "comment": "Simple fetch tool to show Solidarity with Ukraine"
-  },
-  {
-    "datetime": "22.03.2022 1:42",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Russia-Blocker",
-    "url": "https://github.com/Riceblade/Russia-Blocker/commit/ec9b3cd026f28f592c1cf3620da799e6f4f914ec",
-    "comment": "Automatically redirects Russian connections to ukrainian charities"
-  },
-  {
-    "datetime": "22.03.2022 1:36",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "hands-off-ukraine-banner",
-    "url": "https://github.com/filipe-freire/hands-off-ukraine-banner/commit/5a1fa52f04022971fdcc738d4b1d58c9371c1769",
-    "comment": "This banner includes easy access links to support Ukraine against the deliberate military invasion of Russia. It was built as a Web Component to facilitate its integration between all the frontend library/frameworks used."
-  },
-  {
-    "datetime": "22.03.2022 1:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "embargoed-list",
-    "url": "https://github.com/rameerez/embargoed-list/blob/main/README.md",
-    "comment": "List of all language-specific versions of embargoed, software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
-  },
-  {
-    "datetime": "22.03.2022 1:27",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "hejny/Ukraine",
-    "url": "https://github.com/hejny/Ukraine/commit/e74a5de837d6ed0e2e11e174f4319a5ededc7c28",
-    "comment": "Add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service."
-  },
-  {
-    "datetime": "22.03.2022 1:24",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "RussianBlocker Public",
-    "url": "https://github.com/OB42/RussianBlocker/commit/10e0ab31f0e0f8372fb24d32544e7e4867d3f688",
-    "comment": "Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend, should work 9 times out of 10, except for a few russians near the border)"
-  },
-  {
-    "datetime": "22.03.2022 1:13",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PutinWantedPoster",
-    "url": "https://github.com/snippetboy/PutinWantedPoster/commit/fbafce5e49d22c660d9da78919f035b812cced13",
-    "comment": "Putin Wanted Poster"
-  },
-  {
-    "datetime": "22.03.2022 1:10",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "express-putin",
-    "url": "https://github.com/limesquid/express-putin/commit/b3eb6eae757d74d1a8241bc5dd6773dae6920fb2",
-    "comment": "Node.js Express middleware to reject requests from all Russian IPs."
-  },
-  {
-    "datetime": "22.03.2022 0:57",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "yandex-conqueror",
-    "url": "https://github.com/piotrmaslanka/yandex-conqueror/commit/a2f5d01f9a367b22dbafbcb2a9643cb73d2365a1",
-    "comment": "A tool to inform the general Russian population about what's going on in year 2022 on Ukraine via posting 5-star reviews to Yandex."
-  },
-  {
-    "datetime": "22.03.2022 0:47",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "stopwarstopputin Wordpress plugin",
-    "url": "https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/6e75e015fc17186b6e1a0592f02189d5b991805a",
-    "comment": "The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war."
-  },
-  {
-    "datetime": "21.03.2022 16:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "voku/portable-ascii",
-    "url": "https://github.com/voku/portable-ascii/commit/377ab19df364e512cb6e49b8c7d026f5b550ac92",
-    "comment": "\u0412\u0441\u0435 \u043f\u0430\u043a\u0435\u0442\u044b \u0432 packagist \u043e\u0442 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f voku: https://packagist.org/packages/voku/ \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e \u0443 \u044d\u0442\u043e\u0433\u043e \u0431\u043e\u043b\u0435\u0435 66 \u043c\u043b\u043d. \u0438\u043d\u0441\u0442\u0430\u043b\u043b\u044f\u0446\u0438\u0439"
-  },
-  {
-    "datetime": "21.03.2022 15:28",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "event-source-polyfill",
-    "url": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
-    "comment": "javascript \u043b\u0438\u0431\u0430. \u041d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u0432\u0435\u0440\u0441\u0438\u0438 1.0.26 \u0432\u044b\u0432\u043e\u0434\u0438\u0442 alert() \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435."
-  },
-  {
-    "datetime": "21.03.2022 14:36",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://leafletjs.com/",
-    "url": "https://leafletjs.com/",
-    "comment": "\u041d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u043a\u0438 leafletjs \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043b\u043e\u0437\u0443\u043d\u0433"
-  },
-  {
-    "datetime": "21.03.2022 13:14",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PHPMailer",
-    "url": "https://github.com/PHPMailer/PHPMailer",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 README."
-  },
-  {
-    "datetime": "21.03.2022 12:33",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Appsberry (websa)",
-    "url": "https://websa.advancedhosting.com/StandWithUkraine",
-    "comment": "\u043e\u0431\u043b\u0430\u0447\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433"
-  },
-  {
-    "datetime": "21.03.2022 12:28",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Refactoring.Guru",
-    "url": "https://refactoring.guru/ru/help-ukraine",
-    "comment": "\u041f\u0440\u0438\u0437\u044b\u0432\u044b \u0441\u043f\u043e\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0445 \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u0438 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432, \u0433\u0443\u043c\u0430\u043d\u0438\u0442\u0430\u0440\u043d\u044b\u0435 \u0431\u043b\u0430\u0433\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438."
-  },
-  {
-    "datetime": "21.03.2022 8:59",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Notepad++",
-    "url": "https://notepad-plus-plus.org/news/v833-make-apps-not-war/",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435. \u0415\u0441\u0442\u044c \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u0435 \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u043c\u043e\u0433\u0443\u0442 \u0438\u0445 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c."
-  },
-  {
-    "datetime": "21.03.2022 6:49",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Isomorphic Authorization JavaScript library",
-    "url": "https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2",
-    "comment": "\"\u041f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u0430\u043d\u043d\u0435\u0440 \"\"Stop war in Ukraine. All truth about Russia invasion\"\"\""
-  },
-  {
-    "datetime": "21.03.2022 2:13",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Random User-Agent",
-    "url": "https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90",
-    "comment": "\u0442\u0430\u043a \u0442\u043e \u0432\u0440\u043e\u0434\u0435 \u043d\u0438\u0447\u0435\u0433\u043e \u0441\u0435\u0440\u044c\u0451\u0437\u043d\u043e\u0433\u043e. \u043f\u0435\u0440\u0435\u043a\u0440\u0430\u0441\u0438\u043b\u0438 \u043b\u043e\u0433\u043e \u0432 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u0430."
-  },
-  {
-    "datetime": "20.03.2022 21:20",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "The unarchiver (macOS App Store)",
-    "url": "https://imgur.com/a/q5DGKxG",
-    "comment": "\u0415\u0441\u043b\u0438 \u043d\u0435 \u043d\u0430\u0436\u0430\u0442\u044c \u043a\u043d\u043e\u043f\u043a\u0443, \u0442\u043e \u0440\u0430\u0437\u0430\u0440\u0445\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0435 \u0431\u0443\u0434\u0435\u0442, \u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0437. \u041f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u043d\u0435 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u0435\u0442"
-  },
-  {
-    "datetime": "20.03.2022 20:02",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://www.ratatype.ru/",
-    "url": "https://www.ratatype.ru/",
-    "comment": "https://www.ratatype.ru/"
-  },
-  {
-    "datetime": "20.03.2022 18:34",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "FreePBX",
-    "url": "\u041e\u0422\u0421\u0423\u0422\u0421\u0422\u0412\u0423\u0415\u0422",
-    "comment": "\u041f\u0440\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0438 \u043a\u0430\u0436\u0434\u0443\u044e 5 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u0432\u044b\u0434\u0430\u0435\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0441 \u043f\u0440\u0438\u0437\u044b\u0432\u043e\u043c \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0420\u0424"
-  },
-  {
-    "datetime": "20.03.2022 15:00",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Diptrace",
-    "url": "\u0427\u0442\u043e \u0437\u0430 \u0436\u0430\u0440\u0433\u043e\u043d? \u041f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043b\u043e\u0432\u0430, \u0447\u0442\u043e \u0437\u0430 \u0433\u043e\u043f\u043d\u0438\u0446\u043a\u043e\u0435 \u0431\u044b\u0434\u043b\u043e?",
-    "comment": "\"\u041f\u043e\u0441\u043b\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \"\"\u043f\u0443\u0448\u0430 \u0432 \u0440\u0435\u043f\u0435\"\" \u043d\u0438\u043a\u0430\u043a\u043e\u0433\u043e \u0436\u0435\u043b\u0430\u043d\u0438\u044f \u0447\u0442\u043e -\u043b\u0438\u0431\u043e \u0434\u0430\u043b\u044c\u0448\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u043d\u0435\u0442, \u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f \u0441 \u0442\u0443\u043f\u043e\u0439 \u0448\u043a\u043e\u043b\u043e\u0442\u043e\u0439 - \u043d\u0443 \u043d\u0430\u0444\u0438\u0433.\""
-  },
-  {
-    "datetime": "20.03.2022 8:48",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "yaml-front-matter",
-    "url": "https://github.com/spatie/yaml-front-matter/commit/a5a8443f7d9bfc5c337cf41c92347b6d677d23bb",
-    "comment": "https://github.com/spatie/yaml-front-matter - \u0431\u0430\u043d\u043d\u0435\u0440 \u0432 README.md"
-  },
-  {
-    "datetime": "20.03.2022 0:59",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "LeafletJs",
-    "url": "https://leafletjs.com/",
-    "comment": "\"\u041d\u0430 \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u043b\u0438\u0442-\u043b\u043e\u0437\u0443\u043d\u0433\u0438, \u0441 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c \"\"\u0441\u0435\u043c\u0435\u043d\u0430 \u0432 \u043a\u043e\u0440\u043c\u0430\u043d\"\" \u0435\u0441\u043b\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0448\u044c \u0420\u0424. \u0422\u0430\u043a\u0436\u0435 \u043a\u043e \u0432\u0441\u0435\u043c \u0441\u0441\u044b\u043b\u043a\u0430\u043c \u0432 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0434\u043e\u0431\u0430\u0432\u0438\u043b\u0438 \u043b\u043e\u0437\u0443\u043d\u0433 \"\"SlavaUkraini\"\", \u043f\u0440\u0438\u043c\u0435\u0440: https://leafletjs.com/SlavaUkraini/reference.html\""
-  },
-  {
-    "datetime": "19.03.2022 23:44",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "SergeyOcheretenko/StopWarBot",
-    "url": "https://github.com/SergeyOcheretenko/StopWarBot/commit/152d9a0f06625475d913633452c41779a1f9f25b",
-    "comment": "\u0411\u043e\u0442 \u0434\u043b\u044f \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0438 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0441\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u043f\u0430\u043c\u0430"
-  },
-  {
-    "datetime": "19.03.2022 23:38",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "goddessmokosh/stop-war-in-ukraine",
-    "url": "https://github.com/goddessmokosh/stop-war-in-ukraine/commit/171191737d289608cc55f7c4324c74fce233821a",
-    "comment": "\u041f\u043b\u0430\u0433\u0438\u043d \u0434\u043b\u044f wordpress \u0434\u043b\u044f \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0431\u0430\u043d\u043d\u0435\u0440\u043e\u0432 \u0438 \u0441\u0431\u043e\u0440\u0430 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043d\u0430 \u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0431\u043e\u0435\u0432\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
-  },
-  {
-    "datetime": "19.03.2022 23:34",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "stopwarstopputin/swsp-wordpress-plugin",
-    "url": "https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/f26bd25ec52c366df977848677607ff889b51780",
-    "comment": "\u041f\u043b\u0430\u0433\u0438\u043d \u0434\u043b\u044f wordpress \u0438\u0442\u0435\u0433\u0440\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0441\u0442\u0441\u043a\u0438\u0435 \u0431\u0430\u043d\u043d\u0435\u0440\u044b"
-  },
-  {
-    "datetime": "19.03.2022 23:15",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni",
-    "url": "https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55",
-    "comment": "\u0420\u0435\u0441\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u0430 \u0440\u0430\u0437\u0432\u0435\u0434\u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0438 - \u0433\u0435\u043e\u043b\u043e\u043a\u0430\u0446\u0438\u044f, \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432, \u0438 \u0442.\u043f."
-  },
-  {
-    "datetime": "19.03.2022 23:06",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "daocentral/ukraine",
-    "url": "https://github.com/daocentral/ukraine/commit/ffc07ebc67c244c59acd4d01193c428f8a5e756c",
-    "comment": "\u0420\u0435\u0441\u0443\u0440\u0441\u044b \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430\u0446\u0435\u043b\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 \u0441\u0431\u043e\u0440 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0434\u043b\u044f \u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0431\u043e\u0435\u0432\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439"
-  },
-  {
-    "datetime": "19.03.2022 22:38",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "petrussola/help-ukraine-open-source",
-    "url": "https://github.com/petrussola/help-ukraine-open-source/commit/676bfac5ed77ccb6b6a8a731353ed6239a57d45f",
-    "comment": "\u0421\u043f\u0438\u0441\u043e\u043a \u043e\u043f\u0435\u043d\u0441\u043e\u0440\u0441 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0445 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u0430 \u0434\u0430\u043d\u043d\u044b\u0445, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u0438 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u044b"
-  },
-  {
-    "datetime": "19.03.2022 22:34",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "hattifn4ttar/youtube_supportfreemedia",
-    "url": "https://github.com/hattifn4ttar/youtube_supportfreemedia/commit/99ae3284665adc24fc393e9537bf74222517a4a8",
-    "comment": "\u041f\u041e \u0434\u043b\u044f \u043d\u0430\u043a\u0440\u0443\u0442\u043a\u0438 \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u043e\u0432 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0441\u0442\u0441\u043a\u0438\u0445 youtube \u0440\u043e\u043b\u0438\u043a\u043e\u0432"
-  },
-  {
-    "datetime": "19.03.2022 22:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "artshishkin / swarm-digital-ocean",
-    "url": "https://github.com/artshishkin/swarm-digital-ocean/commit/6d718f17f41011f7d710deb8963fee63e39e4afa",
-    "comment": "\u041f\u041e \u0434\u043b\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0435 \u043d\u0430 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u044b\u0435 \u0440\u0435\u0441\u0443\u0440\u0441\u044b \u0432 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:29",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English",
-    "url": "https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab",
-    "comment": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0434\u043b\u044f \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438 \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a \u043d\u0430 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0420\u0424, \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0435 \u041f\u041e \u0434\u043b\u044f \u0430\u0442\u0430\u043a, \u0446\u0435\u043b\u0438 \u0438 \u0430\u0434\u0440\u0435\u0441\u0430 \u0433\u0440\u0443\u043f\u043f \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u0445 \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0435 \u0430\u0442\u0430\u043a\u0438"
-  },
-  {
-    "datetime": "19.03.2022 22:27",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "gianpaj / walnut.tv",
-    "url": "https://github.com/gianpaj/walnut.tv/commit/b29d08c048a1020526a8212c9cd20665c4fba980",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u0432 \u041f\u041e"
-  },
-  {
-    "datetime": "19.03.2022 22:26",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "a2435191/ukraine-war-map-twitter-bot",
-    "url": "https://github.com/a2435191/ukraine-war-map-twitter-bot/commit/7c8c5fcd1478f5dcf61f76cc754c34e6de2682e1",
-    "comment": "\u0411\u043e\u0442 \u0434\u043b\u044f \u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u044b \u0432 \u0442\u0432\u0438\u0442\u0442\u0435\u0440\u0435"
-  },
-  {
-    "datetime": "19.03.2022 22:24",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "helpmap/helpmap.io",
-    "url": "https://github.com/helpmap/helpmap.io/commit/a4864227f59d42c216448f82c08d834af2f8eba6",
-    "comment": "\u0424\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a \u0434\u043b\u044f \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432"
-  },
-  {
-    "datetime": "19.03.2022 22:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "VSBalanchuk/AAInUkraine",
-    "url": "https://github.com/VSBalanchuk/AAInUkraine/commit/f400a1b04bcd0055c99aebebe07b165ae5fa5270",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0435\u0431-\u0440\u0435\u0441\u0443\u0440\u0441\u0430\u0445"
-  },
-  {
-    "datetime": "19.03.2022 22:01",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "alexshapalov/Support-Ukraine",
-    "url": "https://github.com/alexshapalov/Support-Ukraine/commit/a5b48de9a8f6e9b36d8519acba803f67693e5125",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0434\u043b\u044f \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0435\u0431-\u0440\u0435\u0441\u0443\u0440\u0441\u0430\u0445"
-  },
-  {
-    "datetime": "19.03.2022 21:58",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "KobaltDigital / goods4ukraine.eu (Laravel)",
-    "url": "https://github.com/KobaltDigital/goods4ukraine.eu/commit/2dfda21ef8f0d18a4afce9c886367c4f8aabc543",
-    "comment": "\u0412\u0435\u0431-\u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a, \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u043e \u0432 \u043b\u043e\u0437\u0443\u043d\u0433"
-  },
-  {
-    "datetime": "19.03.2022 21:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "vshymanskyy/StandWithUkraine",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine/commit/7c25c6ce0ca2e2956ca710180b095aa9a9dfc355",
-    "comment": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u0434\u043b\u044f \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f \u0431\u0430\u043d\u043d\u0435\u0440\u043e\u0432 \u0432 \u041f\u041e/\u0412\u0435\u0431 \u0440\u0435\u0441\u0443\u0440\u0441\u044b"
-  },
-  {
-    "datetime": "19.03.2022 21:27",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/evermade/support-ukraine-banner",
-    "url": "https://github.com/evermade/support-ukraine-banner",
-    "comment": "\u0421\u043e\u0444\u0442 \u0434\u043b\u044f \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0431\u0430\u043d\u043d\u0435\u0440\u043e\u0432"
-  },
-  {
-    "datetime": "19.03.2022 21:26",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/brzuchal/stop-the-war",
-    "url": "https://github.com/evermade/support-ukraine-banner/commit/38d2bd5cd898452576de53055f48aa82d235b63e",
-    "comment": "PHP_CodeSniffer rule adding non-collapsable comment calling out to Stop The War"
-  },
-  {
-    "datetime": "19.03.2022 21:23",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "rete ete.js Build Status Quality Gate Status Join the chat at https://gitter.im/retejs/Lobby JavaScript framework for visual programming",
-    "url": "https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def",
-    "comment": "#StandWithUkraine postinstall message"
-  },
-  {
-    "datetime": "19.03.2022 21:20",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Synergy",
-    "url": "https://github.com/symless/synergy-core/commit/c542c57b5ef6ee0640a5a68ecb40a2997a68bedb",
-    "comment": "\u0431\u0430\u043d\u043d\u0435\u0440, \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442 \u0441 ip \u0430\u0434\u0440\u0435\u0441\u043e\u0432 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 20:09",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Rust",
-    "url": "https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html",
-    "comment": "\u0412 \u043d\u0430\u0447\u0430\u043b\u0435 \u0430\u043d\u043e\u043d\u0441\u0430 \u0440\u0435\u043b\u0438\u0437\u0430 1.59.0 \u0430\u0431\u0437\u0430\u0446: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release, we'd like to state that we stand in solidarity with the people of Ukraine and express our support for all people affected by this conflict."
-  },
-  {
-    "datetime": "19.03.2022 13:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Winbox snap install",
-    "url": "https://github.com/panaceya/winbox",
-    "comment": "\u041f\u0430\u043a\u0435\u0442 \u0441 Winbox \u0434\u043b\u044f Linux \u0441\u0438\u0441\u0442\u0435\u043c. \u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430."
-  },
-  {
-    "datetime": "19.03.2022 10:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "-",
-    "url": "https://github.com/ukraine-not-war/stop-war",
-    "comment": "-"
-  },
-  {
-    "datetime": "19.03.2022 3:08",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Mate Translate",
-    "url": "https://addons.mozilla.org/ru/firefox/addon/instant-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search",
-    "comment": "\u041f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u0432 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u0432\u0435\u0440\u0441\u0438\u0438 10.1.13"
-  },
-  {
-    "datetime": "19.03.2022 3:07",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Winbox \u0438\u0437 SANP Linux",
-    "url": "https://snapcraft.io/winbox",
-    "comment": "\u041f\u0430\u043a\u0435\u0442 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \u0438\u0437 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 SNAP. \u041f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u0432 \u0432\u0435\u0440\u0441\u0438\u0438 3.35 \u043f\u0440\u0438 \u0437\u0430\u043f\u0443\u0441\u043a\u0435."
-  },
-  {
-    "datetime": "19.03.2022 1:09",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "VyOS",
-    "url": "https://blog.vyos.io/global-security-issue-with-russian-federation-invasion-into-ukraine",
-    "comment": "\u0412 \u0441\u0430\u043c\u043e\u043c \u043a\u043e\u0434\u0435 \u043f\u043e\u043a\u0430(?) \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0437\u0430\u043c\u0435\u0447\u0435\u043d\u043e, \u0430\u0432\u0442\u043e\u0440 \u044d\u0442\u043e\u0439 \u0437\u0430\u043f\u0438\u0441\u0438 \u043a\u043e\u043c\u0438\u0442\u0438\u043b \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437 \u0432 2018 \u0433\u043e\u0434\u0443 \u0432 \u0438\u0445 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439, \u043d\u043e \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u0442\u0435\u043a\u0441\u0442\u0430 \u0432 \u043a\u043e\u043d\u0446\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0438 \u043e\u0431\u0449\u0435\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0430 \u0432\u0441\u0435\u0433\u043e \u043f\u043e\u0441\u0442\u0430, \u043d\u0430\u0434\u043e \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c \u043f\u0440\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0438. \u0422\u0430\u043a \u0436\u0435, \u043d\u0438\u0436\u0435 \u0432 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u0445, \u0435\u0441\u0442\u044c \u043f\u0430\u0440\u0443 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439 \u043e\u0442 \u043b\u044e\u0434\u0435\u0439 \u0438\u0437 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0442\u0440\u0430\u043d, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0440\u0435\u0448\u0438\u043b\u0438 \u043e\u0442\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0438\u0437-\u0437\u0430 \u043e\u043f\u0430\u0441\u0435\u043d\u0438\u044f \u0432\u0440\u0435\u0434\u0430 \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c. \u041c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u0434\u0435\u043b \u0434\u043b\u044f \u0442\u0430\u043a\u0438\u0445 \u0441\u043b\u0443\u0447\u0430\u0435\u0432?"
-  },
-  {
-    "datetime": "19.03.2022 1:01",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "LosslessCut",
-    "url": "https://github.com/mifi/lossless-cut/issues/1055",
-    "comment": "\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0430 \u043a\u043d\u043e\u043f\u043a\u0430 \u0432 \u0441\u0430\u043c\u043e\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u043e\u043a\u043d\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0431\u044b\u043b\u0430 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u043c \u0444\u043b\u0430\u0433\u043e\u043c, \u0430 \u0442\u0435\u043f\u0435\u0440\u044c \u0441\u0442\u0430\u043b\u0430 \u043f\u0440\u043e\u0441\u0442\u043e \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u043e\u0439 \u0441 \u043f\u043e\u0434\u0441\u043e\u043b\u043d\u0443\u0445\u0430\u043c\u0438. \u041f\u0440\u0438 \u043d\u0430\u0436\u0430\u0442\u0438\u0438 \u043d\u0430 \u0441\u0441\u044b\u043b\u043a\u0443 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0441\u0442\u0441\u043a\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 https://mifi.no/ukraine.html"
-  },
-  {
-    "datetime": "18.03.2022 23:09",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Winbox snap",
-    "url": "https://github.com/panaceya/winbox",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "18.03.2022 22:34",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "terraform-aws-eks",
-    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c",
-    "comment": "feat: Made it clear that we stand with Ukraine"
-  },
-  {
-    "datetime": "18.03.2022 19:56",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "svelte.dev",
-    "url": "https://github.com/sveltejs/sites/pull/308",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0441 \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0434\u043e\u043d\u0430\u0442\u044b \u0423\u043a\u0440\u0430\u0438\u043d\u0435. \u0410\u0432\u0442\u043e\u0440 https://github.com/pngwn"
-  },
-  {
-    "datetime": "18.03.2022 19:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Jest",
-    "url": "https://jestjs.io/ru/",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u044b."
-  },
-  {
-    "datetime": "18.03.2022 18:35",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Nmp core-js",
-    "url": "https://github.com/zloirock/core-js",
-    "comment": "\u041f\u0440\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0430\u0433\u0438\u0442\u0430\u0446\u0438\u044f \u0438 \u043f\u0440\u0438\u0437\u044b\u0432 \u043a \u0441\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044e \u0432\u043b\u0430\u0441\u0442\u0438"
-  },
-  {
-    "datetime": "18.03.2022 18:08",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "phpunit",
-    "url": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
-    "comment": "php \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a \u0434\u043b\u044f \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u0434\u0430, \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043b\u043e\u0437\u0443\u043d\u0433 (\u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u0432\u0435\u0440\u0441\u0438\u0439 9.5.17 \u0438 8.5.24 \u043e\u0442 5 \u043c\u0430\u0440\u0442\u0430 2022)"
-  },
-  {
-    "datetime": "18.03.2022 18:01",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "composer",
-    "url": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
-    "comment": "\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u0434\u043b\u044f php, \u0445\u044d\u0448\u0442\u0435\u0433 \u0432 \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0435"
-  },
-  {
-    "datetime": "18.03.2022 17:17",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "yii2-starter-kit",
-    "url": "https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438"
-  },
-  {
-    "datetime": "18.03.2022 16:50",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "mailtrap.io",
-    "url": "mailtrap.io",
-    "comment": "\u0415\u0441\u043b\u0438 \u0437\u0430\u0439\u0442\u0438 \u043f\u043e\u0434 \u0440\u0443\u0441\u0441\u043a\u0438\u043c ip \u0442\u043e \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u043c \u0438 \u0432\u0438\u0434\u0435\u043e\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u043c\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u0434\u0430\u043b\u0435\u0435 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043e, vpn \u0440\u0435\u0448\u0430\u0435\u0442 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443"
-  },
-  {
-    "datetime": "18.03.2022 16:39",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Evolution CMS",
-    "url": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
-    "comment": "\u041f\u043e\u0434\u0441\u0442\u0430\u0432\u0430 \u043f\u043e\u0441\u043b\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u0432\u0435\u0440\u0441\u0438\u044e"
-  },
-  {
-    "datetime": "18.03.2022 16:15",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "kubernetes-sigs/kind",
-    "url": "https://github.com/kubernetes-sigs/kind/pull/2666",
-    "comment": "\"\u041d\u0430 \u0441\u0430\u0439\u0442 https://kind.sigs.k8s.io/ \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0431\u0430\u043d\u043d\u0435\u0440 \u0441 \u0444\u043b\u0430\u0433\u043e\u043c \u0438 \u0441\u0441\u044b\u043b\u043a\u0430 \"\"Help Provide Humanitarian Aid for Ukraine\"\". \u0421\u0442\u043e\u0438\u0442 \u0441\u043b\u0435\u0434\u0438\u0442\u044c \u0437\u0430 \u043d\u043e\u0432\u044b\u043c\u0438 \u043a\u043e\u043c\u043c\u0438\u0442\u0430\u043c\u0438 \u043d\u0430 \u0432\u0441\u044f\u043a\u0438\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\""
-  },
-  {
-    "datetime": "18.03.2022 15:49",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Dotnet Foundation",
-    "url": "https://github.com/dotnet-foundation/website/commit/72ddd84dd8c1b68489d870e467cc584752af8049",
-    "comment": "\"\u0411\u0430\u043d\u043d\u0435\u0440 \"\"We Stand with Ukraine\"\"\""
-  },
-  {
-    "datetime": "18.03.2022 15:17",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Roave/SecurityAdvisories",
-    "url": "https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8",
-    "comment": "\u041f\u0440\u0438 \u043d\u0435\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0435 \u043f\u0440\u0438\u043c\u0435\u0448\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u0432 \u043e\u043f\u0435\u043d \u0441\u043e\u0440\u0441, \u043b\u044e\u0434\u0435\u0439 \u043c\u043e\u0433\u0443\u0442 \u0431\u0430\u043d\u0438\u0442\u044c - https://github.com/Roave/SecurityAdvisories/pull/92"
-  },
-  {
-    "datetime": "18.03.2022 14:44",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Figma",
-    "url": "https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263/3",
-    "comment": "\"Figma \u0440\u0435\u0448\u0438\u043b\u0430 \u0437\u0430\u043c\u043e\u0440\u043e\u0437\u0438\u0442\u044c \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u044b \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432. \u041b\u0438\u0447\u043d\u044b\u0435 \u043f\u043e\u043a\u0430 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u044e\u0442. (\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a: \u0441\u043c. \"\"\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u043f\u0443\u0448 \u0432 \u0440\u0435\u043f\u0435\"\", https://vk.com/wall-30666517_1781721)\""
-  },
-  {
-    "datetime": "18.03.2022 13:20",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "AWS Terraform modules",
-    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks/commit/f5511e4df1f06954229f48df1cf87f9ebc8da26a",
-    "comment": "\"\u0424\u0440\u0430\u0437\u0430 terms of use \u0432 readme \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u0430 \u043d\u0430 information. \u0414\u0443\u043c\u0430\u044e, \u0442\u0438\u043f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u043c\u043e\u0436\u043d\u043e \u0441\u043c\u0435\u043d\u0438\u0442\u044c \u043d\u0430 \"\"\u041b\u043e\u0437\u0443\u043d\u0433\u0438\"\"\""
-  },
-  {
-    "datetime": "18.03.2022 13:04",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Leaflet",
-    "url": "https://github.com/Leaflet/Leaflet/commit/c94faa201a916fbf48e30156179d78ab5620d2d5",
-    "comment": "\u041d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430: https://leafletjs.com/"
-  },
-  {
-    "datetime": "18.03.2022 12:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Symfony",
-    "url": "https://github.com/symfony/symfony/commit/37ca066c6fb3aac241ccfb12b2531675798528d7",
-    "comment": "\u0428\u0438\u043b\u044c\u0434\u0438\u043a #StandWithUkraine"
-  },
-  {
-    "datetime": "18.03.2022 12:12",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "EventSource",
-    "url": "https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032",
-    "comment": "\u041f\u043e\u043b\u0438\u0444\u0438\u043b\u044b js \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0432 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0445 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432, \u043f\u043e\u043b \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043e\u043a \u0432 \u043d\u0435\u0434\u0435\u043b\u044e."
-  },
-  {
-    "datetime": "18.03.2022 12:12",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "snap winbox",
-    "url": "https://github.com/panaceya/winbox",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438"
-  },
-  {
-    "datetime": "18.03.2022 11:55",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://www.npmjs.com/package/event-source-polyfill",
-    "url": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
-    "comment": "\u0427\u0435\u0440\u0435\u0437 15 \u0441\u0435\u043a\u0443\u043d\u0434 \u043f\u043e\u0441\u043b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b \u0430\u043b\u0435\u0440\u0442\u0438\u0442 \u043f\u0440\u0438\u0437\u044b\u0432 \u043f\u0440\u0435\u043a\u0440\u0430\u0442\u0438\u0442\u044c \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0435 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 change.org"
-  },
-  {
-    "datetime": "18.03.2022 11:43",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "T-Regx",
-    "url": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 \u0438 https://github.com/T-Regx/T-Regx/commit/7e4812ab0a0c562c0d3e024926c71c24a98fa3b4",
-    "comment": "StandWithUkraine banner"
-  },
-  {
-    "datetime": "18.03.2022 11:37",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Portable ASCII for PHP",
-    "url": "https://github.com/voku/portable-ascii",
-    "comment": "used e.g. in Laravel Core"
-  },
-  {
-    "datetime": "18.03.2022 11:29",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "react-create-app",
-    "url": "https://github.com/facebook/create-react-app/commit/fd8c5f7b1b1d19d10d24cc2f9fdfc110585dc030",
-    "comment": "docs: add homepage banner in support of Ukraine (#12113)"
-  },
-  {
-    "datetime": "18.03.2022 10:38",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Symfony",
-    "url": "-",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u044b \u0432 \u0448\u0430\u043f\u043a\u0435 \u0441\u0430\u0439\u0442\u0430"
-  },
-  {
-    "datetime": "18.03.2022 10:32",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "laminas/*, mezzio/*,",
-    "url": "https://github.com/laminas/laminas-servicemanager/commit/1fb805d456f4e916e5fbddad4d2349adfd2f05ba",
-    "comment": "\u0414\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043b\u043e\u0437\u0443\u043d\u0433 \u0435\u0441\u0442\u044c \u0432\u043e \u0432\u0441\u0435\u0445 \u043f\u0430\u043a\u0435\u0442\u0430\u0445 laminas/ \u0438 mezzio/."
-  },
-  {
-    "datetime": "18.03.2022 10:22",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "daemon tools",
-    "url": "daemon-tools.cc",
-    "comment": "\u0441 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u043d\u0430\u0447\u0430\u043b\u0438 \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u043d\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u043e\u0442\u043a\u043b\u044e\u0447\u0438\u043b\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f"
-  },
-  {
-    "datetime": "18.03.2022 10:11",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Snap package with winbox",
-    "url": "https://github.com/panaceya/winbox/commit/adb017fd7bf2ea40bbf5e449a20091192188509f",
-    "comment": "-"
-  },
-  {
-    "datetime": "18.03.2022 9:16",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "MUI",
-    "url": "https://github.com/mui/material-ui/pull/31275",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0423\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "18.03.2022 1:19",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Elmedia Player macOS",
-    "url": "\u2026",
-    "comment": "\u0412\u043c\u0435\u0441\u0442\u043e \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u043c\u0435\u0434\u0438\u0430 \u0444\u0430\u0439\u043b\u043e\u0432 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u0432\u0438\u0434\u0435\u043e \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0441 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438"
-  },
-  {
-    "datetime": "18.03.2022 1:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "React.js",
-    "url": "https://github.com/reactjs/reactjs.org/commit/d90fd21fdbedb075a4cc196c16156b534daf14a4",
-    "comment": "\"\u0411\u0430\u043d\u043d\u0435\u0440 \"\"\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0442\u0435 \u0423\u043a\u0440\u0430\u0438\u043d\u0443\"\" \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0441 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0435\u0439\""
-  },
-  {
-    "datetime": "18.03.2022 0:49",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "https://github.com/NewEXE/belsk-schedule",
-    "url": "https://github.com/NewEXE/belsk-schedule/commit/b27b55bcf992887864d933af19e009e5750c4ca1",
-    "comment": "\u041a\u0443\u0447\u0430 \u0433\u043e\u0432\u043d\u0430"
-  },
-  {
-    "datetime": "18.03.2022 0:23",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "OkayCMS",
-    "url": "https://okay-cms.com/ https://ok-cms.com/",
-    "comment": "\u0411\u044b\u043b\u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0432 \u0431\u043b\u043e\u0433\u0435 \u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u043d\u0435\u043d\u0430\u0432\u0438\u0434\u044f\u0442. \u041f\u0440\u044f\u043c\u043e\u0439 \u043e\u0442\u043a\u0430\u0437 \u0432 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u0434\u0432\u0438\u0436\u043a\u0430 \u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0435 \u0443\u0436\u0435 \u043e\u043f\u043b\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0440\u0430\u043d\u0435\u0435 \u043c\u043e\u0434\u0443\u043b\u0435\u0439"
-  },
-  {
-    "datetime": "18.03.2022 0:17",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/stop-war-in-ukraine",
-    "url": "https://github.com/yarnpkg/website/issues/1155",
-    "comment": "\u041c\u0430\u0441\u0441\u043e\u0432\u044b\u0439 \u0441\u043f\u0430\u043c issues \u0432 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u0445"
-  },
-  {
-    "datetime": "18.03.2022 0:16",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Ember.js",
-    "url": "https://emberjs.com/community/invasion-of-ukraine/",
-    "comment": "https://emberjs.com/"
-  },
-  {
-    "datetime": "18.03.2022 0:13",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "vdz yandex metrika",
-    "url": "https://plugins.trac.wordpress.org/browser/vdz-yandex-metrika/assets/banner-772x250.png?rev=2688057",
-    "comment": "\u044d\u0442\u043e \u043f\u043b\u0430\u0433\u0438\u043d wordpress, \u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u043f\u043b\u044e\u0441 \u0431\u0435\u043a\u0434\u043e\u0440, \u0441\u0435\u0439\u0447\u0430\u0441 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439 \u0437\u0430\u0447\u0438\u0449\u0435\u043d, \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d"
-  },
-  {
-    "datetime": "17.03.2022 23:50",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/k01ek",
-    "url": "https://github.com/k01ek/notowar",
-    "comment": "\"\u041f\u0440\u0438\u043c\u0435\u0440\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u0432\u044b\u0432\u043e\u0434\u044f\u0449\u0438\u0435 \u0442\u0435\u043a\u0441\u0442 \"\"No to war\"\"\""
-  },
-  {
-    "datetime": "17.03.2022 23:48",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/mallardduck/",
-    "url": "https://github.com/KickflipCli/kickflip-src",
-    "comment": "\u0413\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440 \u0444\u0435\u0439\u043a\u043e\u0432\u044b\u0445 \u0441\u0430\u0439\u0442\u043e\u0432 \u043f\u043e \u0448\u0430\u0431\u043b\u043e\u043d\u0443 \u0441 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u043c\u0438 \u0441\u043b\u043e\u0432\u0430\u043c\u0438 \u0438 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u043c\u0438 (\u043e\u0434\u043d\u043e\u0433\u043e \u043c\u0435\u0439\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u0430 \u0443\u0436\u0435 \u0437\u0430\u0431\u0430\u043d\u0438\u043b\u0438 \u0437\u0430 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u0440\u043e\u0437\u043d\u044c, \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0443)"
-  },
-  {
-    "datetime": "17.03.2022 23:32",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "GM-DONATE (gm-donate.ru) \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u043e\u043d\u0430\u0442\u0430 \u0432 Garry's mod",
-    "url": "https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd1044710f28c10afa801521cb6bc",
-    "comment": "\u0421\u043a\u0440\u044b\u0442\u043d\u043e \u0437\u0430\u043c\u0435\u043d\u0435\u043d\u0430 \u0442\u0435\u043a\u0441\u0442\u0443\u0440\u0430 \u043c\u043e\u0434\u0435\u043b\u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0430 \u0441 \u0441\u043e\u0434\u043e\u0432\u043e\u0439 \u043d\u0430 \u0442\u0435\u043a\u0441\u0442\u0443\u0440\u0443 \u0433\u043e\u0441\u043f\u043e\u0434\u0438\u043d\u0430 \u041f. \u0441 \u0444\u0435\u043a\u0430\u043b\u0438\u044f\u043c\u0438 \u0441 \u0440\u0430\u0441\u0447\u0435\u0442\u043e\u043c \u043d\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u0437\u0430\u043a\u043e\u043d\u043e\u043c. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u0435 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u0432\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043e\u0432, \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442."
-  },
-  {
-    "datetime": "17.03.2022 22:52",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Redirect Russia",
-    "url": "https://github.com/pabio/redirect-russia",
-    "comment": "\u0421\u043a\u0440\u0438\u043f\u0442 \u0432\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u043d\u0430 \u0441\u0430\u0439\u0442\u044b, \u043f\u0435\u0440\u0435\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0441 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438"
-  },
-  {
-    "datetime": "17.03.2022 22:47",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Redirect Russia",
-    "url": "https://github.com/pabio/redirect-russia",
-    "comment": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0441\u043a\u0440\u0438\u043f\u0442 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442\u0438\u0442 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0441 \u0430\u0433\u0438\u0442\u043a\u043e\u0439. \u041f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u0442 \u043f\u043e ip \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u0438 \u0442\u0430\u0439\u043c\u0437\u043e\u043d\u0435."
-  },
-  {
-    "datetime": "17.03.2022 22:43",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/vadimdemedes/ink",
-    "url": "https://github.com/vadimdemedes/ink/issues/506",
-    "comment": "Issue \u0441 \u043f\u0440\u0438\u0437\u044b\u0432\u043e\u043c \u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u0440\u043c\u0438\u0438"
-  },
-  {
-    "datetime": "17.03.2022 22:41",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "spaceship-prompt/spaceship-prompt",
-    "url": "https://github.com/spaceship-prompt",
-    "comment": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u043e\u043b\u0438\u0442 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438 \u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 issues"
-  },
-  {
-    "datetime": "17.03.2022 22:38",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "Qalctulate! (GTK)",
-    "url": "https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456",
-    "comment": "\"Remove flags for RUB and BYR/BYN, and show UAH flag when first using the new version;\" \u041d\u0438\u0447\u0435\u0433\u043e \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e\u0433\u043e, \u043d\u043e \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0430\u0435\u0442. \u0412\u0435\u0440\u0441\u0438\u044f \u0441 \u044d\u0442\u0438\u043c \u043a\u043e\u043c\u043c\u0438\u0442\u043e\u043c \u0443\u0436\u0435 \u0432 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f\u0445 arch. \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0420\u0424/\u0411\u0420, \u0430 \u0432\u043e\u043e\u0431\u0449\u0435 \u0443 \u0432\u0441\u0435\u0445."
-  },
-  {
-    "datetime": "17.03.2022 22:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://pastebin.com/",
-    "url": "https://pastebin.com/",
-    "comment": "\u041f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u0430\u043d\u043d\u0435\u0440"
-  },
-  {
-    "datetime": "17.03.2022 22:28",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://github.com/search?l=Markdown&q=SWUbanner&type=Code",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
-    "comment": "\u0415\u0441\u0442\u044c \u0441\u043c\u044b\u0441\u043b \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c \u044d\u0442\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u044b"
-  },
-  {
-    "datetime": "17.03.2022 22:02",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "https://github.com/kbrehme",
-    "url": "https://github.com/kbrehme/niffelheim/commit/7cb93ca14aab68c646a65ef21923835a0f791d4a",
-    "comment": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a \u0443\u0434\u0430\u043b\u044f\u0435\u0442 \u0432\u0441\u0435 \u0447\u0442\u043e \u0441\u0432\u044f\u0437\u0430\u043d\u043e \u0441 \u0440\u0443\u0441\u0441\u043a\u0438\u043c \u043d\u0430\u0440\u043e\u0434\u043e\u043c \u0432 \u043c\u043e\u0434\u0430\u0445 \u0438 \u0441\u043a\u0440\u0438\u043f\u0442\u0430\u0445"
-  },
-  {
-    "datetime": "17.03.2022 21:18",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Dash Electrum",
-    "url": "https://github.com/akhavr/electrum-dash/commit/80e7bfbc9325f0012dc9c6bd1017cd71de80e2371017cd71de80e237",
-    "comment": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0432\u043f\u0438\u043b\u0438\u043b \u0432 \u043f\u0440\u043e\u0434\u0443\u043a\u0442 \u041b\u043e\u0437\u0443\u043d\u0433\u0438, \u0441\u0434\u0435\u043b\u0430\u0432 \u0438\u0445 \u0441\u044e\u0440\u043f\u0440\u0438\u0437\u043e\u043c - \u0432 \u043b\u043e\u0433\u0435 \u0447\u0442\u043e \u0432 \u0441\u043e\u0444\u0442\u0435 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u043e \u044d\u0442\u043e \u043d\u0438 \u0441\u043b\u043e\u0432\u0430."
-  },
-  {
-    "datetime": "17.03.2022 20:19",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "ReactJS",
-    "url": "https://github.com/facebook/react/pull/23375/commits/11e414ce6c67dc6c3c7e8cf4146af5c39c9c93ea",
-    "comment": "\"\u0412 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u043e\u043b\u0438\u0442. \u043b\u043e\u0437\u0443\u043d\u0433 \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://ru.reactjs.org"
-  },
-  {
-    "datetime": "17.03.2022 20:16",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "EmotionJS",
-    "url": "https://github.com/emotion-js/emotion/pull/2668",
-    "comment": "\"\u0412 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u043e\u043b\u0438\u0442. \u043b\u043e\u0437\u0443\u043d\u0433 \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://emotion.sh/docs/introduction"
-  },
-  {
-    "datetime": "17.03.2022 20:14",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "MUI (Material UI)",
-    "url": "https://github.com/mui/material-ui/pull/31275",
-    "comment": "\"\u0412 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u043e\u043b\u0438\u0442. \u043b\u043e\u0437\u0443\u043d\u0433 \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://mui.com/getting-started/installation/"
-  },
-  {
-    "datetime": "17.03.2022 20:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "mint",
-    "url": "https://github.com/dbarnett/python-helloworld/pull/13",
-    "comment": "https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
-  },
-  {
-    "datetime": "17.03.2022 20:02",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "CoreELEC",
-    "url": "https://github.com/CoreELEC/CoreELEC",
-    "comment": "\u0417\u0430\u043c\u0435\u043d\u0430 \u043b\u043e\u0433\u043e\u0442\u0438\u043f\u0430 \u0432 \u0446\u0432\u0435\u0442\u0430 \u0444\u043b\u0430\u0433\u0430 \u0423\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "17.03.2022 19:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Return youtube dislike api",
-    "url": "https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf",
-    "comment": "\"\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u0433\u0430 \u0438 \u0441\u0441\u044b\u043b\u043a\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0430\u0440\u043c\u0438\u0438; + \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430\u044f \u0441\u0442\u0440\u043e\u043a\u0430 \u0432 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0437 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432 (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/return-youtube-dislike/issues/497 \"\"https://returnyoutubedislikeapi.com/ is blocked in Russia. If you are there, you won't be able to view or submit dislike votes unless you use a proxy or a VPN.\"\", \u0445\u043e\u0442\u044f \u0441\u0435\u0440\u0432\u0438\u0441 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 (https://returnyoutubedislikeapi.com/votes?videoId=kxOuG8jMIgI); \u041d\u0438\u0447\u0435\u0433\u043e \u0441\u0435\u0440\u044c\u0451\u0437\u043d\u043e\u0433\u043e \u043f\u0440\u043e \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u043d\u0435\u0442\u0443\""
-  },
-  {
-    "datetime": "17.03.2022 19:29",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "pre-commit-terraform",
-    "url": "https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949",
-    "comment": "\u0441\u043c. \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u043a\u043e\u043d\u0446\u0435 readme"
-  },
-  {
-    "datetime": "17.03.2022 19:23",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "react-native-ui-lib",
-    "url": "https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c",
-    "comment": "\u041f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u0430\u043d\u043d\u0435\u0440 #StandWithUkraine"
-  },
-  {
-    "datetime": "17.03.2022 18:56",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "pnpm",
-    "url": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83",
-    "comment": "\u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d \u0434\u043e\u0441\u0442\u0443\u043f \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0441\u0430\u0439\u0442 https://pnpm.io \u043f\u043e \u0433\u0435\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u0443."
-  },
-  {
-    "datetime": "17.03.2022 18:52",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Winbox snap package",
-    "url": "https://github.com/panaceya/winbox/commit/adb017fd7bf2ea40bbf5e449a20091192188509f",
-    "comment": "\u041c\u0435\u0439\u043d\u0442\u0435\u0439\u043d\u0435\u0440 snap-\u043f\u0430\u043a\u0435\u0442\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u043b \u043f\u043e\u043f-\u0430\u043f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0440\u0443\u0441\u0441\u043a\u043e\u0439 \u043b\u043e\u043a\u0430\u043b\u0438"
-  },
-  {
-    "datetime": "17.03.2022 18:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Autodesk AutoCAD",
-    "url": "https://www.autodesk.ru/",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438"
-  },
-  {
-    "datetime": "17.03.2022 18:12",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Pnpn \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u0430\u043a\u0435\u0442\u043e\u0432",
-    "url": "https://github.com/pnpm/pnpm",
-    "comment": "\u0412\u0440\u0435\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u043d\u0435 \u0437\u0430\u043c\u0435\u0447\u0435\u043d\u043e, \u043d\u043e \u0441\u0430\u0439\u0442 \u0441 \u0434\u043e\u043a\u0430\u043c\u0438 \u0431\u043b\u043e\u0447\u0438\u0442 \u0440\u0443 \u0430\u0439\u043f\u0438"
-  },
-  {
-    "datetime": "17.03.2022 17:52",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Svelte Material UI",
-    "url": "https://github.com/hperrin/svelte-material-ui",
-    "comment": "\u043d\u0430 \u0438\u0445 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u0440\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 https://sveltematerialui.com/ \u0432\u0438\u0441\u0438\u0442 \u043f\u043b\u0430\u0448\u043a\u0430 \u0441 \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u043c"
-  },
-  {
-    "datetime": "17.03.2022 17:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "filestash",
-    "url": "https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d",
-    "comment": "\u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f ip \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u043b\u0438 \u0432\u0438\u0434\u0435\u043e \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0417\u0435\u043b\u0435\u043d\u0441\u043a\u043e\u0433\u043e. \u0421\u0435\u0439\u0447\u0430\u0441 \u0443\u0431\u0440\u0430\u043b\u0438"
-  },
-  {
-    "datetime": "17.03.2022 17:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Activeadmin SimpleMDE Markdown Editor",
-    "url": "https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438."
-  },
-  {
-    "datetime": "17.03.2022 17:44",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Php Project",
-    "url": "https://github.com/spider-mane/php-project/commit/f742eafcf96496ad7f687f452a5c893d29f3e79e",
-    "comment": "#StandWithUkraine"
-  },
-  {
-    "datetime": "17.03.2022 17:41",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PHPBench",
-    "url": "https://github.com/phpbench/phpbench/commit/414f462c2ee40a6b30ffafbe0c4ee760e75780f8",
-    "comment": "standwithukraine"
-  },
-  {
-    "datetime": "17.03.2022 17:34",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "django-modeltranslatio",
-    "url": "https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u0432 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438"
-  },
-  {
-    "datetime": "17.03.2022 17:31",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://www.11ty.dev/",
-    "url": "https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6",
-    "comment": "\u0448\u0438\u043b\u044c\u0434\u0430 \u0432 \u0448\u0430\u043f\u043a\u0435 Stand with Ukraine ????. \u0414\u043e \u044d\u0442\u043e\u0433\u043e \u0431\u044b\u043b\u0430 \u0441\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0434\u043e\u043d\u0430\u0442\u044b \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "17.03.2022 17:06",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://repo.packagist.org",
-    "url": "https://github.com/composer/packagist/pull/1270",
-    "comment": "composer update - \u0432\u044b\u0434\u0430\u0435\u0442 \u0432 \u043a\u043e\u043d\u0441\u043e\u043b\u0438 #StandWithUkraine"
-  },
-  {
-    "datetime": "17.03.2022 17:06",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "RNUILib",
-    "url": "https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 #StandWithUkraine"
-  },
-  {
-    "datetime": "17.03.2022 16:49",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "React",
-    "url": "https://reactjs.org/",
-    "comment": "\u0412 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a\u0430 \u043d\u0430 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0448\u0430\u043f\u043a\u0430 \u0441 \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u043c"
-  },
-  {
-    "datetime": "17.03.2022 16:42",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "deskreen",
-    "url": "https://deskreen.com",
-    "comment": "\u041d\u0435 \u043e\u043f\u0435\u043d\u0441\u0443\u0440\u0441, \u043d\u043e \u043d\u0435 \u0437\u043d\u0430\u044e \u043a\u0443\u0434\u0430 \u0435\u0449\u0451 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u044d\u0442\u0443 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e."
-  },
-  {
-    "datetime": "17.03.2022 16:26",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "The Unarchiver",
-    "url": "https://github.com/MacPaw (\u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439)",
-    "comment": "\u041f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c, \u0435\u0441\u0442\u044c \u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u043c\u0438\u043c\u043e \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u0432, \u043f\u043e\u043a\u0430 \u043d\u0435 \u0443\u0434\u0430\u0451\u0442\u0441\u044f. \u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u0442\u043e\u0447\u043d\u043e \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u0431\u0430\u043d\u043d\u0435\u0440\u0435 \u043f\u0440\u0438 \u0440\u0430\u0437\u0430\u0440\u0445\u0438\u0432\u0430\u0446\u0438\u0438/\u0430\u0440\u0445\u0438\u0432\u0430\u0446\u0438\u0438."
-  },
-  {
-    "datetime": "17.03.2022 16:06",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Spark",
-    "url": "https://sparkmailapp.com/",
-    "comment": "\u0418\u0437 \u0442\u0435\u043a\u0443\u0449\u0435\u0433\u043e: \u043b\u043e\u0437\u0443\u043d\u0433\u0438 \u0438 \u043e\u0442\u043a\u0430\u0437 \u043e\u0442 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0420\u0424 (\u0442\u0430\u043a\u043e\u0435 \u0447\u0443\u0432\u0441\u0442\u0432\u043e, \u0447\u0442\u043e \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u0435 \u043d\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u0442.\u043a. \u043e\u0442\u043a\u0430\u0437 \u043f\u0440\u0438\u0448\u0435\u043b \u0441 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\u043c\u0438)"
-  },
-  {
-    "datetime": "17.03.2022 16:00",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "GNOME extension ddterm",
-    "url": "\u043e\u0444 \u0441\u0430\u0439\u0442 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0433\u043d\u043e\u043c\u0430",
-    "comment": "\u0414\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442 \u0432 \u043e\u043a\u043d\u0435 \u043a\u043e\u043d\u0441\u043e\u043b\u0438 \u0431\u0430\u043d\u043d\u0435\u0440."
-  },
-  {
-    "datetime": "17.03.2022 14:38",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "plantUml web \u0440\u0435\u0441\u0443\u0440\u0441",
-    "url": "https://plantuml.com/ru/",
-    "comment": "\u042f \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a, \u044f \u043d\u0435 \u043d\u0430\u0439\u0434\u0443 \u043f\u0443\u0448 \u0432 \u0440\u0435\u043f\u0435. plantUML \u043c\u043d\u043e\u0433\u043e \u0433\u0434\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u0447\u043a\u0430 \u0434\u043b\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u043b\u0430\u0433\u0438\u043d \u0432 Idea. \u041d\u043e \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e \u0441\u0435\u0439\u0447\u0430\u0441 \u044f \u043d\u0430\u0448\u043b\u0430 \u044d\u0442\u043e \u0432 web \u0432\u0435\u0440\u0441\u0438\u0438"
-  },
-  {
-    "datetime": "17.03.2022 14:23",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Evolution CMS",
-    "url": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
-    "comment": "\u041f\u043e\u0441\u043b\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0440\u0435\u043b\u0438\u0437\u044b Evolution CMS 3.1.10 \u0438 Evolution CMS 1.4.17 \u043f\u043e\u043b\u0438\u0442. \u043b\u043e\u0437\u0443\u043d\u0433 \u0432 \u0430\u0434\u043c\u0438\u043d\u043a\u0435"
-  },
-  {
-    "datetime": "17.03.2022 14:15",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Codeception for PHP",
-    "url": "https://github.com/Codeception/Codeception/commit/eefe1abc60500c0516b85131cbbfbb9a22899db4",
-    "comment": "\"\u043f\u0440\u0438 \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u0432 \u043a\u043e\u043d\u0441\u043e\u043b\u0438 \u0432\u044b\u0432\u043e\u0434\u0438\u0442\u0441\u044f \"\"Codeception PHP Testing Framework v4.1.31 https://helpukrainewin.org\"\"\""
-  },
-  {
-    "datetime": "17.03.2022 14:15",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Docusaurus",
-    "url": "https://github.com/facebook/docusaurus/pull/6811",
-    "comment": "\u041e\u043f\u0435\u043d\u0441\u043e\u0440\u0441 \u043f\u0440\u043e\u0435\u043a\u0442 http://docusaurus.io/"
-  },
-  {
-    "datetime": "17.03.2022 14:11",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "\u041d\u0430\u0431\u043e\u0440 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0439 UpdatePack7R2 \u0434\u043b\u044f Windows 7 SP1 \u0438 Server 2008 R2 SP1",
-    "url": "https://blog.simplix.info/update7/",
-    "comment": "\u041c\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u043e\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0435 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f. \u041f\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u0447\u0435\u043d\u0434\u0436\u043b\u043e\u0433\u0435: \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439: 22.03.2011 \u0418\u0437-\u0437\u0430 \u0432\u043e\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0430"
-  },
-  {
-    "datetime": "17.03.2022 14:06",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "React docs",
-    "url": "\u043d\u0435 \u0437\u043d\u0430\u044e",
-    "comment": "ru.reactjs.org \u0438 reactjs.org"
-  },
-  {
-    "datetime": "17.03.2022 14:03",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "evolution",
-    "url": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
-    "comment": "\u041f\u043e\u043b\u0438\u0442 \u043b\u043e\u0437\u0443\u043d\u0433 \u0432 cms"
-  },
-  {
-    "datetime": "17.03.2022 14:01",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Codeception",
-    "url": "https://github.com/Codeception/Codeception/commit/d6b7af9233124652b0425217d633e034bfa9bf2b",
-    "comment": "\u0412\u044b\u0432\u043e\u0434\u0438\u0442 \u0432 \u043a\u043e\u043d\u0441\u043e\u043b\u0438 \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 https://helpukrainewin.org"
-  },
-  {
-    "datetime": "17.03.2022 13:55",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "ebastianbergmann",
-    "url": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
-    "comment": "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 13:24",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "The unarchiver.app",
-    "url": "https://macpaw.com/news/macpaw-amidst-aggression",
-    "comment": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043e\u043a\u043d\u043e \u0441 \u043a\u043d\u043e\u043f\u043a\u043e\u0439 \u00ab\u0423\u0437\u043d\u0430\u0439\u0442\u0435 \u043f\u0440\u0430\u0432\u0434\u0443 \u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u043c \u043d\u0430 \u0423\u043a\u0440\u0430\u0438\u043d\u0435\u00bb."
-  },
-  {
-    "datetime": "17.03.2022 13:14",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "mailtrap.io",
-    "url": "https://mailtrap.io/",
-    "comment": "\u0423\u0436\u0430\u0441"
-  },
-  {
-    "datetime": "17.03.2022 13:09",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "React Native website",
-    "url": "https://github.com/facebook/react-native-website/pull/2986",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0443\u043a\u0440\u0430\u0438\u043d\u044b. \u0410\u0432\u0442\u043e\u0440: https://github.com/dmitryvinn"
-  },
-  {
-    "datetime": "17.03.2022 13:08",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "@russia-sanctions/base",
-    "url": "https://github.com/Russia-Sanctions/Base",
-    "comment": "\u041f\u0440\u043e\u0441\u0442\u043e \u043f\u0430\u043a\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0432\u043e\u0434\u0438\u0442\u044c \u041b\u043e\u0437\u0443\u043d\u0433\u0438"
-  },
-  {
-    "datetime": "17.03.2022 13:07",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Notepad++",
-    "url": "https://notepad-plus-plus.org/downloads/",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u0432 \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u0440\u0435\u043b\u0438\u0437\u0430"
-  },
-  {
-    "datetime": "17.03.2022 13:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "\u0421\u043f\u0438\u0441\u043e\u043a github \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u0441 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
-    "comment": "\u0421\u043f\u0438\u0441\u043e\u043a github \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u0441 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438"
-  },
-  {
-    "datetime": "17.03.2022 13:01",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "StandWithUkraine support materials",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine",
-    "comment": "\"\u0412 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0438 \u0435\u0441\u0442\u044c \u0441\u043f\u0438\u0441\u043e\u043a \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0432 \u043d\u0438\u0445 \u0435\u0441\u0442\u044c \u0435\u0449\u0451 \"\"\u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0438\"\", \u043a\u0440\u043e\u043c\u0435 \u043b\u043e\u0437\u0443\u043d\u0433\u043e\u0432 \u0438\u0437 \u044d\u0442\u043e\u0433\u043e \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044f.\""
-  },
-  {
-    "datetime": "17.03.2022 12:56",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "\u041f\u043e\u0438\u0441\u043a \u043f\u043e Github",
-    "url": "https://github.com/search?l=Markdown&q=SWUbanner&type=Code",
-    "comment": "\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u043f\u043e\u0438\u0441\u043a \u0442\u0435\u0445, \u0447\u0442\u043e \u0432\u043a\u043b\u044e\u0447\u0438\u043b \u0431\u0430\u043d\u043d\u0435\u0440 \u0432 \u0440\u0435\u043f\u0443"
-  },
-  {
-    "datetime": "17.03.2022 12:55",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://1password.com/ - \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u0430\u0440\u043e\u043b\u0435\u0439",
-    "url": "\u0422\u043e\u043b\u044c\u043a\u043e \u0441\u0441\u044b\u043b\u043a\u0430",
-    "comment": "https://blog.1password.com/responding-to-the-conflict-in-ukraine/"
-  },
-  {
-    "datetime": "17.03.2022 12:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "React.js",
-    "url": "https://github.com/reactjs/reactjs.org/commit/d90fd21fdbedb075a4cc196c16156b534daf14a4",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0443\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "17.03.2022 12:30",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "peacenotwar",
-    "url": "https://github.com/RIAEvangelist/peacenotwar",
-    "comment": "\u0430\u0432\u0442\u043e\u0440 \u043c\u0430\u043b\u044c\u0432\u0430\u0440\u044f \u0432 node-ipc"
-  },
-  {
-    "datetime": "17.03.2022 12:16",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "YoutubeDownloader",
-    "url": "https://github.com/Tyrrrz/YoutubeDownloader",
-    "comment": "\"\u0414\u0430\u043b \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u0440\u0435\u043f\u043e, \u0442\u0430\u043c \u0432\u0435\u0437\u0434\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u043a \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u0445-\u0441\u043b\u043e\u0432, \u043d\u0443 \u0438 \u0432 \u0441\u0430\u043c\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435 \u043f\u0440\u0438 \u0437\u0430\u043f\u0443\u0441\u043a\u0435 \u0432\u0441\u043f\u043b\u044b\u0432\u0430\u0435\u0442 \u043f\u043b\u0430\u0448\u043a\u0430 \u043e \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u0442.\u043d. \"\"\u0443\u043a\u0440\u0430\u0438\u043d\u044b\"\"\""
-  },
-  {
-    "datetime": "17.03.2022 11:59",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Awesome Prometheus Alerts",
-    "url": "https://github.com/samber/awesome-prometheus-alerts/commit/6bfcdcca165e57c6fa09a561515c33284caa20c2",
-    "comment": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u044f\u0437\u044b\u043a \u0438 \u0440\u0435\u0434\u0438\u0440\u0435\u043a\u0442\u0438\u0442 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0441 \u043b\u043e\u0437\u0443\u043d\u0433\u0430\u043c\u0438. \u0412 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043a\u043e\u043c\u043c\u0438\u0442\u0430\u0445 \u043a\u043e\u0434 \u0443\u0434\u0430\u043b\u0438\u043b\u0438."
-  },
-  {
-    "datetime": "17.03.2022 11:46",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "https://docs.nestjs.com/",
-    "url": "https://github.com/nestjs/docs.nestjs.com/commit/a411b74d114a1342170334e84e426b3259c3872c",
-    "comment": "\"\u0412 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u043f\u043e\u043b\u0438\u0442. \u043b\u043e\u0437\u0443\u043d\u0433 \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\""
-  },
-  {
-    "datetime": "17.03.2022 11:42",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Stop Russia IT",
-    "url": "https://github.com/stop-war-in-ukraine/stop-russia-it",
-    "comment": "\u041f\u043e \u0441\u0441\u044b\u043b\u043a\u0435 \u0441\u043f\u0438\u0441\u043e\u043a \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432, \u0441\u0441\u044b\u043b\u043e\u043a \u043d\u0430 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f, \u043f\u0435\u0442\u0438\u0446\u0438\u0438 \u043d\u0430 change.org"
-  },
-  {
-    "datetime": "17.03.2022 10:55",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "verdaccio",
-    "url": "https://github.com/verdaccio/verdaccio/pull/3060",
-    "comment": "\u0411\u0430\u043d\u043d\u0435\u0440 \u0432 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0443\u043a\u0440\u0430\u0438\u043d\u044b"
-  },
-  {
-    "datetime": "17.03.2022 10:54",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "ECMAScript extensions",
-    "url": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2",
-    "comment": "anti-war manifest"
-  },
-  {
-    "datetime": "17.03.2022 10:45",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 StandWithUkraine",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
-    "comment": "\u041f\u043e \u0441\u0441\u044b\u043b\u043a\u0435 \u0441\u043f\u0438\u0441\u043e\u043a \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0432 \u0430\u043a\u0446\u0438\u0438"
-  },
-  {
-    "datetime": "17.03.2022 0:05",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "Redis Desktop Manager (\u0440\u0430\u043d\u0435\u0435 - resp-app)",
-    "url": "https://github.com/uglide/RedisDesktopManager/commit/3880176abbb0ee877672fd1ae74bda9546a4d1a6",
-    "comment": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438 \u0432 README, \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043e\u043c\u043c\u0438\u0442\u044b \u0441 \u043a\u043e\u0434\u043e\u043c \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438. \u0421\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c - \u0443\u043a\u0440."
-  },
-  {
-    "datetime": "16.03.2022 22:08",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "StandWithUkraine",
-    "url": "https://github.com/vshymanskyy/StandWithUkraine",
-    "comment": "\u0421\u043f\u0438\u0441\u043e\u043a \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u0432\u0448\u0438\u0445 \u043a \u0441\u0435\u0431\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u0437\u0430\u0434\u043e\u043d\u0430\u0442\u0438\u0442\u044c \u0432\u043d\u0430 \u0423\u043a\u0440\u0430\u0438\u043d\u0443 \u0432 README.md"
-  },
-  {
-    "datetime": "16.03.2022 19:24",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "PHPUnit",
-    "url": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
-    "comment": "\u0428\u0438\u043b\u044c\u0434\u0438\u043a #StandWithUkraine"
-  },
-  {
-    "datetime": "16.03.2022 19:21",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "composer - PHP\u0448\u043d\u044b\u0439 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u0430\u043a\u0435\u0442\u043e\u0432",
-    "url": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
-    "comment": "\u0412\u044b\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0448\u0438\u043b\u044c\u0434\u0438\u043a #StandWithUkrane"
-  },
-  {
-    "datetime": "16.03.2022 19:09",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "retejs/rete",
-    "url": "https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def",
-    "comment": "#StandWithUkraine postinstall message"
-  },
-  {
-    "datetime": "16.03.2022 18:10",
-    "problemtype": "\u041b\u043e\u0437\u0443\u043d\u0433\u0438",
-    "productname": "AWS Terraform modules",
-    "url": "https://github.com/terraform-aws-modules",
-    "comment": "\"\u0432\u0441\u0435 \u043c\u043e\u0434\u0443\u043b\u0438 AWS \u0434\u043b\u044f Terraform \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u043c, \u0442\u0430\u043a\u0436\u0435 \u0441\u0434\u0443\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043b\u043e\u0441\u044c \u0432 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest), \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \"\"\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f\"\" \u0432\u043d\u0438\u0437\u0443 README \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043c\u043e\u0434\u0443\u043b\u044f.\""
-  },
-  {
-    "datetime": "23.03.2022 12:37",
-    "problemtype": "DDOS",
-    "productname": "SlavaUkraini",
-    "url": "https://github.com/ApocalypseCalculator/SlavaUkraini/commit/eee435955849ed04d064e29a60c45f0f2ece48d5",
-    "comment": "DDOS tool against RU resources"
-  },
-  {
-    "datetime": "23.03.2022 12:31",
-    "problemtype": "DDoS",
-    "productname": "Parad1seBomb",
-    "url": "https://github.com/K1ngSoul/Parad1seBomb",
-    "comment": "SMS Bomber for Russia and Ukraine"
-  },
-  {
-    "datetime": "22.03.2022 2:06",
-    "problemtype": "DDoS",
-    "productname": "DDoS-Russia-App",
-    "url": "https://github.com/seriascraper/DDoS-Russia-App/commit/a59430c8db86fdc73ed42eb47f4234dfcbdc1f89",
-    "comment": "HTML DDoS from https://pwned.space site of RU resources in background"
-  },
-  {
-    "datetime": "22.03.2022 1:58",
-    "problemtype": "DDoS",
-    "productname": "Anti-Prop/antiprop_basic",
-    "url": "https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab",
-    "comment": "DDoS tool, working from browser, against RU resources"
-  },
-  {
-    "datetime": "22.03.2022 1:40",
-    "problemtype": "DDoS",
-    "productname": "dddos",
-    "url": "https://github.com/pauldb09/Dddos/commit/7d9bcbec25c58081b0df8a582acb5fd0bf2d4b67",
-    "comment": "DDoS tool with ability to bypass Cloudflare"
-  },
-  {
-    "datetime": "21.03.2022 10:44",
-    "problemtype": "DDoS",
-    "productname": "SlavaUkraineSince1991/DDoS-for-all",
-    "url": "https://github.com/SlavaUkraineSince1991/DDoS-for-all",
-    "comment": "\u0434\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "21.03.2022 9:44",
-    "problemtype": "DDoS",
-    "productname": "StopWar.pro",
-    "url": "https://StopWar.pro",
-    "comment": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441\u043e \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u043c DDoS"
-  },
-  {
-    "datetime": "19.03.2022 23:23",
-    "problemtype": "DDoS",
-    "productname": "dxh-team/CDUW",
-    "url": "https://github.com/dxh-team/CDUW/commit/e2ae41c9315e1de2c32a1b0983f7c897e342d96f",
-    "comment": "\u041f\u041e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u043e\u0435 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0435 \u0434\u043b\u044f \u0430\u0442\u0430\u043a \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 23:11",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "ch33r10/SunflowerCon",
-    "url": "https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f",
-    "comment": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043f\u043e \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438 \u0438 \u0441\u0431\u043e\u0440\u0443 IT - \u0440\u0430\u0437\u0432\u0435\u0434\u0434\u0430\u043d\u043d\u044b\u0445 \u043d\u0430\u0446\u0435\u043b\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u0430\u0442\u0430\u043a\u0438 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 23:03",
-    "problemtype": "DDoS",
-    "productname": "alexander-danilenko/ua-loadtest",
-    "url": "https://github.com/alexander-danilenko/ua-loadtest/commit/ce994b94bf8cc67fd04914d08e3913bcac1c4f53",
-    "comment": "\u041f\u041e \u0434\u043b\u044f \u043d\u0430\u0433\u0440\u0443\u0437\u043e\u0447\u043d\u043e\u0433\u043e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043d\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 DDoS \u0430\u0442\u0430\u043a\u0430\u0445 \u043d\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u044b \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:56",
-    "problemtype": "DDoS",
-    "productname": "opengs/uashield",
-    "url": "https://github.com/opengs/uashield/commit/f5de10a10e9e2c872450fe82454e838e62ff2d2f",
-    "comment": "\u041f\u041e \u0434\u043b\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0435 \u043d\u0430 \u0430\u0442\u0430\u043a\u0438 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u0432 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:55",
-    "problemtype": "\u0414\u0440\u0443\u0433\u043e\u0435",
-    "productname": "curated-intel/Ukraine-Cyber-Operations",
-    "url": "curated-intel/Ukraine-Cyber-Operations",
-    "comment": "\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043a\u0443\u0440\u0430\u0442\u043e\u0440\u043e\u0432 IT-\u0440\u0430\u0437\u0432\u0435\u0434\u043e\u043a \u0434\u043b\u044f \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0439 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a \u0438 \u0441\u0431\u043e\u0440\u0430 \u0440\u0430\u0437\u0432\u0435\u0434\u0434\u0430\u043d\u043d\u044b\u0445 \u043e \u0440\u0430\u0437\u0432\u0435\u0434\u043a\u0435 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:50",
-    "problemtype": "DDoS",
-    "productname": "erkexzcx/stoppropaganda",
-    "url": "https://github.com/erkexzcx/stoppropaganda/commit/d1e0a530e6ebce2b61df2afa038956c074998292",
-    "comment": "\u0425\u0430\u043a\u0435\u0440\u0441\u043a\u043e\u0435 \u041f\u041e \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f DDoS \u0430\u0442\u0430\u043a, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0435 \u043d\u0430 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0438 \u0440\u0435\u0441\u0443\u0440\u0441\u044b \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:46",
-    "problemtype": "DDoS",
-    "productname": "dimboknv/tg-stand-with-ukraine",
-    "url": "https://github.com/dimboknv/tg-stand-with-ukraine/commit/77b82fdf8e8552131736b8f0af52d2d37c3de020",
-    "comment": "\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0431\u043e\u0442 \u0434\u043b\u044f \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0439 \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0438 \u0436\u0430\u043b\u043e\u0431 \u043d\u0430 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c-\u043a\u0430\u043d\u0430\u043b\u044b"
-  },
-  {
-    "datetime": "19.03.2022 22:45",
-    "problemtype": "DDoS",
-    "productname": "mytechnotalent/turbo-scanner",
-    "url": "https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352?short_path=b335630#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5",
-    "comment": "\u0421\u0435\u0442\u0435\u0432\u043e\u0439 \u0441\u043a\u0430\u043d\u0435\u0440. \u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0439 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a. \u041d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0442\u0435\u0433 Ukraine."
-  },
-  {
-    "datetime": "19.03.2022 22:40",
-    "problemtype": "DDoS",
-    "productname": "GloryToUA/Justice3",
-    "url": "https://github.com/GloryToUA/Justice3/commit/38d5e7710929d6a6b19e7c60a867ef6a391abac0",
-    "comment": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u0434\u043b\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a, \u043d\u0430\u0446\u0435\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u043d\u0435\u0444\u0442\u0435\u0434\u043e\u0431\u044b\u0432\u0430\u044e\u0449\u0443\u044e \u043e\u0442\u0440\u0430\u0441\u043b\u044c"
-  },
-  {
-    "datetime": "19.03.2022 22:04",
-    "problemtype": "DDoS",
-    "productname": "sanfarans/hack4ukraine",
-    "url": "https://github.com/sanfarans/hack4ukraine",
-    "comment": "\u041f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e - \u041f\u041e \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u043c\u043e\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0445\u0430\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u0430\u0442\u0430\u043a \u043d\u0430 \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 22:00",
-    "problemtype": "\u0421\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445",
-    "productname": "Syarol/how-did-they-respond",
-    "url": "https://github.com/Syarol/how-did-they-respond/commit/3983dbb07e8194b8864de90ed724692b1b9406fb",
-    "comment": "\u0421\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445 \u043e\u0431 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f\u0445 \u0432\u044b\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0432 \u0442\u0443 \u0438\u043b\u0438 \u0438\u043d\u0443\u044e \u043f\u043e\u043b\u044c\u0437\u0443 \u043e \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0435."
-  },
-  {
-    "datetime": "19.03.2022 21:53",
-    "problemtype": "DDoS",
-    "productname": "tweedge/ru-ok",
-    "url": "https://github.com/tweedge/ru-ok/commit/f0e1c5cc0c3ceb3e39ccc781a0e4c18a65069595",
-    "comment": "\u0424\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a \u0434\u043b\u044f \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u043f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u0430\u0442\u0430\u043a \u043d\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u044b \u0420\u0424 \u0438 \u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0440\u0430\u0437\u0432\u0435\u0434\u043a\u0438"
-  },
-  {
-    "datetime": "19.03.2022 21:32",
-    "problemtype": "DDoS",
-    "productname": "0x77dev/stoprussia",
-    "url": "https://github.com/0x77dev/stoprussia",
-    "comment": "\u041d\u0430\u0431\u043e\u0440 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0430\u0442\u0430\u043a \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0420\u0424 - \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0435\u0434\u044b, \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442, \u0433\u043e\u0441.\u0440\u0435\u0441\u0443\u0440\u0441\u044b, \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439"
-  },
-  {
-    "datetime": "19.03.2022 21:30",
-    "problemtype": "DDoS",
-    "productname": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f DDoS \u0430\u0442\u0430\u043a",
-    "url": "https://github.com/d1sUa/DisDDos",
-    "comment": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f DDoS \u0430\u0442\u0430\u043a, \u043f\u0440\u0438\u0437\u044b\u0432\u044b \u043a \u0430\u0442\u0430\u043a\u0430\u043c \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0420\u0424"
-  },
-  {
-    "datetime": "19.03.2022 0:05",
-    "problemtype": "DDoS",
-    "productname": "hack_russia",
-    "url": "https://lostmsu.github.io/hack_russia/",
-    "comment": "\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f DDoS \u0441\u043f\u0438\u0441\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432"
-  },
-  {
-    "datetime": "18.03.2022 14:49",
-    "problemtype": "DDoS",
-    "productname": "russia-must-be-stopped",
-    "url": "https://github.com/zozulinskyi/russia-must-be-stopped/commits/main",
-    "comment": "\"\u0421\u043a\u0440\u0438\u043f\u0442, \u0432\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044e\u0449\u0438\u0439 \u0435\u0433\u043e \u0432 \u0441\u0432\u043e\u0435\u0431\u0440\u0430\u0437\u043d\u043e\u0433\u043e \"\"\u0437\u043e\u043c\u0431\u0438\"\" \u0432 \u0431\u043e\u0442-\u0441\u0435\u0442\u0438. \u0422\u0430\u043a\u0436\u0435, \u0432 \u0440\u0435\u043f\u0435 \u043b\u0435\u0436\u0438\u0442 2 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0445 \u0444\u0430\u0439\u043b\u0438\u043a\u0430 \u0441\u043e \u0441\u043f\u0438\u0441\u043a\u0430\u043c\u0438 url-\u0436\u0435\u0440\u0442\u0432.\""
-  },
-  {
-    "datetime": "18.03.2022 11:59",
-    "problemtype": "DDoS",
-    "productname": "Death by 1000 needles",
-    "url": "https://github.com/Arriven/db1000n",
-    "comment": "\u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043a\u043e\u043d\u0444\u0438\u0433 \u0441 ip \u0430\u0434\u0440\u0435\u0441\u0430\u043c\u0438 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0444\u043b\u0443\u0434\u0438\u0442\u044c \u0442\u0440\u0430\u0444\u0438\u043a\u043e\u043c"
-  },
-  {
-    "datetime": "18.03.2022 6:24",
-    "problemtype": "DDoS",
-    "productname": "IT-ARMY-of-Ukraine-Resources-in-English",
-    "url": "https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English",
-    "comment": "\u041f\u043e\u0434\u0431\u043e\u0440\u043a\u0430 \u0446\u0435\u043b\u0435\u0439 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0430\u0442\u0430\u043a \u043f\u043e \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0420\u0424"
-  },
-  {
-    "datetime": "18.03.2022 1:06",
-    "problemtype": "DDoS",
-    "productname": "https://github.com/Luzhnuy/attacker",
-    "url": "https://github.com/Luzhnuy/attacker",
-    "comment": "\u0440\u0435\u043f\u043a\u0430 \u0441 \u0434\u0434\u043e\u0441\u043e\u043c"
-  },
-  {
-    "datetime": "17.03.2022 22:47",
-    "problemtype": "DDoS",
-    "productname": "db1000n",
-    "url": "https://github.com/Arriven/db1000n",
-    "comment": "DDOS \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u043e\u0431\u0449\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0438\u0437 ~100 \u0442\u044b\u0441. \u043f\u0440\u043e\u043a\u0441\u0435\u0439: https://github.com/Arriven/db1000n/blob/main/proxylist.json"
-  },
-  {
-    "datetime": "17.03.2022 22:37",
-    "problemtype": "DDoS",
-    "productname": "bombardier",
-    "url": "https://github.com/almerico/bombardier",
-    "comment": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f DoS-\u0430\u0442\u0430\u043a \u043d\u0430 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0420\u043e\u0441\u0441\u0438\u0438: \u0413\u043e\u0441\u0443\u0441\u043b\u0443\u0433\u0438 \u0438 \u043f\u0440\u043e\u0447."
-  },
-  {
-    "datetime": "17.03.2022 21:56",
-    "problemtype": "DDoS",
-    "productname": "https://github.com/Sateviss",
-    "url": "https://github.com/Sateviss/sateviss.github.io/blob/master/ddos.html",
-    "comment": "\u0413\u0438\u0442\u0445\u0430\u0431 \u0438\u0433\u043d\u043e\u0440\u0438\u0442 \u0430\u0431\u0443\u0437\u044b \u0441 \u0440\u0443 \u0430\u0439\u043f\u0438"
-  },
-  {
-    "datetime": "17.03.2022 21:26",
-    "problemtype": "DDoS",
-    "productname": "russia_ddos",
-    "url": "https://github.com/alexmon1989/russia_ddos",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 19:13",
-    "problemtype": "DDoS",
-    "productname": "AlexTrushkovsky/NoWarDDoS",
-    "url": "https://github.com/AlexTrushkovsky/NoWarDDoS",
-    "comment": "\u0412\u043e\u043e\u0431\u0449\u0435 \u043d\u0430 \u043d\u0435\u0451 \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u043c\u043d\u043e\u0433\u043e \u0440\u0430\u0437, \u0438 \u0432 \u0438\u0442\u043e\u0433\u0435 \u0433\u0438\u0442\u0445\u0430\u0431 \u0432\u044b\u043a\u043e\u0441\u0438\u043b \u0440\u0435\u043f\u0443, \u043d\u0430 \u0447\u0442\u043e \u0430\u0432\u0442\u043e\u0440 \u0434\u0430\u0436\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0447\u0442\u043e \u0433\u0438\u0442\u0445\u0430\u0431 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0420\u0443\u0441\u0441\u043a\u0438\u0445. \u0420\u0435\u043f\u0430 \u043e\u043f\u044f\u0442\u044c \u043f\u043e\u044f\u0432\u0438\u043b\u0430\u0441\u044c."
-  },
-  {
-    "datetime": "17.03.2022 18:55",
-    "problemtype": "DDoS",
-    "productname": "ChngYrNick/fuck-warship",
-    "url": "https://github.com/ChngYrNick/fuck-warship",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 18:52",
-    "problemtype": "DDoS",
-    "productname": "SlavaUkraini2022/ddos_for_glory_of_ukraine",
-    "url": "https://github.com/SlavaUkraini2022/ddos_for_glory_of_ukraine",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 18:50",
-    "problemtype": "DDoS",
-    "productname": "UA-IT-Army/aggressor-sites",
-    "url": "https://github.com/UA-IT-Army/aggressor-sites",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 18:47",
-    "problemtype": "DDoS",
-    "productname": "ievgen11/ddoser",
-    "url": "https://github.com/ievgen11/ddoser",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 18:47",
-    "problemtype": "DDoS",
-    "productname": "muterussia/MuteRussia",
-    "url": "https://github.com/muterussia/MuteRussia",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:20",
-    "problemtype": "DDoS",
-    "productname": "smrt-fascismu/RuskiBot-Reddit",
-    "url": "https://github.com/smrt-fascismu/RuskiBot-Reddit",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:20",
-    "problemtype": "DDoS",
-    "productname": "0x77dev/stoprussia",
-    "url": "https://github.com/0x77dev/stoprussia",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:19",
-    "problemtype": "DDoS",
-    "productname": "RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj",
-    "url": "https://github.com/RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:18",
-    "problemtype": "DDoS",
-    "productname": "metastck/putler-doser",
-    "url": "https://github.com/metastck/putler-doser",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:17",
-    "problemtype": "DDoS",
-    "productname": "ajax-lives/NoRussian",
-    "url": "https://github.com/ajax-lives/NoRussian",
-    "comment": "\u0434\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:16",
-    "problemtype": "DDoS",
-    "productname": "opengs/uashield",
-    "url": "https://github.com/opengs/uashield",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 17:16",
-    "problemtype": "DDoS",
-    "productname": "erkexzcx/stoppropaganda",
-    "url": "https://github.com/erkexzcx/stoppropaganda",
-    "comment": "\u0414\u043e\u0441\u0438\u043b\u043a\u0430"
-  },
-  {
-    "datetime": "17.03.2022 15:27",
-    "problemtype": "DDoS",
-    "productname": "vnestoruk/BAN-dera",
-    "url": "https://github.com/vnestoruk/ban-dera",
-    "comment": "\u0421\u0435\u0440\u0432\u0438\u0441, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0434\u043e\u0441\u0438\u0442 \u0441\u0430\u0439\u0442\u044b \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430 \u0441 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439, \u0443 \u043a\u043e\u0433\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u0430 \u0432\u043a\u043b\u0430\u0434\u043a\u0430 \u0441 \u0441\u0430\u0439\u0442\u043e\u043c."
-  }
+    {
+        "datetime": "17.03.2022 13:33",
+        "problem_type": "BACKDOOR",
+        "name": "WordPress плагин Mistape",
+        "commit_link": "https://wordpress.org/plugins/mistape/",
+        "description": "Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора, заливает плагин UnderConstruction, с помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событий в Украине. Автор плагина 24 февраля внёс в него изменения. Дождался, пока обновление разойдётся по пользователям и начал через несколько дней эксплуатировать занесённую туда уязвимость."
+    },
+    {
+        "datetime": "17.03.2022 13:29",
+        "problem_type": "BACKDOOR",
+        "name": "Глянец",
+        "commit_link": "https://drupal.ru/glyanec-scam",
+        "description": "Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сайты, созданные в его компании, будут «взломаны»."
+    },
+    {
+        "datetime": "17.03.2022 14:00",
+        "problem_type": "BROKEN_ASSEMBLY",
+        "name": "https://packagist.org/packages/fomvasss/laravel-dadata",
+        "commit_link": "https://github.com/fomvasss/laravel-dadata",
+        "description": "Удален с github"
+    },
+    {
+        "datetime": "17.03.2022 12:56",
+        "problem_type": "BROKEN_ASSEMBLY",
+        "name": "yandex-php-library",
+        "commit_link": "https://github.com/nixsolutions/yandex-php-library/blob/master/README.md",
+        "description": "Заметил проблему с библиотекой дней 10 назад"
+    },
+    {
+        "datetime": "17.03.2022 12:56",
+        "problem_type": "BROKEN_ASSEMBLY",
+        "name": "Un-Official Yandex-XML PHP library",
+        "commit_link": "https://packagist.org/packages/anton-shevchuk/yandex-xml-library",
+        "description": "В packagist добавлена версия пакета с политическим лозунгом, а исходники удалены из гитхаба. Результат - поломаная сборка проекта"
+    },
+    {
+        "datetime": "19.03.2022 22:00",
+        "problem_type": "DATA_COLLECTION",
+        "name": "Syarol/how-did-they-respond",
+        "commit_link": "https://github.com/Syarol/how-did-they-respond/commit/3983dbb07e8194b8864de90ed724692b1b9406fb",
+        "description": "Сбор данных об организациях высказывающихся в ту или иную пользу о конфликте."
+    },
+    {
+        "datetime": "23.03.2022 12:37",
+        "problem_type": "DDOS",
+        "name": "SlavaUkraini",
+        "commit_link": "https://github.com/ApocalypseCalculator/SlavaUkraini/commit/eee435955849ed04d064e29a60c45f0f2ece48d5",
+        "description": "DDOS tool against RU resources"
+    },
+    {
+        "datetime": "23.03.2022 12:31",
+        "problem_type": "DDOS",
+        "name": "Parad1seBomb",
+        "commit_link": "https://github.com/K1ngSoul/Parad1seBomb",
+        "description": "SMS Bomber for Russia and Ukraine"
+    },
+    {
+        "datetime": "22.03.2022 2:06",
+        "problem_type": "DDOS",
+        "name": "DDoS-Russia-App",
+        "commit_link": "https://github.com/seriascraper/DDoS-Russia-App/commit/a59430c8db86fdc73ed42eb47f4234dfcbdc1f89",
+        "description": "HTML DDoS from https://pwned.space site of RU resources in background"
+    },
+    {
+        "datetime": "22.03.2022 1:58",
+        "problem_type": "DDOS",
+        "name": "Anti-Prop/antiprop_basic",
+        "commit_link": "https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab",
+        "description": "DDoS tool, working from browser, against RU resources"
+    },
+    {
+        "datetime": "22.03.2022 1:40",
+        "problem_type": "DDOS",
+        "name": "dddos",
+        "commit_link": "https://github.com/pauldb09/Dddos/commit/7d9bcbec25c58081b0df8a582acb5fd0bf2d4b67",
+        "description": "DDoS tool with ability to bypass Cloudflare"
+    },
+    {
+        "datetime": "21.03.2022 10:44",
+        "problem_type": "DDOS",
+        "name": "SlavaUkraineSince1991/DDoS-for-all",
+        "commit_link": "https://github.com/SlavaUkraineSince1991/DDoS-for-all",
+        "description": "досилка"
+    },
+    {
+        "datetime": "21.03.2022 9:44",
+        "problem_type": "DDOS",
+        "name": "StopWar.pro",
+        "commit_link": "https://StopWar.pro",
+        "description": "Мобильное приложение со встроенным DDoS"
+    },
+    {
+        "datetime": "19.03.2022 23:23",
+        "problem_type": "DDOS",
+        "name": "dxh-team/CDUW",
+        "commit_link": "https://github.com/dxh-team/CDUW/commit/e2ae41c9315e1de2c32a1b0983f7c897e342d96f",
+        "description": "ПО разработанное и настроенное для атак ресурсов РФ"
+    },
+    {
+        "datetime": "19.03.2022 23:03",
+        "problem_type": "DDOS",
+        "name": "alexander-danilenko/ua-loadtest",
+        "commit_link": "https://github.com/alexander-danilenko/ua-loadtest/commit/ce994b94bf8cc67fd04914d08e3913bcac1c4f53",
+        "description": "ПО для нагрузочного тестирования, ориентированное на использования в DDoS атаках на ресурсы РФ"
+    },
+    {
+        "datetime": "19.03.2022 22:56",
+        "problem_type": "DDOS",
+        "name": "opengs/uashield",
+        "commit_link": "https://github.com/opengs/uashield/commit/f5de10a10e9e2c872450fe82454e838e62ff2d2f",
+        "description": "ПО для хакерских атак настроенное на атаки инфраструктуры и организаций в РФ"
+    },
+    {
+        "datetime": "19.03.2022 22:50",
+        "problem_type": "DDOS",
+        "name": "erkexzcx/stoppropaganda",
+        "commit_link": "https://github.com/erkexzcx/stoppropaganda/commit/d1e0a530e6ebce2b61df2afa038956c074998292",
+        "description": "Хакерское ПО для проведения DDoS атак, настроенное на инфраструктуру и ресурсы РФ"
+    },
+    {
+        "datetime": "19.03.2022 22:46",
+        "problem_type": "DDOS",
+        "name": "dimboknv/tg-stand-with-ukraine",
+        "commit_link": "https://github.com/dimboknv/tg-stand-with-ukraine/commit/77b82fdf8e8552131736b8f0af52d2d37c3de020",
+        "description": "Телеграм бот для массовой рассылки жалоб на телеграм-каналы"
+    },
+    {
+        "datetime": "19.03.2022 22:45",
+        "problem_type": "DDOS",
+        "name": "mytechnotalent/turbo-scanner",
+        "commit_link": "https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352?short_path=b335630#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5",
+        "description": "Сетевой сканер. Инструмент используемый для проведения хакерских атак. На странице добавлен тег Ukraine."
+    },
+    {
+        "datetime": "19.03.2022 22:40",
+        "problem_type": "DDOS",
+        "name": "GloryToUA/Justice3",
+        "commit_link": "https://github.com/GloryToUA/Justice3/commit/38d5e7710929d6a6b19e7c60a867ef6a391abac0",
+        "description": "Инструментарий для хакерских атак, нацеленный на нефтедобывающую отрасль"
+    },
+    {
+        "datetime": "19.03.2022 22:04",
+        "problem_type": "DDOS",
+        "name": "sanfarans/hack4ukraine",
+        "commit_link": "https://github.com/sanfarans/hack4ukraine",
+        "description": "Предположительно - ПО разрабатываемое для проведения хакерских атак на РФ"
+    },
+    {
+        "datetime": "19.03.2022 21:53",
+        "problem_type": "DDOS",
+        "name": "tweedge/ru-ok",
+        "commit_link": "https://github.com/tweedge/ru-ok/commit/f0e1c5cc0c3ceb3e39ccc781a0e4c18a65069595",
+        "description": "Фреймворк для мониторинга ресурсов при проведении атак на ресурсы РФ и ведения информационной разведки"
+    },
+    {
+        "datetime": "19.03.2022 21:32",
+        "problem_type": "DDOS",
+        "name": "0x77dev/stoprussia",
+        "commit_link": "https://github.com/0x77dev/stoprussia",
+        "description": "Набор инструментов для атак инфраструктуры РФ - доставка еды, транспорт, гос.ресурсы, различных коммерческих компаний"
+    },
+    {
+        "datetime": "19.03.2022 21:30",
+        "problem_type": "DDOS",
+        "name": "Инструмент для DDoS атак",
+        "commit_link": "https://github.com/d1sUa/DisDDos",
+        "description": "Инструмент для DDoS атак, призывы к атакам инфраструктуры РФ"
+    },
+    {
+        "datetime": "19.03.2022 0:05",
+        "problem_type": "DDOS",
+        "name": "hack_russia",
+        "commit_link": "https://lostmsu.github.io/hack_russia/",
+        "description": "Инструмент для DDoS списка сайтов"
+    },
+    {
+        "datetime": "18.03.2022 14:49",
+        "problem_type": "DDOS",
+        "name": "russia-must-be-stopped",
+        "commit_link": "https://github.com/zozulinskyi/russia-must-be-stopped/commits/main",
+        "description": "\"Скрипт, встраиваемый в браузер и превращающий его в своебразного \"\"зомби\"\" в бот-сети. Также, в репе лежит 2 текстовых файлика со списками url-жертв.\""
+    },
+    {
+        "datetime": "18.03.2022 11:59",
+        "problem_type": "DDOS",
+        "name": "Death by 1000 needles",
+        "commit_link": "https://github.com/Arriven/db1000n",
+        "description": "получает конфиг с ip адресами и начинает флудить трафиком"
+    },
+    {
+        "datetime": "18.03.2022 6:24",
+        "problem_type": "DDOS",
+        "name": "IT-ARMY-of-Ukraine-Resources-in-English",
+        "commit_link": "https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English",
+        "description": "Подборка целей и инструментов для атак по инфраструктуре РФ"
+    },
+    {
+        "datetime": "18.03.2022 1:06",
+        "problem_type": "DDOS",
+        "name": "https://github.com/Luzhnuy/attacker",
+        "commit_link": "https://github.com/Luzhnuy/attacker",
+        "description": "репка с ддосом"
+    },
+    {
+        "datetime": "17.03.2022 22:47",
+        "problem_type": "DDOS",
+        "name": "db1000n",
+        "commit_link": "https://github.com/Arriven/db1000n",
+        "description": "DDOS осуществляется через общедоступный список из ~100 тыс. проксей: https://github.com/Arriven/db1000n/blob/main/proxylist.json"
+    },
+    {
+        "datetime": "17.03.2022 22:37",
+        "problem_type": "DDOS",
+        "name": "bombardier",
+        "commit_link": "https://github.com/almerico/bombardier",
+        "description": "Организация DoS-атак на инфраструктуру России: Госуслуги и проч."
+    },
+    {
+        "datetime": "17.03.2022 21:56",
+        "problem_type": "DDOS",
+        "name": "https://github.com/Sateviss",
+        "commit_link": "https://github.com/Sateviss/sateviss.github.io/blob/master/ddos.html",
+        "description": "Гитхаб игнорит абузы с ру айпи"
+    },
+    {
+        "datetime": "17.03.2022 21:26",
+        "problem_type": "DDOS",
+        "name": "russia_ddos",
+        "commit_link": "https://github.com/alexmon1989/russia_ddos",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 19:13",
+        "problem_type": "DDOS",
+        "name": "AlexTrushkovsky/NoWarDDoS",
+        "commit_link": "https://github.com/AlexTrushkovsky/NoWarDDoS",
+        "description": "Вообще на неё пожаловались много раз, и в итоге гитхаб выкосил репу, на что автор даже написал что гитхаб поддерживает Русских. Репа опять появилась."
+    },
+    {
+        "datetime": "17.03.2022 18:55",
+        "problem_type": "DDOS",
+        "name": "ChngYrNick/fuck-warship",
+        "commit_link": "https://github.com/ChngYrNick/fuck-warship",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 18:52",
+        "problem_type": "DDOS",
+        "name": "SlavaUkraini2022/ddos_for_glory_of_ukraine",
+        "commit_link": "https://github.com/SlavaUkraini2022/ddos_for_glory_of_ukraine",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 18:50",
+        "problem_type": "DDOS",
+        "name": "UA-IT-Army/aggressor-sites",
+        "commit_link": "https://github.com/UA-IT-Army/aggressor-sites",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 18:47",
+        "problem_type": "DDOS",
+        "name": "ievgen11/ddoser",
+        "commit_link": "https://github.com/ievgen11/ddoser",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 18:47",
+        "problem_type": "DDOS",
+        "name": "muterussia/MuteRussia",
+        "commit_link": "https://github.com/muterussia/MuteRussia",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:20",
+        "problem_type": "DDOS",
+        "name": "smrt-fascismu/RuskiBot-Reddit",
+        "commit_link": "https://github.com/smrt-fascismu/RuskiBot-Reddit",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:20",
+        "problem_type": "DDOS",
+        "name": "0x77dev/stoprussia",
+        "commit_link": "https://github.com/0x77dev/stoprussia",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:19",
+        "problem_type": "DDOS",
+        "name": "RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj",
+        "commit_link": "https://github.com/RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:18",
+        "problem_type": "DDOS",
+        "name": "metastck/putler-doser",
+        "commit_link": "https://github.com/metastck/putler-doser",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:17",
+        "problem_type": "DDOS",
+        "name": "ajax-lives/NoRussian",
+        "commit_link": "https://github.com/ajax-lives/NoRussian",
+        "description": "досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:16",
+        "problem_type": "DDOS",
+        "name": "opengs/uashield",
+        "commit_link": "https://github.com/opengs/uashield",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 17:16",
+        "problem_type": "DDOS",
+        "name": "erkexzcx/stoppropaganda",
+        "commit_link": "https://github.com/erkexzcx/stoppropaganda",
+        "description": "Досилка"
+    },
+    {
+        "datetime": "17.03.2022 15:27",
+        "problem_type": "DDOS",
+        "name": "vnestoruk/BAN-dera",
+        "commit_link": "https://github.com/vnestoruk/ban-dera",
+        "description": "Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом."
+    },
+    {
+        "datetime": "18.03.2022 18:23",
+        "problem_type": "MALVAR",
+        "name": "Kinoko",
+        "commit_link": "https://f-droid.org/en/packages/com.ero.kinoko/",
+        "description": "После последнего обновления напрочь убил телефон. Пока единичный случай."
+    },
+    {
+        "datetime": "18.03.2022 11:04",
+        "problem_type": "MALVAR",
+        "name": "Onefetch",
+        "commit_link": "https://github.com/o2sh/onefetch",
+        "description": "При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
+    },
+    {
+        "datetime": "17.03.2022 8:16",
+        "problem_type": "MALVAR",
+        "name": "node-ipc",
+        "commit_link": "https://github.com/RIAEvangelist/node-ipc/issues/233",
+        "description": "https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js\t Оно реально всю фс закидывает сердечками, если ты из России и Беларуси. Причем вручную поставили 25% вероятности в начале таймаута, чтобы эта штука была больше похоже на плавающий баг, чем на что-то намеренное. https://github.com/RIAEvangelist/node-ipc/commit/1220522453a0388cb4af1a74fe9a0482b6b3a9f3\tОригинальный ресерч автора самого первого issue, который расследовал действие кода. Сейчас его issue потёр автор node-ipc, поэтому исследователь переехал в gist: https://gist.github.com/MidSpike/f7ae3457420af78a54b38a31cc0c809c По ссылке есть таймлайн события, расследования и меры минимизации ущерба. Появились сообщения о том, что уязвимость откатили https://github.com/arendst/Tasmota/commit/ba32044bb25b820a104428585bf4c91c4e927f88 , https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320"
+    },
+    {
+        "datetime": "17.03.2022 2:02",
+        "problem_type": "MALVAR",
+        "name": "https://github.com/RIAEvangelist/peacenotwar",
+        "commit_link": "https://github.com/RIAEvangelist/peacenotwar",
+        "description": "Сама библиотека удаляющая файловую систему по IP из России и Белоруссии"
+    },
+    {
+        "datetime": "16.03.2022 18:10",
+        "problem_type": "MALVAR",
+        "name": "es5-ext",
+        "commit_link": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2",
+        "description": "Коллеги, обращаем внимание, что популярная библиотека https://www.npmjs.com/package/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как негативную пропаганду, так и код по таймзоне увеличивающий утилизацию ресурсов. Смотреть файл - _postinstall.js"
+    },
+    {
+        "datetime": "18.03.2022 10:46",
+        "problem_type": "OTHER",
+        "name": "https://github.com/Yaffle/EventSource",
+        "commit_link": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
+        "description": "https://github.com/Yaffle/EventSource/issues/199"
+    },
+    {
+        "datetime": "17.03.2022 15:19",
+        "problem_type": "OTHER",
+        "name": "RedisDesktopManager",
+        "commit_link": "https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22",
+        "description": "как бы чего еще туда не заложили вредного"
+    },
+    {
+        "datetime": "19.03.2022 23:15",
+        "problem_type": "OTHER",
+        "name": "emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni",
+        "commit_link": "https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55",
+        "description": "Ресурсы для сбора разведданных и аналитики - геолокация, парсинг ресурсов, и т.п."
+    },
+    {
+        "datetime": "19.03.2022 22:29",
+        "problem_type": "OTHER",
+        "name": "danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English",
+        "commit_link": "https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab",
+        "description": "Страница для координации хакерских атак на инфраструктуру РФ, ссылки на прикладное ПО для атак, цели и адреса групп координирующих хакерские атаки"
+    },
+    {
+        "datetime": "19.03.2022 22:26",
+        "problem_type": "OTHER",
+        "name": "a2435191/ukraine-war-map-twitter-bot",
+        "commit_link": "https://github.com/a2435191/ukraine-war-map-twitter-bot/commit/7c8c5fcd1478f5dcf61f76cc754c34e6de2682e1",
+        "description": "Бот для ведения пропаганды в твиттере"
+    },
+    {
+        "datetime": "19.03.2022 22:24",
+        "problem_type": "OTHER",
+        "name": "helpmap/helpmap.io",
+        "commit_link": "https://github.com/helpmap/helpmap.io/commit/a4864227f59d42c216448f82c08d834af2f8eba6",
+        "description": "Фреймворк для массового создания ресурсов для сбора финансов"
+    },
+    {
+        "datetime": "18.03.2022 13:20",
+        "problem_type": "OTHER",
+        "name": "AWS Terraform modules",
+        "commit_link": "https://github.com/terraform-aws-modules/terraform-aws-eks/commit/f5511e4df1f06954229f48df1cf87f9ebc8da26a",
+        "description": "\"Фраза terms of use в readme заменена на information. Думаю, тип проблемы можно сменить на \"\"Лозунги\"\"\""
+    },
+    {
+        "datetime": "18.03.2022 0:49",
+        "problem_type": "OTHER",
+        "name": "https://github.com/NewEXE/belsk-schedule",
+        "commit_link": "https://github.com/NewEXE/belsk-schedule/commit/b27b55bcf992887864d933af19e009e5750c4ca1",
+        "description": "Куча говна"
+    },
+    {
+        "datetime": "18.03.2022 0:23",
+        "problem_type": "OTHER",
+        "name": "OkayCMS",
+        "commit_link": "https://okay-cms.com/ https://ok-cms.com/",
+        "description": "Были политические заявления в блоге и на сайте компании, указывающие на то, что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей"
+    },
+    {
+        "datetime": "17.03.2022 22:38",
+        "problem_type": "OTHER",
+        "name": "Qalctulate! (GTK)",
+        "commit_link": "https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456",
+        "description": "\"Remove flags for RUB and BYR/BYN, and show UAH flag when first using the new version;\" Ничего серьезного, но раздражает. Версия с этим коммитом уже в репозиториях arch. Работает не только в РФ/БР, а вообще у всех."
+    },
+    {
+        "datetime": "17.03.2022 22:02",
+        "problem_type": "OTHER",
+        "name": "https://github.com/kbrehme",
+        "commit_link": "https://github.com/kbrehme/niffelheim/commit/7cb93ca14aab68c646a65ef21923835a0f791d4a",
+        "description": "Человек удаляет все что связано с русским народом в модах и скриптах"
+    },
+    {
+        "datetime": "17.03.2022 18:56",
+        "problem_type": "OTHER",
+        "name": "pnpm",
+        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83",
+        "description": "Заблокирован доступ на основной сайт https://pnpm.io по гео признаку."
+    },
+    {
+        "datetime": "19.03.2022 23:11",
+        "problem_type": "OTHER",
+        "name": "ch33r10/SunflowerCon",
+        "commit_link": "https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f",
+        "description": "Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ"
+    },
+    {
+        "datetime": "19.03.2022 22:55",
+        "problem_type": "OTHER",
+        "name": "curated-intel/Ukraine-Cyber-Operations",
+        "commit_link": "curated-intel/Ukraine-Cyber-Operations",
+        "description": "Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ"
+    },
+    {
+        "datetime": "22.03.2022 20:41",
+        "problem_type": "SLOGANS",
+        "name": "pgcli",
+        "commit_link": "https://github.com/dbcli/pgcli/commit/6884c298e6845a4d870ac815a1ed269063fe3ddc",
+        "description": "#StandWithUkraine"
+    },
+    {
+        "datetime": "22.03.2022 19:42",
+        "problem_type": "SLOGANS",
+        "name": "Security-Code-Scan",
+        "commit_link": "https://github.com/security-code-scan/security-code-scan/releases/tag/5.6.2",
+        "description": "I'm the author. :)"
+    },
+    {
+        "datetime": "22.03.2022 19:26",
+        "problem_type": "SLOGANS",
+        "name": "PHPUnit",
+        "commit_link": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
+        "description": "#StandWithUkraine"
+    },
+    {
+        "datetime": "22.03.2022 19:16",
+        "problem_type": "SLOGANS",
+        "name": "PHPUnit 9.5.19",
+        "commit_link": "https://packagist.org/packages/phpunit/phpunit",
+        "description": "PHPUnit 9.5.19 #StandWithUkraine"
+    },
+    {
+        "datetime": "22.03.2022 16:44",
+        "problem_type": "SLOGANS",
+        "name": "https://piccy.info/",
+        "commit_link": "https://piccy.info/",
+        "description": "Сообщение \"\"\"Сайт не работает, потому что\" Россия напала на нас и начинает уничтожать \"мирное население\"\"\""
+    },
+    {
+        "datetime": "22.03.2022 15:56",
+        "problem_type": "SLOGANS",
+        "name": "UpdatePack7R2",
+        "commit_link": "https://blog.simplix.info/",
+        "description": "\"Нет пуша. В сборке от 11.03 при работе в системе с заданными TZ из России или Беларуси выбивает окно \"\"ваша страна поддерживает войну...\"\" и работа завершается.\""
+    },
+    {
+        "datetime": "22.03.2022 15:05",
+        "problem_type": "SLOGANS",
+        "name": "WebdriverIO",
+        "commit_link": "https://github.com/webdriverio/webdriverio/commit/efd781a7ba432bae7720de03704f6a12409da978",
+        "description": "StandWithUkraine banner in в README.md"
+    },
+    {
+        "datetime": "22.03.2022 15:04",
+        "problem_type": "SLOGANS",
+        "name": "Instant Games Bridge",
+        "commit_link": "https://github.com/mewtongames/instant-games-bridge",
+        "description": "Вместо баннеров показываются призывы к революции"
+    },
+    {
+        "datetime": "22.03.2022 14:05",
+        "problem_type": "SLOGANS",
+        "name": "VK Blue - плагин Google Chrome",
+        "commit_link": "https://chrome.google.com/webstore/detail/vk-blue-%D1%8D%D0%BA%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%B8-%D1%81%D0%BA%D1%80%D0%BE/pckkddchhdhkfapanbkcalloijbbjhbd",
+        "description": "Плагин для прослушивания музыки ВК. После установки показывает это: https://ibb.co/P91dP36"
+    },
+    {
+        "datetime": "22.03.2022 12:47",
+        "problem_type": "SLOGANS",
+        "name": "Yad",
+        "commit_link": "https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a",
+        "description": "\"Вырезание русского языка, \"\"DROP K HUJAM russian translation\"\" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); Автор - Украинец, который находится в резерве сил территориальной обороны (https://github.com/v1cont/yad/issues/107#issuecomment-1062908246), \"\"Цели последнего выпуска были в первую очередь политическими и этическими, а не техническими. основной причиной было удаление русского перевода из yad.\"\"\""
+    },
+    {
+        "datetime": "22.03.2022 6:14",
+        "problem_type": "SLOGANS",
+        "name": "Svelte (https://svelte.dev/) и Svelte-Kit (https://kit.svelte.dev/)",
+        "commit_link": "-",
+        "description": "Баннер на сайте в поддержку Украины"
+    },
+    {
+        "datetime": "22.03.2022 1:56",
+        "problem_type": "SLOGANS",
+        "name": "outdatedregime/change",
+        "commit_link": "https://github.com/outdatedregime/change/commit/f22e7f90a5bb8fe2b8f0001d9774fe495084d234",
+        "description": "Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
+    },
+    {
+        "datetime": "22.03.2022 1:53",
+        "problem_type": "SLOGANS",
+        "name": "in-solidarity-with-ukraine",
+        "commit_link": "https://github.com/core-hacked/in-solidarity-with-ukraine/commit/60af44e10440e5fed49aea4e80d84530e46c6ab8",
+        "description": "\"A simple repository with HTML/CSS Ukraine flag and \"\"stop war\"\" text on it.\""
+    },
+    {
+        "datetime": "22.03.2022 1:51",
+        "problem_type": "SLOGANS",
+        "name": "ukrfetch",
+        "commit_link": "https://github.com/ukrfetch/ukrfetch/commit/362853d86a64d093c5ddb8d11d8d06ec69cd7c7c",
+        "description": "Simple fetch tool to show Solidarity with Ukraine"
+    },
+    {
+        "datetime": "22.03.2022 1:42",
+        "problem_type": "SLOGANS",
+        "name": "Russia-Blocker",
+        "commit_link": "https://github.com/Riceblade/Russia-Blocker/commit/ec9b3cd026f28f592c1cf3620da799e6f4f914ec",
+        "description": "Automatically redirects Russian connections to ukrainian charities"
+    },
+    {
+        "datetime": "22.03.2022 1:36",
+        "problem_type": "SLOGANS",
+        "name": "hands-off-ukraine-banner",
+        "commit_link": "https://github.com/filipe-freire/hands-off-ukraine-banner/commit/5a1fa52f04022971fdcc738d4b1d58c9371c1769",
+        "description": "This banner includes easy access links to support Ukraine against the deliberate military invasion of Russia. It was built as a Web Component to facilitate its integration between all the frontend library/frameworks used."
+    },
+    {
+        "datetime": "22.03.2022 1:31",
+        "problem_type": "SLOGANS",
+        "name": "embargoed-list",
+        "commit_link": "https://github.com/rameerez/embargoed-list/blob/main/README.md",
+        "description": "List of all language-specific versions of embargoed, software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
+    },
+    {
+        "datetime": "22.03.2022 1:27",
+        "problem_type": "SLOGANS",
+        "name": "hejny/Ukraine",
+        "commit_link": "https://github.com/hejny/Ukraine/commit/e74a5de837d6ed0e2e11e174f4319a5ededc7c28",
+        "description": "Add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service."
+    },
+    {
+        "datetime": "22.03.2022 1:24",
+        "problem_type": "SLOGANS",
+        "name": "RussianBlocker Public",
+        "commit_link": "https://github.com/OB42/RussianBlocker/commit/10e0ab31f0e0f8372fb24d32544e7e4867d3f688",
+        "description": "Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend, should work 9 times out of 10, except for a few russians near the border)"
+    },
+    {
+        "datetime": "22.03.2022 1:13",
+        "problem_type": "SLOGANS",
+        "name": "PutinWantedPoster",
+        "commit_link": "https://github.com/snippetboy/PutinWantedPoster/commit/fbafce5e49d22c660d9da78919f035b812cced13",
+        "description": "Putin Wanted Poster"
+    },
+    {
+        "datetime": "22.03.2022 1:10",
+        "problem_type": "SLOGANS",
+        "name": "express-putin",
+        "commit_link": "https://github.com/limesquid/express-putin/commit/b3eb6eae757d74d1a8241bc5dd6773dae6920fb2",
+        "description": "Node.js Express middleware to reject requests from all Russian IPs."
+    },
+    {
+        "datetime": "22.03.2022 0:57",
+        "problem_type": "SLOGANS",
+        "name": "yandex-conqueror",
+        "commit_link": "https://github.com/piotrmaslanka/yandex-conqueror/commit/a2f5d01f9a367b22dbafbcb2a9643cb73d2365a1",
+        "description": "A tool to inform the general Russian population about what's going on in year 2022 on Ukraine via posting 5-star reviews to Yandex."
+    },
+    {
+        "datetime": "22.03.2022 0:47",
+        "problem_type": "SLOGANS",
+        "name": "stopwarstopputin Wordpress plugin",
+        "commit_link": "https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/6e75e015fc17186b6e1a0592f02189d5b991805a",
+        "description": "The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war."
+    },
+    {
+        "datetime": "21.03.2022 16:05",
+        "problem_type": "SLOGANS",
+        "name": "voku/portable-ascii",
+        "commit_link": "https://github.com/voku/portable-ascii/commit/377ab19df364e512cb6e49b8c7d026f5b550ac92",
+        "description": "Все пакеты в packagist от пользователя voku: https://packagist.org/packages/voku/ Конкретно у этого более 66 млн. инсталляций"
+    },
+    {
+        "datetime": "21.03.2022 15:28",
+        "problem_type": "SLOGANS",
+        "name": "event-source-polyfill",
+        "commit_link": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
+        "description": "javascript либа. Начиная с версии 1.0.26 выводит alert() на странице."
+    },
+    {
+        "datetime": "21.03.2022 14:36",
+        "problem_type": "SLOGANS",
+        "name": "https://leafletjs.com/",
+        "commit_link": "https://leafletjs.com/",
+        "description": "На сайте популярной библиотки leafletjs появился политический лозунг"
+    },
+    {
+        "datetime": "21.03.2022 13:14",
+        "problem_type": "SLOGANS",
+        "name": "PHPMailer",
+        "commit_link": "https://github.com/PHPMailer/PHPMailer",
+        "description": "Баннер в README."
+    },
+    {
+        "datetime": "21.03.2022 12:33",
+        "problem_type": "SLOGANS",
+        "name": "Appsberry (websa)",
+        "commit_link": "https://websa.advancedhosting.com/StandWithUkraine",
+        "description": "облачный хостинг"
+    },
+    {
+        "datetime": "21.03.2022 12:28",
+        "problem_type": "SLOGANS",
+        "name": "Refactoring.Guru",
+        "commit_link": "https://refactoring.guru/ru/help-ukraine",
+        "description": "Призывы спонсировать украинских военных и волонтеров, гуманитарные благотворительные организации."
+    },
+    {
+        "datetime": "21.03.2022 8:59",
+        "problem_type": "SLOGANS",
+        "name": "Notepad++",
+        "commit_link": "https://notepad-plus-plus.org/news/v833-make-apps-not-war/",
+        "description": "Лозунги на сайте. Есть опасение что последние версии продукта могут их содержать."
+    },
+    {
+        "datetime": "21.03.2022 6:49",
+        "problem_type": "SLOGANS",
+        "name": "Isomorphic Authorization JavaScript library",
+        "commit_link": "https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2",
+        "description": "\"Политический баннер \"\"Stop war in Ukraine. All truth about Russia invasion\"\"\""
+    },
+    {
+        "datetime": "21.03.2022 2:13",
+        "problem_type": "SLOGANS",
+        "name": "Расширение Random User-Agent",
+        "commit_link": "https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90",
+        "description": "так то вроде ничего серьёзного. перекрасили лого в известные цвета."
+    },
+    {
+        "datetime": "20.03.2022 21:20",
+        "problem_type": "SLOGANS",
+        "name": "The unarchiver (macOS App Store)",
+        "commit_link": "https://imgur.com/a/q5DGKxG",
+        "description": "Если не нажать кнопку, то разархивировать не будет, но только раз. При следующем запуске не возникает"
+    },
+    {
+        "datetime": "20.03.2022 20:02",
+        "problem_type": "SLOGANS",
+        "name": "https://www.ratatype.ru/",
+        "commit_link": "https://www.ratatype.ru/",
+        "description": "https://www.ratatype.ru/"
+    },
+    {
+        "datetime": "20.03.2022 18:34",
+        "problem_type": "SLOGANS",
+        "name": "FreePBX",
+        "commit_link": "ОТСУТСТВУЕТ",
+        "description": "При обновлении каждую 5 команду выдает сообщение с призывом остановить РФ"
+    },
+    {
+        "datetime": "20.03.2022 15:00",
+        "problem_type": "SLOGANS",
+        "name": "Diptrace",
+        "commit_link": "Что за жаргон? Почему не использовать нормальные слова, что за гопницкое быдло?",
+        "description": "\"После встречи \"\"пуша в репе\"\" никакого желания что -либо дальше делать нет, общаться с тупой школотой - ну нафиг.\""
+    },
+    {
+        "datetime": "20.03.2022 8:48",
+        "problem_type": "SLOGANS",
+        "name": "yaml-front-matter",
+        "commit_link": "https://github.com/spatie/yaml-front-matter/commit/a5a8443f7d9bfc5c337cf41c92347b6d677d23bb",
+        "description": "https://github.com/spatie/yaml-front-matter - баннер в README.md"
+    },
+    {
+        "datetime": "20.03.2022 0:59",
+        "problem_type": "SLOGANS",
+        "name": "LeafletJs",
+        "commit_link": "https://leafletjs.com/",
+        "description": "\"На главной странице теперь полит-лозунги, с предложением положить \"\"семена в корман\"\" если поддерживаешь РФ. Также ко всем ссылкам в документации добавили лозунг \"\"SlavaUkraini\"\", пример: https://leafletjs.com/SlavaUkraini/reference.html\""
+    },
+    {
+        "datetime": "19.03.2022 23:44",
+        "problem_type": "SLOGANS",
+        "name": "SergeyOcheretenko/StopWarBot",
+        "commit_link": "https://github.com/SergeyOcheretenko/StopWarBot/commit/152d9a0f06625475d913633452c41779a1f9f25b",
+        "description": "Бот для рассылки пропагандистского спама"
+    },
+    {
+        "datetime": "19.03.2022 23:38",
+        "problem_type": "SLOGANS",
+        "name": "goddessmokosh/stop-war-in-ukraine",
+        "commit_link": "https://github.com/goddessmokosh/stop-war-in-ukraine/commit/171191737d289608cc55f7c4324c74fce233821a",
+        "description": "Плагин для wordpress для демонстрации баннеров и сбора средств на ведение боевых действий"
+    },
+    {
+        "datetime": "19.03.2022 23:34",
+        "problem_type": "SLOGANS",
+        "name": "stopwarstopputin/swsp-wordpress-plugin",
+        "commit_link": "https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/f26bd25ec52c366df977848677607ff889b51780",
+        "description": "Плагин для wordpress итегрирующий пропагандистские баннеры"
+    },
+    {
+        "datetime": "19.03.2022 23:06",
+        "problem_type": "SLOGANS",
+        "name": "daocentral/ukraine",
+        "commit_link": "https://github.com/daocentral/ukraine/commit/ffc07ebc67c244c59acd4d01193c428f8a5e756c",
+        "description": "Ресурсы цифровой децентрализованной организации нацеленной на сбор средств для ведения боевых действий"
+    },
+    {
+        "datetime": "19.03.2022 22:38",
+        "problem_type": "SLOGANS",
+        "name": "petrussola/help-ukraine-open-source",
+        "commit_link": "https://github.com/petrussola/help-ukraine-open-source/commit/676bfac5ed77ccb6b6a8a731353ed6239a57d45f",
+        "description": "Список опенсорс проектов, используемых для сбора данных, создания организаций и пропаганды"
+    },
+    {
+        "datetime": "19.03.2022 22:34",
+        "problem_type": "SLOGANS",
+        "name": "hattifn4ttar/youtube_supportfreemedia",
+        "commit_link": "https://github.com/hattifn4ttar/youtube_supportfreemedia/commit/99ae3284665adc24fc393e9537bf74222517a4a8",
+        "description": "ПО для накрутки просмотров пропагандистских youtube роликов"
+    },
+    {
+        "datetime": "19.03.2022 22:31",
+        "problem_type": "SLOGANS",
+        "name": "artshishkin / swarm-digital-ocean",
+        "commit_link": "https://github.com/artshishkin/swarm-digital-ocean/commit/6d718f17f41011f7d710deb8963fee63e39e4afa",
+        "description": "ПО для хакерских атак, настроенное на конкретные ресурсы в РФ"
+    },
+    {
+        "datetime": "19.03.2022 22:27",
+        "problem_type": "SLOGANS",
+        "name": "gianpaj / walnut.tv",
+        "commit_link": "https://github.com/gianpaj/walnut.tv/commit/b29d08c048a1020526a8212c9cd20665c4fba980",
+        "description": "Лозунги в ПО"
+    },
+    {
+        "datetime": "19.03.2022 22:05",
+        "problem_type": "SLOGANS",
+        "name": "VSBalanchuk/AAInUkraine",
+        "commit_link": "https://github.com/VSBalanchuk/AAInUkraine/commit/f400a1b04bcd0055c99aebebe07b165ae5fa5270",
+        "description": "Баннер для размещения на веб-ресурсах"
+    },
+    {
+        "datetime": "19.03.2022 22:01",
+        "problem_type": "SLOGANS",
+        "name": "alexshapalov/Support-Ukraine",
+        "commit_link": "https://github.com/alexshapalov/Support-Ukraine/commit/a5b48de9a8f6e9b36d8519acba803f67693e5125",
+        "description": "Баннер для размещения на веб-ресурсах"
+    },
+    {
+        "datetime": "19.03.2022 21:58",
+        "problem_type": "SLOGANS",
+        "name": "KobaltDigital / goods4ukraine.eu (Laravel)",
+        "commit_link": "https://github.com/KobaltDigital/goods4ukraine.eu/commit/2dfda21ef8f0d18a4afce9c886367c4f8aabc543",
+        "description": "Веб-фреймворк, название переименовано в лозунг"
+    },
+    {
+        "datetime": "19.03.2022 21:46",
+        "problem_type": "SLOGANS",
+        "name": "vshymanskyy/StandWithUkraine",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine/commit/7c25c6ce0ca2e2956ca710180b095aa9a9dfc355",
+        "description": "Инструментарий для внедрения баннеров в ПО/Веб ресурсы"
+    },
+    {
+        "datetime": "19.03.2022 21:27",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/evermade/support-ukraine-banner",
+        "commit_link": "https://github.com/evermade/support-ukraine-banner",
+        "description": "Софт для распространения баннеров"
+    },
+    {
+        "datetime": "19.03.2022 21:26",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/brzuchal/stop-the-war",
+        "commit_link": "https://github.com/evermade/support-ukraine-banner/commit/38d2bd5cd898452576de53055f48aa82d235b63e",
+        "description": "PHP_CodeSniffer rule adding non-collapsable comment calling out to Stop The War"
+    },
+    {
+        "datetime": "19.03.2022 21:23",
+        "problem_type": "SLOGANS",
+        "name": "rete ete.js Build Status Quality Gate Status Join the chat at https://gitter.im/retejs/Lobby JavaScript framework for visual programming",
+        "commit_link": "https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def",
+        "description": "#StandWithUkraine postinstall message"
+    },
+    {
+        "datetime": "19.03.2022 21:20",
+        "problem_type": "SLOGANS",
+        "name": "Synergy",
+        "commit_link": "https://github.com/symless/synergy-core/commit/c542c57b5ef6ee0640a5a68ecb40a2997a68bedb",
+        "description": "баннер, редирект с ip адресов РФ"
+    },
+    {
+        "datetime": "19.03.2022 20:09",
+        "problem_type": "SLOGANS",
+        "name": "Rust",
+        "commit_link": "https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html",
+        "description": "В начале анонса релиза 1.59.0 абзац: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release, we'd like to state that we stand in solidarity with the people of Ukraine and express our support for all people affected by this conflict."
+    },
+    {
+        "datetime": "19.03.2022 13:05",
+        "problem_type": "SLOGANS",
+        "name": "Winbox snap install",
+        "commit_link": "https://github.com/panaceya/winbox",
+        "description": "Пакет с Winbox для Linux систем. Политика."
+    },
+    {
+        "datetime": "19.03.2022 10:05",
+        "problem_type": "SLOGANS",
+        "name": "-",
+        "commit_link": "https://github.com/ukraine-not-war/stop-war",
+        "description": "-"
+    },
+    {
+        "datetime": "19.03.2022 3:08",
+        "problem_type": "SLOGANS",
+        "name": "Mate Translate",
+        "commit_link": "https://addons.mozilla.org/ru/firefox/addon/instant-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search",
+        "description": "Политические призывы в расширении браузера версии 10.1.13"
+    },
+    {
+        "datetime": "19.03.2022 3:07",
+        "problem_type": "SLOGANS",
+        "name": "Winbox из SANP Linux",
+        "commit_link": "https://snapcraft.io/winbox",
+        "description": "Пакет установлен из магазина SNAP. Политические призывы в версии 3.35 при запуске."
+    },
+    {
+        "datetime": "19.03.2022 1:09",
+        "problem_type": "SLOGANS",
+        "name": "VyOS",
+        "commit_link": "https://blog.vyos.io/global-security-issue-with-russian-federation-invasion-into-ukraine",
+        "description": "В самом коде пока(?) ничего не замечено, автор этой записи комитил последний раз в 2018 году в их репозиторий, но с учетом текста в конце сообщения и общего характера всего поста, надо учитывать в дальнейшем при обновлении. Так же, ниже в комментариях, есть пару сообщений от людей из других стран, которые решили отказаться от данного продукта из-за опасения вреда в будущем. Может быть в списке сделать отдельный раздел для таких случаев?"
+    },
+    {
+        "datetime": "19.03.2022 1:01",
+        "problem_type": "SLOGANS",
+        "name": "LosslessCut",
+        "commit_link": "https://github.com/mifi/lossless-cut/issues/1055",
+        "description": "Добавлена кнопка в самом центре окна программы, которая сначала была украинским флагом, а теперь стала просто картинкой с подсолнухами. При нажатии на ссылку открывается пропагандистская страница https://mifi.no/ukraine.html"
+    },
+    {
+        "datetime": "18.03.2022 23:09",
+        "problem_type": "SLOGANS",
+        "name": "Winbox snap",
+        "commit_link": "https://github.com/panaceya/winbox",
+        "description": "Баннер в поддержку Украины"
+    },
+    {
+        "datetime": "18.03.2022 22:34",
+        "problem_type": "SLOGANS",
+        "name": "terraform-aws-eks",
+        "commit_link": "https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c",
+        "description": "feat: Made it clear that we stand with Ukraine"
+    },
+    {
+        "datetime": "18.03.2022 19:56",
+        "problem_type": "SLOGANS",
+        "name": "svelte.dev",
+        "commit_link": "https://github.com/sveltejs/sites/pull/308",
+        "description": "Баннер с ссылкой на донаты Украине. Автор https://github.com/pngwn"
+    },
+    {
+        "datetime": "18.03.2022 19:31",
+        "problem_type": "SLOGANS",
+        "name": "Jest",
+        "commit_link": "https://jestjs.io/ru/",
+        "description": "Баннер в поддержку Украины."
+    },
+    {
+        "datetime": "18.03.2022 18:35",
+        "problem_type": "SLOGANS",
+        "name": "Nmp core-js",
+        "commit_link": "https://github.com/zloirock/core-js",
+        "description": "При установке агитация и призыв к свержению власти"
+    },
+    {
+        "datetime": "18.03.2022 18:08",
+        "problem_type": "SLOGANS",
+        "name": "phpunit",
+        "commit_link": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
+        "description": "php фреймворк для тестирования кода, политический лозунг (начиная с версий 9.5.17 и 8.5.24 от 5 марта 2022)"
+    },
+    {
+        "datetime": "18.03.2022 18:01",
+        "problem_type": "SLOGANS",
+        "name": "composer",
+        "commit_link": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
+        "description": "менеджер зависимостей для php, хэштег в терминале"
+    },
+    {
+        "datetime": "18.03.2022 17:17",
+        "problem_type": "SLOGANS",
+        "name": "yii2-starter-kit",
+        "commit_link": "https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7",
+        "description": "Лозунги"
+    },
+    {
+        "datetime": "18.03.2022 16:50",
+        "problem_type": "SLOGANS",
+        "name": "mailtrap.io",
+        "commit_link": "mailtrap.io",
+        "description": "Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами, использование сервиса далее заблокировано, vpn решает проблему"
+    },
+    {
+        "datetime": "18.03.2022 16:39",
+        "problem_type": "SLOGANS",
+        "name": "Evolution CMS",
+        "commit_link": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
+        "description": "Подстава после обновления на последнюю версию"
+    },
+    {
+        "datetime": "18.03.2022 16:15",
+        "problem_type": "SLOGANS",
+        "name": "kubernetes-sigs/kind",
+        "commit_link": "https://github.com/kubernetes-sigs/kind/pull/2666",
+        "description": "\"На сайт https://kind.sigs.k8s.io/ добавлен баннер с флагом и ссылка \"\"Help Provide Humanitarian Aid for Ukraine\"\". Стоит следить за новыми коммитами на всякий случай\""
+    },
+    {
+        "datetime": "18.03.2022 15:49",
+        "problem_type": "SLOGANS",
+        "name": "Dotnet Foundation",
+        "commit_link": "https://github.com/dotnet-foundation/website/commit/72ddd84dd8c1b68489d870e467cc584752af8049",
+        "description": "\"Баннер \"\"We Stand with Ukraine\"\"\""
+    },
+    {
+        "datetime": "18.03.2022 15:17",
+        "problem_type": "SLOGANS",
+        "name": "Roave/SecurityAdvisories",
+        "commit_link": "https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8",
+        "description": "При недовольстве примешивания политики в опен сорс, людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
+    },
+    {
+        "datetime": "18.03.2022 14:44",
+        "problem_type": "SLOGANS",
+        "name": "Figma",
+        "commit_link": "https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263/3",
+        "description": "\"Figma решила заморозить корпоративные аккаунты российских клиентов. Личные пока не трогают. (источник: см. \"\"Ссылка на пуш в репе\"\", https://vk.com/wall-30666517_1781721)\""
+    },
+    {
+        "datetime": "18.03.2022 13:04",
+        "problem_type": "SLOGANS",
+        "name": "Leaflet",
+        "commit_link": "https://github.com/Leaflet/Leaflet/commit/c94faa201a916fbf48e30156179d78ab5620d2d5",
+        "description": "На сайте заменена главная страница: https://leafletjs.com/"
+    },
+    {
+        "datetime": "18.03.2022 12:46",
+        "problem_type": "SLOGANS",
+        "name": "Symfony",
+        "commit_link": "https://github.com/symfony/symfony/commit/37ca066c6fb3aac241ccfb12b2531675798528d7",
+        "description": "Шильдик #StandWithUkraine"
+    },
+    {
+        "datetime": "18.03.2022 12:12",
+        "problem_type": "SLOGANS",
+        "name": "EventSource",
+        "commit_link": "https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032",
+        "description": "Полифилы js используются в множестве сторонних сервисов, пол миллиона загрузок в неделю."
+    },
+    {
+        "datetime": "18.03.2022 12:12",
+        "problem_type": "SLOGANS",
+        "name": "snap winbox",
+        "commit_link": "https://github.com/panaceya/winbox",
+        "description": "Лозунги"
+    },
+    {
+        "datetime": "18.03.2022 11:55",
+        "problem_type": "SLOGANS",
+        "name": "https://www.npmjs.com/package/event-source-polyfill",
+        "commit_link": "https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a",
+        "description": "Через 15 секунд после открытия страницы алертит призыв прекратить происходящее и открывает change.org"
+    },
+    {
+        "datetime": "18.03.2022 11:43",
+        "problem_type": "SLOGANS",
+        "name": "T-Regx",
+        "commit_link": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 и https://github.com/T-Regx/T-Regx/commit/7e4812ab0a0c562c0d3e024926c71c24a98fa3b4",
+        "description": "StandWithUkraine banner"
+    },
+    {
+        "datetime": "18.03.2022 11:37",
+        "problem_type": "SLOGANS",
+        "name": "Portable ASCII for PHP",
+        "commit_link": "https://github.com/voku/portable-ascii",
+        "description": "used e.g. in Laravel Core"
+    },
+    {
+        "datetime": "18.03.2022 11:29",
+        "problem_type": "SLOGANS",
+        "name": "react-create-app",
+        "commit_link": "https://github.com/facebook/create-react-app/commit/fd8c5f7b1b1d19d10d24cc2f9fdfc110585dc030",
+        "description": "docs: add homepage banner in support of Ukraine (#12113)"
+    },
+    {
+        "datetime": "18.03.2022 10:38",
+        "problem_type": "SLOGANS",
+        "name": "Symfony",
+        "commit_link": "-",
+        "description": "Баннер в поддержку Украины в шапке сайта"
+    },
+    {
+        "datetime": "18.03.2022 10:32",
+        "problem_type": "SLOGANS",
+        "name": "laminas/*, mezzio/*,",
+        "commit_link": "https://github.com/laminas/laminas-servicemanager/commit/1fb805d456f4e916e5fbddad4d2349adfd2f05ba",
+        "description": "Данный политический лозунг есть во всех пакетах laminas/ и mezzio/."
+    },
+    {
+        "datetime": "18.03.2022 10:22",
+        "problem_type": "SLOGANS",
+        "name": "daemon tools",
+        "commit_link": "daemon-tools.cc",
+        "description": "с главного сайта начали перенаправлять на политический, отключили обновления"
+    },
+    {
+        "datetime": "18.03.2022 10:11",
+        "problem_type": "SLOGANS",
+        "name": "Snap package with winbox",
+        "commit_link": "https://github.com/panaceya/winbox/commit/adb017fd7bf2ea40bbf5e449a20091192188509f",
+        "description": "-"
+    },
+    {
+        "datetime": "18.03.2022 9:16",
+        "problem_type": "SLOGANS",
+        "name": "MUI",
+        "commit_link": "https://github.com/mui/material-ui/pull/31275",
+        "description": "Баннер в поддержку Украины"
+    },
+    {
+        "datetime": "18.03.2022 1:19",
+        "problem_type": "SLOGANS",
+        "name": "Elmedia Player macOS",
+        "commit_link": "…",
+        "description": "Вместо проигрывания медиа файлов запускает видео военных действий с политическими лозунгами"
+    },
+    {
+        "datetime": "18.03.2022 1:05",
+        "problem_type": "SLOGANS",
+        "name": "React.js",
+        "commit_link": "https://github.com/reactjs/reactjs.org/commit/d90fd21fdbedb075a4cc196c16156b534daf14a4",
+        "description": "\"Баннер \"\"Поддержите Украину\"\" на сайте с документацией\""
+    },
+    {
+        "datetime": "18.03.2022 0:17",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/stop-war-in-ukraine",
+        "commit_link": "https://github.com/yarnpkg/website/issues/1155",
+        "description": "Массовый спам issues в репозиториях"
+    },
+    {
+        "datetime": "18.03.2022 0:16",
+        "problem_type": "SLOGANS",
+        "name": "Ember.js",
+        "commit_link": "https://emberjs.com/community/invasion-of-ukraine/",
+        "description": "https://emberjs.com/"
+    },
+    {
+        "datetime": "18.03.2022 0:13",
+        "problem_type": "SLOGANS",
+        "name": "vdz yandex metrika",
+        "commit_link": "https://plugins.trac.wordpress.org/browser/vdz-yandex-metrika/assets/banner-772x250.png?rev=2688057",
+        "description": "это плагин wordpress, Лозунги плюс бекдор, сейчас репозиторий зачищен, плагин блокирован"
+    },
+    {
+        "datetime": "17.03.2022 23:50",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/k01ek",
+        "commit_link": "https://github.com/k01ek/notowar",
+        "description": "\"Примеры программ на разных языках программированиях выводящие текст \"\"No to war\"\"\""
+    },
+    {
+        "datetime": "17.03.2022 23:48",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/mallardduck/",
+        "commit_link": "https://github.com/KickflipCli/kickflip-src",
+        "description": "Генератор фейковых сайтов по шаблону с ключевыми словами и призывами (одного мейнтейнера уже забанили за национальную рознь, другой продолжает работу)"
+    },
+    {
+        "datetime": "17.03.2022 23:32",
+        "problem_type": "SLOGANS",
+        "name": "GM-DONATE (gm-donate.ru) система доната в Garry's mod",
+        "commit_link": "https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd1044710f28c10afa801521cb6bc",
+        "description": "Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов, функционал позволяет."
+    },
+    {
+        "datetime": "17.03.2022 22:52",
+        "problem_type": "SLOGANS",
+        "name": "Redirect Russia",
+        "commit_link": "https://github.com/pabio/redirect-russia",
+        "description": "Скрипт встраиваемый на сайты, перенаправляющий пользователей из России на страницу с политическими лозунгами"
+    },
+    {
+        "datetime": "17.03.2022 22:47",
+        "problem_type": "SLOGANS",
+        "name": "Redirect Russia",
+        "commit_link": "https://github.com/pabio/redirect-russia",
+        "description": "Установленный скрипт на сайте редиректит на страницу с агиткой. Проверяет по ip пользователя и таймзоне."
+    },
+    {
+        "datetime": "17.03.2022 22:43",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/vadimdemedes/ink",
+        "commit_link": "https://github.com/vadimdemedes/ink/issues/506",
+        "description": "Issue с призывом платной поддержки украинской армии"
+    },
+    {
+        "datetime": "17.03.2022 22:41",
+        "problem_type": "SLOGANS",
+        "name": "spaceship-prompt/spaceship-prompt",
+        "commit_link": "https://github.com/spaceship-prompt",
+        "description": "Поддержка полит лозунгами и удаление всех русских issues"
+    },
+    {
+        "datetime": "17.03.2022 22:31",
+        "problem_type": "SLOGANS",
+        "name": "https://pastebin.com/",
+        "commit_link": "https://pastebin.com/",
+        "description": "Политический баннер"
+    },
+    {
+        "datetime": "17.03.2022 22:28",
+        "problem_type": "SLOGANS",
+        "name": "https://github.com/search?l=Markdown&q=SWUbanner&type=Code",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
+        "description": "Есть смысл проверить эти проекты"
+    },
+    {
+        "datetime": "17.03.2022 21:18",
+        "problem_type": "SLOGANS",
+        "name": "Dash Electrum",
+        "commit_link": "https://github.com/akhavr/electrum-dash/commit/80e7bfbc9325f0012dc9c6bd1017cd71de80e2371017cd71de80e237",
+        "description": "Разработчик впилил в продукт Лозунги, сделав их сюрпризом - в логе что в софте нового про это ни слова."
+    },
+    {
+        "datetime": "17.03.2022 20:19",
+        "problem_type": "SLOGANS",
+        "name": "ReactJS",
+        "commit_link": "https://github.com/facebook/react/pull/23375/commits/11e414ce6c67dc6c3c7e8cf4146af5c39c9c93ea",
+        "description": "\"В документации полит. лозунг \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://ru.reactjs.org"
+    },
+    {
+        "datetime": "17.03.2022 20:16",
+        "problem_type": "SLOGANS",
+        "name": "EmotionJS",
+        "commit_link": "https://github.com/emotion-js/emotion/pull/2668",
+        "description": "\"В документации полит. лозунг \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://emotion.sh/docs/introduction"
+    },
+    {
+        "datetime": "17.03.2022 20:14",
+        "problem_type": "SLOGANS",
+        "name": "MUI (Material UI)",
+        "commit_link": "https://github.com/mui/material-ui/pull/31275",
+        "description": "\"В документации полит. лозунг \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\" https://mui.com/getting-started/installation/"
+    },
+    {
+        "datetime": "17.03.2022 20:05",
+        "problem_type": "SLOGANS",
+        "name": "mint",
+        "commit_link": "https://github.com/dbarnett/python-helloworld/pull/13",
+        "description": "https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
+    },
+    {
+        "datetime": "17.03.2022 20:02",
+        "problem_type": "SLOGANS",
+        "name": "CoreELEC",
+        "commit_link": "https://github.com/CoreELEC/CoreELEC",
+        "description": "Замена логотипа в цвета флага Украины"
+    },
+    {
+        "datetime": "17.03.2022 19:46",
+        "problem_type": "SLOGANS",
+        "name": "Return youtube dislike api",
+        "commit_link": "https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf",
+        "description": "\"Добавление на главную страницу украинского флага и ссылки на сайт для поддержки украинской армии; + интересная строка в комментарии одного из разработчиков (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/return-youtube-dislike/issues/497 \"\"https://returnyoutubedislikeapi.com/ is blocked in Russia. If you are there, you won't be able to view or submit dislike votes unless you use a proxy or a VPN.\"\", хотя сервис и работает (https://returnyoutubedislikeapi.com/votes?videoId=kxOuG8jMIgI); Ничего серьёзного про политическую позицию нету\""
+    },
+    {
+        "datetime": "17.03.2022 19:29",
+        "problem_type": "SLOGANS",
+        "name": "pre-commit-terraform",
+        "commit_link": "https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949",
+        "description": "см. условия использования в конце readme"
+    },
+    {
+        "datetime": "17.03.2022 19:23",
+        "problem_type": "SLOGANS",
+        "name": "react-native-ui-lib",
+        "commit_link": "https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c",
+        "description": "Политический баннер #StandWithUkraine"
+    },
+    {
+        "datetime": "17.03.2022 18:52",
+        "problem_type": "SLOGANS",
+        "name": "Winbox snap package",
+        "commit_link": "https://github.com/panaceya/winbox/commit/adb017fd7bf2ea40bbf5e449a20091192188509f",
+        "description": "Мейнтейнер snap-пакета приложил поп-ап, который открывается при использовании русской локали"
+    },
+    {
+        "datetime": "17.03.2022 18:31",
+        "problem_type": "SLOGANS",
+        "name": "Autodesk AutoCAD",
+        "commit_link": "https://www.autodesk.ru/",
+        "description": "Лозунги"
+    },
+    {
+        "datetime": "17.03.2022 18:12",
+        "problem_type": "SLOGANS",
+        "name": "Pnpn менеджер пакетов",
+        "commit_link": "https://github.com/pnpm/pnpm",
+        "description": "Вредительства не замечено, но сайт с доками блочит ру айпи"
+    },
+    {
+        "datetime": "17.03.2022 17:52",
+        "problem_type": "SLOGANS",
+        "name": "Svelte Material UI",
+        "commit_link": "https://github.com/hperrin/svelte-material-ui",
+        "description": "на их официальрном сайте https://sveltematerialui.com/ висит плашка с лозунгом"
+    },
+    {
+        "datetime": "17.03.2022 17:46",
+        "problem_type": "SLOGANS",
+        "name": "filestash",
+        "commit_link": "https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d",
+        "description": "С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали"
+    },
+    {
+        "datetime": "17.03.2022 17:46",
+        "problem_type": "SLOGANS",
+        "name": "Activeadmin SimpleMDE Markdown Editor",
+        "commit_link": "https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9",
+        "description": "Лозунги."
+    },
+    {
+        "datetime": "17.03.2022 17:44",
+        "problem_type": "SLOGANS",
+        "name": "Php Project",
+        "commit_link": "https://github.com/spider-mane/php-project/commit/f742eafcf96496ad7f687f452a5c893d29f3e79e",
+        "description": "#StandWithUkraine"
+    },
+    {
+        "datetime": "17.03.2022 17:41",
+        "problem_type": "SLOGANS",
+        "name": "PHPBench",
+        "commit_link": "https://github.com/phpbench/phpbench/commit/414f462c2ee40a6b30ffafbe0c4ee760e75780f8",
+        "description": "standwithukraine"
+    },
+    {
+        "datetime": "17.03.2022 17:34",
+        "problem_type": "SLOGANS",
+        "name": "django-modeltranslatio",
+        "commit_link": "https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2",
+        "description": "Лозунги в документации"
+    },
+    {
+        "datetime": "17.03.2022 17:31",
+        "problem_type": "SLOGANS",
+        "name": "https://www.11ty.dev/",
+        "commit_link": "https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6",
+        "description": "шильда в шапке Stand with Ukraine ????. До этого была ссылка на донаты для украины"
+    },
+    {
+        "datetime": "17.03.2022 17:06",
+        "problem_type": "SLOGANS",
+        "name": "https://repo.packagist.org",
+        "commit_link": "https://github.com/composer/packagist/pull/1270",
+        "description": "composer update - выдает в консоли #StandWithUkraine"
+    },
+    {
+        "datetime": "17.03.2022 17:06",
+        "problem_type": "SLOGANS",
+        "name": "RNUILib",
+        "commit_link": "https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c",
+        "description": "Баннер #StandWithUkraine"
+    },
+    {
+        "datetime": "17.03.2022 16:49",
+        "problem_type": "SLOGANS",
+        "name": "React",
+        "commit_link": "https://reactjs.org/",
+        "description": "В документации фреймворка на каждой странице шапка с лозунгом"
+    },
+    {
+        "datetime": "17.03.2022 16:42",
+        "problem_type": "SLOGANS",
+        "name": "deskreen",
+        "commit_link": "https://deskreen.com",
+        "description": "Не опенсурс, но не знаю куда ещё отправить эту информацию."
+    },
+    {
+        "datetime": "17.03.2022 16:26",
+        "problem_type": "SLOGANS",
+        "name": "The Unarchiver",
+        "commit_link": "https://github.com/MacPaw (приватный репозиторий)",
+        "description": "Проверить, есть ли что-то помимо лозунгов, пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации."
+    },
+    {
+        "datetime": "17.03.2022 16:06",
+        "problem_type": "SLOGANS",
+        "name": "Spark",
+        "commit_link": "https://sparkmailapp.com/",
+        "description": "Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство, что ограничение на клиентской части приложения, т.к. отказ пришел с обновлениями)"
+    },
+    {
+        "datetime": "17.03.2022 16:00",
+        "problem_type": "SLOGANS",
+        "name": "GNOME extension ddterm",
+        "commit_link": "оф сайт расширений гнома",
+        "description": "Демонстрирует в окне консоли баннер."
+    },
+    {
+        "datetime": "17.03.2022 14:38",
+        "problem_type": "SLOGANS",
+        "name": "plantUml web ресурс",
+        "commit_link": "https://plantuml.com/ru/",
+        "description": "Я аналитик, я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии"
+    },
+    {
+        "datetime": "17.03.2022 14:23",
+        "problem_type": "SLOGANS",
+        "name": "Evolution CMS",
+        "commit_link": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
+        "description": "После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке"
+    },
+    {
+        "datetime": "17.03.2022 14:15",
+        "problem_type": "SLOGANS",
+        "name": "Codeception for PHP",
+        "commit_link": "https://github.com/Codeception/Codeception/commit/eefe1abc60500c0516b85131cbbfbb9a22899db4",
+        "description": "\"при запуске в консоли выводится \"\"Codeception PHP Testing Framework v4.1.31 https://helpukrainewin.org\"\"\""
+    },
+    {
+        "datetime": "17.03.2022 14:15",
+        "problem_type": "SLOGANS",
+        "name": "Docusaurus",
+        "commit_link": "https://github.com/facebook/docusaurus/pull/6811",
+        "description": "Опенсорс проект http://docusaurus.io/"
+    },
+    {
+        "datetime": "17.03.2022 14:11",
+        "problem_type": "SLOGANS",
+        "name": "Набор обновлений UpdatePack7R2 для Windows 7 SP1 и Server 2008 R2 SP1",
+        "commit_link": "https://blog.simplix.info/update7/",
+        "description": "Мартовское обновление не устанавливается. По информации в ченджлоге: История изменений: 22.03.2011 Из-за военного вторжения работа программы на территории России и Беларуси ограничена"
+    },
+    {
+        "datetime": "17.03.2022 14:06",
+        "problem_type": "SLOGANS",
+        "name": "React docs",
+        "commit_link": "не знаю",
+        "description": "ru.reactjs.org и reactjs.org"
+    },
+    {
+        "datetime": "17.03.2022 14:03",
+        "problem_type": "SLOGANS",
+        "name": "evolution",
+        "commit_link": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
+        "description": "Полит лозунг в cms"
+    },
+    {
+        "datetime": "17.03.2022 14:01",
+        "problem_type": "SLOGANS",
+        "name": "Codeception",
+        "commit_link": "https://github.com/Codeception/Codeception/commit/d6b7af9233124652b0425217d633e034bfa9bf2b",
+        "description": "Выводит в консоли ссылку на https://helpukrainewin.org"
+    },
+    {
+        "datetime": "17.03.2022 13:55",
+        "problem_type": "SLOGANS",
+        "name": "ebastianbergmann",
+        "commit_link": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
+        "description": "политика"
+    },
+    {
+        "datetime": "17.03.2022 13:24",
+        "problem_type": "SLOGANS",
+        "name": "The unarchiver.app",
+        "commit_link": "https://macpaw.com/news/macpaw-amidst-aggression",
+        "description": "Дополнительное окно с кнопкой «Узнайте правду о происходящем на Украине»."
+    },
+    {
+        "datetime": "17.03.2022 13:14",
+        "problem_type": "SLOGANS",
+        "name": "mailtrap.io",
+        "commit_link": "https://mailtrap.io/",
+        "description": "Ужас"
+    },
+    {
+        "datetime": "17.03.2022 13:09",
+        "problem_type": "SLOGANS",
+        "name": "React Native website",
+        "commit_link": "https://github.com/facebook/react-native-website/pull/2986",
+        "description": "Баннер в поддержку украины. Автор: https://github.com/dmitryvinn"
+    },
+    {
+        "datetime": "17.03.2022 13:08",
+        "problem_type": "SLOGANS",
+        "name": "@russia-sanctions/base",
+        "commit_link": "https://github.com/Russia-Sanctions/Base",
+        "description": "Просто пакет, который предлагается включать, чтобы выводить Лозунги"
+    },
+    {
+        "datetime": "17.03.2022 13:07",
+        "problem_type": "SLOGANS",
+        "name": "Notepad++",
+        "commit_link": "https://notepad-plus-plus.org/downloads/",
+        "description": "Лозунги в наименовании релиза"
+    },
+    {
+        "datetime": "17.03.2022 13:05",
+        "problem_type": "SLOGANS",
+        "name": "Список github проектов с лозунгами",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
+        "description": "Список github проектов с лозунгами"
+    },
+    {
+        "datetime": "17.03.2022 13:01",
+        "problem_type": "SLOGANS",
+        "name": "StandWithUkraine support materials",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine",
+        "description": "\"В репозитории есть список проектов, которые его используют. Возможно в них есть ещё \"\"закладки\"\", кроме лозунгов из этого репозитория.\""
+    },
+    {
+        "datetime": "17.03.2022 12:56",
+        "problem_type": "SLOGANS",
+        "name": "Поиск по Github",
+        "commit_link": "https://github.com/search?l=Markdown&q=SWUbanner&type=Code",
+        "description": "Ссылка на поиск тех, что включил баннер в репу"
+    },
+    {
+        "datetime": "17.03.2022 12:55",
+        "problem_type": "SLOGANS",
+        "name": "https://1password.com/ - менеджер паролей",
+        "commit_link": "Только ссылка",
+        "description": "https://blog.1password.com/responding-to-the-conflict-in-ukraine/"
+    },
+    {
+        "datetime": "17.03.2022 12:46",
+        "problem_type": "SLOGANS",
+        "name": "React.js",
+        "commit_link": "https://github.com/reactjs/reactjs.org/commit/d90fd21fdbedb075a4cc196c16156b534daf14a4",
+        "description": "Баннер в поддержку украины"
+    },
+    {
+        "datetime": "17.03.2022 12:30",
+        "problem_type": "SLOGANS",
+        "name": "peacenotwar",
+        "commit_link": "https://github.com/RIAEvangelist/peacenotwar",
+        "description": "автор мальваря в node-ipc"
+    },
+    {
+        "datetime": "17.03.2022 12:16",
+        "problem_type": "SLOGANS",
+        "name": "YoutubeDownloader",
+        "commit_link": "https://github.com/Tyrrrz/YoutubeDownloader",
+        "description": "\"Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. \"\"украины\"\"\""
+    },
+    {
+        "datetime": "17.03.2022 11:59",
+        "problem_type": "SLOGANS",
+        "name": "Awesome Prometheus Alerts",
+        "commit_link": "https://github.com/samber/awesome-prometheus-alerts/commit/6bfcdcca165e57c6fa09a561515c33284caa20c2",
+        "description": "Определяет активный у пользователя язык и редиректит на страницу с лозунгами. В следующих коммитах код удалили."
+    },
+    {
+        "datetime": "17.03.2022 11:46",
+        "problem_type": "SLOGANS",
+        "name": "https://docs.nestjs.com/",
+        "commit_link": "https://github.com/nestjs/docs.nestjs.com/commit/a411b74d114a1342170334e84e426b3259c3872c",
+        "description": "\"В документации полит. лозунг \"\"STOP RUSSIA'S INVASION OF UKRAINE\"\"\""
+    },
+    {
+        "datetime": "17.03.2022 11:42",
+        "problem_type": "SLOGANS",
+        "name": "Stop Russia IT",
+        "commit_link": "https://github.com/stop-war-in-ukraine/stop-russia-it",
+        "description": "По ссылке список сервисов, ссылок на обсуждения, петиции на change.org"
+    },
+    {
+        "datetime": "17.03.2022 10:55",
+        "problem_type": "SLOGANS",
+        "name": "verdaccio",
+        "commit_link": "https://github.com/verdaccio/verdaccio/pull/3060",
+        "description": "Баннер в поддержку украины"
+    },
+    {
+        "datetime": "17.03.2022 10:54",
+        "problem_type": "SLOGANS",
+        "name": "ECMAScript extensions",
+        "commit_link": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2",
+        "description": "anti-war manifest"
+    },
+    {
+        "datetime": "17.03.2022 10:45",
+        "problem_type": "SLOGANS",
+        "name": "Группа проектов StandWithUkraine",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine",
+        "description": "По ссылке список проектов участвующих в акции"
+    },
+    {
+        "datetime": "17.03.2022 0:05",
+        "problem_type": "SLOGANS",
+        "name": "Redis Desktop Manager (ранее - resp-app)",
+        "commit_link": "https://github.com/uglide/RedisDesktopManager/commit/3880176abbb0ee877672fd1ae74bda9546a4d1a6",
+        "description": "Лозунги в README, политические коммиты с кодом в истории. Создатель - укр."
+    },
+    {
+        "datetime": "16.03.2022 22:08",
+        "problem_type": "SLOGANS",
+        "name": "StandWithUkraine",
+        "commit_link": "https://github.com/vshymanskyy/StandWithUkraine",
+        "description": "Список интегрировавших к себе призывы задонатить вна Украину в README.md"
+    },
+    {
+        "datetime": "16.03.2022 19:24",
+        "problem_type": "SLOGANS",
+        "name": "PHPUnit",
+        "commit_link": "https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c",
+        "description": "Шильдик #StandWithUkraine"
+    },
+    {
+        "datetime": "16.03.2022 19:21",
+        "problem_type": "SLOGANS",
+        "name": "composer - PHPшный менеджер пакетов",
+        "commit_link": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
+        "description": "Выводится шильдик #StandWithUkrane"
+    },
+    {
+        "datetime": "16.03.2022 19:09",
+        "problem_type": "SLOGANS",
+        "name": "retejs/rete",
+        "commit_link": "https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def",
+        "description": "#StandWithUkraine postinstall message"
+    },
+    {
+        "datetime": "16.03.2022 18:10",
+        "problem_type": "SLOGANS",
+        "name": "AWS Terraform modules",
+        "commit_link": "https://github.com/terraform-aws-modules",
+        "description": "\"все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest), внимание на \"\"дополнительные соглашения\"\" внизу README каждого модуля.\""
+    }
 ]
