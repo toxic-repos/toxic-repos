@@ -917,13 +917,6 @@
         "description": "Баннер в поддержку Украины."
     },
     {
-        "datetime": "18.03.2022 18:35",
-        "problem_type": "SLOGANS",
-        "name": "Nmp core-js",
-        "commit_link": "https://github.com/zloirock/core-js",
-        "description": "При установке агитация и призыв к свержению власти"
-    },
-    {
         "datetime": "18.03.2022 18:08",
         "problem_type": "SLOGANS",
         "name": "phpunit",
