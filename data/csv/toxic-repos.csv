@@ -130,7 +130,6 @@ datetime,problem_type,name,commit_link,description
 18.03.2022 22:34,SLOGANS,terraform-aws-eks,https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c,feat: Made it clear that we stand with Ukraine
 18.03.2022 19:56,SLOGANS,svelte.dev,https://github.com/sveltejs/sites/pull/308,Баннер с ссылкой на донаты Украине. Автор https://github.com/pngwn
 18.03.2022 19:31,SLOGANS,Jest,https://jestjs.io/ru/,Баннер в поддержку Украины.
-18.03.2022 18:35,SLOGANS,Nmp core-js,https://github.com/zloirock/core-js,При установке агитация и призыв к свержению власти
 18.03.2022 18:08,SLOGANS,phpunit,https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c,"php фреймворк для тестирования кода, политический лозунг (начиная с версий 9.5.17 и 8.5.24 от 5 марта 2022)"
 18.03.2022 18:01,SLOGANS,composer,https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981,"менеджер зависимостей для php, хэштег в терминале"
 18.03.2022 17:17,SLOGANS,yii2-starter-kit,https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7,Лозунги
