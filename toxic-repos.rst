@@ -746,12 +746,6 @@ Jest
 
 Баннер в поддержку Украины.
 
-Nmp core-js
------------
-18.03.2022 18:35 | `Commit <https://github.com/zloirock/core-js>`__
-
-При установке агитация и призыв к свержению власти
-
 phpunit
 -------
 18.03.2022 18:08 | `Commit <https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c>`__
