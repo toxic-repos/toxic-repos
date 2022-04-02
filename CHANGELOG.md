@@ -1,0 +1,26 @@
+# 02.04.22
+
+- 0x77dev/stoprussia
+- AWS Terraform modules (terraform-aws-eks)
+- ClamAV (clamav)
+- Composer (php composer, composer)
+- Elasticsearch (ElasticSearch)
+- erkexzcx/stoppropaganda
+- Evolution CMS (evolution)
+- Grafana
+- https://packagist.org/packages/fomvasss/laravel-dadata
+- Leaflet (https://leafletjs.com/, LeafletJs)
+- mailtrap.io
+- mattermost (Mattermost)
+- Notepad++
+- opengs/uashield
+- PHPUnit (phpunit, PHPUnit 9.5.19)
+- pnpm
+- Qt
+- React.js (React Native website, React docs, React, React.js)
+- Redirect Russia
+- Redis
+- Snap package with winbox (Winbox snap install, Winbox snap, snap winbox)
+- styled-components
+- Symfony
+- vshymanskyy/StandWithUkraine (StandWithUkraine support materials)
