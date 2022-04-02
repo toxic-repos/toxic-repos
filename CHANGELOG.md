@@ -1,5 +1,5 @@
 # 02.04.22
-
+[delete]
 - 0x77dev/stoprussia
 - AWS Terraform modules (terraform-aws-eks)
 - ClamAV (clamav)
