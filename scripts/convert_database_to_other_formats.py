@@ -8,10 +8,10 @@ from pathlib import Path
 from dataclasses import dataclass
 
 
-DATABASE_PATH = Path("data/sqlite/toxic-repos.sqlite3")
+DATABASE_PATH = Path("../data/sqlite/toxic-repos.sqlite3")
 
-JSON_OUTFILE_PATH = Path("data/json/toxic-repos.json")
-CSV_OUTFILE_PATH = Path("data/csv/toxic-repos.csv")
+JSON_OUTFILE_PATH = Path("../data/json/toxic-repos.json")
+CSV_OUTFILE_PATH = Path("../data/csv/toxic-repos.csv")
 
 
 def main() -> None:

@@ -9,8 +9,8 @@ from dataclasses import dataclass
 from rst_builder import RSTMaker, RSTBuilder
 
 
-DATABASE_PATH = Path("data/sqlite/toxic-repos.sqlite3")
-OUT_FILE_PATH = Path("toxic-repos.rst")
+DATABASE_PATH = Path("../data/sqlite/toxic-repos.sqlite3")
+OUT_FILE_PATH = Path("../toxic-repos.rst")
 
 
 @dataclass
