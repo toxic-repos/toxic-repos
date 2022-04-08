@@ -1,3 +1,36 @@
+# 08.04.22
+[add]
++ draw.io (for Confluence)
++ AVG AntiVirus Free Edition
++ O&O ShutUp10
++ McAfee Stinger
++ PayPal
++ Сетевая академия Cisco
++ Weather.com
++ Ionos
++ Bitdefender
++ Syncfusion (C#)
++ MoneyGram.com
++ GitLab
++ Oracle SQL Developer
++ Octopus RBL Monster
++ Polspam RHSBL
++ STMicroelectronics
++ MacUpdate - Mac app and software download website
++ intervention.io
++ HPE
++ Synology
++ Intel
++ Bruker
++ DUO Security Multi-Factor Authentication
++ docker-php-extension-installer
++ docker-compose Icinga stack
++ ClickHouse
++ AltStore (iOS)
++ Cucumber JS (NPM package)
++ counter.dev
++ imgur
+
 # 02.04.22
 [delete]
 - 0x77dev/stoprussia
