@@ -2329,5 +2329,12 @@
         "name": "imgur",
         "commit_link": "imgur.com",
         "description": "Перекрасили логотип в цвета украинского флага"
+    },
+    {
+        "datetime": "2022-04-08 12:08:24",
+        "problem_type": "political_slogans",
+        "name": "imageshack",
+        "commit_link": "https://imageshack.com/",
+        "description": "Лозунги при встраивании изображение в код."
     }
 ]
