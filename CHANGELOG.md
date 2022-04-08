@@ -30,6 +30,7 @@
 + Cucumber JS (NPM package)
 + counter.dev
 + imgur
++ imageshack
 
 # 02.04.22
 [delete]
