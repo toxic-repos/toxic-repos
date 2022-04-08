@@ -16,7 +16,7 @@
 
 ## Дополнительно
 
-[CSV](data/csv/toxic-repos.txt)
+[CSV](data/csv/toxic-repos.csv)
 
 [JSON](data/json/toxic-repos.json)
 
