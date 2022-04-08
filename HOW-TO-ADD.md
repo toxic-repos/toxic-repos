@@ -1,7 +1,9 @@
-# Как добавить информацию в список или удалить её из него
+# How to add information to the list or remove it from it
 
-## Интсрукция
+## Instruction
 
-* Вы можете создать Pull request для файла [`toxic-repos.txt`](./data/txt/toxic-repos.txt)
-* Вы можете написать в наш [Телеграм чат](https://t.me/toxic_repos)
-* Вы можете написать нам на почту info@toxic-repos.ru
+- You can write to our [Telegram chat](https://t.me/toxic_repos)
+- You can write to us at info@toxic-repos.ru
+- You can submit your pull reguest;
+- You can create [issue](https://github.com/stravnik/toxic-repos/issues/new);
+- You can start [discussion](https://github.com/stravnik/toxic-repos/discussions/new).

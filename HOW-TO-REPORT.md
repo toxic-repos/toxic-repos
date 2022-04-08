@@ -1,12 +1,12 @@
-# Как сделать репорт
+# How to make a report
 
-## Инструкция
+## Instruction
 
-1. Нажать Block or Report на странице пользователя под аватаркой.
-2. Выбрать «Report Abuse».
-3. Выбрать: I want to report harmful code, such as malware, phishing, or cryptocurrency abuse.
-4. Выбрать: I want to report malware.
-5. В описании указать:
+1. Click Block or Report on the user page under the avatar.
+2. Select "Report Abuse".
+3. Select: I want to report harmful code, such as malware, phishing, or cryptocurrency abuse.
+4. Select: I want to report malware.
+5. In the description, indicate:
 
 This repo of the user: <Ссылка на профиль пользователя>
 
