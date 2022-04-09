@@ -966,6 +966,13 @@
         "description": "Блокировка скачивания релизов open source компонента duo_unix"
     },
     {
+        "datetime": "2022-04-09 09:14:51",
+        "problem_type": "ip_block",
+        "name": "bufbuild/buf",
+        "commit_link": "https://buf.build/",
+        "description": "Политические лозунги + Блокировка доступа. С росcийского IP - 403. Через зарубежное ВПН - всё ок. Так же, без, ВПН больше не работает сборка proto. https://github.com/bufbuild/buf"
+    },
+    {
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
         "name": "Onefetch",
@@ -2336,5 +2343,26 @@
         "name": "imageshack",
         "commit_link": "https://imageshack.com/",
         "description": "Лозунги при встраивании изображение в код."
+    },
+    {
+        "datetime": "2022-04-09 09:10:30",
+        "problem_type": "political_slogans",
+        "name": "yyyar/gobetween",
+        "commit_link": "https://github.com/yyyar/gobetween",
+        "description": "Политические лозунги"
+    },
+    {
+        "datetime": "2022-04-09 09:10:30",
+        "problem_type": "political_slogans",
+        "name": "Canva",
+        "commit_link": "https://www.canva.com/newsroom/news/supporting-ukraine/",
+        "description": "Политические лозунги"
+    },
+    {
+        "datetime": "2022-04-09 09:10:30",
+        "problem_type": "political_slogans",
+        "name": "koreader/koreader",
+        "commit_link": "https://github.com/koreader/koreader/releases/tag/v2022.02",
+        "description": "flag Ukraine with icon app"
     }
 ]

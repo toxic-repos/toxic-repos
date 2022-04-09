@@ -1,696 +1,353 @@
-datetime,problem_type,name,commit_link,description
-
-2022-03-29 15:48:48,broken_assembly,fomvasss/laravel-dadata,https://github.com/fomvasss/laravel-dadata,Удален с github
-
-2022-03-29 15:48:48,broken_assembly,yandex-php-library,https://github.com/nixsolutions/yandex-php-library/blob/master/README.md,"Заметил проблему с библиотекой дней 10 назад, владелец из Харькова,"
-
-2022-03-29 15:48:48,broken_assembly,Un-Official Yandex-XML PHP library,https://packagist.org/packages/anton-shevchuk/yandex-xml-library,"В packagist добавлена версия пакета с политическим лозунгом, а исходники удалены из гитхаба. Результат - поломаная сборка проекта"
-
-2022-03-29 15:48:48,ddos,SlavaUkraini,https://github.com/ApocalypseCalculator/SlavaUkraini/commit/eee435955849ed04d064e29a60c45f0f2ece48d5,DDOS tool against RU resources
-
-2022-03-29 15:48:48,ddos,DDoS-Russia-App,https://github.com/seriascraper/DDoS-Russia-App/commit/a59430c8db86fdc73ed42eb47f4234dfcbdc1f89,HTML DDoS from https://pwned.space site of RU resources in background
-
-2022-03-29 15:48:48,ddos,Anti-Prop/antiprop_basic,https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab,"DDoS tool, working from browser, against RU resources"
-
-2022-03-29 15:48:48,ddos,dddos,https://github.com/pauldb09/Dddos/commit/7d9bcbec25c58081b0df8a582acb5fd0bf2d4b67,DDoS tool with ability to bypass Cloudflare
-
-2022-03-29 15:48:48,ddos,SlavaUkraineSince1991/DDoS-for-all,https://github.com/SlavaUkraineSince1991/DDoS-for-all,досилка
-
-2022-03-29 15:48:48,ddos,StopWar.pro,https://StopWar.pro,Мобильное приложение со встроенным DDoS
-
-2022-03-29 15:48:48,ddos,dxh-team/CDUW,https://github.com/dxh-team/CDUW/commit/e2ae41c9315e1de2c32a1b0983f7c897e342d96f,ПО разработанное и настроенное для атак ресурсов РФ на базе Hammer Dos Script
-
-2022-03-29 15:48:48,ddos,alexander-danilenko/ua-loadtest,https://github.com/alexander-danilenko/ua-loadtest/commit/ce994b94bf8cc67fd04914d08e3913bcac1c4f53,"ПО для нагрузочного тестирования, ориентированное на использования в DDoS атаках на ресурсы РФ"
-
-2022-03-29 15:48:48,ddos,opengs/uashield,https://github.com/opengs/uashield/commit/f5de10a10e9e2c872450fe82454e838e62ff2d2f,ПО для хакерских атак настроенное на атаки инфраструктуры и организаций в РФ
-
-2022-03-29 15:48:48,ddos,erkexzcx/stoppropaganda,https://github.com/erkexzcx/stoppropaganda/commit/d1e0a530e6ebce2b61df2afa038956c074998292,"Хакерское ПО для проведения DDoS атак, настроенное на инфраструктуру и ресурсы РФ"
-
-2022-03-29 15:48:48,ddos,GloryToUA/Justice3,https://github.com/GloryToUA/Justice3/commit/38d5e7710929d6a6b19e7c60a867ef6a391abac0,"Инструментарий для DDoS атак, нацеленный на нефтедобывающую отрасль"
-
-2022-03-29 15:48:48,ddos,0x77dev/stoprussia,https://github.com/0x77dev/stoprussia,"Набор инструментов для атак инфраструктуры РФ - доставка еды, транспорт, гос.ресурсы, различных коммерческих компаний"
-
-2022-03-29 15:48:48,ddos,Инструмент для DDoS атак,https://github.com/d1sUa/DisDDos,"Инструмент для DDoS атак, призывы к атакам инфраструктуры РФ"
-
-2022-03-29 15:48:48,ddos,hack_russia,https://lostmsu.github.io/hack_russia/,Инструмент для DDoS списка сайтов
-
-2022-03-29 15:48:48,ddos,russia-must-be-stopped,https://github.com/zozulinskyi/russia-must-be-stopped/commits/main,"Скрипт, встраиваемый в браузер и превращающий его в своебразного ""зомби"" в бот-сети. Также, в репе лежит 2 текстовых файлика со списками url-жертв."
-
-2022-03-29 15:48:48,ddos,Death by 1000 needles,https://github.com/Arriven/db1000n,получает конфиг с ip адресами и начинает флудить трафиком
-
-2022-03-29 15:48:48,ddos,https://github.com/Luzhnuy/attacker,https://github.com/Luzhnuy/attacker,репка с ддосом
-
-2022-03-29 15:48:48,ddos,db1000n,https://github.com/Arriven/db1000n,DDOS осуществляется через общедоступный список из ~100 тыс. проксей: https://github.com/Arriven/db1000n/blob/main/proxylist.json
-
-2022-03-29 15:48:48,ddos,bombardier,https://github.com/almerico/bombardier,Организация DoS-атак на инфраструктуру России: Госуслуги и проч.
-
-2022-03-29 15:48:48,ddos,https://github.com/Sateviss,https://github.com/Sateviss/sateviss.github.io/blob/master/ddos.html,Гитхаб игнорит абузы с ру айпи
-
-2022-03-29 15:48:48,ddos,russia_ddos,https://github.com/alexmon1989/russia_ddos,Досилка
-
-2022-03-29 15:48:48,ddos,AlexTrushkovsky/NoWarDDoS,https://github.com/AlexTrushkovsky/NoWarDDoS,"Вообще на неё пожаловались много раз, и в итоге гитхаб выкосил репу, на что автор даже написал что гитхаб поддерживает Русских. Репа опять появилась."
-
-2022-03-29 15:48:48,ddos,ChngYrNick/fuck-warship,https://github.com/ChngYrNick/fuck-warship,Досилка
-
-2022-03-29 15:48:48,ddos,SlavaUkraini2022/ddos_for_glory_of_ukraine,https://github.com/SlavaUkraini2022/ddos_for_glory_of_ukraine,Досилка
-
-2022-03-29 15:48:48,ddos,UA-IT-Army/aggressor-sites,https://github.com/UA-IT-Army/aggressor-sites,Досилка
-
-2022-03-29 15:48:48,ddos,ievgen11/ddoser,https://github.com/ievgen11/ddoser,Досилка
-
-2022-03-29 15:48:48,ddos,muterussia/MuteRussia,https://github.com/muterussia/MuteRussia,Досилка
-
-2022-03-29 15:48:48,ddos,smrt-fascismu/RuskiBot-Reddit,https://github.com/smrt-fascismu/RuskiBot-Reddit,Досилка
-
-2022-03-29 15:48:48,ddos,RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj,https://github.com/RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj,Досилка
-
-2022-03-29 15:48:48,ddos,metastck/putler-doser,https://github.com/metastck/putler-doser,Досилка
-
-2022-03-29 15:48:48,ddos,ajax-lives/NoRussian,https://github.com/ajax-lives/NoRussian,досилка
-
-2022-03-29 15:48:48,ddos,vnestoruk/BAN-dera,https://github.com/vnestoruk/ban-dera,"Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом. Я думаю, стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
-
-2022-04-02 10:36:34,ddos,curlpump,https://github.com/yellowsummer1972/curlpump/,"При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты, но и российские компании)."
-
-2022-04-02 10:36:34,ddos,MHDDoS_proxy,https://github.com/SlavaUkraineSince1991/DDoS-for-all/blob/main/MHDDoS_proxy.md,Используется украиной для DDoS атак на российские коммерческие и государственные компании
-
-2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
-
-2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
-
-2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
-
-2022-03-29 15:48:48,hostile_actions,dimboknv/tg-stand-with-ukraine,https://github.com/dimboknv/tg-stand-with-ukraine/commit/77b82fdf8e8552131736b8f0af52d2d37c3de020,Телеграм бот для массовой рассылки жалоб на телеграм-каналы
-
-2022-03-29 15:48:48,hostile_actions,mytechnotalent/turbo-scanner,https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352?short_path=b335630#diff-b3356305,Сетевой сканер. Инструмент используемый для проведения хакерских атак. На странице добавлен тег Ukraine.
-
-2022-03-29 15:48:48,hostile_actions,sanfarans/hack4ukraine,https://github.com/sanfarans/hack4ukraine,На данный момент пустой репозиторий
-
-2022-03-29 15:48:48,hostile_actions,Syarol/how-did-they-respond,https://github.com/Syarol/how-did-they-respond/commit/3983dbb07e8194b8864de90ed724692b1b9406fb,Сбор данных об организациях высказывающихся в ту или иную пользу о конфликте.
-
-2022-03-29 15:48:48,hostile_actions,tweedge/ru-ok,https://github.com/tweedge/ru-ok/commit/f0e1c5cc0c3ceb3e39ccc781a0e4c18a65069595,Фреймворк для мониторинга ресурсов при проведении атак на ресурсы РФ и ведения информационной разведки
-
-2022-03-29 15:48:48,hostile_actions,IT-ARMY-of-Ukraine-Resources-in-English,https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English,Подборка целей и инструментов для атак по инфраструктуре РФ
-
-2022-03-29 15:48:48,hostile_actions,dell.com,https://www.dell.com/restrictions/support/ru-ru/index.html,"Заблокировали возможность скачивания драйверов из России. Вывод сообщения ""В настоящее время компания Dell не может оказывать техническую поддержку на территории России. Приносим извинения за доставленные неудобства."""
-
-2022-03-29 15:48:48,hostile_actions,lenovo.com,https://download.lenovo.com/eol/index.html,Заблокировали возможность скачивания драйверов из Российского региона
-
-2022-03-29 15:48:48,hostile_actions,rubyweekly.com,https://rubyweekly.com/issues/595,Убрали из рассылок русские адреса и возможность подписаться с .ru почты на изменения в языке Ruby и Rails-on-ruby
-
+datetime,problem_type,name,commit_link,description
+2022-03-29 15:48:48,broken_assembly,fomvasss/laravel-dadata,https://github.com/fomvasss/laravel-dadata,Удален с github
+2022-03-29 15:48:48,broken_assembly,yandex-php-library,https://github.com/nixsolutions/yandex-php-library/blob/master/README.md,"Заметил проблему с библиотекой дней 10 назад, владелец из Харькова,"
+2022-03-29 15:48:48,broken_assembly,Un-Official Yandex-XML PHP library,https://packagist.org/packages/anton-shevchuk/yandex-xml-library,"В packagist добавлена версия пакета с политическим лозунгом, а исходники удалены из гитхаба. Результат - поломаная сборка проекта"
+2022-03-29 15:48:48,ddos,SlavaUkraini,https://github.com/ApocalypseCalculator/SlavaUkraini/commit/eee435955849ed04d064e29a60c45f0f2ece48d5,DDOS tool against RU resources
+2022-03-29 15:48:48,ddos,DDoS-Russia-App,https://github.com/seriascraper/DDoS-Russia-App/commit/a59430c8db86fdc73ed42eb47f4234dfcbdc1f89,HTML DDoS from https://pwned.space site of RU resources in background
+2022-03-29 15:48:48,ddos,Anti-Prop/antiprop_basic,https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab,"DDoS tool, working from browser, against RU resources"
+2022-03-29 15:48:48,ddos,dddos,https://github.com/pauldb09/Dddos/commit/7d9bcbec25c58081b0df8a582acb5fd0bf2d4b67,DDoS tool with ability to bypass Cloudflare
+2022-03-29 15:48:48,ddos,SlavaUkraineSince1991/DDoS-for-all,https://github.com/SlavaUkraineSince1991/DDoS-for-all,досилка
+2022-03-29 15:48:48,ddos,StopWar.pro,https://StopWar.pro,Мобильное приложение со встроенным DDoS
+2022-03-29 15:48:48,ddos,dxh-team/CDUW,https://github.com/dxh-team/CDUW/commit/e2ae41c9315e1de2c32a1b0983f7c897e342d96f,ПО разработанное и настроенное для атак ресурсов РФ на базе Hammer Dos Script
+2022-03-29 15:48:48,ddos,alexander-danilenko/ua-loadtest,https://github.com/alexander-danilenko/ua-loadtest/commit/ce994b94bf8cc67fd04914d08e3913bcac1c4f53,"ПО для нагрузочного тестирования, ориентированное на использования в DDoS атаках на ресурсы РФ"
+2022-03-29 15:48:48,ddos,opengs/uashield,https://github.com/opengs/uashield/commit/f5de10a10e9e2c872450fe82454e838e62ff2d2f,ПО для хакерских атак настроенное на атаки инфраструктуры и организаций в РФ
+2022-03-29 15:48:48,ddos,erkexzcx/stoppropaganda,https://github.com/erkexzcx/stoppropaganda/commit/d1e0a530e6ebce2b61df2afa038956c074998292,"Хакерское ПО для проведения DDoS атак, настроенное на инфраструктуру и ресурсы РФ"
+2022-03-29 15:48:48,ddos,GloryToUA/Justice3,https://github.com/GloryToUA/Justice3/commit/38d5e7710929d6a6b19e7c60a867ef6a391abac0,"Инструментарий для DDoS атак, нацеленный на нефтедобывающую отрасль"
+2022-03-29 15:48:48,ddos,0x77dev/stoprussia,https://github.com/0x77dev/stoprussia,"Набор инструментов для атак инфраструктуры РФ - доставка еды, транспорт, гос.ресурсы, различных коммерческих компаний"
+2022-03-29 15:48:48,ddos,Инструмент для DDoS атак,https://github.com/d1sUa/DisDDos,"Инструмент для DDoS атак, призывы к атакам инфраструктуры РФ"
+2022-03-29 15:48:48,ddos,hack_russia,https://lostmsu.github.io/hack_russia/,Инструмент для DDoS списка сайтов
+2022-03-29 15:48:48,ddos,russia-must-be-stopped,https://github.com/zozulinskyi/russia-must-be-stopped/commits/main,"Скрипт, встраиваемый в браузер и превращающий его в своебразного ""зомби"" в бот-сети. Также, в репе лежит 2 текстовых файлика со списками url-жертв."
+2022-03-29 15:48:48,ddos,Death by 1000 needles,https://github.com/Arriven/db1000n,получает конфиг с ip адресами и начинает флудить трафиком
+2022-03-29 15:48:48,ddos,https://github.com/Luzhnuy/attacker,https://github.com/Luzhnuy/attacker,репка с ддосом
+2022-03-29 15:48:48,ddos,db1000n,https://github.com/Arriven/db1000n,DDOS осуществляется через общедоступный список из ~100 тыс. проксей: https://github.com/Arriven/db1000n/blob/main/proxylist.json
+2022-03-29 15:48:48,ddos,bombardier,https://github.com/almerico/bombardier,Организация DoS-атак на инфраструктуру России: Госуслуги и проч.
+2022-03-29 15:48:48,ddos,https://github.com/Sateviss,https://github.com/Sateviss/sateviss.github.io/blob/master/ddos.html,Гитхаб игнорит абузы с ру айпи
+2022-03-29 15:48:48,ddos,russia_ddos,https://github.com/alexmon1989/russia_ddos,Досилка
+2022-03-29 15:48:48,ddos,AlexTrushkovsky/NoWarDDoS,https://github.com/AlexTrushkovsky/NoWarDDoS,"Вообще на неё пожаловались много раз, и в итоге гитхаб выкосил репу, на что автор даже написал что гитхаб поддерживает Русских. Репа опять появилась."
+2022-03-29 15:48:48,ddos,ChngYrNick/fuck-warship,https://github.com/ChngYrNick/fuck-warship,Досилка
+2022-03-29 15:48:48,ddos,SlavaUkraini2022/ddos_for_glory_of_ukraine,https://github.com/SlavaUkraini2022/ddos_for_glory_of_ukraine,Досилка
+2022-03-29 15:48:48,ddos,UA-IT-Army/aggressor-sites,https://github.com/UA-IT-Army/aggressor-sites,Досилка
+2022-03-29 15:48:48,ddos,ievgen11/ddoser,https://github.com/ievgen11/ddoser,Досилка
+2022-03-29 15:48:48,ddos,muterussia/MuteRussia,https://github.com/muterussia/MuteRussia,Досилка
+2022-03-29 15:48:48,ddos,smrt-fascismu/RuskiBot-Reddit,https://github.com/smrt-fascismu/RuskiBot-Reddit,Досилка
+2022-03-29 15:48:48,ddos,RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj,https://github.com/RusskijKorablIdiNaxuj/RusskijKorablIdiNaxuj,Досилка
+2022-03-29 15:48:48,ddos,metastck/putler-doser,https://github.com/metastck/putler-doser,Досилка
+2022-03-29 15:48:48,ddos,ajax-lives/NoRussian,https://github.com/ajax-lives/NoRussian,досилка
+2022-03-29 15:48:48,ddos,vnestoruk/BAN-dera,https://github.com/vnestoruk/ban-dera,"Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом. Я думаю, стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
+2022-04-02 10:36:34,ddos,curlpump,https://github.com/yellowsummer1972/curlpump/,"При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты, но и российские компании)."
+2022-04-02 10:36:34,ddos,MHDDoS_proxy,https://github.com/SlavaUkraineSince1991/DDoS-for-all/blob/main/MHDDoS_proxy.md,Используется украиной для DDoS атак на российские коммерческие и государственные компании
+2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
+2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
+2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
+2022-03-29 15:48:48,hostile_actions,dimboknv/tg-stand-with-ukraine,https://github.com/dimboknv/tg-stand-with-ukraine/commit/77b82fdf8e8552131736b8f0af52d2d37c3de020,Телеграм бот для массовой рассылки жалоб на телеграм-каналы
+2022-03-29 15:48:48,hostile_actions,mytechnotalent/turbo-scanner,https://github.com/mytechnotalent/turbo-scanner/commit/9a03670ada0ef5253f9ecde397c2edd7ed572352?short_path=b335630#diff-b3356305,Сетевой сканер. Инструмент используемый для проведения хакерских атак. На странице добавлен тег Ukraine.
+2022-03-29 15:48:48,hostile_actions,sanfarans/hack4ukraine,https://github.com/sanfarans/hack4ukraine,На данный момент пустой репозиторий
+2022-03-29 15:48:48,hostile_actions,Syarol/how-did-they-respond,https://github.com/Syarol/how-did-they-respond/commit/3983dbb07e8194b8864de90ed724692b1b9406fb,Сбор данных об организациях высказывающихся в ту или иную пользу о конфликте.
+2022-03-29 15:48:48,hostile_actions,tweedge/ru-ok,https://github.com/tweedge/ru-ok/commit/f0e1c5cc0c3ceb3e39ccc781a0e4c18a65069595,Фреймворк для мониторинга ресурсов при проведении атак на ресурсы РФ и ведения информационной разведки
+2022-03-29 15:48:48,hostile_actions,IT-ARMY-of-Ukraine-Resources-in-English,https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English,Подборка целей и инструментов для атак по инфраструктуре РФ
+2022-03-29 15:48:48,hostile_actions,dell.com,https://www.dell.com/restrictions/support/ru-ru/index.html,"Заблокировали возможность скачивания драйверов из России. Вывод сообщения ""В настоящее время компания Dell не может оказывать техническую поддержку на территории России. Приносим извинения за доставленные неудобства."""
+2022-03-29 15:48:48,hostile_actions,lenovo.com,https://download.lenovo.com/eol/index.html,Заблокировали возможность скачивания драйверов из Российского региона
+2022-03-29 15:48:48,hostile_actions,rubyweekly.com,https://rubyweekly.com/issues/595,Убрали из рассылок русские адреса и возможность подписаться с .ru почты на изменения в языке Ruby и Rails-on-ruby
 2022-03-29 15:48:48,hostile_actions,Миландр,https://www.milandr.ru/,"Российская компания Миландр удалила русскоязычный сайт и форум, на котором было много полезной информации по их продуктам (микроконтроллеры и прочие мс).
 
-Объясняют ""внутренней политикой"". На рынке больше 20 лет, были и военные заказы. В поддержке обещают"
-
-2022-03-29 15:48:48,hostile_actions,Firefox,https://phabricator.services.mozilla.com/D140898,удалил поиск Яндекса
-
-2022-03-29 15:48:48,hostile_actions,DeskCamera,https://www.deskcamera.com,"Блокируют проплаченные и активированные лицензии в России. Техподдержка отвечает ""Слава украине""."
-
-2022-03-29 15:48:48,hostile_actions,GitHub,нет,Пришло сегодня письмо от гитхаба: Thank you for your patience during this process. After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be ab
-
-2022-03-29 15:48:48,hostile_actions,1password,https://blog.1password.com/responding-to-the-conflict-in-ukraine/,"Нельзя зарегать новый аккаунт из России, нельзя продлить подписку"
-
-2022-03-29 15:48:48,hostile_actions,Wowza,https://www.wowza.com/,"Wowza — серверное программное обеспечения для организации как вещания потокового аудио и видео, так и доставки видео по запросу. Отозвало лицензии, в связи с чем вещание прекратилось. Ищите замену"
-
-2022-03-29 15:48:48,hostile_actions,Mongodb Atlas,https://www.securitylab.ru/news/530550.php,"Был неприятный инцидент с Mongodb Atlas. Да, это не круто и это многим не нравится. Но это не опенсорсная монга, она на основе опен-сорс"
-
-2022-03-29 15:48:48,hostile_actions,emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni,https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55,"Ресурсы для сбора разведданных и аналитики - геолокация, парсинг ресурсов, и т.п."
-
-2022-03-29 15:48:48,hostile_actions,danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English,https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab,"Страница для координации хакерских атак на инфраструктуру РФ, ссылки на прикладное ПО для атак, цели и адреса групп координирующих хакерские атаки"
-
-2022-03-29 15:48:48,hostile_actions,a2435191/ukraine-war-map-twitter-bot,https://github.com/a2435191/ukraine-war-map-twitter-bot/commit/7c8c5fcd1478f5dcf61f76cc754c34e6de2682e1,Бот для ведения пропаганды в твиттере
-
-2022-03-29 15:48:48,hostile_actions,helpmap/helpmap.io,https://github.com/helpmap/helpmap.io/commit/a4864227f59d42c216448f82c08d834af2f8eba6,Фреймворк для массового создания ресурсов для сбора финансов
-
-2022-03-29 15:48:48,hostile_actions,OkayCMS,https://okay-cms.com/ https://ok-cms.com/,"Были политические заявления в блоге и на сайте компании, указывающие на то, что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей"
-
-2022-03-29 15:48:48,hostile_actions,kbrehme/niffelheim,https://github.com/kbrehme/niffelheim/commit/7cb93ca14aab68c646a65ef21923835a0f791d4a,Человек удаляет все что связано с русским народом в модах и скриптах
-
-2022-03-29 15:48:48,hostile_actions,CliWrap,https://github.com/Tyrrrz/CliWrap,"Внесение в условия использования, по которому использование библиотеки означает согласие с утверждениями которые могут привести у уголовной ответственности, разумеется нарушает принципы Открытого ПО, как заметил в ответах к комментарию автора в твиттере од"
-
-2022-04-02 10:36:34,hostile_actions,AppFollow,https://appfollow.io/blog/supporting-ukraine,не будут продлевать подписки компаний из России и Беларуси. доступ к аккаунту будет заблокирован через 30 дней после окончания подписки.
-
-2022-04-02 10:36:34,hostile_actions,UpdatePack 7 / 2008 R2 / 22.3.11,https://blog.simplix.info/,"UpdatePack 7 / 2008 R2 / 22.3.11 В сборке от 11.03 при работе в системе с заданными TZ из России или Беларуси показывает сообщение ""ваша страна поддерживает войну..."" и работа завершается."
-
-2022-04-02 10:36:34,hostile_actions,W3schools Rus on GitHub,https://github.com/w3schoolsrus/w3schoolsrus.github.io/commit/b3860d3e66dbc0c54ba617326c0378e42fd7fb12,Клон сайта W3schools на русском. Делал укроинец. После 23 февраля решил удалить русский перевод и оставить только украинский. Восстановленная версия по состоянию на 23.02.2022 https://open-source-peace.github.io/w3schoolsrus/ https://github.com/w3schoolsru
-
-2022-04-02 10:36:34,hostile_actions,Uptime kuma,https://github.com/louislam/uptime-kuma/tree/1.12.0 https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released,"Удаляли русский язык, просили путина закончить войну что бы вернуть его."
-
-2022-04-08 11:06:54,hostile_actions,PayPal,paypal.com,"Сняли остаток на счёте, отвязали привязанную виртуальную карту тинькова. При повторной привязке сообщают об ошибке. В списке карт можно выбрать mastercard/visa/итд, а выбор карты МИР - отсутствует. При попытке перевести средства из-за рубежа через форму `https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+user&cmd=_donations&business=user%40domain.com` - предлагают только рубли."
-
-2022-04-08 11:06:54,hostile_actions,Ionos,https://www.ionos.com/,Прекратили услуги регистрации доменных имен для пользователей РБ и РФ
-
-2022-04-08 11:06:54,hostile_actions,MoneyGram.com,moneygram.com,приостановили услуги в России
-
-2022-04-08 11:06:54,hostile_actions,GitLab,gitlab.com,С марта 2022 перестали продлевать и выдавать квоты на новые лицензии
-
-2022-04-08 11:06:54,hostile_actions,HPE,hpe.com,"HPE заблокировал аккаунты из РФ и Беларуси (Есть файлы, которые без зарегистрированного аккаунта с привязанным серийным номером не скачать) 24 марта пришло письмо от ""HPE Headquarters"" <no-reply@hpe.com> Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
-
-2022-04-08 11:06:54,hostile_actions,Synology,https://synology.com/,"При запросе в тех.поддержку Synology, автоматически тикет падает в архив с ответом В связи с последними событиями Synology объявила о временной приостановке поставок всех продуктов и предоставлении технической поддержки любым юридическим и физическим лицам в Российской Федерации и Республике Беларусь. Если в аккаунте выбрать Казахстан, то через время отвечают со скриншотом Dear customer, we are sorry to inform you, that we need to close your technical support request. Due to European Union sanctions, Synology subsidiaries within European Union are temporarily unable to provide support for our products and customers, located in russia and belarus. Please reffer entire EU sanction description attached. Please find here the official Knowldege Center: https://kb.synology.com/ Knowledge Center provides description for all functions and help for most common topics. Please do not answer to this message, as we are unable to send you any further reply. Best Regards Synology GmbH Technical Support"
-
-2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
-
-2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
-
-2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
-
-2022-03-29 15:48:48,ip_block,Elastic search,Elastic.co,По ссылке скачать ответ 403
-
-2022-03-29 15:48:48,ip_block,Sypex Geo,https://sypexgeo.net/,"Sypex Geo – продукт для определение местоположения посетителя по IP-адресу. Проверял через немецкий VPN, работает нормально."
-
-2022-03-29 15:48:48,ip_block,Elasticsearch,docker.elastic.co/elasticsearch/elasticsearch,"Образ не грузится с российского IP. Команда для проверки docker pull docker.elastic.co/elasticsearch/elasticsearch:7.8.1 . См https://ibb.co/kDvN1q3
-
-Доступ к веб сайту https://www.elastic.co/ есть, но скачать ничего нельзя. Оставили доступ только к www, без www выдает ошибку 403. Компания прекратила продажи в РФ."
-
-2022-03-29 15:48:48,ip_block,templatemonster.com,https://www.templatemonster.com/,"Банят по ip через cloudflare. На сайте есть личный кабинет как покупателей так и продавцов, не знаю зависли ли у кого то деньги. Проверить не могу."
-
-2022-03-29 15:48:48,ip_block,Redis,https://redis.io/,"При попытке открыть сайт с IP из России появляется ошибка доступа под предлогом ""This request was blocked by the security rules"". Заблокирован доступ к документации и сайту."
-
-2022-03-29 15:48:48,ip_block,HPE MyAccount Services,Пришла E-mail рассылка на почту аккаунта,"Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
-
-2022-03-29 15:48:48,ip_block,IAR Embedded Workbench,http://eclipse-update.iar.com/,"Закрыт доступ к части сайта, содержащей плагины для среды разработки Eclipse. Фирма IAR Systems является разработчиком компиляторов и интегрированных сред для встраиваемых систем. Также на сайте содержится репозиторий для дополнений к свободной среде Eclip"
-
-2022-03-29 15:48:48,ip_block,ClamAV,https://www.clamav.net/,"Доступ до серверов обновлений ClamAV заблокирован из России.
-
-Доступ к CDN ресурсам ClamAV закрыт для российских IP (решение Cisco). Freshclam не работает. Issue.
-
-https://github.com/Cisco-Talos/clamav/issues/500"
-
-2022-03-29 15:48:48,ip_block,Hewlett Packard Enterprise,https://www.hpe.com/ru/ru/home.html,"Прислали письмо: Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
-
-2022-03-29 15:48:48,ip_block,Jasper Reports,Jaspersoft.com,Ребята из Jaspersoft не пускают на сайт и форум community с российских IP-адресов
-
-2022-03-29 15:48:48,ip_block,Doxygen,doxygen.nl doxygen.org,Нет доступа с территории РФ. При использовании VPN всё ок.
-
-2022-03-29 15:48:48,ip_block,spamcop,(connect to vmx.spamcop.net[184.94.240.112]:25: Connection timed out),Сервис spamcop не принимает жалобы по почте c ip-адресов РФ. Проверено на нескольких хостах/провайдерах
-
-2022-03-29 15:48:48,ip_block,"Продукты HasiCorp (Terraform, Consul и.т.п)",https://apt.releases.hashicorp.com,Заблокирован доступ для скачивания бинарников для IP из России
-
-2022-03-29 15:48:48,ip_block,mattermost,https://mattermost.com/,"Основной сайт отдаёт 403, если заходить с российского адреса"
-
-2022-03-29 15:48:48,ip_block,Lenovo,https://www.lenovo.com/,Не доступны для скачивания с российских IP драйвера.
-
-2022-03-29 15:48:48,ip_block,Shopware,https://www.shopware.com/,"заблокирован доступ с русских ip, заблокирован русский аккаунт при заходе через VPN, предупреждений не было"
-
-2022-03-29 15:48:48,ip_block,snort,https://www.snort.org,Прикрываясь Cloudflare заблокировали сайт проекта ошибкой Error 1020 (заблокированы и базы аллертов). С не российского IP доступ присутствует. Snort — свободная сетевая система предотвращения вторжений (IPS) и обнаружения вторжений(IDS) с открытым исходным
-
-2022-03-29 15:48:48,ip_block,Hybrid Analysis,https://hybrid-analysis.com/,Без прокси не пускает
-
-2022-03-29 15:48:48,ip_block,Qt,https://download.qt.io/,"Закрыли доступ ко всем внутренним ресурсам с 7.03.2022 Не работают ни чат, ни сервер загрузок, ни багтреккер. Фины из Qt Company ничего официально не заявляли - и, будем надеяться, что не будут ничего пихать в сорцы."
-
-2022-03-29 15:48:48,ip_block,Oracle cloud infrastructure,https://www.oracle.com/corporate/conflict-in-ukraine/russia/,"Не дает зайти в аккаунт, виртуальные машины пока еще работают"
-
-2022-03-29 15:48:48,ip_block,pnpm,"https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83 , https://github.com/pnpm/pnpm/commit/0066c11b97799",Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP.
-
-2022-03-29 15:48:48,ip_block,CIrcleCI,https://support.circleci.com/hc/en-us/articles/360043679453-CircleCI-Terms-of-Service-Violation-Sanctioned-Country,"Банит, если зайти под русским IP, банит по github-аккаунту или другому способу авторизации, после бана VPN не поможет, только заполнение из формы"
-
-2022-04-02 10:36:34,ip_block,Oracle,oracle.com,Отключили ВМ
-
-2022-04-02 10:36:34,ip_block,"namecheap.com, nc.me, web-hosting.com",https://www.namecheap.com/,"Изначально обещали удалить все домены, зарегистрированные россиянами, а также приостановить хостинг и почту для доменов в белорусских и российских зонах. Позже сделали исключение для оппозиционных СМИ, но пообещали:
-
-* блокировать платежи с российских карт и с российскими почтовыми адресами
-
-* в саппорте не отвечать на тикеты от пользователей с российскими почтовыми адресами
-
-* забанить хостинг и почту для доменов *.ru*, *.xn--p1ai (рф)*, *.by*, *.xn--90ais (бел)*, *.su*
-
-* в саппорте не отвечать на тикеты от пользователей, которые заходили с российских IP.
-
-
-
-Кроме того, основатель компании Richard Kirkendall в Twitter успеть опубликовать пару антироссийских лозунгов, а саппорт компании противоречит самому себе в твиттере и по электронной почте. Стоит отметить, что хотя полностью домены не удалили, это решение привело к финансовым потерям простых клиентов, так как всем нам придётся менять хостинг и регистратора, ведь даже при желании пользоваться Namecheap в дальнейшем не удастся оплачивать услуги."
-
-2022-04-02 10:36:34,ip_block,Ruckus,https://support.ruckuswireless.com,Блокировали доступ к сайту поддержки/скачивания драйверов/обновлений. Устройства ruckus сами тоже больше не могут обновиться.
-
-2022-04-02 10:36:34,ip_block,GnuDB,https://gnudb.org/,"При подключении с российского IP перенаправляют на заглушку https://ru.gnudb.org/, где только украинский флаг и надпись ""GnuDB is closed for Russia in sympathy with the Ukrainian people."" Через VPN gnudb.org открывается нормально."
-
-2022-04-02 10:36:34,ip_block,Soap UI,https://www.soapui.org/,Заблокирован доступ из РФ. Открывается при включенном VPN
-
-2022-04-02 10:36:34,ip_block,Fiddler Everywhere,https://www.telerik.com/fiddler/fiddler-everywhere,Невозможно активировать триал с российских IP
-
-2022-04-02 10:36:34,ip_block,Mouser Electronics Ru,ru.mouser.com,"Отображается ""В Настоящее Время Данный Веб-Сайт Закрыт."" eu.mouser.com пока работает."
-
-2022-04-02 10:36:34,ip_block,Analog Devices,https://www.analog.com/ru/index.html,Access denied under U.S. Export Administration Regulations.
-
-2022-04-02 10:36:34,ip_block,Middleware inventory / Devops Junction,https://www.middlewareinventory.com/,Не пускает из РФ. Из других стран подключение нормально проходит.
-
-2022-04-02 10:36:34,ip_block,BDD Cucumber,https://cucumber.io/,"Популярный фреймворк тестирования в BDD. Отвечает 403. ""The Amazon CloudFront distribution is configured to block access from your country"""
-
-2022-04-02 10:36:34,ip_block,SaaSJet - партнёр Atlassian,https://saasjet.com/products/,"Украинская компания, продают платные плагины Jira. Заблокирован доступ к сайту из РФ. Установить даёт, а дальше блочит по IP. У себя на сайте сообщают, что помогают IT-армии Украины взламывать ресурсы в РФ."
-
-2022-04-02 10:36:34,ip_block,Shalla Secure Services,https://www.shallalist.de/,"Обновление черного списка приостановлено автором. этот черный список часто используют на шлюзах для блокировки нежелательного контента. Есть риск, что автор нарушит профессиональную этику и внесет в список хорошие сайты. Обычно на шлюзах этот список обновл"
-
-2022-04-02 10:36:34,ip_block,Screaming Frog SEO Spider,https://download.screamingfrog.co.uk/,Закрыли скачивание с российских IP
-
-2022-04-02 10:36:34,ip_block,Посмотрели,posmotre.li,"Называли себя ""свободной энциклопедией"" в статье про опен сорс (правда, с припиской, что не свободны от рекламы). Сперва собирали помощь ""жертвам политических репрессий в РФ и РБ"" на главной, а с началом известных действий на Украине закрыли всем доступ ""д"
-
-2022-04-02 10:36:34,ip_block,bash.im,https://bash.im,"С начала операции сайт выдает только ""НЕТ ВОЙНЕ""3.29.2022 16:47:12"
-
-2022-04-02 10:36:34,ip_block,OVHcloud,https://www.ovhcloud.com,"Невозможно зарегистрировать новый аккаунт, т.к. в списке телефонных кодов стран отсутствует РФ"
-
-2022-04-02 10:36:34,ip_block,Mbed,os.mbed.com,IoT device development. Блокируют доступ по IP из РФ. Сайт доступен через tor.
-
-2022-04-02 10:36:34,ip_block,c-rieger,https://www.c-rieger.de/,Немецкий блог по Nextcloud. При подключении из РФ ошибка 403
-
-2022-04-02 10:36:34,ip_block,Платежный сервис Xsolla,secure.xsolla.com,Не работает из ДНР
-
-2022-04-02 10:36:34,ip_block,A Cloud Guru,https://acloudguru.com/,"Портал с обучением по IT тематике. Сам портал доступен, но при попытке авторизации в личный кабинет с российского IP пишут ""SORRY, THIS SITE IS NOT AVAILABLE IN YOUR AREA."" Техподдержка подтвердила блокировку, но если зайти через европейский VPN, то все ра"
-
-2022-04-02 10:36:34,ip_block,Atlassian Jira,https://www.atlassian.com/ru/software/jira,"Не работает скачивание плагинов с российских IP. Сайт доступен, но при попытке скачать показывать сообщение в поддержку Украины и о приостановке продаж в РФ"
-
-2022-04-02 10:36:34,ip_block,EmBitz,Embitz.org,"Не совсем опенсорс. Бан по IP и по локали, на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE, на easyelectronics уже сумели это обойти."
-
-2022-04-02 10:36:34,ip_block,Downlod Master,https://westbyte.com/,"При заходе с российского IP высвечивает ""403 Forbidden"""
-
-2022-04-02 10:36:34,ip_block,vertica,https://www.vertica.com/,Block reason: Access from your Country was disabled by the administrator.
-
-2022-04-08 11:06:54,ip_block,AVG AntiVirus Free Edition,http://bits.avcdn.net,Заблокирован доступ для скачивания антивируса
-
-2022-04-08 11:06:54,ip_block,O&O ShutUp10,https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe,Заблокирован доступ к серверу для скачивания утилиты для деактивации некоторых функций Windows 10/11
-
-2022-04-08 11:06:54,ip_block,McAfee Stinger,https://downloadcenter.mcafee.com/products/mcafee-avert/Stinger/stinger32.exe,Заблокирован доступ к серверу для скачивания обезвреживающей утилиты
-
-2022-04-08 11:06:54,ip_block,Сетевая академия Cisco,https://www.netacad.com,"Блокируется вход на сайт с российских IP, также заблокированы российские аккаунты"
-
-2022-04-08 11:06:54,ip_block,Weather.com,https://weather.com/,"Заблокирован доступ из России - возвращает ""Bad Request - Blocked"""
-
-2022-04-08 11:06:54,ip_block,Bitdefender,https://bitdefender.com/,"Сайт заблокирован для пользователей РФ. Вполне возможно, что обновления тоже не работают из-за этого."
-
-2022-04-08 11:06:54,ip_block,Syncfusion (C#),https://www.syncfusion.com/,Набор компонент для C# с десятками млн скачиваний. Заблокировали доступ к сайту. Скачать можно с https://www.nuget.org/profiles/SyncfusionInc.
-
-2022-04-08 11:06:54,ip_block,Oracle SQL Developer,https://www.oracle.com/tools/downloads/sqldev-downloads.html,"Блокировка скачивания по IP клиента из России после авторизации на скачивание. Thank you for accessing https://edelivery.oracle.com/akam/otn/java/sqldeveloper/sqldeveloper-21.4.2.018.1706-no-jre.zip In compliance with U.S. and applicable Export laws we are unable to process your request. Please contact RPLS-Ops_ww@oracle.com if you believe you are receiving this notice in error. Debug Info: Edge IP=96.17.6.139, Client IP=<мой IP>, Client Country=RU, Client Region=Not Available"
-
-2022-04-08 11:06:54,ip_block,Octopus RBL Monster,https://octopusdns.com/,"Сервис предоставлял черные списки спаммеров. IP адреса блокируются с сообщением: ""sanction against Belarus"""
-
-2022-04-08 11:06:54,ip_block,Polspam RHSBL,https://polspam.pl/,"Сервис предоставлял черные списки спаммеров. DNS имена блокируются с сообщением ""Русский домен""/""Беларускі дамен"""
-
-2022-04-08 11:06:54,ip_block,STMicroelectronics,https://www.st.com/en/development-tools/stm32cubeide.html,"Запрет загрузки ПО и драйверов - Not available for download, нет доступных для скачивания версий. Паспорта pdf загружаются нормально. Через VPN/Proxy всё работает."
-
-2022-04-08 11:06:54,ip_block,MacUpdate - Mac app and software download website,https://www.macupdate.com,С российского IP перенаправляет на левый сайт с пропагандой
-
-2022-04-08 11:06:54,ip_block,intervention.io,https://github.com/Intervention,"Сайт с документацией не открывается с Российских IP, отображая сообщение про войну."
-
-2022-04-08 11:06:54,ip_block,Intel,https://intel.com/,При обращении с российских адресов или выборе русского языка перебрасывает на заглушку https://www.intel.com/content/www/us/en/support/ru-banner-inside.html Официальный пресс релиз https://www.intel.com/content/www/us/en/newsroom/news/russia-business-statement.html
-
-2022-04-08 11:06:54,ip_block,Bruker,https://bruker.com,"Блокировки российских аккаунтов, российских IP. Техподдержка также не отвечает."
-
-2022-04-08 11:06:54,ip_block,DUO Security Multi-Factor Authentication,https://dl.duosecurity.com,Блокировка скачивания релизов open source компонента duo_unix
-
-2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
-
-2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
-
-2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
-
-2022-03-29 15:48:48,malware,RIAEvangelist/peacenotwar,https://github.com/RIAEvangelist/peacenotwar,Сама библиотека удаляющая файловую систему по IP из России и Белоруссии
-
-2022-03-29 15:48:48,malware,es5-ext,https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2,"Коллеги, обращаем внимание, что популярная библиотека https://www.npmjs.com/package/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как негативную пропаганду, так и код по таймзоне увеличивающий утилиза"
-
-2022-03-29 15:48:48,malware,Parad1seBomb,https://github.com/K1ngSoul/Parad1seBomb,SMS Bomber for Russia and Ukraine
-
-2022-04-08 10:47:53,malware,draw.io (for Confluence),https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263352ce151597273a64e2435,"draw.io is a configurable diagramming/whiteboarding visualization application. draw.io is owned and developed by JGraph Ltd, a UK based software company.
-
-В комьюнити Atlassian сообщили, что draw.io на сервере Confluence удаляет контент и в инфо показывает ""Нет войне"". На маркетплейсе Atlassian указано, что в версии 17.1.4 был некий security fix, исправляющий ошибку в 17.1.3 (без деталей). Проблем с версией 17.1.4 нет, по 17.1.5 пока нет подтверждений.
-
-Лозунги убрали: https://github.com/jgraph/drawio/compare/v17.1.5...v17.2.2
-
-Исследуем убрали ли стирание данных"
-
-2022-03-29 15:48:48,political_slogans,RedisDesktopManager,https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22,как бы чего еще туда не заложили вредного
-
-2022-03-29 15:48:48,political_slogans,WordPress плагин Mistape,https://wordpress.org/plugins/mistape/,"Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора, заливает плагин UnderConstruction, с помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событи"
-
-2022-03-29 15:48:48,political_slogans,Личный сайт Столярова А.В. stolyarov.info,http://stolyarov.info/,"Через пару дней после начала спецоперации сменил весь сайт на надпись ""КОГДА ПУШКИ ГОВОРЯТ, МУЗЫ МОЛЧАТ"" со ссылкой на страницу с книгами (на чём спасибо), функционирование остального сайта в данных обстоятельствах счёл неуместным."
-
-2022-03-29 15:48:48,political_slogans,py7zr,https://github.com/miurahr/py7zr/commit/3ad1743fe00c8c9a2a89b548ed80f7de2406d275,Политический лозунг
-
-2022-03-29 15:48:48,political_slogans,Wireguard VPN,https://github.com/litded/wireguard-vpn,Плашка с агитацией при браузинге
-
-2022-03-29 15:48:48,political_slogans,Unity Ads for Android,https://github.com/Unity-Technologies/unity-ads-android https://unity.com/products/unity-ads,"После встраивания рекламы Unity Ads в мобильную игру, пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети"
-
-2022-03-29 15:48:48,political_slogans,MicrosoftDocs/azure-docs,https://github.com/MicrosoftDocs/azure-docs,В статьях перед справкой появляется #StopRussianWar
-
-2022-03-29 15:48:48,political_slogans,styled-components,https://github.com/styled-components,"после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
-
-2022-03-29 15:48:48,political_slogans,postfixadmin,https://github.com/postfixadmin/postfixadmin.git,Политический баннер #StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,jgraph/drawio-desktop,https://github.com/jgraph/drawio-desktop/commit/2b02c721bf9f2b757919ea552a3f2ff7f11dd9f7,"В меню помощь, в пункте о проекте, политический лозунг нет войне. Появился после обновления на последнюю бинарную версию. Подозреваю, что код в репозитории не совпадает с распространяемым бинарным файлом, так как не нашел в репе этот лозунг. Версия diagram"
-
-2022-03-29 15:48:48,political_slogans,caves.ru,https://caves.ru/,"Форум тех, кто пишет на режимных заводах ""сгиня - вор"" и портит оборудование."
-
-2022-03-29 15:48:48,political_slogans,MacUpdate,https://www.macupdate.com,Баннер на сайте в поддержку Украины.
-
-2022-03-29 15:48:48,political_slogans,PlantUML,https://plantuml.com/ru/,"Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
-
-2022-03-29 15:48:48,political_slogans,Locust,https://github.com/locustio/locust/commit/38fb94d4c39db07a2f984b6b1a6c944a4e489d7f,Added Support Ukraine badge to README.md
-
-2022-03-29 15:48:48,political_slogans,Целый список wordpress плагинов,https://docs.google.com/document/d/1CusIWpZVO5TrQNLMWwT7URMiEfIR6y3K45GGWTBEOZU/edit?usp=sharing,Как минимум один из них собирает донаты на военную компанию https://plugins.trac.wordpress.org/browser/stand-with-ukraine/trunk/stand-with-ukraine.php#L26
-
-2022-03-29 15:48:48,political_slogans,MicroSIP,https://www.microsip.org/,"Лозунги на сайте, возможно какой-то недокументированный функционал в новых версиях"
-
-2022-03-29 15:48:48,political_slogans,Mate,https://prnt.sc/oVezpycty94G,Плагин переводчика для браузера Firefox. Теперь показывает политические лозунги.
-
-2022-03-29 15:48:48,political_slogans,draw.io,https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263,"Пошел слух про то что еще и вайпают данные файла при сохранении, однако подтверждения не нашел. Возможно зарыто где-то глубоко. ""В русской локали последней версии вместо """"О сервисе"""" пропаганда"""
-
-2022-03-29 15:48:48,political_slogans,selenium,https://www.selenium.dev/,Selenium Supports Ukraine
-
-2022-03-29 15:48:48,political_slogans,Composer,https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981,"Выводит текст: ""Info from https://repo.packagist.org: #StandWithUkraine"""
-
-2022-03-29 15:48:48,political_slogans,ukraine-not-war/stop-war,https://github.com/ukraine-not-war/stop-war,виджет
-
-2022-03-29 15:48:48,political_slogans,pgcli,https://github.com/dbcli/pgcli/commit/6884c298e6845a4d870ac815a1ed269063fe3ddc,#StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,Security-Code-Scan,https://github.com/security-code-scan/security-code-scan/releases/tag/5.6.2,I'm the author. :)
-
-2022-03-29 15:48:48,political_slogans,PHPUnit,https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c,политический лозунг (начиная с версий 9.5.17 и 8.5.24 от 5 марта 2022)
-
-2022-03-29 15:48:48,political_slogans,piccy.info,https://piccy.info/,"Сообщение """"""Сайт не работает, потому что"" Россия напала на нас и начинает уничтожать ""мирное население"""""""
-
-2022-03-29 15:48:48,political_slogans,UpdatePack7R2,https://blog.simplix.info/,"Нет пуша. В сборке от 11.03 при работе в системе с заданными TZ из России или Беларуси выбивает окно ""ваша страна поддерживает войну..."" и работа завершается."
-
-2022-03-29 15:48:48,political_slogans,WebdriverIO,https://github.com/webdriverio/webdriverio/commit/efd781a7ba432bae7720de03704f6a12409da978,StandWithUkraine banner in в README.md
-
-2022-03-29 15:48:48,political_slogans,Instant Games Bridge,https://github.com/mewtongames/instant-games-bridge,Вместо баннеров показываются призывы к революции
-
-2022-03-29 15:48:48,political_slogans,VK Blue - плагин Google Chrome,https://chrome.google.com/webstore/detail/vk-blue-%D1%8D%D0%BA%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%B8-%D1%81%D0%,Плагин для прослушивания музыки ВК. После установки показывает это: https://ibb.co/P91dP36
-
-2022-03-29 15:48:48,political_slogans,Yad,https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a,"Вырезание русского языка, ""DROP K HUJAM russian translation"" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); Автор - Украинец, который находится в резерве сил территориальной обороны (https://github.com/v1cont/yad/issues/10"
-
-2022-03-29 15:48:48,political_slogans,Svelte и Svelte-Kit,https://svelte.dev/,Баннер на сайте в поддержку Украины
-
-2022-03-29 15:48:48,political_slogans,outdatedregime/change,https://github.com/outdatedregime/change/commit/f22e7f90a5bb8fe2b8f0001d9774fe495084d234,"Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
-
-2022-03-29 15:48:48,political_slogans,in-solidarity-with-ukraine,https://github.com/core-hacked/in-solidarity-with-ukraine/commit/60af44e10440e5fed49aea4e80d84530e46c6ab8,"A simple repository with HTML/CSS Ukraine flag and ""stop war"" text on it."
-
-2022-03-29 15:48:48,political_slogans,ukrfetch,https://github.com/ukrfetch/ukrfetch/commit/362853d86a64d093c5ddb8d11d8d06ec69cd7c7c,Simple fetch tool to show Solidarity with Ukraine
-
-2022-03-29 15:48:48,political_slogans,Russia-Blocker,https://github.com/Riceblade/Russia-Blocker/commit/ec9b3cd026f28f592c1cf3620da799e6f4f914ec,Automatically redirects Russian connections to ukrainian charities
-
-2022-03-29 15:48:48,political_slogans,hands-off-ukraine-banner,https://github.com/filipe-freire/hands-off-ukraine-banner/commit/5a1fa52f04022971fdcc738d4b1d58c9371c1769,This banner includes easy access links to support Ukraine against the deliberate military invasion of Russia. It was built as a Web Component to facilitate its integration between all the frontend library/frameworks used.
-
-2022-03-29 15:48:48,political_slogans,embargoed-list,https://github.com/rameerez/embargoed-list/blob/main/README.md,"List of all language-specific versions of embargoed, software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
-
-2022-03-29 15:48:48,political_slogans,hejny/Ukraine,https://github.com/hejny/Ukraine/commit/e74a5de837d6ed0e2e11e174f4319a5ededc7c28,"Add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service."
-
-2022-03-29 15:48:48,political_slogans,RussianBlocker Public,https://github.com/OB42/RussianBlocker/commit/10e0ab31f0e0f8372fb24d32544e7e4867d3f688,"Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend, should work 9 times out of 10, except for a few"
-
-2022-03-29 15:48:48,political_slogans,PutinWantedPoster,https://github.com/snippetboy/PutinWantedPoster/commit/fbafce5e49d22c660d9da78919f035b812cced13,Putin Wanted Poster
-
-2022-03-29 15:48:48,political_slogans,express-putin,https://github.com/limesquid/express-putin/commit/b3eb6eae757d74d1a8241bc5dd6773dae6920fb2,Node.js Express middleware to reject requests from all Russian IPs.
-
-2022-03-29 15:48:48,political_slogans,yandex-conqueror,https://github.com/piotrmaslanka/yandex-conqueror/commit/a2f5d01f9a367b22dbafbcb2a9643cb73d2365a1,A tool to inform the general Russian population about what's going on in year 2022 on Ukraine via posting 5-star reviews to Yandex.
-
-2022-03-29 15:48:48,political_slogans,stopwarstopputin Wordpress plugin,https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/6e75e015fc17186b6e1a0592f02189d5b991805a,The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.
-
-2022-03-29 15:48:48,political_slogans,voku/portable-ascii,https://github.com/voku/portable-ascii/commit/377ab19df364e512cb6e49b8c7d026f5b550ac92,Все пакеты в packagist от пользователя voku: https://packagist.org/packages/voku/. Конкретно у этого более 66 млн. инсталляций
-
-2022-03-29 15:48:48,political_slogans,event-source-polyfill,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,javascript либа. Начиная с версии 1.0.26 выводит alert() на странице.
-
-2022-03-29 15:48:48,political_slogans,PHPMailer,https://github.com/PHPMailer/PHPMailer,Баннер в README.
-
-2022-03-29 15:48:48,political_slogans,Appsberry (websa),https://websa.advancedhosting.com/StandWithUkraine,облачный хостинг
-
-2022-03-29 15:48:48,political_slogans,Refactoring.Guru,https://refactoring.guru/ru/help-ukraine,"Призывы спонсировать украинских военных и волонтеров, гуманитарные благотворительные организации."
-
-2022-03-29 15:48:48,political_slogans,Notepad++,https://notepad-plus-plus.org/news/v833-make-apps-not-war/,Политические лозунги на сайте. Есть опасение что последние версии продукта могут их содержать.
-
-2022-03-29 15:48:48,political_slogans,Isomorphic Authorization JavaScript library,https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2,"Политический баннер ""Stop war in Ukraine. All truth about Russia invasion"""
-
-2022-03-29 15:48:48,political_slogans,Расширение Random User-Agent,https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,так то вроде ничего серьёзного. перекрасили лого в известные цвета.
-
-2022-03-29 15:48:48,political_slogans,The unarchiver (macOS App Store),https://imgur.com/a/q5DGKxG,"Если не нажать кнопку, то разархивировать не будет, но только раз. При следующем запуске не возникает"
-
-2022-03-29 15:48:48,political_slogans,ratatype.ru,https://www.ratatype.ru/,https://www.ratatype.ru/
-
-2022-03-29 15:48:48,political_slogans,FreePBX,ОТСУТСТВУЕТ,При обновлении каждую 5 команду выдает сообщение с призывом остановить РФ
-
-2022-03-29 15:48:48,political_slogans,Diptrace,"Что за жаргон? Почему не использовать нормальные слова, что за гопницкое быдло?","После встречи ""пуша в репе"" никакого желания что -либо дальше делать нет, общаться с тупой школотой - ну нафиг."
-
-2022-03-29 15:48:48,political_slogans,yaml-front-matter,https://github.com/spatie/yaml-front-matter/commit/a5a8443f7d9bfc5c337cf41c92347b6d677d23bb,https://github.com/spatie/yaml-front-matter - баннер в README.md
-
-2022-03-29 15:48:48,political_slogans,LeafletJs,https://leafletjs.com/,"На главной странице теперь полит-лозунги, с предложением положить ""семена в корман"" если поддерживаешь РФ. Также ко всем ссылкам в документации добавили лозунг ""SlavaUkraini"", пример: https://leafletjs.com/SlavaUkraini/reference.html"
-
-2022-03-29 15:48:48,political_slogans,SergeyOcheretenko/StopWarBot,https://github.com/SergeyOcheretenko/StopWarBot/commit/152d9a0f06625475d913633452c41779a1f9f25b,Бот для рассылки пропагандистского спама
-
-2022-03-29 15:48:48,political_slogans,goddessmokosh/stop-war-in-ukraine,https://github.com/goddessmokosh/stop-war-in-ukraine/commit/171191737d289608cc55f7c4324c74fce233821a,Плагин для wordpress для демонстрации баннеров и сбора средств на ведение боевых действий
-
-2022-03-29 15:48:48,political_slogans,stopwarstopputin/swsp-wordpress-plugin,https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/f26bd25ec52c366df977848677607ff889b51780,Плагин для wordpress итегрирующий пропагандистские баннеры
-
-2022-03-29 15:48:48,political_slogans,daocentral/ukraine,https://github.com/daocentral/ukraine/commit/ffc07ebc67c244c59acd4d01193c428f8a5e756c,Ресурсы цифровой децентрализованной организации нацеленной на сбор средств для ведения боевых действий
-
-2022-03-29 15:48:48,political_slogans,petrussola/help-ukraine-open-source,https://github.com/petrussola/help-ukraine-open-source/commit/676bfac5ed77ccb6b6a8a731353ed6239a57d45f,"Список опенсорс проектов, используемых для сбора данных, создания организаций и пропаганды"
-
-2022-03-29 15:48:48,political_slogans,hattifn4ttar/youtube_supportfreemedia,https://github.com/hattifn4ttar/youtube_supportfreemedia/commit/99ae3284665adc24fc393e9537bf74222517a4a8,ПО для накрутки просмотров пропагандистских youtube роликов
-
-2022-03-29 15:48:48,political_slogans,artshishkin/swarm-digital-ocean,https://github.com/artshishkin/swarm-digital-ocean/commit/6d718f17f41011f7d710deb8963fee63e39e4afa,"ПО для хакерских атак, настроенное на конкретные ресурсы в РФ"
-
-2022-03-29 15:48:48,political_slogans,gianpaj/walnut.tv,https://github.com/gianpaj/walnut.tv/commit/b29d08c048a1020526a8212c9cd20665c4fba980,Политические лозунги в ПО
-
-2022-03-29 15:48:48,political_slogans,VSBalanchuk/AAInUkraine,https://github.com/VSBalanchuk/AAInUkraine/commit/f400a1b04bcd0055c99aebebe07b165ae5fa5270,Баннер для размещения на веб-ресурсах
-
-2022-03-29 15:48:48,political_slogans,alexshapalov/Support-Ukraine,https://github.com/alexshapalov/Support-Ukraine/commit/a5b48de9a8f6e9b36d8519acba803f67693e5125,Баннер для размещения на веб-ресурсах
-
-2022-03-29 15:48:48,political_slogans,KobaltDigital/goods4ukraine.eu (Laravel),https://github.com/KobaltDigital/goods4ukraine.eu/commit/2dfda21ef8f0d18a4afce9c886367c4f8aabc543,"Веб-фреймворк, название переименовано в лозунг"
-
-2022-03-29 15:48:48,political_slogans,vshymanskyy/StandWithUkraine,https://github.com/vshymanskyy/StandWithUkraine/commit/7c25c6ce0ca2e2956ca710180b095aa9a9dfc355,Инструментарий для внедрения баннеров в ПО/Веб ресурсы
-
-2022-03-29 15:48:48,political_slogans,evermade/support-ukraine-banner,https://github.com/evermade/support-ukraine-banner,Софт для распространения баннеров
-
-2022-03-29 15:48:48,political_slogans,brzuchal/stop-the-war,https://github.com/evermade/support-ukraine-banner/commit/38d2bd5cd898452576de53055f48aa82d235b63e,PHP_CodeSniffer rule adding non-collapsable comment calling out to Stop The War
-
-2022-03-29 15:48:48,political_slogans,retejs/rete,https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def,#StandWithUkraine postinstall message
-
-2022-03-29 15:48:48,political_slogans,Synergy,https://github.com/symless/synergy-core/commit/c542c57b5ef6ee0640a5a68ecb40a2997a68bedb,"баннер, редирект с ip адресов РФ"
-
-2022-03-29 15:48:48,political_slogans,Rust,https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html,"В начале анонса релиза 1.59.0 абзац: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release, we'd like to state that we stand in"
-
-2022-03-29 15:48:48,political_slogans,Winbox snap install,https://github.com/panaceya/winbox,Пакет с Winbox для Linux систем. Политика.
-
-2022-03-29 15:48:48,political_slogans,ukraine-not-war/stop-war,https://github.com/ukraine-not-war/stop-war,-
-
-2022-03-29 15:48:48,political_slogans,Mate Translate,https://addons.mozilla.org/ru/firefox/addon/instant-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=sea,Политические призывы в расширении браузера версии 10.1.13
-
-2022-03-29 15:48:48,political_slogans,Winbox из SANP Linux,https://snapcraft.io/winbox,Пакет установлен из магазина SNAP. Политические призывы в версии 3.35 при запуске.
-
-2022-03-29 15:48:48,political_slogans,VyOS,https://blog.vyos.io/global-security-issue-with-russian-federation-invasion-into-ukraine,"В самом коде пока(?) ничего не замечено, автор этой записи комитил последний раз в 2018 году в их репозиторий, но с учетом текста в конце сообщения и общего характера всего поста, надо учитывать в дальнейшем при обновлении. Так же, ниже в комментариях, ест"
-
-2022-03-29 15:48:48,political_slogans,LosslessCut,https://github.com/mifi/lossless-cut/issues/1055,"Добавлена кнопка в самом центре окна программы, которая сначала была украинским флагом, а теперь стала просто картинкой с подсолнухами. При нажатии на ссылку открывается пропагандистская страница https://mifi.no/ukraine.html"
-
-2022-03-29 15:48:48,political_slogans,svelte.dev,https://github.com/sveltejs/sites/pull/308,Баннер с ссылкой на донаты Украине. Автор https://github.com/pngwn
-
-2022-03-29 15:48:48,political_slogans,Jest,https://jestjs.io/ru/,Баннер в поддержку Украины.
-
-2022-03-29 15:48:48,political_slogans,yii2-starter-kit,https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7,политические лозунги
-
-2022-03-29 15:48:48,political_slogans,mailtrap.io,mailtrap.io,"Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами, использование сервиса далее заблокировано, vpn решает проблему"
-
-2022-03-29 15:48:48,political_slogans,Evolution CMS,https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77,После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке.
-
-2022-03-29 15:48:48,political_slogans,kubernetes-sigs/kind,https://github.com/kubernetes-sigs/kind/pull/2666,"На сайт https://kind.sigs.k8s.io/ добавлен баннер с флагом и ссылка ""Help Provide Humanitarian Aid for Ukraine"". Стоит следить за новыми коммитами на всякий случай"
-
-2022-03-29 15:48:48,political_slogans,Dotnet Foundation,https://github.com/dotnet-foundation/website/commit/72ddd84dd8c1b68489d870e467cc584752af8049,"Баннер ""We Stand with Ukraine"""
-
-2022-03-29 15:48:48,political_slogans,Roave/SecurityAdvisories,https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8,"При недовольстве примешивания политики в опен сорс, людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
-
-2022-03-29 15:48:48,political_slogans,Figma,https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263/3,"Figma решила заморозить корпоративные аккаунты российских клиентов. Личные пока не трогают. (источник: см. ""Ссылка на пуш в репе"", https://vk.com/wall-30666517_1781721)"
-
-2022-03-29 15:48:48,political_slogans,Symfony,https://github.com/symfony/symfony/commit/37ca066c6fb3aac241ccfb12b2531675798528d7,Шильдик #StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,EventSource,https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032,"Полифилы js используются в множестве сторонних сервисов, пол миллиона загрузок в неделю."
-
-2022-03-29 15:48:48,political_slogans,event-source-polyfill,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,Через 15 секунд после открытия страницы алертит призыв прекратить происходящее и открывает change.org
-
-2022-03-29 15:48:48,political_slogans,T-Regx,https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 и https://github.com/T-Regx/T-Regx/commit/7e481,StandWithUkraine banner
-
-2022-03-29 15:48:48,political_slogans,Portable ASCII for PHP,https://github.com/voku/portable-ascii,used e.g. in Laravel Core
-
-2022-03-29 15:48:48,political_slogans,react-create-app,https://github.com/facebook/create-react-app/commit/fd8c5f7b1b1d19d10d24cc2f9fdfc110585dc030,docs: add homepage banner in support of Ukraine (#12113)
-
-2022-03-29 15:48:48,political_slogans,"laminas/*, mezzio/*,",https://github.com/laminas/laminas-servicemanager/commit/1fb805d456f4e916e5fbddad4d2349adfd2f05ba,Данный политический лозунг есть во всех пакетах laminas/ и mezzio/.
-
-2022-03-29 15:48:48,political_slogans,daemon tools,daemon-tools.cc,"с главного сайта начали перенаправлять на политический, отключили обновления"
-
-2022-03-29 15:48:48,political_slogans,MUI,https://github.com/mui/material-ui/pull/31275,Баннер в поддержку Украины
-
-2022-03-29 15:48:48,political_slogans,Elmedia Player macOS,…,Вместо проигрывания медиа файлов запускает видео военных действий с политическими лозунгами
-
-2022-03-29 15:48:48,political_slogans,NewEXE/belsk-schedule,https://github.com/NewEXE/belsk-schedule/commit/b27b55bcf992887864d933af19e009e5750c4ca1,Куча говна
-
-2022-03-29 15:48:48,political_slogans,stop-war-in-ukraine,https://github.com/yarnpkg/website/issues/1155,Массовый спам issues в репозиториях
-
-2022-03-29 15:48:48,political_slogans,Ember.js,https://emberjs.com/community/invasion-of-ukraine/,https://emberjs.com/
-
-2022-03-29 15:48:48,political_slogans,vdz yandex metrika,https://plugins.trac.wordpress.org/browser/vdz-yandex-metrika/assets/banner-772x250.png?rev=2688057,"это плагин wordpress, политические лозунги плюс бекдор, сейчас репозиторий зачищен, плагин блокирован"
-
-2022-03-29 15:48:48,political_slogans,k01ek/notowar,https://github.com/k01ek/notowar,"Примеры программ на разных языках программированиях выводящие текст ""No to war"""
-
-2022-03-29 15:48:48,political_slogans,mallardduck,https://github.com/KickflipCli/kickflip-src,"Генератор фейковых сайтов по шаблону с ключевыми словами и призывами (одного мейнтейнера уже забанили за национальную рознь, другой продолжает работу)"
-
-2022-03-29 15:48:48,political_slogans,GM-DONATE (gm-donate.ru) система доната в Garry's mod,https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd10447,"Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов, функционал позволяет."
-
-2022-03-29 15:48:48,political_slogans,Redirect Russia,https://github.com/pabio/redirect-russia,"Скрипт встраиваемый на сайты, перенаправляющий пользователей из России на страницу с политическими лозунгами"
-
-2022-03-29 15:48:48,political_slogans,vadimdemedes/ink,https://github.com/vadimdemedes/ink/issues/506,Issue с призывом платной поддержки украинской армии
-
-2022-03-29 15:48:48,political_slogans,spaceship-prompt/spaceship-prompt,https://github.com/spaceship-prompt,Поддержка полит лозунгами и удаление всех русских issues
-
-2022-03-29 15:48:48,political_slogans,Qalctulate! (GTK),https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456,"Remove flags for RUB and BYR/BYN, and show UAH flag when first using the new version; Ничего серьезного, но раздражает. Версия с этим коммитом уже в репозиториях arch. Работает не только в РФ/БР, а вообще у всех."
-
-2022-03-29 15:48:48,political_slogans,pastebin.com,https://pastebin.com/,Политический баннер
-
-2022-03-29 15:48:48,political_slogans,SWUbanner,https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine,Есть смысл проверить эти проекты
-
-2022-03-29 15:48:48,political_slogans,Dash Electrum,https://github.com/akhavr/electrum-dash/commit/80e7bfbc9325f0012dc9c6bd1017cd71de80e2371017cd71de80e237,"Разработчик впилил в продукт политические лозунги, сделав их сюрпризом - в логе что в софте нового про это ни слова."
-
-2022-03-29 15:48:48,political_slogans,ReactJS,https://github.com/facebook/react/pull/23375/commits/11e414ce6c67dc6c3c7e8cf4146af5c39c9c93ea,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://ru.reactjs.org"
-
-2022-03-29 15:48:48,political_slogans,EmotionJS,https://github.com/emotion-js/emotion/pull/2668,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://emotion.sh/docs/introduction"
-
-2022-03-29 15:48:48,political_slogans,MUI (Material UI),https://github.com/mui/material-ui/pull/31275,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://mui.com/getting-started/installation/"
-
-2022-03-29 15:48:48,political_slogans,mint,https://github.com/dbarnett/python-helloworld/pull/13,"https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
-
-2022-03-29 15:48:48,political_slogans,CoreELEC,https://github.com/CoreELEC/CoreELEC,Замена логотипа в цвета флага Украины
-
-2022-03-29 15:48:48,political_slogans,Return youtube dislike api,https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf,Добавление на главную страницу украинского флага и ссылки на сайт для поддержки украинской армии; + интересная строка в комментарии одного из разработчиков (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/
-
-2022-03-29 15:48:48,political_slogans,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949,см. условия использования в конце readme
-
-2022-03-29 15:48:48,political_slogans,react-native-ui-lib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Политический баннер #StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,Autodesk AutoCAD,https://www.autodesk.ru/,Лозунги
-
-2022-03-29 15:48:48,political_slogans,Pnpn менеджер пакетов,https://github.com/pnpm/pnpm,"Вредительства не замечено, но сайт с доками блочит ру айпи"
-
-2022-03-29 15:48:48,political_slogans,Svelte Material UI,https://github.com/hperrin/svelte-material-ui,на их официальрном сайте https://sveltematerialui.com/ висит плашка с лозунгом
-
-2022-03-29 15:48:48,political_slogans,filestash,https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d,С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали
-
-2022-03-29 15:48:48,political_slogans,Activeadmin SimpleMDE Markdown Editor,https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9,Политические лозунги.
-
-2022-03-29 15:48:48,political_slogans,Php Project,https://github.com/spider-mane/php-project/commit/f742eafcf96496ad7f687f452a5c893d29f3e79e,#StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,PHPBench,https://github.com/phpbench/phpbench/commit/414f462c2ee40a6b30ffafbe0c4ee760e75780f8,standwithukraine
-
-2022-03-29 15:48:48,political_slogans,django-modeltranslatio,https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2,Политические лозунги в документации
-
-2022-03-29 15:48:48,political_slogans,11ty/11ty-website,https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6,шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для украины
-
-2022-03-29 15:48:48,political_slogans,repo.packagist.org,https://github.com/composer/packagist/pull/1270,composer update - выдает в консоли #StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,RNUILib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Баннер #StandWithUkraine
-
-2022-03-29 15:48:48,political_slogans,deskreen,https://deskreen.com,"Не опенсурс, но не знаю куда ещё отправить эту информацию."
-
-2022-03-29 15:48:48,political_slogans,The Unarchiver,https://github.com/MacPaw (приватный репозиторий),"Проверить, есть ли что-то помимо лозунгов, пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации."
-
-2022-03-29 15:48:48,political_slogans,Spark,https://sparkmailapp.com/,"Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство, что ограничение на клиентской части приложения, т.к. отказ пришел с обновлениями)"
-
-2022-03-29 15:48:48,political_slogans,GNOME extension ddterm,оф сайт расширений гнома,Демонстрирует в окне консоли баннер.
-
-2022-03-29 15:48:48,political_slogans,plantUml web ресурс,https://plantuml.com/ru/,"Я аналитик, я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии"
-
-2022-03-29 15:48:48,political_slogans,Codeception for PHP,https://github.com/Codeception/Codeception/commit/eefe1abc60500c0516b85131cbbfbb9a22899db4,"при запуске в консоли выводится ""Codeception PHP Testing Framework v4.1.31 https://helpukrainewin.org"""
-
-2022-03-29 15:48:48,political_slogans,Docusaurus,https://github.com/facebook/docusaurus/pull/6811,Опенсорс проект http://docusaurus.io/
-
-2022-03-29 15:48:48,political_slogans,UpdatePack7R2 для Windows 7 SP1 и Server 2008 R2 SP1,https://blog.simplix.info/update7/,Мартовское обновление не устанавливается. По информации в ченджлоге: История изменений 22.03.2011 ... Из-за военного вторжения работа программы на территории России и Беларуси ограничена
-
-2022-03-29 15:48:48,political_slogans,Codeception,https://github.com/Codeception/Codeception/commit/d6b7af9233124652b0425217d633e034bfa9bf2b,Выводит в консоли ссылку на https://helpukrainewin.org
-
-2022-03-29 15:48:48,political_slogans,ebastianbergmann,https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c,политика
-
-2022-03-29 15:48:48,political_slogans,The unarchiver.app,https://macpaw.com/news/macpaw-amidst-aggression,Дополнительное окно с кнопкой «Узнайте правду о происходящем на Украине».
-
-2022-03-29 15:48:48,political_slogans,russia-sanctions/base,https://github.com/Russia-Sanctions/Base,"Просто пакет, который предлагается включать, чтобы выводить политические лозунги"
-
-2022-03-29 15:48:48,political_slogans,Список github проектов с лозунгами,https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine,Список github проектов с лозунгами
-
-2022-03-29 15:48:48,political_slogans,Поиск по Github,https://github.com/search?l=Markdown&q=SWUbanner&type=Code,"Ссылка на поиск тех, что включил баннер в репу"
-
-2022-03-29 15:48:48,political_slogans,1password.com - менеджер паролей,Только ссылка,https://blog.1password.com/responding-to-the-conflict-in-ukraine/
-
-2022-03-29 15:48:48,political_slogans,peacenotwar,https://github.com/RIAEvangelist/peacenotwar,автор мальваря в node-ipc
-
-2022-03-29 15:48:48,political_slogans,YoutubeDownloader,https://github.com/Tyrrrz/YoutubeDownloader,"Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. ""украины"""
-
-2022-03-29 15:48:48,political_slogans,Awesome Prometheus Alerts,https://github.com/samber/awesome-prometheus-alerts/commit/6bfcdcca165e57c6fa09a561515c33284caa20c2,Определяет активный у пользователя язык и редиректит на страницу с лозунгами. В следующих коммитах код удалили.
-
-2022-03-29 15:48:48,political_slogans,docs.nestjs.com,https://github.com/nestjs/docs.nestjs.com/commit/a411b74d114a1342170334e84e426b3259c3872c,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"""
-
-2022-03-29 15:48:48,political_slogans,Stop Russia IT,https://github.com/stop-war-in-ukraine/stop-russia-it,"По ссылке список сервисов, ссылок на обсуждения, петиции на change.org"
-
-2022-03-29 15:48:48,political_slogans,verdaccio,https://github.com/verdaccio/verdaccio/pull/3060,Баннер в поддержку украины
-
-2022-03-29 15:48:48,political_slogans,ECMAScript extensions,https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2,anti-war manifest
-
-2022-03-29 15:48:48,political_slogans,retejs/rete,https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def,#StandWithUkraine postinstall message
-
-2022-03-29 15:48:48,political_slogans,AWS Terraform modules,https://github.com/terraform-aws-modules,"все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest), внимание на ""дополнительные соглашения"" внизу README каждого модуля."
-
-2022-04-02 10:36:34,political_slogans,Angular,https://angular.io/,Добавли баннер в шапку сайта
-
-2022-04-02 10:36:34,political_slogans,Wagtail (CMS на Django),https://wagtail.org/,Баннер в поддержку Украины в шапке сайта
-
-2022-04-02 10:36:34,political_slogans,Vim,https://www.vim.org/,Перекрасили шапку сайта в цвета украинского флага
-
-2022-04-02 10:36:34,political_slogans,random-user-agent (расширение для браузера),https://github.com/tarampampam/random-user-agent/,Иконки перекрашены в цвета флага Украины
-
-2022-04-02 10:36:34,political_slogans,pastebin.com,https://pastebin.com,Покрасили лого в цвета украинского флага
-
-2022-04-02 10:36:34,political_slogans,MikTex,https://miktex.org/,Логотип на фоне флага украины со ссылкой на пожертвования украинским беженцам
-
-2022-04-02 10:36:34,political_slogans,Online-go.com,https://github.com/online-go/online-go.com,Логотип перекрашен в цвета флага Украины
-
-2022-04-02 10:36:34,political_slogans,Prometheus,https://prometheus.io/,Проукраинский баннер на титульной странице проекта
-
-2022-04-02 10:36:34,political_slogans,bromite,https://www.bromite.org/,Слоган в поддержку Украины на сайте. Пропагандистские ссылки на новостные сайты в списке рекомендованных на домашней странице браузера
-
-2022-04-02 10:36:34,political_slogans,dry-rb,https://github.com/dry-rb/dry-rb.org/commit/70be9b42a4d85c7d4025bdb7b98d4e5c72945d03,"На сайте с документацией в заголовке появились политические призывы к ""российским друзьям"" - https://dry-rb.org"
-
-2022-04-02 10:36:34,political_slogans,Cobian Reflector,https://www.cobiansoft.com/crhistory.html,"Cobiansoft популярные, бесплатные для коммерции, программы резервного копирования. Автор швед, учившийся в России обозлился из-за западной пропаганды на Путина и с каждым обновлением в журнале обновления постит политические лозунги. Заканчивается ли вся не"
-
-2022-04-02 10:36:34,political_slogans,random-user-agent,https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,Выпущен тег только для смены иконки
-
-2022-04-02 10:36:34,political_slogans,Gitlab,gitlab.com,Логотип перекрашен в цвета флага Украины (появляется не всегда)
-
-2022-04-02 10:36:34,political_slogans,ScreenshotTile,https://github.com/cvzi/ScreenshotTile/blob/master/app/src/main/java/com/github/cvzi/screenshottile/utils/Utils.kt#L793,всплывающие сообщения при снимках экрана
-
-2022-04-02 10:36:34,political_slogans,vue-boilerplate-template,https://github.com/nicejade/vue-boilerplate-template,при подгрузке пакетов вылезает полит. текст.
-
-2022-04-02 10:36:34,political_slogans,Slack,https://slack.com/,Замена логотипа в цвета флага Украины
-
-2022-04-02 10:36:34,political_slogans,EdgeDB,https://twitter.com/edgedatabase/status/1499842655840190468,"Смена логотипа в репозитории, пропаганда в twitter https://github.com/edgedb"
-
-2022-04-02 10:36:34,political_slogans,virtualdj,https://www.virtualdj.com/,"При запуске программы с росcийского ip вылетает политический пуш, на сайте также в шапке политические лозунги."
-
-2022-04-02 10:36:34,political_slogans,Tasmota,https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320,"Убрали малварь из кода прошивки, но в Readme репозитория осталась ссылка на призывы"
-
-2022-04-08 11:12:05,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
-
-2022-04-08 11:12:05,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
-
-2022-04-08 11:12:05,political_slogans,ClickHouse,https://clickhouse.com/blog/we-stand-with-ukraine/,Политические лозунги на главной и в блоге. Перекрасили шапку в цвета украинского флага.
-
-2022-04-08 11:12:05,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
-
-2022-04-08 11:12:29,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
-
-2022-04-08 11:12:29,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
-
-2022-04-08 11:12:29,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
-
-2022-04-08 11:12:54,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
-
-2022-04-08 11:12:54,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
-
-2022-04-08 11:12:54,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
-
-2022-04-08 11:12:54,political_slogans,Cucumber JS (NPM package),https://github.com/cucumber/cucumber-js/commit/94458aaf07146ee3069e3b2d536ca773e5faec54,"Cucumber (NPM package ""@cucumber/cucumber"") - added StandWithUkraine banner in в README.md"
-
-2022-04-08 11:12:54,political_slogans,counter.dev,https://github.com/ihucos/counter.dev/commit/7abe9d1d9dca75d6a242a7f3833390b883e2ae70,Message for russian users. Так же предыдущий и следующий коммиты.
-
-2022-04-08 11:14:13,political_slogans,imgur,imgur.com,Перекрасили логотип в цвета украинского флага
-
-2022-04-08 12:08:24,political_slogans,imageshack,https://imageshack.com/,Лозунги при встраивании изображение в код.
-
+Объясняют ""внутренней политикой"". На рынке больше 20 лет, были и военные заказы. В поддержке обещают"
+2022-03-29 15:48:48,hostile_actions,Firefox,https://phabricator.services.mozilla.com/D140898,удалил поиск Яндекса
+2022-03-29 15:48:48,hostile_actions,DeskCamera,https://www.deskcamera.com,"Блокируют проплаченные и активированные лицензии в России. Техподдержка отвечает ""Слава украине""."
+2022-03-29 15:48:48,hostile_actions,GitHub,нет,Пришло сегодня письмо от гитхаба: Thank you for your patience during this process. After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be ab
+2022-03-29 15:48:48,hostile_actions,1password,https://blog.1password.com/responding-to-the-conflict-in-ukraine/,"Нельзя зарегать новый аккаунт из России, нельзя продлить подписку"
+2022-03-29 15:48:48,hostile_actions,Wowza,https://www.wowza.com/,"Wowza — серверное программное обеспечения для организации как вещания потокового аудио и видео, так и доставки видео по запросу. Отозвало лицензии, в связи с чем вещание прекратилось. Ищите замену"
+2022-03-29 15:48:48,hostile_actions,Mongodb Atlas,https://www.securitylab.ru/news/530550.php,"Был неприятный инцидент с Mongodb Atlas. Да, это не круто и это многим не нравится. Но это не опенсорсная монга, она на основе опен-сорс"
+2022-03-29 15:48:48,hostile_actions,emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni,https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55,"Ресурсы для сбора разведданных и аналитики - геолокация, парсинг ресурсов, и т.п."
+2022-03-29 15:48:48,hostile_actions,danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English,https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab,"Страница для координации хакерских атак на инфраструктуру РФ, ссылки на прикладное ПО для атак, цели и адреса групп координирующих хакерские атаки"
+2022-03-29 15:48:48,hostile_actions,a2435191/ukraine-war-map-twitter-bot,https://github.com/a2435191/ukraine-war-map-twitter-bot/commit/7c8c5fcd1478f5dcf61f76cc754c34e6de2682e1,Бот для ведения пропаганды в твиттере
+2022-03-29 15:48:48,hostile_actions,helpmap/helpmap.io,https://github.com/helpmap/helpmap.io/commit/a4864227f59d42c216448f82c08d834af2f8eba6,Фреймворк для массового создания ресурсов для сбора финансов
+2022-03-29 15:48:48,hostile_actions,OkayCMS,https://okay-cms.com/ https://ok-cms.com/,"Были политические заявления в блоге и на сайте компании, указывающие на то, что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей"
+2022-03-29 15:48:48,hostile_actions,kbrehme/niffelheim,https://github.com/kbrehme/niffelheim/commit/7cb93ca14aab68c646a65ef21923835a0f791d4a,Человек удаляет все что связано с русским народом в модах и скриптах
+2022-03-29 15:48:48,hostile_actions,CliWrap,https://github.com/Tyrrrz/CliWrap,"Внесение в условия использования, по которому использование библиотеки означает согласие с утверждениями которые могут привести у уголовной ответственности, разумеется нарушает принципы Открытого ПО, как заметил в ответах к комментарию автора в твиттере од"
+2022-04-02 10:36:34,hostile_actions,AppFollow,https://appfollow.io/blog/supporting-ukraine,не будут продлевать подписки компаний из России и Беларуси. доступ к аккаунту будет заблокирован через 30 дней после окончания подписки.
+2022-04-02 10:36:34,hostile_actions,UpdatePack 7 / 2008 R2 / 22.3.11,https://blog.simplix.info/,"UpdatePack 7 / 2008 R2 / 22.3.11 В сборке от 11.03 при работе в системе с заданными TZ из России или Беларуси показывает сообщение ""ваша страна поддерживает войну..."" и работа завершается."
+2022-04-02 10:36:34,hostile_actions,W3schools Rus on GitHub,https://github.com/w3schoolsrus/w3schoolsrus.github.io/commit/b3860d3e66dbc0c54ba617326c0378e42fd7fb12,Клон сайта W3schools на русском. Делал укроинец. После 23 февраля решил удалить русский перевод и оставить только украинский. Восстановленная версия по состоянию на 23.02.2022 https://open-source-peace.github.io/w3schoolsrus/ https://github.com/w3schoolsru
+2022-04-02 10:36:34,hostile_actions,Uptime kuma,https://github.com/louislam/uptime-kuma/tree/1.12.0 https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released,"Удаляли русский язык, просили путина закончить войну что бы вернуть его."
+2022-04-08 11:06:54,hostile_actions,PayPal,paypal.com,"Сняли остаток на счёте, отвязали привязанную виртуальную карту тинькова. При повторной привязке сообщают об ошибке. В списке карт можно выбрать mastercard/visa/итд, а выбор карты МИР - отсутствует. При попытке перевести средства из-за рубежа через форму `https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+user&cmd=_donations&business=user%40domain.com` - предлагают только рубли."
+2022-04-08 11:06:54,hostile_actions,Ionos,https://www.ionos.com/,Прекратили услуги регистрации доменных имен для пользователей РБ и РФ
+2022-04-08 11:06:54,hostile_actions,MoneyGram.com,moneygram.com,приостановили услуги в России
+2022-04-08 11:06:54,hostile_actions,GitLab,gitlab.com,С марта 2022 перестали продлевать и выдавать квоты на новые лицензии
+2022-04-08 11:06:54,hostile_actions,HPE,hpe.com,"HPE заблокировал аккаунты из РФ и Беларуси (Есть файлы, которые без зарегистрированного аккаунта с привязанным серийным номером не скачать) 24 марта пришло письмо от ""HPE Headquarters"" <no-reply@hpe.com> Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+2022-04-08 11:06:54,hostile_actions,Synology,https://synology.com/,"При запросе в тех.поддержку Synology, автоматически тикет падает в архив с ответом В связи с последними событиями Synology объявила о временной приостановке поставок всех продуктов и предоставлении технической поддержки любым юридическим и физическим лицам в Российской Федерации и Республике Беларусь. Если в аккаунте выбрать Казахстан, то через время отвечают со скриншотом Dear customer, we are sorry to inform you, that we need to close your technical support request. Due to European Union sanctions, Synology subsidiaries within European Union are temporarily unable to provide support for our products and customers, located in russia and belarus. Please reffer entire EU sanction description attached. Please find here the official Knowldege Center: https://kb.synology.com/ Knowledge Center provides description for all functions and help for most common topics. Please do not answer to this message, as we are unable to send you any further reply. Best Regards Synology GmbH Technical Support"
+2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
+2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
+2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
+2022-03-29 15:48:48,ip_block,Elastic search,Elastic.co,По ссылке скачать ответ 403
+2022-03-29 15:48:48,ip_block,Sypex Geo,https://sypexgeo.net/,"Sypex Geo – продукт для определение местоположения посетителя по IP-адресу. Проверял через немецкий VPN, работает нормально."
+2022-03-29 15:48:48,ip_block,Elasticsearch,docker.elastic.co/elasticsearch/elasticsearch,"Образ не грузится с российского IP. Команда для проверки docker pull docker.elastic.co/elasticsearch/elasticsearch:7.8.1 . См https://ibb.co/kDvN1q3
+Доступ к веб сайту https://www.elastic.co/ есть, но скачать ничего нельзя. Оставили доступ только к www, без www выдает ошибку 403. Компания прекратила продажи в РФ."
+2022-03-29 15:48:48,ip_block,templatemonster.com,https://www.templatemonster.com/,"Банят по ip через cloudflare. На сайте есть личный кабинет как покупателей так и продавцов, не знаю зависли ли у кого то деньги. Проверить не могу."
+2022-03-29 15:48:48,ip_block,Redis,https://redis.io/,"При попытке открыть сайт с IP из России появляется ошибка доступа под предлогом ""This request was blocked by the security rules"". Заблокирован доступ к документации и сайту."
+2022-03-29 15:48:48,ip_block,HPE MyAccount Services,Пришла E-mail рассылка на почту аккаунта,"Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+2022-03-29 15:48:48,ip_block,IAR Embedded Workbench,http://eclipse-update.iar.com/,"Закрыт доступ к части сайта, содержащей плагины для среды разработки Eclipse. Фирма IAR Systems является разработчиком компиляторов и интегрированных сред для встраиваемых систем. Также на сайте содержится репозиторий для дополнений к свободной среде Eclip"
+2022-03-29 15:48:48,ip_block,ClamAV,https://www.clamav.net/,"Доступ до серверов обновлений ClamAV заблокирован из России.
+Доступ к CDN ресурсам ClamAV закрыт для российских IP (решение Cisco). Freshclam не работает. Issue.
+https://github.com/Cisco-Talos/clamav/issues/500"
+2022-03-29 15:48:48,ip_block,Hewlett Packard Enterprise,https://www.hpe.com/ru/ru/home.html,"Прислали письмо: Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+2022-03-29 15:48:48,ip_block,Jasper Reports,Jaspersoft.com,Ребята из Jaspersoft не пускают на сайт и форум community с российских IP-адресов
+2022-03-29 15:48:48,ip_block,Doxygen,doxygen.nl doxygen.org,Нет доступа с территории РФ. При использовании VPN всё ок.
+2022-03-29 15:48:48,ip_block,spamcop,(connect to vmx.spamcop.net[184.94.240.112]:25: Connection timed out),Сервис spamcop не принимает жалобы по почте c ip-адресов РФ. Проверено на нескольких хостах/провайдерах
+2022-03-29 15:48:48,ip_block,"Продукты HasiCorp (Terraform, Consul и.т.п)",https://apt.releases.hashicorp.com,Заблокирован доступ для скачивания бинарников для IP из России
+2022-03-29 15:48:48,ip_block,mattermost,https://mattermost.com/,"Основной сайт отдаёт 403, если заходить с российского адреса"
+2022-03-29 15:48:48,ip_block,Lenovo,https://www.lenovo.com/,Не доступны для скачивания с российских IP драйвера.
+2022-03-29 15:48:48,ip_block,Shopware,https://www.shopware.com/,"заблокирован доступ с русских ip, заблокирован русский аккаунт при заходе через VPN, предупреждений не было"
+2022-03-29 15:48:48,ip_block,snort,https://www.snort.org,Прикрываясь Cloudflare заблокировали сайт проекта ошибкой Error 1020 (заблокированы и базы аллертов). С не российского IP доступ присутствует. Snort — свободная сетевая система предотвращения вторжений (IPS) и обнаружения вторжений(IDS) с открытым исходным
+2022-03-29 15:48:48,ip_block,Hybrid Analysis,https://hybrid-analysis.com/,Без прокси не пускает
+2022-03-29 15:48:48,ip_block,Qt,https://download.qt.io/,"Закрыли доступ ко всем внутренним ресурсам с 7.03.2022 Не работают ни чат, ни сервер загрузок, ни багтреккер. Фины из Qt Company ничего официально не заявляли - и, будем надеяться, что не будут ничего пихать в сорцы."
+2022-03-29 15:48:48,ip_block,Oracle cloud infrastructure,https://www.oracle.com/corporate/conflict-in-ukraine/russia/,"Не дает зайти в аккаунт, виртуальные машины пока еще работают"
+2022-03-29 15:48:48,ip_block,pnpm,"https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83 , https://github.com/pnpm/pnpm/commit/0066c11b97799",Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP.
+2022-03-29 15:48:48,ip_block,CIrcleCI,https://support.circleci.com/hc/en-us/articles/360043679453-CircleCI-Terms-of-Service-Violation-Sanctioned-Country,"Банит, если зайти под русским IP, банит по github-аккаунту или другому способу авторизации, после бана VPN не поможет, только заполнение из формы"
+2022-04-02 10:36:34,ip_block,Oracle,oracle.com,Отключили ВМ
+2022-04-02 10:36:34,ip_block,"namecheap.com, nc.me, web-hosting.com",https://www.namecheap.com/,"Изначально обещали удалить все домены, зарегистрированные россиянами, а также приостановить хостинг и почту для доменов в белорусских и российских зонах. Позже сделали исключение для оппозиционных СМИ, но пообещали:
+* блокировать платежи с российских карт и с российскими почтовыми адресами
+* в саппорте не отвечать на тикеты от пользователей с российскими почтовыми адресами
+* забанить хостинг и почту для доменов *.ru*, *.xn--p1ai (рф)*, *.by*, *.xn--90ais (бел)*, *.su*
+* в саппорте не отвечать на тикеты от пользователей, которые заходили с российских IP.
+
+Кроме того, основатель компании Richard Kirkendall в Twitter успеть опубликовать пару антироссийских лозунгов, а саппорт компании противоречит самому себе в твиттере и по электронной почте. Стоит отметить, что хотя полностью домены не удалили, это решение привело к финансовым потерям простых клиентов, так как всем нам придётся менять хостинг и регистратора, ведь даже при желании пользоваться Namecheap в дальнейшем не удастся оплачивать услуги."
+2022-04-02 10:36:34,ip_block,Ruckus,https://support.ruckuswireless.com,Блокировали доступ к сайту поддержки/скачивания драйверов/обновлений. Устройства ruckus сами тоже больше не могут обновиться.
+2022-04-02 10:36:34,ip_block,GnuDB,https://gnudb.org/,"При подключении с российского IP перенаправляют на заглушку https://ru.gnudb.org/, где только украинский флаг и надпись ""GnuDB is closed for Russia in sympathy with the Ukrainian people."" Через VPN gnudb.org открывается нормально."
+2022-04-02 10:36:34,ip_block,Soap UI,https://www.soapui.org/,Заблокирован доступ из РФ. Открывается при включенном VPN
+2022-04-02 10:36:34,ip_block,Fiddler Everywhere,https://www.telerik.com/fiddler/fiddler-everywhere,Невозможно активировать триал с российских IP
+2022-04-02 10:36:34,ip_block,Mouser Electronics Ru,ru.mouser.com,"Отображается ""В Настоящее Время Данный Веб-Сайт Закрыт."" eu.mouser.com пока работает."
+2022-04-02 10:36:34,ip_block,Analog Devices,https://www.analog.com/ru/index.html,Access denied under U.S. Export Administration Regulations.
+2022-04-02 10:36:34,ip_block,Middleware inventory / Devops Junction,https://www.middlewareinventory.com/,Не пускает из РФ. Из других стран подключение нормально проходит.
+2022-04-02 10:36:34,ip_block,BDD Cucumber,https://cucumber.io/,"Популярный фреймворк тестирования в BDD. Отвечает 403. ""The Amazon CloudFront distribution is configured to block access from your country"""
+2022-04-02 10:36:34,ip_block,SaaSJet - партнёр Atlassian,https://saasjet.com/products/,"Украинская компания, продают платные плагины Jira. Заблокирован доступ к сайту из РФ. Установить даёт, а дальше блочит по IP. У себя на сайте сообщают, что помогают IT-армии Украины взламывать ресурсы в РФ."
+2022-04-02 10:36:34,ip_block,Shalla Secure Services,https://www.shallalist.de/,"Обновление черного списка приостановлено автором. этот черный список часто используют на шлюзах для блокировки нежелательного контента. Есть риск, что автор нарушит профессиональную этику и внесет в список хорошие сайты. Обычно на шлюзах этот список обновл"
+2022-04-02 10:36:34,ip_block,Screaming Frog SEO Spider,https://download.screamingfrog.co.uk/,Закрыли скачивание с российских IP
+2022-04-02 10:36:34,ip_block,Посмотрели,posmotre.li,"Называли себя ""свободной энциклопедией"" в статье про опен сорс (правда, с припиской, что не свободны от рекламы). Сперва собирали помощь ""жертвам политических репрессий в РФ и РБ"" на главной, а с началом известных действий на Украине закрыли всем доступ ""д"
+2022-04-02 10:36:34,ip_block,bash.im,https://bash.im,"С начала операции сайт выдает только ""НЕТ ВОЙНЕ""3.29.2022 16:47:12"
+2022-04-02 10:36:34,ip_block,OVHcloud,https://www.ovhcloud.com,"Невозможно зарегистрировать новый аккаунт, т.к. в списке телефонных кодов стран отсутствует РФ"
+2022-04-02 10:36:34,ip_block,Mbed,os.mbed.com,IoT device development. Блокируют доступ по IP из РФ. Сайт доступен через tor.
+2022-04-02 10:36:34,ip_block,c-rieger,https://www.c-rieger.de/,Немецкий блог по Nextcloud. При подключении из РФ ошибка 403
+2022-04-02 10:36:34,ip_block,Платежный сервис Xsolla,secure.xsolla.com,Не работает из ДНР
+2022-04-02 10:36:34,ip_block,A Cloud Guru,https://acloudguru.com/,"Портал с обучением по IT тематике. Сам портал доступен, но при попытке авторизации в личный кабинет с российского IP пишут ""SORRY, THIS SITE IS NOT AVAILABLE IN YOUR AREA."" Техподдержка подтвердила блокировку, но если зайти через европейский VPN, то все ра"
+2022-04-02 10:36:34,ip_block,Atlassian Jira,https://www.atlassian.com/ru/software/jira,"Не работает скачивание плагинов с российских IP. Сайт доступен, но при попытке скачать показывать сообщение в поддержку Украины и о приостановке продаж в РФ"
+2022-04-02 10:36:34,ip_block,EmBitz,Embitz.org,"Не совсем опенсорс. Бан по IP и по локали, на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE, на easyelectronics уже сумели это обойти."
+2022-04-02 10:36:34,ip_block,Downlod Master,https://westbyte.com/,"При заходе с российского IP высвечивает ""403 Forbidden"""
+2022-04-02 10:36:34,ip_block,vertica,https://www.vertica.com/,Block reason: Access from your Country was disabled by the administrator.
+2022-04-08 11:06:54,ip_block,AVG AntiVirus Free Edition,http://bits.avcdn.net,Заблокирован доступ для скачивания антивируса
+2022-04-08 11:06:54,ip_block,O&O ShutUp10,https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe,Заблокирован доступ к серверу для скачивания утилиты для деактивации некоторых функций Windows 10/11
+2022-04-08 11:06:54,ip_block,McAfee Stinger,https://downloadcenter.mcafee.com/products/mcafee-avert/Stinger/stinger32.exe,Заблокирован доступ к серверу для скачивания обезвреживающей утилиты
+2022-04-08 11:06:54,ip_block,Сетевая академия Cisco,https://www.netacad.com,"Блокируется вход на сайт с российских IP, также заблокированы российские аккаунты"
+2022-04-08 11:06:54,ip_block,Weather.com,https://weather.com/,"Заблокирован доступ из России - возвращает ""Bad Request - Blocked"""
+2022-04-08 11:06:54,ip_block,Bitdefender,https://bitdefender.com/,"Сайт заблокирован для пользователей РФ. Вполне возможно, что обновления тоже не работают из-за этого."
+2022-04-08 11:06:54,ip_block,Syncfusion (C#),https://www.syncfusion.com/,Набор компонент для C# с десятками млн скачиваний. Заблокировали доступ к сайту. Скачать можно с https://www.nuget.org/profiles/SyncfusionInc.
+2022-04-08 11:06:54,ip_block,Oracle SQL Developer,https://www.oracle.com/tools/downloads/sqldev-downloads.html,"Блокировка скачивания по IP клиента из России после авторизации на скачивание. Thank you for accessing https://edelivery.oracle.com/akam/otn/java/sqldeveloper/sqldeveloper-21.4.2.018.1706-no-jre.zip In compliance with U.S. and applicable Export laws we are unable to process your request. Please contact RPLS-Ops_ww@oracle.com if you believe you are receiving this notice in error. Debug Info: Edge IP=96.17.6.139, Client IP=<мой IP>, Client Country=RU, Client Region=Not Available"
+2022-04-08 11:06:54,ip_block,Octopus RBL Monster,https://octopusdns.com/,"Сервис предоставлял черные списки спаммеров. IP адреса блокируются с сообщением: ""sanction against Belarus"""
+2022-04-08 11:06:54,ip_block,Polspam RHSBL,https://polspam.pl/,"Сервис предоставлял черные списки спаммеров. DNS имена блокируются с сообщением ""Русский домен""/""Беларускі дамен"""
+2022-04-08 11:06:54,ip_block,STMicroelectronics,https://www.st.com/en/development-tools/stm32cubeide.html,"Запрет загрузки ПО и драйверов - Not available for download, нет доступных для скачивания версий. Паспорта pdf загружаются нормально. Через VPN/Proxy всё работает."
+2022-04-08 11:06:54,ip_block,MacUpdate - Mac app and software download website,https://www.macupdate.com,С российского IP перенаправляет на левый сайт с пропагандой
+2022-04-08 11:06:54,ip_block,intervention.io,https://github.com/Intervention,"Сайт с документацией не открывается с Российских IP, отображая сообщение про войну."
+2022-04-08 11:06:54,ip_block,Intel,https://intel.com/,При обращении с российских адресов или выборе русского языка перебрасывает на заглушку https://www.intel.com/content/www/us/en/support/ru-banner-inside.html Официальный пресс релиз https://www.intel.com/content/www/us/en/newsroom/news/russia-business-statement.html
+2022-04-08 11:06:54,ip_block,Bruker,https://bruker.com,"Блокировки российских аккаунтов, российских IP. Техподдержка также не отвечает."
+2022-04-08 11:06:54,ip_block,DUO Security Multi-Factor Authentication,https://dl.duosecurity.com,Блокировка скачивания релизов open source компонента duo_unix
+2022-04-09 09:14:51,ip_block,bufbuild/buf,https://buf.build/,"Политические лозунги + Блокировка доступа. С росcийского IP - 403. Через зарубежное ВПН - всё ок. Так же, без, ВПН больше не работает сборка proto. https://github.com/bufbuild/buf"
+2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
+2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
+2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
+2022-03-29 15:48:48,malware,RIAEvangelist/peacenotwar,https://github.com/RIAEvangelist/peacenotwar,Сама библиотека удаляющая файловую систему по IP из России и Белоруссии
+2022-03-29 15:48:48,malware,es5-ext,https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2,"Коллеги, обращаем внимание, что популярная библиотека https://www.npmjs.com/package/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как негативную пропаганду, так и код по таймзоне увеличивающий утилиза"
+2022-03-29 15:48:48,malware,Parad1seBomb,https://github.com/K1ngSoul/Parad1seBomb,SMS Bomber for Russia and Ukraine
+2022-04-08 10:47:53,malware,draw.io (for Confluence),https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263352ce151597273a64e2435,"draw.io is a configurable diagramming/whiteboarding visualization application. draw.io is owned and developed by JGraph Ltd, a UK based software company.
+В комьюнити Atlassian сообщили, что draw.io на сервере Confluence удаляет контент и в инфо показывает ""Нет войне"". На маркетплейсе Atlassian указано, что в версии 17.1.4 был некий security fix, исправляющий ошибку в 17.1.3 (без деталей). Проблем с версией 17.1.4 нет, по 17.1.5 пока нет подтверждений.
+Лозунги убрали: https://github.com/jgraph/drawio/compare/v17.1.5...v17.2.2
+Исследуем убрали ли стирание данных"
+2022-03-29 15:48:48,political_slogans,RedisDesktopManager,https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22,как бы чего еще туда не заложили вредного
+2022-03-29 15:48:48,political_slogans,WordPress плагин Mistape,https://wordpress.org/plugins/mistape/,"Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора, заливает плагин UnderConstruction, с помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событи"
+2022-03-29 15:48:48,political_slogans,Личный сайт Столярова А.В. stolyarov.info,http://stolyarov.info/,"Через пару дней после начала спецоперации сменил весь сайт на надпись ""КОГДА ПУШКИ ГОВОРЯТ, МУЗЫ МОЛЧАТ"" со ссылкой на страницу с книгами (на чём спасибо), функционирование остального сайта в данных обстоятельствах счёл неуместным."
+2022-03-29 15:48:48,political_slogans,py7zr,https://github.com/miurahr/py7zr/commit/3ad1743fe00c8c9a2a89b548ed80f7de2406d275,Политический лозунг
+2022-03-29 15:48:48,political_slogans,Wireguard VPN,https://github.com/litded/wireguard-vpn,Плашка с агитацией при браузинге
+2022-03-29 15:48:48,political_slogans,Unity Ads for Android,https://github.com/Unity-Technologies/unity-ads-android https://unity.com/products/unity-ads,"После встраивания рекламы Unity Ads в мобильную игру, пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети"
+2022-03-29 15:48:48,political_slogans,MicrosoftDocs/azure-docs,https://github.com/MicrosoftDocs/azure-docs,В статьях перед справкой появляется #StopRussianWar
+2022-03-29 15:48:48,political_slogans,styled-components,https://github.com/styled-components,"после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
+2022-03-29 15:48:48,political_slogans,postfixadmin,https://github.com/postfixadmin/postfixadmin.git,Политический баннер #StandWithUkraine
+2022-03-29 15:48:48,political_slogans,jgraph/drawio-desktop,https://github.com/jgraph/drawio-desktop/commit/2b02c721bf9f2b757919ea552a3f2ff7f11dd9f7,"В меню помощь, в пункте о проекте, политический лозунг нет войне. Появился после обновления на последнюю бинарную версию. Подозреваю, что код в репозитории не совпадает с распространяемым бинарным файлом, так как не нашел в репе этот лозунг. Версия diagram"
+2022-03-29 15:48:48,political_slogans,caves.ru,https://caves.ru/,"Форум тех, кто пишет на режимных заводах ""сгиня - вор"" и портит оборудование."
+2022-03-29 15:48:48,political_slogans,MacUpdate,https://www.macupdate.com,Баннер на сайте в поддержку Украины.
+2022-03-29 15:48:48,political_slogans,PlantUML,https://plantuml.com/ru/,"Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
+2022-03-29 15:48:48,political_slogans,Locust,https://github.com/locustio/locust/commit/38fb94d4c39db07a2f984b6b1a6c944a4e489d7f,Added Support Ukraine badge to README.md
+2022-03-29 15:48:48,political_slogans,Целый список wordpress плагинов,https://docs.google.com/document/d/1CusIWpZVO5TrQNLMWwT7URMiEfIR6y3K45GGWTBEOZU/edit?usp=sharing,Как минимум один из них собирает донаты на военную компанию https://plugins.trac.wordpress.org/browser/stand-with-ukraine/trunk/stand-with-ukraine.php#L26
+2022-03-29 15:48:48,political_slogans,MicroSIP,https://www.microsip.org/,"Лозунги на сайте, возможно какой-то недокументированный функционал в новых версиях"
+2022-03-29 15:48:48,political_slogans,Mate,https://prnt.sc/oVezpycty94G,Плагин переводчика для браузера Firefox. Теперь показывает политические лозунги.
+2022-03-29 15:48:48,political_slogans,draw.io,https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263,"Пошел слух про то что еще и вайпают данные файла при сохранении, однако подтверждения не нашел. Возможно зарыто где-то глубоко. ""В русской локали последней версии вместо """"О сервисе"""" пропаганда"""
+2022-03-29 15:48:48,political_slogans,selenium,https://www.selenium.dev/,Selenium Supports Ukraine
+2022-03-29 15:48:48,political_slogans,Composer,https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981,"Выводит текст: ""Info from https://repo.packagist.org: #StandWithUkraine"""
+2022-03-29 15:48:48,political_slogans,ukraine-not-war/stop-war,https://github.com/ukraine-not-war/stop-war,виджет
+2022-03-29 15:48:48,political_slogans,pgcli,https://github.com/dbcli/pgcli/commit/6884c298e6845a4d870ac815a1ed269063fe3ddc,#StandWithUkraine
+2022-03-29 15:48:48,political_slogans,Security-Code-Scan,https://github.com/security-code-scan/security-code-scan/releases/tag/5.6.2,I'm the author. :)
+2022-03-29 15:48:48,political_slogans,PHPUnit,https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c,политический лозунг (начиная с версий 9.5.17 и 8.5.24 от 5 марта 2022)
+2022-03-29 15:48:48,political_slogans,piccy.info,https://piccy.info/,"Сообщение """"""Сайт не работает, потому что"" Россия напала на нас и начинает уничтожать ""мирное население"""""""
+2022-03-29 15:48:48,political_slogans,UpdatePack7R2,https://blog.simplix.info/,"Нет пуша. В сборке от 11.03 при работе в системе с заданными TZ из России или Беларуси выбивает окно ""ваша страна поддерживает войну..."" и работа завершается."
+2022-03-29 15:48:48,political_slogans,WebdriverIO,https://github.com/webdriverio/webdriverio/commit/efd781a7ba432bae7720de03704f6a12409da978,StandWithUkraine banner in в README.md
+2022-03-29 15:48:48,political_slogans,Instant Games Bridge,https://github.com/mewtongames/instant-games-bridge,Вместо баннеров показываются призывы к революции
+2022-03-29 15:48:48,political_slogans,VK Blue - плагин Google Chrome,https://chrome.google.com/webstore/detail/vk-blue-%D1%8D%D0%BA%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%B8-%D1%81%D0%,Плагин для прослушивания музыки ВК. После установки показывает это: https://ibb.co/P91dP36
+2022-03-29 15:48:48,political_slogans,Yad,https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a,"Вырезание русского языка, ""DROP K HUJAM russian translation"" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); Автор - Украинец, который находится в резерве сил территориальной обороны (https://github.com/v1cont/yad/issues/10"
+2022-03-29 15:48:48,political_slogans,Svelte и Svelte-Kit,https://svelte.dev/,Баннер на сайте в поддержку Украины
+2022-03-29 15:48:48,political_slogans,outdatedregime/change,https://github.com/outdatedregime/change/commit/f22e7f90a5bb8fe2b8f0001d9774fe495084d234,"Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
+2022-03-29 15:48:48,political_slogans,in-solidarity-with-ukraine,https://github.com/core-hacked/in-solidarity-with-ukraine/commit/60af44e10440e5fed49aea4e80d84530e46c6ab8,"A simple repository with HTML/CSS Ukraine flag and ""stop war"" text on it."
+2022-03-29 15:48:48,political_slogans,ukrfetch,https://github.com/ukrfetch/ukrfetch/commit/362853d86a64d093c5ddb8d11d8d06ec69cd7c7c,Simple fetch tool to show Solidarity with Ukraine
+2022-03-29 15:48:48,political_slogans,Russia-Blocker,https://github.com/Riceblade/Russia-Blocker/commit/ec9b3cd026f28f592c1cf3620da799e6f4f914ec,Automatically redirects Russian connections to ukrainian charities
+2022-03-29 15:48:48,political_slogans,hands-off-ukraine-banner,https://github.com/filipe-freire/hands-off-ukraine-banner/commit/5a1fa52f04022971fdcc738d4b1d58c9371c1769,This banner includes easy access links to support Ukraine against the deliberate military invasion of Russia. It was built as a Web Component to facilitate its integration between all the frontend library/frameworks used.
+2022-03-29 15:48:48,political_slogans,embargoed-list,https://github.com/rameerez/embargoed-list/blob/main/README.md,"List of all language-specific versions of embargoed, software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
+2022-03-29 15:48:48,political_slogans,hejny/Ukraine,https://github.com/hejny/Ukraine/commit/e74a5de837d6ed0e2e11e174f4319a5ededc7c28,"Add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service."
+2022-03-29 15:48:48,political_slogans,RussianBlocker Public,https://github.com/OB42/RussianBlocker/commit/10e0ab31f0e0f8372fb24d32544e7e4867d3f688,"Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend, should work 9 times out of 10, except for a few"
+2022-03-29 15:48:48,political_slogans,PutinWantedPoster,https://github.com/snippetboy/PutinWantedPoster/commit/fbafce5e49d22c660d9da78919f035b812cced13,Putin Wanted Poster
+2022-03-29 15:48:48,political_slogans,express-putin,https://github.com/limesquid/express-putin/commit/b3eb6eae757d74d1a8241bc5dd6773dae6920fb2,Node.js Express middleware to reject requests from all Russian IPs.
+2022-03-29 15:48:48,political_slogans,yandex-conqueror,https://github.com/piotrmaslanka/yandex-conqueror/commit/a2f5d01f9a367b22dbafbcb2a9643cb73d2365a1,A tool to inform the general Russian population about what's going on in year 2022 on Ukraine via posting 5-star reviews to Yandex.
+2022-03-29 15:48:48,political_slogans,stopwarstopputin Wordpress plugin,https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/6e75e015fc17186b6e1a0592f02189d5b991805a,The Stop War! Stop Putin! WordPress Plugin allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.
+2022-03-29 15:48:48,political_slogans,voku/portable-ascii,https://github.com/voku/portable-ascii/commit/377ab19df364e512cb6e49b8c7d026f5b550ac92,Все пакеты в packagist от пользователя voku: https://packagist.org/packages/voku/. Конкретно у этого более 66 млн. инсталляций
+2022-03-29 15:48:48,political_slogans,event-source-polyfill,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,javascript либа. Начиная с версии 1.0.26 выводит alert() на странице.
+2022-03-29 15:48:48,political_slogans,PHPMailer,https://github.com/PHPMailer/PHPMailer,Баннер в README.
+2022-03-29 15:48:48,political_slogans,Appsberry (websa),https://websa.advancedhosting.com/StandWithUkraine,облачный хостинг
+2022-03-29 15:48:48,political_slogans,Refactoring.Guru,https://refactoring.guru/ru/help-ukraine,"Призывы спонсировать украинских военных и волонтеров, гуманитарные благотворительные организации."
+2022-03-29 15:48:48,political_slogans,Notepad++,https://notepad-plus-plus.org/news/v833-make-apps-not-war/,Политические лозунги на сайте. Есть опасение что последние версии продукта могут их содержать.
+2022-03-29 15:48:48,political_slogans,Isomorphic Authorization JavaScript library,https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2,"Политический баннер ""Stop war in Ukraine. All truth about Russia invasion"""
+2022-03-29 15:48:48,political_slogans,Расширение Random User-Agent,https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,так то вроде ничего серьёзного. перекрасили лого в известные цвета.
+2022-03-29 15:48:48,political_slogans,The unarchiver (macOS App Store),https://imgur.com/a/q5DGKxG,"Если не нажать кнопку, то разархивировать не будет, но только раз. При следующем запуске не возникает"
+2022-03-29 15:48:48,political_slogans,ratatype.ru,https://www.ratatype.ru/,https://www.ratatype.ru/
+2022-03-29 15:48:48,political_slogans,FreePBX,ОТСУТСТВУЕТ,При обновлении каждую 5 команду выдает сообщение с призывом остановить РФ
+2022-03-29 15:48:48,political_slogans,Diptrace,"Что за жаргон? Почему не использовать нормальные слова, что за гопницкое быдло?","После встречи ""пуша в репе"" никакого желания что -либо дальше делать нет, общаться с тупой школотой - ну нафиг."
+2022-03-29 15:48:48,political_slogans,yaml-front-matter,https://github.com/spatie/yaml-front-matter/commit/a5a8443f7d9bfc5c337cf41c92347b6d677d23bb,https://github.com/spatie/yaml-front-matter - баннер в README.md
+2022-03-29 15:48:48,political_slogans,LeafletJs,https://leafletjs.com/,"На главной странице теперь полит-лозунги, с предложением положить ""семена в корман"" если поддерживаешь РФ. Также ко всем ссылкам в документации добавили лозунг ""SlavaUkraini"", пример: https://leafletjs.com/SlavaUkraini/reference.html"
+2022-03-29 15:48:48,political_slogans,SergeyOcheretenko/StopWarBot,https://github.com/SergeyOcheretenko/StopWarBot/commit/152d9a0f06625475d913633452c41779a1f9f25b,Бот для рассылки пропагандистского спама
+2022-03-29 15:48:48,political_slogans,goddessmokosh/stop-war-in-ukraine,https://github.com/goddessmokosh/stop-war-in-ukraine/commit/171191737d289608cc55f7c4324c74fce233821a,Плагин для wordpress для демонстрации баннеров и сбора средств на ведение боевых действий
+2022-03-29 15:48:48,political_slogans,stopwarstopputin/swsp-wordpress-plugin,https://github.com/stopwarstopputin/swsp-wordpress-plugin/commit/f26bd25ec52c366df977848677607ff889b51780,Плагин для wordpress итегрирующий пропагандистские баннеры
+2022-03-29 15:48:48,political_slogans,daocentral/ukraine,https://github.com/daocentral/ukraine/commit/ffc07ebc67c244c59acd4d01193c428f8a5e756c,Ресурсы цифровой децентрализованной организации нацеленной на сбор средств для ведения боевых действий
+2022-03-29 15:48:48,political_slogans,petrussola/help-ukraine-open-source,https://github.com/petrussola/help-ukraine-open-source/commit/676bfac5ed77ccb6b6a8a731353ed6239a57d45f,"Список опенсорс проектов, используемых для сбора данных, создания организаций и пропаганды"
+2022-03-29 15:48:48,political_slogans,hattifn4ttar/youtube_supportfreemedia,https://github.com/hattifn4ttar/youtube_supportfreemedia/commit/99ae3284665adc24fc393e9537bf74222517a4a8,ПО для накрутки просмотров пропагандистских youtube роликов
+2022-03-29 15:48:48,political_slogans,artshishkin/swarm-digital-ocean,https://github.com/artshishkin/swarm-digital-ocean/commit/6d718f17f41011f7d710deb8963fee63e39e4afa,"ПО для хакерских атак, настроенное на конкретные ресурсы в РФ"
+2022-03-29 15:48:48,political_slogans,gianpaj/walnut.tv,https://github.com/gianpaj/walnut.tv/commit/b29d08c048a1020526a8212c9cd20665c4fba980,Политические лозунги в ПО
+2022-03-29 15:48:48,political_slogans,VSBalanchuk/AAInUkraine,https://github.com/VSBalanchuk/AAInUkraine/commit/f400a1b04bcd0055c99aebebe07b165ae5fa5270,Баннер для размещения на веб-ресурсах
+2022-03-29 15:48:48,political_slogans,alexshapalov/Support-Ukraine,https://github.com/alexshapalov/Support-Ukraine/commit/a5b48de9a8f6e9b36d8519acba803f67693e5125,Баннер для размещения на веб-ресурсах
+2022-03-29 15:48:48,political_slogans,KobaltDigital/goods4ukraine.eu (Laravel),https://github.com/KobaltDigital/goods4ukraine.eu/commit/2dfda21ef8f0d18a4afce9c886367c4f8aabc543,"Веб-фреймворк, название переименовано в лозунг"
+2022-03-29 15:48:48,political_slogans,vshymanskyy/StandWithUkraine,https://github.com/vshymanskyy/StandWithUkraine/commit/7c25c6ce0ca2e2956ca710180b095aa9a9dfc355,Инструментарий для внедрения баннеров в ПО/Веб ресурсы
+2022-03-29 15:48:48,political_slogans,evermade/support-ukraine-banner,https://github.com/evermade/support-ukraine-banner,Софт для распространения баннеров
+2022-03-29 15:48:48,political_slogans,brzuchal/stop-the-war,https://github.com/evermade/support-ukraine-banner/commit/38d2bd5cd898452576de53055f48aa82d235b63e,PHP_CodeSniffer rule adding non-collapsable comment calling out to Stop The War
+2022-03-29 15:48:48,political_slogans,retejs/rete,https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def,#StandWithUkraine postinstall message
+2022-03-29 15:48:48,political_slogans,Synergy,https://github.com/symless/synergy-core/commit/c542c57b5ef6ee0640a5a68ecb40a2997a68bedb,"баннер, редирект с ip адресов РФ"
+2022-03-29 15:48:48,political_slogans,Rust,https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html,"В начале анонса релиза 1.59.0 абзац: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release, we'd like to state that we stand in"
+2022-03-29 15:48:48,political_slogans,Winbox snap install,https://github.com/panaceya/winbox,Пакет с Winbox для Linux систем. Политика.
+2022-03-29 15:48:48,political_slogans,ukraine-not-war/stop-war,https://github.com/ukraine-not-war/stop-war,-
+2022-03-29 15:48:48,political_slogans,Mate Translate,https://addons.mozilla.org/ru/firefox/addon/instant-translate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=sea,Политические призывы в расширении браузера версии 10.1.13
+2022-03-29 15:48:48,political_slogans,Winbox из SANP Linux,https://snapcraft.io/winbox,Пакет установлен из магазина SNAP. Политические призывы в версии 3.35 при запуске.
+2022-03-29 15:48:48,political_slogans,VyOS,https://blog.vyos.io/global-security-issue-with-russian-federation-invasion-into-ukraine,"В самом коде пока(?) ничего не замечено, автор этой записи комитил последний раз в 2018 году в их репозиторий, но с учетом текста в конце сообщения и общего характера всего поста, надо учитывать в дальнейшем при обновлении. Так же, ниже в комментариях, ест"
+2022-03-29 15:48:48,political_slogans,LosslessCut,https://github.com/mifi/lossless-cut/issues/1055,"Добавлена кнопка в самом центре окна программы, которая сначала была украинским флагом, а теперь стала просто картинкой с подсолнухами. При нажатии на ссылку открывается пропагандистская страница https://mifi.no/ukraine.html"
+2022-03-29 15:48:48,political_slogans,svelte.dev,https://github.com/sveltejs/sites/pull/308,Баннер с ссылкой на донаты Украине. Автор https://github.com/pngwn
+2022-03-29 15:48:48,political_slogans,Jest,https://jestjs.io/ru/,Баннер в поддержку Украины.
+2022-03-29 15:48:48,political_slogans,yii2-starter-kit,https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7,политические лозунги
+2022-03-29 15:48:48,political_slogans,mailtrap.io,mailtrap.io,"Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами, использование сервиса далее заблокировано, vpn решает проблему"
+2022-03-29 15:48:48,political_slogans,Evolution CMS,https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77,После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке.
+2022-03-29 15:48:48,political_slogans,kubernetes-sigs/kind,https://github.com/kubernetes-sigs/kind/pull/2666,"На сайт https://kind.sigs.k8s.io/ добавлен баннер с флагом и ссылка ""Help Provide Humanitarian Aid for Ukraine"". Стоит следить за новыми коммитами на всякий случай"
+2022-03-29 15:48:48,political_slogans,Dotnet Foundation,https://github.com/dotnet-foundation/website/commit/72ddd84dd8c1b68489d870e467cc584752af8049,"Баннер ""We Stand with Ukraine"""
+2022-03-29 15:48:48,political_slogans,Roave/SecurityAdvisories,https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8,"При недовольстве примешивания политики в опен сорс, людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
+2022-03-29 15:48:48,political_slogans,Figma,https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263/3,"Figma решила заморозить корпоративные аккаунты российских клиентов. Личные пока не трогают. (источник: см. ""Ссылка на пуш в репе"", https://vk.com/wall-30666517_1781721)"
+2022-03-29 15:48:48,political_slogans,Symfony,https://github.com/symfony/symfony/commit/37ca066c6fb3aac241ccfb12b2531675798528d7,Шильдик #StandWithUkraine
+2022-03-29 15:48:48,political_slogans,EventSource,https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032,"Полифилы js используются в множестве сторонних сервисов, пол миллиона загрузок в неделю."
+2022-03-29 15:48:48,political_slogans,event-source-polyfill,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,Через 15 секунд после открытия страницы алертит призыв прекратить происходящее и открывает change.org
+2022-03-29 15:48:48,political_slogans,T-Regx,https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 и https://github.com/T-Regx/T-Regx/commit/7e481,StandWithUkraine banner
+2022-03-29 15:48:48,political_slogans,Portable ASCII for PHP,https://github.com/voku/portable-ascii,used e.g. in Laravel Core
+2022-03-29 15:48:48,political_slogans,react-create-app,https://github.com/facebook/create-react-app/commit/fd8c5f7b1b1d19d10d24cc2f9fdfc110585dc030,docs: add homepage banner in support of Ukraine (#12113)
+2022-03-29 15:48:48,political_slogans,"laminas/*, mezzio/*,",https://github.com/laminas/laminas-servicemanager/commit/1fb805d456f4e916e5fbddad4d2349adfd2f05ba,Данный политический лозунг есть во всех пакетах laminas/ и mezzio/.
+2022-03-29 15:48:48,political_slogans,daemon tools,daemon-tools.cc,"с главного сайта начали перенаправлять на политический, отключили обновления"
+2022-03-29 15:48:48,political_slogans,MUI,https://github.com/mui/material-ui/pull/31275,Баннер в поддержку Украины
+2022-03-29 15:48:48,political_slogans,Elmedia Player macOS,…,Вместо проигрывания медиа файлов запускает видео военных действий с политическими лозунгами
+2022-03-29 15:48:48,political_slogans,NewEXE/belsk-schedule,https://github.com/NewEXE/belsk-schedule/commit/b27b55bcf992887864d933af19e009e5750c4ca1,Куча говна
+2022-03-29 15:48:48,political_slogans,stop-war-in-ukraine,https://github.com/yarnpkg/website/issues/1155,Массовый спам issues в репозиториях
+2022-03-29 15:48:48,political_slogans,Ember.js,https://emberjs.com/community/invasion-of-ukraine/,https://emberjs.com/
+2022-03-29 15:48:48,political_slogans,vdz yandex metrika,https://plugins.trac.wordpress.org/browser/vdz-yandex-metrika/assets/banner-772x250.png?rev=2688057,"это плагин wordpress, политические лозунги плюс бекдор, сейчас репозиторий зачищен, плагин блокирован"
+2022-03-29 15:48:48,political_slogans,k01ek/notowar,https://github.com/k01ek/notowar,"Примеры программ на разных языках программированиях выводящие текст ""No to war"""
+2022-03-29 15:48:48,political_slogans,mallardduck,https://github.com/KickflipCli/kickflip-src,"Генератор фейковых сайтов по шаблону с ключевыми словами и призывами (одного мейнтейнера уже забанили за национальную рознь, другой продолжает работу)"
+2022-03-29 15:48:48,political_slogans,GM-DONATE (gm-donate.ru) система доната в Garry's mod,https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd10447,"Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов, функционал позволяет."
+2022-03-29 15:48:48,political_slogans,Redirect Russia,https://github.com/pabio/redirect-russia,"Скрипт встраиваемый на сайты, перенаправляющий пользователей из России на страницу с политическими лозунгами"
+2022-03-29 15:48:48,political_slogans,vadimdemedes/ink,https://github.com/vadimdemedes/ink/issues/506,Issue с призывом платной поддержки украинской армии
+2022-03-29 15:48:48,political_slogans,spaceship-prompt/spaceship-prompt,https://github.com/spaceship-prompt,Поддержка полит лозунгами и удаление всех русских issues
+2022-03-29 15:48:48,political_slogans,Qalctulate! (GTK),https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456,"Remove flags for RUB and BYR/BYN, and show UAH flag when first using the new version; Ничего серьезного, но раздражает. Версия с этим коммитом уже в репозиториях arch. Работает не только в РФ/БР, а вообще у всех."
+2022-03-29 15:48:48,political_slogans,pastebin.com,https://pastebin.com/,Политический баннер
+2022-03-29 15:48:48,political_slogans,SWUbanner,https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine,Есть смысл проверить эти проекты
+2022-03-29 15:48:48,political_slogans,Dash Electrum,https://github.com/akhavr/electrum-dash/commit/80e7bfbc9325f0012dc9c6bd1017cd71de80e2371017cd71de80e237,"Разработчик впилил в продукт политические лозунги, сделав их сюрпризом - в логе что в софте нового про это ни слова."
+2022-03-29 15:48:48,political_slogans,ReactJS,https://github.com/facebook/react/pull/23375/commits/11e414ce6c67dc6c3c7e8cf4146af5c39c9c93ea,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://ru.reactjs.org"
+2022-03-29 15:48:48,political_slogans,EmotionJS,https://github.com/emotion-js/emotion/pull/2668,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://emotion.sh/docs/introduction"
+2022-03-29 15:48:48,political_slogans,MUI (Material UI),https://github.com/mui/material-ui/pull/31275,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"" https://mui.com/getting-started/installation/"
+2022-03-29 15:48:48,political_slogans,mint,https://github.com/dbarnett/python-helloworld/pull/13,"https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
+2022-03-29 15:48:48,political_slogans,CoreELEC,https://github.com/CoreELEC/CoreELEC,Замена логотипа в цвета флага Украины
+2022-03-29 15:48:48,political_slogans,Return youtube dislike api,https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf,Добавление на главную страницу украинского флага и ссылки на сайт для поддержки украинской армии; + интересная строка в комментарии одного из разработчиков (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/
+2022-03-29 15:48:48,political_slogans,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949,см. условия использования в конце readme
+2022-03-29 15:48:48,political_slogans,react-native-ui-lib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Политический баннер #StandWithUkraine
+2022-03-29 15:48:48,political_slogans,Autodesk AutoCAD,https://www.autodesk.ru/,Лозунги
+2022-03-29 15:48:48,political_slogans,Pnpn менеджер пакетов,https://github.com/pnpm/pnpm,"Вредительства не замечено, но сайт с доками блочит ру айпи"
+2022-03-29 15:48:48,political_slogans,Svelte Material UI,https://github.com/hperrin/svelte-material-ui,на их официальрном сайте https://sveltematerialui.com/ висит плашка с лозунгом
+2022-03-29 15:48:48,political_slogans,filestash,https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d,С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали
+2022-03-29 15:48:48,political_slogans,Activeadmin SimpleMDE Markdown Editor,https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9,Политические лозунги.
+2022-03-29 15:48:48,political_slogans,Php Project,https://github.com/spider-mane/php-project/commit/f742eafcf96496ad7f687f452a5c893d29f3e79e,#StandWithUkraine
+2022-03-29 15:48:48,political_slogans,PHPBench,https://github.com/phpbench/phpbench/commit/414f462c2ee40a6b30ffafbe0c4ee760e75780f8,standwithukraine
+2022-03-29 15:48:48,political_slogans,django-modeltranslatio,https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2,Политические лозунги в документации
+2022-03-29 15:48:48,political_slogans,11ty/11ty-website,https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6,шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для украины
+2022-03-29 15:48:48,political_slogans,repo.packagist.org,https://github.com/composer/packagist/pull/1270,composer update - выдает в консоли #StandWithUkraine
+2022-03-29 15:48:48,political_slogans,RNUILib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Баннер #StandWithUkraine
+2022-03-29 15:48:48,political_slogans,deskreen,https://deskreen.com,"Не опенсурс, но не знаю куда ещё отправить эту информацию."
+2022-03-29 15:48:48,political_slogans,The Unarchiver,https://github.com/MacPaw (приватный репозиторий),"Проверить, есть ли что-то помимо лозунгов, пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации."
+2022-03-29 15:48:48,political_slogans,Spark,https://sparkmailapp.com/,"Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство, что ограничение на клиентской части приложения, т.к. отказ пришел с обновлениями)"
+2022-03-29 15:48:48,political_slogans,GNOME extension ddterm,оф сайт расширений гнома,Демонстрирует в окне консоли баннер.
+2022-03-29 15:48:48,political_slogans,plantUml web ресурс,https://plantuml.com/ru/,"Я аналитик, я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии"
+2022-03-29 15:48:48,political_slogans,Codeception for PHP,https://github.com/Codeception/Codeception/commit/eefe1abc60500c0516b85131cbbfbb9a22899db4,"при запуске в консоли выводится ""Codeception PHP Testing Framework v4.1.31 https://helpukrainewin.org"""
+2022-03-29 15:48:48,political_slogans,Docusaurus,https://github.com/facebook/docusaurus/pull/6811,Опенсорс проект http://docusaurus.io/
+2022-03-29 15:48:48,political_slogans,UpdatePack7R2 для Windows 7 SP1 и Server 2008 R2 SP1,https://blog.simplix.info/update7/,Мартовское обновление не устанавливается. По информации в ченджлоге: История изменений 22.03.2011 ... Из-за военного вторжения работа программы на территории России и Беларуси ограничена
+2022-03-29 15:48:48,political_slogans,Codeception,https://github.com/Codeception/Codeception/commit/d6b7af9233124652b0425217d633e034bfa9bf2b,Выводит в консоли ссылку на https://helpukrainewin.org
+2022-03-29 15:48:48,political_slogans,ebastianbergmann,https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c,политика
+2022-03-29 15:48:48,political_slogans,The unarchiver.app,https://macpaw.com/news/macpaw-amidst-aggression,Дополнительное окно с кнопкой «Узнайте правду о происходящем на Украине».
+2022-03-29 15:48:48,political_slogans,russia-sanctions/base,https://github.com/Russia-Sanctions/Base,"Просто пакет, который предлагается включать, чтобы выводить политические лозунги"
+2022-03-29 15:48:48,political_slogans,Список github проектов с лозунгами,https://github.com/vshymanskyy/StandWithUkraine#projects-that-standwithukraine,Список github проектов с лозунгами
+2022-03-29 15:48:48,political_slogans,Поиск по Github,https://github.com/search?l=Markdown&q=SWUbanner&type=Code,"Ссылка на поиск тех, что включил баннер в репу"
+2022-03-29 15:48:48,political_slogans,1password.com - менеджер паролей,Только ссылка,https://blog.1password.com/responding-to-the-conflict-in-ukraine/
+2022-03-29 15:48:48,political_slogans,peacenotwar,https://github.com/RIAEvangelist/peacenotwar,автор мальваря в node-ipc
+2022-03-29 15:48:48,political_slogans,YoutubeDownloader,https://github.com/Tyrrrz/YoutubeDownloader,"Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. ""украины"""
+2022-03-29 15:48:48,political_slogans,Awesome Prometheus Alerts,https://github.com/samber/awesome-prometheus-alerts/commit/6bfcdcca165e57c6fa09a561515c33284caa20c2,Определяет активный у пользователя язык и редиректит на страницу с лозунгами. В следующих коммитах код удалили.
+2022-03-29 15:48:48,political_slogans,docs.nestjs.com,https://github.com/nestjs/docs.nestjs.com/commit/a411b74d114a1342170334e84e426b3259c3872c,"В документации полит. лозунг ""STOP RUSSIA'S INVASION OF UKRAINE"""
+2022-03-29 15:48:48,political_slogans,Stop Russia IT,https://github.com/stop-war-in-ukraine/stop-russia-it,"По ссылке список сервисов, ссылок на обсуждения, петиции на change.org"
+2022-03-29 15:48:48,political_slogans,verdaccio,https://github.com/verdaccio/verdaccio/pull/3060,Баннер в поддержку украины
+2022-03-29 15:48:48,political_slogans,ECMAScript extensions,https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2,anti-war manifest
+2022-03-29 15:48:48,political_slogans,retejs/rete,https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def,#StandWithUkraine postinstall message
+2022-03-29 15:48:48,political_slogans,AWS Terraform modules,https://github.com/terraform-aws-modules,"все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest), внимание на ""дополнительные соглашения"" внизу README каждого модуля."
+2022-04-02 10:36:34,political_slogans,Angular,https://angular.io/,Добавли баннер в шапку сайта
+2022-04-02 10:36:34,political_slogans,Wagtail (CMS на Django),https://wagtail.org/,Баннер в поддержку Украины в шапке сайта
+2022-04-02 10:36:34,political_slogans,Vim,https://www.vim.org/,Перекрасили шапку сайта в цвета украинского флага
+2022-04-02 10:36:34,political_slogans,random-user-agent (расширение для браузера),https://github.com/tarampampam/random-user-agent/,Иконки перекрашены в цвета флага Украины
+2022-04-02 10:36:34,political_slogans,pastebin.com,https://pastebin.com,Покрасили лого в цвета украинского флага
+2022-04-02 10:36:34,political_slogans,MikTex,https://miktex.org/,Логотип на фоне флага украины со ссылкой на пожертвования украинским беженцам
+2022-04-02 10:36:34,political_slogans,Online-go.com,https://github.com/online-go/online-go.com,Логотип перекрашен в цвета флага Украины
+2022-04-02 10:36:34,political_slogans,Prometheus,https://prometheus.io/,Проукраинский баннер на титульной странице проекта
+2022-04-02 10:36:34,political_slogans,bromite,https://www.bromite.org/,Слоган в поддержку Украины на сайте. Пропагандистские ссылки на новостные сайты в списке рекомендованных на домашней странице браузера
+2022-04-02 10:36:34,political_slogans,dry-rb,https://github.com/dry-rb/dry-rb.org/commit/70be9b42a4d85c7d4025bdb7b98d4e5c72945d03,"На сайте с документацией в заголовке появились политические призывы к ""российским друзьям"" - https://dry-rb.org"
+2022-04-02 10:36:34,political_slogans,Cobian Reflector,https://www.cobiansoft.com/crhistory.html,"Cobiansoft популярные, бесплатные для коммерции, программы резервного копирования. Автор швед, учившийся в России обозлился из-за западной пропаганды на Путина и с каждым обновлением в журнале обновления постит политические лозунги. Заканчивается ли вся не"
+2022-04-02 10:36:34,political_slogans,random-user-agent,https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,Выпущен тег только для смены иконки
+2022-04-02 10:36:34,political_slogans,Gitlab,gitlab.com,Логотип перекрашен в цвета флага Украины (появляется не всегда)
+2022-04-02 10:36:34,political_slogans,ScreenshotTile,https://github.com/cvzi/ScreenshotTile/blob/master/app/src/main/java/com/github/cvzi/screenshottile/utils/Utils.kt#L793,всплывающие сообщения при снимках экрана
+2022-04-02 10:36:34,political_slogans,vue-boilerplate-template,https://github.com/nicejade/vue-boilerplate-template,при подгрузке пакетов вылезает полит. текст.
+2022-04-02 10:36:34,political_slogans,Slack,https://slack.com/,Замена логотипа в цвета флага Украины
+2022-04-02 10:36:34,political_slogans,EdgeDB,https://twitter.com/edgedatabase/status/1499842655840190468,"Смена логотипа в репозитории, пропаганда в twitter https://github.com/edgedb"
+2022-04-02 10:36:34,political_slogans,virtualdj,https://www.virtualdj.com/,"При запуске программы с росcийского ip вылетает политический пуш, на сайте также в шапке политические лозунги."
+2022-04-02 10:36:34,political_slogans,Tasmota,https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320,"Убрали малварь из кода прошивки, но в Readme репозитория осталась ссылка на призывы"
+2022-04-08 11:12:05,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
+2022-04-08 11:12:05,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+2022-04-08 11:12:05,political_slogans,ClickHouse,https://clickhouse.com/blog/we-stand-with-ukraine/,Политические лозунги на главной и в блоге. Перекрасили шапку в цвета украинского флага.
+2022-04-08 11:12:05,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
+2022-04-08 11:12:29,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
+2022-04-08 11:12:29,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+2022-04-08 11:12:29,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
+2022-04-08 11:12:54,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
+2022-04-08 11:12:54,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+2022-04-08 11:12:54,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
+2022-04-08 11:12:54,political_slogans,Cucumber JS (NPM package),https://github.com/cucumber/cucumber-js/commit/94458aaf07146ee3069e3b2d536ca773e5faec54,"Cucumber (NPM package ""@cucumber/cucumber"") - added StandWithUkraine banner in в README.md"
+2022-04-08 11:12:54,political_slogans,counter.dev,https://github.com/ihucos/counter.dev/commit/7abe9d1d9dca75d6a242a7f3833390b883e2ae70,Message for russian users. Так же предыдущий и следующий коммиты.
+2022-04-08 11:14:13,political_slogans,imgur,imgur.com,Перекрасили логотип в цвета украинского флага
+2022-04-08 12:08:24,political_slogans,imageshack,https://imageshack.com/,Лозунги при встраивании изображение в код.
+2022-04-09 09:10:30,political_slogans,yyyar/gobetween,https://github.com/yyyar/gobetween,Политические лозунги
+2022-04-09 09:10:30,political_slogans,Canva,https://www.canva.com/newsroom/news/supporting-ukraine/,Политические лозунги
+2022-04-09 09:10:30,political_slogans,koreader/koreader,https://github.com/koreader/koreader/releases/tag/v2022.02,flag Ukraine with icon app

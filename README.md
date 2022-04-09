@@ -11,7 +11,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 334
+Records in the database: 338
 > At the moment, the most up-to-date list is on our website. The list in this repository is updated with a slight delay.
 
 [CHANGELOG](CHANGELOG.md)
