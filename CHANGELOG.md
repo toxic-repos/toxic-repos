@@ -1,3 +1,24 @@
+# 11.04.22
+[add]
++ Norton Security
++ Host-tracker
++ Coursera
++ NewRelic
++ Terraform
++ Sparkpost (рассылка email)
++ Go (Golang)
++ Ubuntu
++ Grammarly
++ Leaflet
++ stalniy/casl
++ SilentButeo2/webgrabplus-siteinipack
++ MenuetOS
++ iFixit
++ softportal.com
+
+[delete]
+- draw.io
+
 # 09.04.22
 [add]
 + yyyar/gobetween
