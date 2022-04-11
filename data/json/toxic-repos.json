@@ -511,6 +511,90 @@
         "description": "При запросе в тех.поддержку Synology, автоматически тикет падает в архив с ответом В связи с последними событиями Synology объявила о временной приостановке поставок всех продуктов и предоставлении технической поддержки любым юридическим и физическим лицам в Российской Федерации и Республике Беларусь. Если в аккаунте выбрать Казахстан, то через время отвечают со скриншотом Dear customer, we are sorry to inform you, that we need to close your technical support request. Due to European Union sanctions, Synology subsidiaries within European Union are temporarily unable to provide support for our products and customers, located in russia and belarus. Please reffer entire EU sanction description attached. Please find here the official Knowldege Center: https://kb.synology.com/ Knowledge Center provides description for all functions and help for most common topics. Please do not answer to this message, as we are unable to send you any further reply. Best Regards Synology GmbH Technical Support"
     },
     {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Norton Security",
+        "commit_link": "https://norton.com/",
+        "description": "Отключили обновления. При попытке обновления ошибок нет, но антивирус всё-равно предупреждает об устаревших базах"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Host-tracker",
+        "commit_link": "https://www.host-tracker.com/ru/",
+        "description": "Сервис распределенного мониторинга и оповещений. Отказали в обслуживании всем пользователям из России, разослали письма с лозунгами"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Coursera",
+        "commit_link": "https://www.coursera.org/",
+        "description": "Отказали в платных услугах всем пользователям из России, письмо с лозунгами в поддержку Украины"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "NewRelic",
+        "commit_link": "https://newrelic.com",
+        "description": "Отказали в обслуживании пользователям из России, игнор обращений в техподдержку при попытке решить этот вопрос"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Sparkpost (рассылка email)",
+        "commit_link": "Sparkpost.com",
+        "description": "Удалили аккаунт без объявления причин и не дали скачать данные"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Ubuntu",
+        "commit_link": "https://ubuntu.com/blog/canonical-standing-with-ukraine",
+        "description": "Canonical направила уведомление о прекращении поддержки, профессиональных услуг и партнерских отношений с российскими предприятиями. «Мы направим любой российский доход от подписки на такое обслуживание на украинские гуманитарные цели»"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "Grammarly",
+        "commit_link": "grammarly.com",
+        "description": "Приостановили обслуживание в РФ и Белоруссии. Для россиких IP отображают страницу-заглушку с пропогандой. Перекрасили логотип в цвета украинского флага"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "stalniy/casl",
+        "commit_link": "https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2",
+        "description": "Authorization JS library. Полит лозунг в документации и на сайте https://casl.js.org/v5/en/"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "SilentButeo2/webgrabplus-siteinipack",
+        "commit_link": "https://github.com/SilentButeo2/webgrabplus-siteinipack/commit/1256512408bb07bf36ac90a4e35400d6c5dae4ab",
+        "description": "Софт для парсинга сайтов с ТВ программами от голландца Jan van Straaten. Удалил поддержку зоны ru (несколько коммитов). http://www.webgrabplus.com/content/stop-war-no-russia-support"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "MenuetOS",
+        "commit_link": "http://menuetos.net/",
+        "description": "Зачем-то добавили флажок Украины в шапку сайта: https://imgbox.com/DdwDbvR7"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "iFixit",
+        "commit_link": "https://ru.ifixit.com/",
+        "description": "Перекрасили логотип в цвета украинского флага."
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
+        "name": "softportal.com",
+        "commit_link": "https://www.softportal.com/img/green/head/sp_lenta2.jpg",
+        "description": "добавили синюю и желтую ленточки"
+    },
+    {
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Игра Top Eleven от nordeus",
@@ -973,6 +1057,27 @@
         "description": "Политические лозунги + Блокировка доступа. С росcийского IP - 403. Через зарубежное ВПН - всё ок. Так же, без, ВПН больше не работает сборка proto. https://github.com/bufbuild/buf"
     },
     {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "ip_block",
+        "name": "Terraform",
+        "commit_link": "https://www.terraform.io/",
+        "description": "Нет доступа к Terraform плагинам с белорусского IP, 403 Not Allowed, через VPN работает"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "ip_block",
+        "name": "Go (Golang)",
+        "commit_link": "https://golang.org/",
+        "description": "Не открывается на территории ДНР, в РФ - открывается"
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "ip_block",
+        "name": "Leaflet",
+        "commit_link": "https://leafletjs.com/",
+        "description": "JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ."
+    },
+    {
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
         "name": "Onefetch",
@@ -1013,13 +1118,6 @@
         "name": "Parad1seBomb",
         "commit_link": "https://github.com/K1ngSoul/Parad1seBomb",
         "description": "SMS Bomber for Russia and Ukraine"
-    },
-    {
-        "datetime": "2022-04-08 10:47:53",
-        "problem_type": "malware",
-        "name": "draw.io (for Confluence)",
-        "commit_link": "https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263352ce151597273a64e2435",
-        "description": "draw.io is a configurable diagramming/whiteboarding visualization application. draw.io is owned and developed by JGraph Ltd, a UK based software company.\r\nВ комьюнити Atlassian сообщили, что draw.io на сервере Confluence удаляет контент и в инфо показывает \"Нет войне\". На маркетплейсе Atlassian указано, что в версии 17.1.4 был некий security fix, исправляющий ошибку в 17.1.3 (без деталей). Проблем с версией 17.1.4 нет, по 17.1.5 пока нет подтверждений.\r\nЛозунги убрали: https://github.com/jgraph/drawio/compare/v17.1.5...v17.2.2\r\nИсследуем убрали ли стирание данных"
     },
     {
         "datetime": "2022-03-29 15:48:48",
@@ -1139,13 +1237,6 @@
         "name": "Mate",
         "commit_link": "https://prnt.sc/oVezpycty94G",
         "description": "Плагин переводчика для браузера Firefox. Теперь показывает политические лозунги."
-    },
-    {
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "political_slogans",
-        "name": "draw.io",
-        "commit_link": "https://github.com/jgraph/drawio/commit/6a5dd8d3715f6aba50f48041cdc699cbd9af91cf#diff-c6f752c951f4e1c585c6e8cab1ffbc98d580eb9263",
-        "description": "Пошел слух про то что еще и вайпают данные файла при сохранении, однако подтверждения не нашел. Возможно зарыто где-то глубоко. \"В русской локали последней версии вместо \"\"О сервисе\"\" пропаганда\""
     },
     {
         "datetime": "2022-03-29 15:48:48",
