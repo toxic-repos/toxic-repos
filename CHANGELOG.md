@@ -1,3 +1,14 @@
+# 13.04.22
+[add]
++ azjezz/psl
++ GitHub blog
++ acornjs/acorn
+
+# 12.04.22
+[add]
++ acunetix.com
++ zadam/trilium
+
 # 11.04.22
 [add]
 + Norton Security

@@ -595,6 +595,13 @@
         "description": "добавили синюю и желтую ленточки"
     },
     {
+        "datetime": "2022-04-13 14:17:54",
+        "problem_type": "hostile_actions",
+        "name": "GitHub blog",
+        "commit_link": "https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/",
+        "description": "Перекрасили логотип в цвета украинского флага."
+    },
+    {
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Игра Top Eleven от nordeus",
@@ -1076,6 +1083,13 @@
         "name": "Leaflet",
         "commit_link": "https://leafletjs.com/",
         "description": "JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ."
+    },
+    {
+        "datetime": "2022-04-12 13:35:59",
+        "problem_type": "ip_block",
+        "name": "acunetix.com",
+        "commit_link": "https://www.acunetix.com/",
+        "description": "Блокируют вход с ip РФ"
     },
     {
         "datetime": "2022-03-29 15:48:48",
@@ -2455,5 +2469,26 @@
         "name": "koreader/koreader",
         "commit_link": "https://github.com/koreader/koreader/releases/tag/v2022.02",
         "description": "flag Ukraine with icon app"
+    },
+    {
+        "datetime": "2022-04-12 13:38:22",
+        "problem_type": "political_slogans",
+        "name": "zadam/trilium",
+        "commit_link": "https://github.com/zadam/trilium",
+        "description": "Всё стандартно. Баннер, лозунги, призывы."
+    },
+    {
+        "datetime": "2022-04-13 14:17:54",
+        "problem_type": "political_slogans",
+        "name": "azjezz/psl",
+        "commit_link": "https://github.com/azjezz/psl",
+        "description": "Политика"
+    },
+    {
+        "datetime": "2022-04-13 14:18:29",
+        "problem_type": "political_slogans",
+        "name": "acornjs/acorn",
+        "commit_link": "https://github.com/acornjs/acorn",
+        "description": "Политика"
     }
 ]
