@@ -562,6 +562,13 @@
     {
         "datetime": "2022-04-11 10:28:33",
         "problem_type": "hostile_actions",
+        "name": "Leaflet",
+        "commit_link": "https://leafletjs.com/",
+        "description": "JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ."
+    },
+    {
+        "datetime": "2022-04-11 10:28:33",
+        "problem_type": "hostile_actions",
         "name": "stalniy/casl",
         "commit_link": "https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2",
         "description": "Authorization JS library. Полит лозунг в документации и на сайте https://casl.js.org/v5/en/"
@@ -1076,13 +1083,6 @@
         "name": "Go (Golang)",
         "commit_link": "https://golang.org/",
         "description": "Не открывается на территории ДНР, в РФ - открывается"
-    },
-    {
-        "datetime": "2022-04-11 10:28:33",
-        "problem_type": "ip_block",
-        "name": "Leaflet",
-        "commit_link": "https://leafletjs.com/",
-        "description": "JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ."
     },
     {
         "datetime": "2022-04-12 13:35:59",
@@ -2490,5 +2490,19 @@
         "name": "acornjs/acorn",
         "commit_link": "https://github.com/acornjs/acorn",
         "description": "Политика"
+    },
+    {
+        "datetime": "2022-04-14 11:04:39",
+        "problem_type": "political_slogans",
+        "name": "AssemblyScript/assemblyscript",
+        "commit_link": "https://github.com/AssemblyScript/assemblyscript",
+        "description": "Политика"
+    },
+    {
+        "datetime": "2022-04-14 11:04:39",
+        "problem_type": "political_slogans",
+        "name": "AlDente",
+        "commit_link": "https://apphousekitchen.com/aldente-pro-1-16-release-notes/",
+        "description": "В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения, что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
     }
 ]

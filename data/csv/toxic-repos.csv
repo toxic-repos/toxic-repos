@@ -162,6 +162,8 @@ datetime,problem_type,name,commit_link,description
 
 2022-04-11 10:28:33,hostile_actions,Grammarly,grammarly.com,Приостановили обслуживание в РФ и Белоруссии. Для россиких IP отображают страницу-заглушку с пропогандой. Перекрасили логотип в цвета украинского флага
 
+2022-04-11 10:28:33,hostile_actions,Leaflet,https://leafletjs.com/,JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ.
+
 2022-04-11 10:28:33,hostile_actions,stalniy/casl,https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2,Authorization JS library. Полит лозунг в документации и на сайте https://casl.js.org/v5/en/
 
 2022-04-11 10:28:33,hostile_actions,SilentButeo2/webgrabplus-siteinipack,https://github.com/SilentButeo2/webgrabplus-siteinipack/commit/1256512408bb07bf36ac90a4e35400d6c5dae4ab,Софт для парсинга сайтов с ТВ программами от голландца Jan van Straaten. Удалил поддержку зоны ru (несколько коммитов). http://www.webgrabplus.com/content/stop-war-no-russia-support
@@ -327,8 +329,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 2022-04-11 10:28:33,ip_block,Terraform,https://www.terraform.io/,"Нет доступа к Terraform плагинам с белорусского IP, 403 Not Allowed, через VPN работает"
 
 2022-04-11 10:28:33,ip_block,Go (Golang),https://golang.org/,"Не открывается на территории ДНР, в РФ - открывается"
-
-2022-04-11 10:28:33,ip_block,Leaflet,https://leafletjs.com/,JavaScript library for interactive maps. Заблокировали доступ к сайту из РФ.
 
 2022-04-12 13:35:59,ip_block,acunetix.com,https://www.acunetix.com/,Блокируют вход с ip РФ
 
@@ -731,4 +731,8 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 2022-04-13 14:17:54,political_slogans,azjezz/psl,https://github.com/azjezz/psl,Политика
 
 2022-04-13 14:18:29,political_slogans,acornjs/acorn,https://github.com/acornjs/acorn,Политика
+
+2022-04-14 11:04:39,political_slogans,AssemblyScript/assemblyscript,https://github.com/AssemblyScript/assemblyscript,Политика
+
+2022-04-14 11:04:39,political_slogans,AlDente,https://apphousekitchen.com/aldente-pro-1-16-release-notes/,"В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения, что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
 
