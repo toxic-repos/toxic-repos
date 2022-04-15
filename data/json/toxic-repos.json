@@ -609,6 +609,20 @@
         "description": "Перекрасили логотип в цвета украинского флага."
     },
     {
+        "datetime": "2022-04-15 10:24:12",
+        "problem_type": "hostle_action",
+        "name": "wxwidgets cross platform gui library",
+        "commit_link": "https://www.wxwidgets.org/",
+        "description": "UA флаг на главной странице"
+    },
+    {
+        "datetime": "2022-04-15 10:46:31",
+        "problem_type": "hostle_action",
+        "name": "Vintage programmable calculators",
+        "commit_link": "http://www.pisi.com.pl/piotr433/index.htm",
+        "description": "В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
+    },
+    {
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Игра Top Eleven от nordeus",
@@ -1090,6 +1104,13 @@
         "name": "acunetix.com",
         "commit_link": "https://www.acunetix.com/",
         "description": "Блокируют вход с ip РФ"
+    },
+    {
+        "datetime": "2022-04-15 10:28:21",
+        "problem_type": "ip_block",
+        "name": "MinGW Minimalist gnu for winfows",
+        "commit_link": "http://www.mingw.org/",
+        "description": "Заблокировали для стран РФ. Перебрасывает на страницу с сообщением о блокировке \"Country not allowed\""
     },
     {
         "datetime": "2022-03-29 15:48:48",
@@ -2504,5 +2525,12 @@
         "name": "AlDente",
         "commit_link": "https://apphousekitchen.com/aldente-pro-1-16-release-notes/",
         "description": "В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения, что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
+    },
+    {
+        "datetime": "2022-04-15 11:17:20",
+        "problem_type": "political_slogans",
+        "name": "PortableApps/SuiteUkraine",
+        "commit_link": "https://github.com/PortableApps/SuiteUkraine",
+        "description": "Политика"
     }
 ]

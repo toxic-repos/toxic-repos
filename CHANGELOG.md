@@ -1,3 +1,10 @@
+# 15.04.22
+[add]
++ wxwidgets cross platform gui library
++ MinGW Minimalist gnu for winfows
++ Vintage programmable calculators
++ PortableApps/SuiteUkraine
+
 # 14.04.22
 [add]
 + AssemblyScript/assemblyscript
