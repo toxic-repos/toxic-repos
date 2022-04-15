@@ -7,7 +7,6 @@ import csv
 from pathlib import Path
 from dataclasses import dataclass
 
-
 DATABASE_PATH = Path("../data/sqlite/toxic-repos.sqlite3")
 
 JSON_OUTFILE_PATH = Path("../data/json/toxic-repos.json")
@@ -36,7 +35,7 @@ def main() -> None:
         json.dump(database_data, fp, ensure_ascii=False, indent=4)
 
     # To csv
-    with open(CSV_OUTFILE_PATH, "w") as fp:
+    with open(CSV_OUTFILE_PATH, "w", newline='') as fp:
         csv_writer = csv.writer(fp)
         csv_writer.writerow(
             ["datetime", "problem_type", "name", "commit_link", "description"],
