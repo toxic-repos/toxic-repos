@@ -1272,6 +1272,14 @@
         "description": "Заблокировали для стран РФ. Перебрасывает на страницу с сообщением о блокировке \"Country not allowed\""
     },
     {
+        "id": 421,
+        "datetime": "2022-04-16 22:43:00",
+        "problem_type": "ip_block",
+        "name": "soketi.app",
+        "commit_link": "https://soketi.app/",
+        "description": "сайт закрыт для российских пользователей"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -2893,6 +2901,14 @@
         "problem_type": "political_slogans",
         "name": "PortableApps/SuiteUkraine",
         "commit_link": "https://github.com/PortableApps/SuiteUkraine",
+        "description": "Политика"
+    },
+    {
+        "id": 420,
+        "datetime": "2022-04-16 22:43:00",
+        "problem_type": "political_slogans",
+        "name": "soketi/soketi",
+        "commit_link": "https://github.com/soketi/soketi",
         "description": "Политика"
     }
 ]

@@ -1,3 +1,8 @@
+# 16.04.22
+[add]
++ soketi/soketi
++ soketi.app
+
 # 15.04.22
 [add]
 + wxwidgets cross platform gui library

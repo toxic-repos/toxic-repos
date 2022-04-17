@@ -169,6 +169,7 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 400,2022-04-11 10:28:33,ip_block,Go (Golang),https://golang.org/,"Не открывается на территории ДНР, в РФ - открывается"
 409,2022-04-12 13:35:59,ip_block,acunetix.com,https://www.acunetix.com/,Блокируют вход с ip РФ
 417,2022-04-15 10:28:21,ip_block,MinGW Minimalist gnu for winfows,http://www.mingw.org/,"Заблокировали для стран РФ. Перебрасывает на страницу с сообщением о блокировке ""Country not allowed"""
+421,2022-04-16 22:43:00,ip_block,soketi.app,https://soketi.app/,сайт закрыт для российских пользователей
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -372,3 +373,4 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 414,2022-04-14 11:04:39,political_slogans,AssemblyScript/assemblyscript,https://github.com/AssemblyScript/assemblyscript,Политика
 415,2022-04-14 11:04:39,political_slogans,AlDente,https://apphousekitchen.com/aldente-pro-1-16-release-notes/,"В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения, что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
 419,2022-04-15 11:17:20,political_slogans,PortableApps/SuiteUkraine,https://github.com/PortableApps/SuiteUkraine,Политика
+420,2022-04-16 22:43:00,political_slogans,soketi/soketi,https://github.com/soketi/soketi,Политика
