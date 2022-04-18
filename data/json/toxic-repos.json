@@ -712,6 +712,38 @@
         "description": "В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
     },
     {
+        "id": 425,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostle_action",
+        "name": "Udemy (онлайн курсы)",
+        "commit_link": "https://www.udemy.com/",
+        "description": "На главной странице: \"На данный момент мы не принимаем оплату новых регистраций на курсы от учащихся из России.\""
+    },
+    {
+        "id": 427,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostle_action",
+        "name": "pagerduty",
+        "commit_link": "https://www.pagerduty.com/blog/support-for-ukraine-company-statement",
+        "description": "пришло письмо об отмене оплаченной подписки с 19 мая"
+    },
+    {
+        "id": 429,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostle_action",
+        "name": "Weblium",
+        "commit_link": "weblium.com",
+        "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги, видео. Не пускает в админку сайта"
+    },
+    {
+        "id": 437,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostle_action",
+        "name": "Parallels",
+        "commit_link": "parallels.com",
+        "description": "Удалили русский перевод сайта. Пропаганда.\r\nhttps://imgbox.com/vIwZXDIO\r\nhttps://imgbox.com/ZJ11M8bf"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1278,6 +1310,62 @@
         "name": "soketi.app",
         "commit_link": "https://soketi.app/",
         "description": "сайт закрыт для российских пользователей"
+    },
+    {
+        "id": 423,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "Terraform",
+        "commit_link": "https://app.terraform.io/",
+        "description": "Сообщение: \"This content is not currently available in your region.\" Не дают скачать бинарники, также нет доступа к репам с модулями. Всё остальное от HashiCorp так же недоступно."
+    },
+    {
+        "id": 424,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "splunk",
+        "commit_link": "https://splunk.com/",
+        "description": "заблокирован доступ к сайту из РФ"
+    },
+    {
+        "id": 426,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "ActiveState",
+        "commit_link": "https://activestate.com",
+        "description": "При попытке скачать пишет: 403 ERROR The Amazon CloudFront distribution is configured to block access from your country."
+    },
+    {
+        "id": 428,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "Mattermost",
+        "commit_link": "https://mattermost.com/",
+        "description": "При нажатии на trial показывает ошибку 403"
+    },
+    {
+        "id": 430,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "depesz.com",
+        "commit_link": "depesz.com, explain.depesz.com, paste.depesz.com",
+        "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com, paste.depesz.com"
+    },
+    {
+        "id": 431,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "Syllable (OS site)",
+        "commit_link": "https://syllable.metaproject.frl/",
+        "description": "С российских ip вместо контента отображает проигрыватель с роликами BBC о ситуации на Украине https://imgbox.com/SpFYMZUR."
+    },
+    {
+        "id": 432,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "Auth0",
+        "commit_link": "auth0.com",
+        "description": "Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США"
     },
     {
         "id": 1,
@@ -2910,5 +2998,93 @@
         "name": "soketi/soketi",
         "commit_link": "https://github.com/soketi/soketi",
         "description": "Политика"
+    },
+    {
+        "id": 422,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "burgua/yandex_search_in_chrome",
+        "commit_link": "https://github.com/burgua/yandex_search_in_chrome/blob/master/code.js#L3",
+        "description": "Аддон открывает видео Ильи Яшина на ютубе. До этого открывал видео Каца"
+    },
+    {
+        "id": 433,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "MahApps/MahApps.Metro",
+        "commit_link": "https://github.com/MahApps/MahApps.Metro",
+        "description": "Добавили баннер в readme"
+    },
+    {
+        "id": 434,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "jech/galene",
+        "commit_link": "https://github.com/jech/galene",
+        "description": "На сайтах https://galene.org/ и https://galene.org:8443/group/public/ изображения и политические лозунги"
+    },
+    {
+        "id": 435,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "composer/packagist",
+        "commit_link": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
+        "description": "Менеджер пакетов для PHP. При скачивании пакетов в терминале выводит текст: \"Info from https://repo.packagist.org: #StandWithUkraine\".\r\nhttps://github.com/composer/packagist/pull/1270\r\nАвтор добавил их в публичный репозиторий packagist, так что апгрейд/даунгрейд самого composer.phar не поможет. Кому-то CI/CD поломало, лозунги пишутся в stderr. Решение: https://github.com/open-composer/composer/issues/3#issuecomment-1087867491"
+    },
+    {
+        "id": 436,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "Macintosh Repository",
+        "commit_link": "macintoshrepository.org",
+        "description": "Добавлен призыв \"Пожалуйста остановите войну\" внизу страницы https://imgbox.com/5BGEAhrx"
+    },
+    {
+        "id": 438,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "Hacking with Swift",
+        "commit_link": "www.hackingwithswift.com",
+        "description": "Образовательный ресурс по программированию на Swift. Добавили украинский флажок: https://imgbox.com/SL27Rljs"
+    },
+    {
+        "id": 439,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "The Web Dev",
+        "commit_link": "https://thewebdev.info/",
+        "description": "Сайт с якобы информацией по веб-разработке заполнен рекламой с политическими лозунгами в пользу Украину и пропагандой против России."
+    },
+    {
+        "id": 440,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": ".NET Fiddle",
+        "commit_link": "https://dotnetfiddle.net",
+        "description": "Баннер на сайте https://dotnetfiddle.net \"We Stand with Ukraine\""
+    },
+    {
+        "id": 441,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "AppVeyor",
+        "commit_link": "https://www.appveyor.com",
+        "description": "Добавили украинский флаг в шапку"
+    },
+    {
+        "id": 442,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "Freepik",
+        "commit_link": "https://www.freepik.com/",
+        "description": "Добавли баннер в шапку сайта: https://www.freepik.com/"
+    },
+    {
+        "id": 443,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "political_slogans",
+        "name": "Uninstall Tool",
+        "commit_link": "https://crystalidea.com/ru/uninstall-tool/buy",
+        "description": "Лозунг на странице покупки. Такие же лозунги на странице покупки других программ данного разработчика."
     }
 ]

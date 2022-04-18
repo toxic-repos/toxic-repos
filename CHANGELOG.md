@@ -1,3 +1,28 @@
+# 18.04.22
+[add]
++ burgua/yandex_search_in_chrome
++ Terraform
++ splunk
++ Udemy (онлайн курсы)
++ ActiveState
++ pagerduty
++ Mattermost
++ Weblium
++ depesz.com
++ Syllable (OS site)
++ Auth0
++ MahApps/MahApps.Metro
++ jech/galene
++ composer/packagist
++ Macintosh Repository
++ Parallels
++ Hacking with Swift
++ The Web Dev
++ .NET Fiddle
++ AppVeyor
++ Freepik
++ Uninstall Tool
+
 # 16.04.22
 [add]
 + soketi/soketi
