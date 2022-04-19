@@ -1,5 +1,8 @@
 # toxic-repos
 
+> Disrespectful pseudo hackers, try your best! And now you look like stupid little children. Can you try DDoS on our GitHub repository? Long live Cloudflare!
+> ![Cloudflare stats](.github/stat.png)
+
 ### We are against discrediting open source software
 
 ## What is this?
