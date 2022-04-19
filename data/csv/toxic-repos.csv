@@ -48,9 +48,6 @@ id,datetime,problem_type,name,commit_link,description
 69,2022-03-29 15:48:48,hostile_actions,dell.com,https://www.dell.com/restrictions/support/ru-ru/index.html,"Заблокировали возможность скачивания драйверов из России. Вывод сообщения ""В настоящее время компания Dell не может оказывать техническую поддержку на территории России. Приносим извинения за доставленные неудобства."""
 70,2022-03-29 15:48:48,hostile_actions,lenovo.com,https://download.lenovo.com/eol/index.html,Заблокировали возможность скачивания драйверов из Российского региона
 71,2022-03-29 15:48:48,hostile_actions,rubyweekly.com,https://rubyweekly.com/issues/595,Убрали из рассылок русские адреса и возможность подписаться с .ru почты на изменения в языке Ruby и Rails-on-ruby
-73,2022-03-29 15:48:48,hostile_actions,Миландр,https://www.milandr.ru/,"Российская компания Миландр удалила русскоязычный сайт и форум, на котором было много полезной информации по их продуктам (микроконтроллеры и прочие мс).
-
-Объясняют ""внутренней политикой"". На рынке больше 20 лет, были и военные заказы. В поддержке обещают"
 84,2022-03-29 15:48:48,hostile_actions,Firefox,https://phabricator.services.mozilla.com/D140898,удалил поиск Яндекса
 85,2022-03-29 15:48:48,hostile_actions,DeskCamera,https://www.deskcamera.com,"Блокируют проплаченные и активированные лицензии в России. Техподдержка отвечает ""Слава украине""."
 86,2022-03-29 15:48:48,hostile_actions,GitHub,нет,Пришло сегодня письмо от гитхаба: Thank you for your patience during this process. After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be ab
@@ -198,7 +195,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 100,2022-03-29 15:48:48,political_slogans,MicrosoftDocs/azure-docs,https://github.com/MicrosoftDocs/azure-docs,В статьях перед справкой появляется #StopRussianWar
 101,2022-03-29 15:48:48,political_slogans,styled-components,https://github.com/styled-components,"после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
 103,2022-03-29 15:48:48,political_slogans,postfixadmin,https://github.com/postfixadmin/postfixadmin.git,Политический баннер #StandWithUkraine
-104,2022-03-29 15:48:48,political_slogans,jgraph/drawio-desktop,https://github.com/jgraph/drawio-desktop/commit/2b02c721bf9f2b757919ea552a3f2ff7f11dd9f7,"В меню помощь, в пункте о проекте, политический лозунг нет войне. Появился после обновления на последнюю бинарную версию. Подозреваю, что код в репозитории не совпадает с распространяемым бинарным файлом, так как не нашел в репе этот лозунг. Версия diagram"
 106,2022-03-29 15:48:48,political_slogans,caves.ru,https://caves.ru/,"Форум тех, кто пишет на режимных заводах ""сгиня - вор"" и портит оборудование."
 107,2022-03-29 15:48:48,political_slogans,MacUpdate,https://www.macupdate.com,Баннер на сайте в поддержку Украины.
 108,2022-03-29 15:48:48,political_slogans,PlantUML,https://plantuml.com/ru/,"Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
@@ -362,7 +358,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 343,2022-04-02 10:36:34,political_slogans,Slack,https://slack.com/,Замена логотипа в цвета флага Украины
 344,2022-04-02 10:36:34,political_slogans,EdgeDB,https://twitter.com/edgedatabase/status/1499842655840190468,"Смена логотипа в репозитории, пропаганда в twitter https://github.com/edgedb"
 345,2022-04-02 10:36:34,political_slogans,virtualdj,https://www.virtualdj.com/,"При запуске программы с росcийского ip вылетает политический пуш, на сайте также в шапке политические лозунги."
-346,2022-04-02 10:36:34,political_slogans,Tasmota,https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320,"Убрали малварь из кода прошивки, но в Readme репозитория осталась ссылка на призывы"
 374,2022-04-08 11:12:05,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
 375,2022-04-08 11:12:05,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
 376,2022-04-08 11:12:05,political_slogans,ClickHouse,https://clickhouse.com/blog/we-stand-with-ukraine/,Политические лозунги на главной и в блоге. Перекрасили шапку в цвета украинского флага.

@@ -1,3 +1,9 @@
+# 19.04.22
+[delete]
+- Tasmota
+- Миландр (milandr)
+- jgraph/drawio-desktop
+
 # 18.04.22
 [add]
 + burgua/yandex_search_in_chrome

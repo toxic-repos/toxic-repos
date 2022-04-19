@@ -392,14 +392,6 @@
         "description": "Убрали из рассылок русские адреса и возможность подписаться с .ru почты на изменения в языке Ruby и Rails-on-ruby"
     },
     {
-        "id": 73,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "hostile_actions",
-        "name": "Миландр",
-        "commit_link": "https://www.milandr.ru/",
-        "description": "Российская компания Миландр удалила русскоязычный сайт и форум, на котором было много полезной информации по их продуктам (микроконтроллеры и прочие мс).\n\nОбъясняют \"внутренней политикой\". На рынке больше 20 лет, были и военные заказы. В поддержке обещают"
-    },
-    {
         "id": 84,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1486,14 +1478,6 @@
         "name": "postfixadmin",
         "commit_link": "https://github.com/postfixadmin/postfixadmin.git",
         "description": "Политический баннер #StandWithUkraine"
-    },
-    {
-        "id": 104,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "political_slogans",
-        "name": "jgraph/drawio-desktop",
-        "commit_link": "https://github.com/jgraph/drawio-desktop/commit/2b02c721bf9f2b757919ea552a3f2ff7f11dd9f7",
-        "description": "В меню помощь, в пункте о проекте, политический лозунг нет войне. Появился после обновления на последнюю бинарную версию. Подозреваю, что код в репозитории не совпадает с распространяемым бинарным файлом, так как не нашел в репе этот лозунг. Версия diagram"
     },
     {
         "id": 106,
@@ -2798,14 +2782,6 @@
         "name": "virtualdj",
         "commit_link": "https://www.virtualdj.com/",
         "description": "При запуске программы с росcийского ip вылетает политический пуш, на сайте также в шапке политические лозунги."
-    },
-    {
-        "id": 346,
-        "datetime": "2022-04-02 10:36:34",
-        "problem_type": "political_slogans",
-        "name": "Tasmota",
-        "commit_link": "https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320",
-        "description": "Убрали малварь из кода прошивки, но в Readme репозитория осталась ссылка на призывы"
     },
     {
         "id": 374,
