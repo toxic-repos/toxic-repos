@@ -1,5 +1,7 @@
 # toxic-repos
 
+> Now you can send information to be added to the list via telegram bot! [DarkSider BOT](https://t.me/darksider_bot)
+
 > Disrespectful pseudo hackers, try your best! And now you look like stupid little children. Can you try DDoS on our GitHub repository? Long live Cloudflare!
 > ![Cloudflare stats](.github/stat.png)
 
@@ -10,7 +12,7 @@
 Recently, cases of adding code of varying degrees of danger to popular Open Source projects have become more frequent.
 This can pose a threat to people, and also undermines the credibility of the Open Source community and Open Source as such.
 
-[:link: Web site](https://toxic-repos.ru/?utm_source=github&utm_medium=repository&utm_campaign=md) | [:speech_balloon: Telegram channel](https://t.me/toxic_repos) | [:email: E-mail](info@toxic-repos.ru) | [:bird: Twitter](https://twitter.com/ZStravnik)
+[:link: Web site](https://toxic-repos.ru/?utm_source=github&utm_medium=repository&utm_campaign=md) | [:speech_balloon: Telegram channel](https://t.me/toxic_repos) | [:speech_balloon: Telegram BOT](https://t.me/darksider_bot) | [:email: E-mail](info@toxic-repos.ru) | [:bird: Twitter](https://twitter.com/ZStravnik)
 
 ## Statistics
 
