@@ -1,7 +1,8 @@
 # toxic-repos
 
+---
 > Now you can send information to be added to the list via telegram bot! [DarkSider BOT](https://t.me/darksider_bot)
-
+---
 > Disrespectful pseudo hackers, try your best! And now you look like stupid little children. Can you try DDoS on our GitHub repository? Long live Cloudflare!
 > ![Cloudflare stats](.github/stat.png)
 
@@ -16,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 383
+Records in the database: 382
 
 [CHANGELOG](CHANGELOG.md)
 

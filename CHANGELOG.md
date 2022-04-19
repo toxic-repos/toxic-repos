@@ -3,6 +3,7 @@
 - Tasmota
 - Миландр (milandr)
 - jgraph/drawio-desktop
+- tweedge/ru-ok
 
 # 18.04.22
 [add]

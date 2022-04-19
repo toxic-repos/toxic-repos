@@ -352,14 +352,6 @@
         "description": "Сбор данных об организациях высказывающихся в ту или иную пользу о конфликте."
     },
     {
-        "id": 30,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "hostile_actions",
-        "name": "tweedge/ru-ok",
-        "commit_link": "https://github.com/tweedge/ru-ok/commit/f0e1c5cc0c3ceb3e39ccc781a0e4c18a65069595",
-        "description": "Фреймворк для мониторинга ресурсов при проведении атак на ресурсы РФ и ведения информационной разведки"
-    },
-    {
         "id": 36,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1620,7 +1612,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "VK Blue - плагин Google Chrome",
-        "commit_link": "https://chrome.google.com/webstore/detail/vk-blue-%D1%8D%D0%BA%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B5%D1%80-%D0%B8-%D1%81%D0%",
+        "commit_link": "https://chrome.google.com/webstore/detail/pckkddchhdhkfapanbkcalloijbbjhbd",
         "description": "Плагин для прослушивания музыки ВК. После установки показывает это: https://ibb.co/P91dP36"
     },
     {
