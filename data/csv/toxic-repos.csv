@@ -96,6 +96,11 @@ https://imgbox.com/ZJ11M8bf"
 446,2022-04-20 09:36:00,hostle_action,Archi,https://github.com/archimatetool/archi,"Archi - opensource продукт для создания моделей и эскизов ArchiMate,
 используется корпоративными архитекторами повсеместно.
 На сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
+448,2022-04-20 11:16:00,hostle_action,CCleaner,https://www.ccleaner.com/ru-ru/ccleaner/download/standard,"При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m
+Возможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
+449,2022-04-20 11:16:00,hostle_action,SAP,https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html,"Полностью выводят бизнес, который они вели здесь более 30 лет.
+Призывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
+450,2022-04-20 11:16:00,hostle_action,SSL.com,ssl.com,заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -186,6 +191,7 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 447,2022-04-20 09:36:00,ip_block,VueJS,https://ru.vuejs.org/guide/introduction.html,"Не открывается https://ru.vuejs.org/guide/introduction.html 
 При этом русская страница есть в поиске, через Tor открывается. 
 https:/vuejs.org/guide/introduction.html Открывается как обычно."
+451,2022-04-20 11:16:00,ip_block,KDAB the Qt,https://www.kdab.com/about/,
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды

@@ -744,6 +744,30 @@
         "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate,\r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
     },
     {
+        "id": 448,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostle_action",
+        "name": "CCleaner",
+        "commit_link": "https://www.ccleaner.com/ru-ru/ccleaner/download/standard",
+        "description": "При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m\r\nВозможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
+    },
+    {
+        "id": 449,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostle_action",
+        "name": "SAP",
+        "commit_link": "https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html",
+        "description": "Полностью выводят бизнес, который они вели здесь более 30 лет.\r\nПризывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
+    },
+    {
+        "id": 450,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostle_action",
+        "name": "SSL.com",
+        "commit_link": "ssl.com",
+        "description": "заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1374,6 +1398,14 @@
         "name": "VueJS",
         "commit_link": "https://ru.vuejs.org/guide/introduction.html",
         "description": "Не открывается https://ru.vuejs.org/guide/introduction.html \r\nПри этом русская страница есть в поиске, через Tor открывается. \r\nhttps:/vuejs.org/guide/introduction.html Открывается как обычно."
+    },
+    {
+        "id": 451,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "ip_block",
+        "name": "KDAB the Qt",
+        "commit_link": "https://www.kdab.com/about/",
+        "description": null
     },
     {
         "id": 1,

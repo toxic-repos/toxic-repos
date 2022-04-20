@@ -4,6 +4,10 @@
 + CherryTree
 + Archi
 + VueJS
++ CCleaner
++ SAP
++ SSL.com
++ KDAB the Qt
 
 [delete]
 - caves.ru
