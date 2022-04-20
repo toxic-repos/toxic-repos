@@ -1,3 +1,13 @@
+# 20.04.22
+[add]
++ Stripe
++ CherryTree
++ Archi
++ VueJS
+
+[delete]
+- caves.ru
+
 # 19.04.22
 [delete]
 - Tasmota

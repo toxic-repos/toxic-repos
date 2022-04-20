@@ -92,6 +92,10 @@ id,datetime,problem_type,name,commit_link,description
 437,2022-04-18 12:38:00,hostle_action,Parallels,parallels.com,"Удалили русский перевод сайта. Пропаганда.
 https://imgbox.com/vIwZXDIO
 https://imgbox.com/ZJ11M8bf"
+444,2022-04-20 09:36:00,hostle_action,Stripe,https://dashboard.stripe.com/register,"Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
+446,2022-04-20 09:36:00,hostle_action,Archi,https://github.com/archimatetool/archi,"Archi - opensource продукт для создания моделей и эскизов ArchiMate,
+используется корпоративными архитекторами повсеместно.
+На сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -179,6 +183,9 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 430,2022-04-18 12:38:00,ip_block,depesz.com,"depesz.com, explain.depesz.com, paste.depesz.com","Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com, paste.depesz.com"
 431,2022-04-18 12:38:00,ip_block,Syllable (OS site),https://syllable.metaproject.frl/,С российских ip вместо контента отображает проигрыватель с роликами BBC о ситуации на Украине https://imgbox.com/SpFYMZUR.
 432,2022-04-18 12:38:00,ip_block,Auth0,auth0.com,Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США
+447,2022-04-20 09:36:00,ip_block,VueJS,https://ru.vuejs.org/guide/introduction.html,"Не открывается https://ru.vuejs.org/guide/introduction.html 
+При этом русская страница есть в поиске, через Tor открывается. 
+https:/vuejs.org/guide/introduction.html Открывается как обычно."
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -194,7 +201,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 100,2022-03-29 15:48:48,political_slogans,MicrosoftDocs/azure-docs,https://github.com/MicrosoftDocs/azure-docs,В статьях перед справкой появляется #StopRussianWar
 101,2022-03-29 15:48:48,political_slogans,styled-components,https://github.com/styled-components,"после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
 103,2022-03-29 15:48:48,political_slogans,postfixadmin,https://github.com/postfixadmin/postfixadmin.git,Политический баннер #StandWithUkraine
-106,2022-03-29 15:48:48,political_slogans,caves.ru,https://caves.ru/,"Форум тех, кто пишет на режимных заводах ""сгиня - вор"" и портит оборудование."
 107,2022-03-29 15:48:48,political_slogans,MacUpdate,https://www.macupdate.com,Баннер на сайте в поддержку Украины.
 108,2022-03-29 15:48:48,political_slogans,PlantUML,https://plantuml.com/ru/,"Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
 110,2022-03-29 15:48:48,political_slogans,Locust,https://github.com/locustio/locust/commit/38fb94d4c39db07a2f984b6b1a6c944a4e489d7f,Added Support Ukraine badge to README.md
@@ -394,3 +400,4 @@ https://github.com/composer/packagist/pull/1270
 441,2022-04-18 12:38:00,political_slogans,AppVeyor,https://www.appveyor.com,Добавили украинский флаг в шапку
 442,2022-04-18 12:38:00,political_slogans,Freepik,https://www.freepik.com/,Добавли баннер в шапку сайта: https://www.freepik.com/
 443,2022-04-18 12:38:00,political_slogans,Uninstall Tool,https://crystalidea.com/ru/uninstall-tool/buy,Лозунг на странице покупки. Такие же лозунги на странице покупки других программ данного разработчика.
+445,2022-04-20 09:36:00,political_slogans,CherryTree,https://github.com/giuspen/cherrytree/commit/66d69523239c98ada36d93f841615370a1517c48,"Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский, потом на бело-сине-белый флаг, придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец, живущий в Британии, жена из Украины. Годный продукт, но теперь стрёмно им пользоваться, вдруг начнёт базы портить, если локаль русская"

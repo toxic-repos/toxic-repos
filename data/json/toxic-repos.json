@@ -728,6 +728,22 @@
         "description": "Удалили русский перевод сайта. Пропаганда.\r\nhttps://imgbox.com/vIwZXDIO\r\nhttps://imgbox.com/ZJ11M8bf"
     },
     {
+        "id": 444,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "hostle_action",
+        "name": "Stripe",
+        "commit_link": "https://dashboard.stripe.com/register",
+        "description": "Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
+    },
+    {
+        "id": 446,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "hostle_action",
+        "name": "Archi",
+        "commit_link": "https://github.com/archimatetool/archi",
+        "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate,\r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1352,6 +1368,14 @@
         "description": "Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США"
     },
     {
+        "id": 447,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "ip_block",
+        "name": "VueJS",
+        "commit_link": "https://ru.vuejs.org/guide/introduction.html",
+        "description": "Не открывается https://ru.vuejs.org/guide/introduction.html \r\nПри этом русская страница есть в поиске, через Tor открывается. \r\nhttps:/vuejs.org/guide/introduction.html Открывается как обычно."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -1470,14 +1494,6 @@
         "name": "postfixadmin",
         "commit_link": "https://github.com/postfixadmin/postfixadmin.git",
         "description": "Политический баннер #StandWithUkraine"
-    },
-    {
-        "id": 106,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "political_slogans",
-        "name": "caves.ru",
-        "commit_link": "https://caves.ru/",
-        "description": "Форум тех, кто пишет на режимных заводах \"сгиня - вор\" и портит оборудование."
     },
     {
         "id": 107,
@@ -3054,5 +3070,13 @@
         "name": "Uninstall Tool",
         "commit_link": "https://crystalidea.com/ru/uninstall-tool/buy",
         "description": "Лозунг на странице покупки. Такие же лозунги на странице покупки других программ данного разработчика."
+    },
+    {
+        "id": 445,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "political_slogans",
+        "name": "CherryTree",
+        "commit_link": "https://github.com/giuspen/cherrytree/commit/66d69523239c98ada36d93f841615370a1517c48",
+        "description": "Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский, потом на бело-сине-белый флаг, придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец, живущий в Британии, жена из Украины. Годный продукт, но теперь стрёмно им пользоваться, вдруг начнёт базы портить, если локаль русская"
     }
 ]
