@@ -768,6 +768,14 @@
         "description": "заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена"
     },
     {
+        "id": 452,
+        "datetime": "2022-04-21 09:37:00",
+        "problem_type": "hostle_action",
+        "name": "MaxMind GeoLite2",
+        "commit_link": "https://dev.maxmind.com/geoip/geolite2-free-geolocation-data",
+        "description": "Прислали письмо:\r\n\r\nDear GeoLite User,\r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1392,20 +1400,12 @@
         "description": "Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США"
     },
     {
-        "id": 447,
-        "datetime": "2022-04-20 09:36:00",
-        "problem_type": "ip_block",
-        "name": "VueJS",
-        "commit_link": "https://ru.vuejs.org/guide/introduction.html",
-        "description": "Не открывается https://ru.vuejs.org/guide/introduction.html \r\nПри этом русская страница есть в поиске, через Tor открывается. \r\nhttps:/vuejs.org/guide/introduction.html Открывается как обычно."
-    },
-    {
         "id": 451,
         "datetime": "2022-04-20 11:16:00",
         "problem_type": "ip_block",
         "name": "KDAB the Qt",
         "commit_link": "https://www.kdab.com/about/",
-        "description": null
+        "description": "Консалтинговая фирма по C++ and OpenGL. Заблокирован доступ к своему сайту со статьями про С++ и Qt"
     },
     {
         "id": 1,
@@ -3110,5 +3110,21 @@
         "name": "CherryTree",
         "commit_link": "https://github.com/giuspen/cherrytree/commit/66d69523239c98ada36d93f841615370a1517c48",
         "description": "Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский, потом на бело-сине-белый флаг, придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец, живущий в Британии, жена из Украины. Годный продукт, но теперь стрёмно им пользоваться, вдруг начнёт базы портить, если локаль русская"
+    },
+    {
+        "id": 453,
+        "datetime": "2022-04-21 09:37:00",
+        "problem_type": "political_slogans",
+        "name": "Laravel",
+        "commit_link": "https://github.com/laravel/laravel.com/commit/d688711ef9642529bc93d49362b8bcdf87362cf1",
+        "description": "Добавили политические лозунги на свой сайт. В когда самого framework пока вроде бы чисто."
+    },
+    {
+        "id": 454,
+        "datetime": "2022-04-21 09:37:00",
+        "problem_type": "political_slogans",
+        "name": "Svelte.JS",
+        "commit_link": "https://github.com/sveltejs/sites/commit/ce0750bcfb8b50f67f84976c161fa4768a434647",
+        "description": "Добавили на сайт https://svelte.dev/ баннер со ссылкой на сайт stopputin. В русской версии сайт https://ru.svelte.dev/ этот баннер стыдливо прячут"
     }
 ]

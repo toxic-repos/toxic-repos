@@ -101,6 +101,13 @@ https://imgbox.com/ZJ11M8bf"
 449,2022-04-20 11:16:00,hostle_action,SAP,https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html,"Полностью выводят бизнес, который они вели здесь более 30 лет.
 Призывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
 450,2022-04-20 11:16:00,hostle_action,SSL.com,ssl.com,заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена
+452,2022-04-21 09:37:00,hostle_action,MaxMind GeoLite2,https://dev.maxmind.com/geoip/geolite2-free-geolocation-data,"Прислали письмо:
+
+Dear GeoLite User,
+
+In order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.
+
+Your account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -188,10 +195,7 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 430,2022-04-18 12:38:00,ip_block,depesz.com,"depesz.com, explain.depesz.com, paste.depesz.com","Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com, paste.depesz.com"
 431,2022-04-18 12:38:00,ip_block,Syllable (OS site),https://syllable.metaproject.frl/,С российских ip вместо контента отображает проигрыватель с роликами BBC о ситуации на Украине https://imgbox.com/SpFYMZUR.
 432,2022-04-18 12:38:00,ip_block,Auth0,auth0.com,Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США
-447,2022-04-20 09:36:00,ip_block,VueJS,https://ru.vuejs.org/guide/introduction.html,"Не открывается https://ru.vuejs.org/guide/introduction.html 
-При этом русская страница есть в поиске, через Tor открывается. 
-https:/vuejs.org/guide/introduction.html Открывается как обычно."
-451,2022-04-20 11:16:00,ip_block,KDAB the Qt,https://www.kdab.com/about/,
+451,2022-04-20 11:16:00,ip_block,KDAB the Qt,https://www.kdab.com/about/,Консалтинговая фирма по C++ and OpenGL. Заблокирован доступ к своему сайту со статьями про С++ и Qt
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -407,3 +411,5 @@ https://github.com/composer/packagist/pull/1270
 442,2022-04-18 12:38:00,political_slogans,Freepik,https://www.freepik.com/,Добавли баннер в шапку сайта: https://www.freepik.com/
 443,2022-04-18 12:38:00,political_slogans,Uninstall Tool,https://crystalidea.com/ru/uninstall-tool/buy,Лозунг на странице покупки. Такие же лозунги на странице покупки других программ данного разработчика.
 445,2022-04-20 09:36:00,political_slogans,CherryTree,https://github.com/giuspen/cherrytree/commit/66d69523239c98ada36d93f841615370a1517c48,"Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский, потом на бело-сине-белый флаг, придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец, живущий в Британии, жена из Украины. Годный продукт, но теперь стрёмно им пользоваться, вдруг начнёт базы портить, если локаль русская"
+453,2022-04-21 09:37:00,political_slogans,Laravel,https://github.com/laravel/laravel.com/commit/d688711ef9642529bc93d49362b8bcdf87362cf1,Добавили политические лозунги на свой сайт. В когда самого framework пока вроде бы чисто.
+454,2022-04-21 09:37:00,political_slogans,Svelte.JS,https://github.com/sveltejs/sites/commit/ce0750bcfb8b50f67f84976c161fa4768a434647,Добавили на сайт https://svelte.dev/ баннер со ссылкой на сайт stopputin. В русской версии сайт https://ru.svelte.dev/ этот баннер стыдливо прячут

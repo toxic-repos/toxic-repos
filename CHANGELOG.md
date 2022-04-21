@@ -1,3 +1,12 @@
+# 21.04.22
+[add]
++ MaxMind GeoLite2
++ Laravel
++ Svelte.JS
+
+[delete]
+- VueJS
+
 # 20.04.22
 [add]
 + Stripe
