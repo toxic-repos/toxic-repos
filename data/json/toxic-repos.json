@@ -1408,6 +1408,22 @@
         "description": "Консалтинговая фирма по C++ and OpenGL. Заблокирован доступ к своему сайту со статьями про С++ и Qt"
     },
     {
+        "id": 455,
+        "datetime": "2022-04-22 10:05:00",
+        "problem_type": "ip_block",
+        "name": "MiTeC",
+        "commit_link": "http://www.mitec.cz/",
+        "description": "При подключении с российских IP перенаправляют на сайт со страшными фото. Через VPN нормально, в заголовке пропаганда."
+    },
+    {
+        "id": 456,
+        "datetime": "2022-04-22 10:05:00",
+        "problem_type": "ip_block",
+        "name": "Apiary",
+        "commit_link": "https://apiary.io/",
+        "description": "Сервис для проектирования \\ документирования API. Заблокирован доступ из РФ по IP."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3126,5 +3142,13 @@
         "name": "Svelte.JS",
         "commit_link": "https://github.com/sveltejs/sites/commit/ce0750bcfb8b50f67f84976c161fa4768a434647",
         "description": "Добавили на сайт https://svelte.dev/ баннер со ссылкой на сайт stopputin. В русской версии сайт https://ru.svelte.dev/ этот баннер стыдливо прячут"
+    },
+    {
+        "id": 457,
+        "datetime": "2022-04-22 10:05:00",
+        "problem_type": "political_slogans",
+        "name": "wxWidgets",
+        "commit_link": "https://github.com/wxWidgets/website/commit/e55c1d3498ab313093084671aa34aaaa9ce849be",
+        "description": "Повесили флажок и добавили пропаганды на сайт"
     }
 ]

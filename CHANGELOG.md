@@ -1,3 +1,9 @@
+# 22.04.22
+[add]
++ MiTeC
++ Apiary
++ wxWidgets/website
+
 # 21.04.22
 [add]
 + MaxMind GeoLite2
