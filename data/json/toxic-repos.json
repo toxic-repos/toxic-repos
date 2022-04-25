@@ -776,6 +776,14 @@
         "description": "Прислали письмо:\r\n\r\nDear GeoLite User,\r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
     },
     {
+        "id": 458,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "hostle_action",
+        "name": "YetiForce CRM",
+        "commit_link": "https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786",
+        "description": "Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1422,6 +1430,38 @@
         "name": "Apiary",
         "commit_link": "https://apiary.io/",
         "description": "Сервис для проектирования \\ документирования API. Заблокирован доступ из РФ по IP."
+    },
+    {
+        "id": 459,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "ip_block",
+        "name": "Certify The Web",
+        "commit_link": "https://certifytheweb.com/",
+        "description": "Блокировка по IP, через VPN открывается"
+    },
+    {
+        "id": 460,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "ip_block",
+        "name": "Heroku",
+        "commit_link": "https://heroku.com/",
+        "description": "При попытке войти в аккаунт с Российского IP ошибка. При попытке создать новый аккаунт c любой страной сообщение: \"We do not aceept sign-ups from your country\" (проверяют по IP)"
+    },
+    {
+        "id": 461,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "ip_block",
+        "name": "IBM Quantum Lab",
+        "commit_link": "quantum-computing.ibm.com",
+        "description": "Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP"
+    },
+    {
+        "id": 462,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "ip_block",
+        "name": "OpenCV",
+        "commit_link": "https://opencv.org/",
+        "description": "Не доступен с IP РФ"
     },
     {
         "id": 1,
@@ -3150,5 +3190,29 @@
         "name": "wxWidgets",
         "commit_link": "https://github.com/wxWidgets/website/commit/e55c1d3498ab313093084671aa34aaaa9ce849be",
         "description": "Повесили флажок и добавили пропаганды на сайт"
+    },
+    {
+        "id": 463,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "political_slogans",
+        "name": "Selenide",
+        "commit_link": "https://github.com/selenide/selenide.github.io/commit/fa6c212ee609a6c93de066d7c0c4e42e1b7f454d",
+        "description": "UI tests in Java. Опубликовали лозунги в блоге продукта. Сбор денег для украинской армии.\r\nhttps://ru.selenide.org/2022/04/07/selenide-6.4.0/"
+    },
+    {
+        "id": 464,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "political_slogans",
+        "name": "Robot Framework",
+        "commit_link": "https://github.com/robotframework/robotframework.github.com/commit/77592b828d6782421f585bb44b12de8f8680dcd4",
+        "description": "Добавили украинский флаг в в название на robotframework.org"
+    },
+    {
+        "id": 465,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "political_slogans",
+        "name": "Worker (файловый менеджер)",
+        "commit_link": "http://www.boomerangsworld.de/cms/worker/index.html",
+        "description": "Фон сайта перекрашен в цвета украинского флага"
     }
 ]
