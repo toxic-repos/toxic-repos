@@ -2,6 +2,8 @@
 
 ---
 > Now you can send information to be added to the list via telegram bot! [DarkSider BOT](https://t.me/darksider_bot)
+> 
+> [Also join our telegram chat. There, information about "toxic repositories" appears even faster!](https://t.me/g1l2a)
 ---
 
 ### We are against discrediting open source software
@@ -15,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 402
+Records in the database: 404
 
 [CHANGELOG](CHANGELOG.md)
 

@@ -296,6 +296,14 @@
         "description": "Используется украиной для DDoS атак на российские коммерческие и государственные компании"
     },
     {
+        "id": 467,
+        "datetime": "2022-04-29 09:34:00",
+        "problem_type": "ddos",
+        "name": "Targets for auto_mhddos_alexnest",
+        "commit_link": "https://github.com/alexnest-ua/targets/",
+        "description": "Список российских ресурсов для DDoS атак"
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1454,14 +1462,6 @@
         "name": "IBM Quantum Lab",
         "commit_link": "quantum-computing.ibm.com",
         "description": "Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP"
-    },
-    {
-        "id": 462,
-        "datetime": "2022-04-25 13:02:00",
-        "problem_type": "ip_block",
-        "name": "OpenCV",
-        "commit_link": "https://opencv.org/",
-        "description": "Не доступен с IP РФ"
     },
     {
         "id": 1,
@@ -3214,5 +3214,21 @@
         "name": "Worker (файловый менеджер)",
         "commit_link": "http://www.boomerangsworld.de/cms/worker/index.html",
         "description": "Фон сайта перекрашен в цвета украинского флага"
+    },
+    {
+        "id": 466,
+        "datetime": "2022-04-29 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "CleanMyMac X",
+        "commit_link": "https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12",
+        "description": "Политические лозунги, логотип, сбор денег.\r\nVersion 4.10.4\r\nA new category in the Uninstaller module — Suspicious — where CleanMyMac puts apps associated with or owned by Russian or Belarusian developers.\r\nUpdated the Ukrainian theme and added an ability to switch it off in the Preferences."
+    },
+    {
+        "id": 468,
+        "datetime": "2022-04-29 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Claws Mail",
+        "commit_link": "https://www.claws-mail.org/",
+        "description": "Ukraine flag with slogan \"no war\" at Claws Mail's homepage."
     }
 ]

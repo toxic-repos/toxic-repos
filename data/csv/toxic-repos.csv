@@ -36,6 +36,7 @@ id,datetime,problem_type,name,commit_link,description
 55,2022-03-29 15:48:48,ddos,vnestoruk/BAN-dera,https://github.com/vnestoruk/ban-dera,"Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом. Я думаю, стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
 349,2022-04-02 10:36:34,ddos,curlpump,https://github.com/yellowsummer1972/curlpump/,"При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты, но и российские компании)."
 350,2022-04-02 10:36:34,ddos,MHDDoS_proxy,https://github.com/SlavaUkraineSince1991/DDoS-for-all/blob/main/MHDDoS_proxy.md,Используется украиной для DDoS атак на российские коммерческие и государственные компании
+467,2022-04-29 09:34:00,ddos,Targets for auto_mhddos_alexnest,https://github.com/alexnest-ua/targets/,Список российских ресурсов для DDoS атак
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -202,7 +203,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 459,2022-04-25 13:02:00,ip_block,Certify The Web,https://certifytheweb.com/,"Блокировка по IP, через VPN открывается"
 460,2022-04-25 13:02:00,ip_block,Heroku,https://heroku.com/,"При попытке войти в аккаунт с Российского IP ошибка. При попытке создать новый аккаунт c любой страной сообщение: ""We do not aceept sign-ups from your country"" (проверяют по IP)"
 461,2022-04-25 13:02:00,ip_block,IBM Quantum Lab,quantum-computing.ibm.com,Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP
-462,2022-04-25 13:02:00,ip_block,OpenCV,https://opencv.org/,Не доступен с IP РФ
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -425,3 +425,8 @@ https://github.com/composer/packagist/pull/1270
 https://ru.selenide.org/2022/04/07/selenide-6.4.0/"
 464,2022-04-25 13:02:00,political_slogans,Robot Framework,https://github.com/robotframework/robotframework.github.com/commit/77592b828d6782421f585bb44b12de8f8680dcd4,Добавили украинский флаг в в название на robotframework.org
 465,2022-04-25 13:02:00,political_slogans,Worker (файловый менеджер),http://www.boomerangsworld.de/cms/worker/index.html,Фон сайта перекрашен в цвета украинского флага
+466,2022-04-29 09:34:00,political_slogans,CleanMyMac X,https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12,"Политические лозунги, логотип, сбор денег.
+Version 4.10.4
+A new category in the Uninstaller module — Suspicious — where CleanMyMac puts apps associated with or owned by Russian or Belarusian developers.
+Updated the Ukrainian theme and added an ability to switch it off in the Preferences."
+468,2022-04-29 09:34:00,political_slogans,Claws Mail,https://www.claws-mail.org/,"Ukraine flag with slogan ""no war"" at Claws Mail's homepage."
