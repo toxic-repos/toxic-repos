@@ -1,3 +1,11 @@
+# 30.04.22
+[add]
++ JSFiddle (Code Playground)
++ CVE Details
++ letyshops
++ fmtlib/fmt
++ dmtrKovalenko/cypress-real-events
+
 # 29.04.22
 [add]
 + CleanMyMac X

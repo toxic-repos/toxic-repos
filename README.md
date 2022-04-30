@@ -17,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 404
+Records in the database: 409
 
 [CHANGELOG](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ Records in the database: 404
 
 ## Have an idea for improvement?
 
-- You can write to our [Telegram chat](https://t.me/toxic_repos)
+- You can write to our [Telegram chat](https://t.me/g1l2a)
 - You can write to us at info@toxic-repos.ru
 - Submit your pull reguest;
 - Create [issue](https://github.com/stravnik/toxic-repos/issues/new);

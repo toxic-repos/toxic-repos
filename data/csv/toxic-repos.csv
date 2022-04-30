@@ -110,6 +110,13 @@ In order to maintain compliance with US sanctions against certain Russian entiti
 
 Your account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
 458,2022-04-25 13:02:00,hostle_action,YetiForce CRM,https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786,Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ.
+471,2022-04-30 10:49:00,hostle_action,letyshops,https://letyshops.com/ru,"при входе на сайт из России:
+На данный момент, сервис недоступен в этом регионе
+В вашем аккаунте указан регион РФ.
+Если это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru
+Вывести кэшбэк на благотворительность
+Пришло время пояснить, почему вы не можете пользоваться сервисом.
+Я - украинец. Живу в Украине. И у нас война. и т.д."
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -203,6 +210,8 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 459,2022-04-25 13:02:00,ip_block,Certify The Web,https://certifytheweb.com/,"Блокировка по IP, через VPN открывается"
 460,2022-04-25 13:02:00,ip_block,Heroku,https://heroku.com/,"При попытке войти в аккаунт с Российского IP ошибка. При попытке создать новый аккаунт c любой страной сообщение: ""We do not aceept sign-ups from your country"" (проверяют по IP)"
 461,2022-04-25 13:02:00,ip_block,IBM Quantum Lab,quantum-computing.ibm.com,Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP
+469,2022-04-30 10:49:00,ip_block,JSFiddle (Code Playground),https://jsfiddle.net,Не открывается в Российских IP. Через VPN открывается.
+470,2022-04-30 10:49:00,ip_block,CVE Details,https://www.cvedetails.com/,Блокировка на Cloudflare: CF 1009: The owner of this website (www.cvedetails.com) has banned the country or region your IP address is in (RU) from accessing this website.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -430,3 +439,5 @@ Version 4.10.4
 A new category in the Uninstaller module — Suspicious — where CleanMyMac puts apps associated with or owned by Russian or Belarusian developers.
 Updated the Ukrainian theme and added an ability to switch it off in the Preferences."
 468,2022-04-29 09:34:00,political_slogans,Claws Mail,https://www.claws-mail.org/,"Ukraine flag with slogan ""no war"" at Claws Mail's homepage."
+472,2022-04-30 10:49:00,political_slogans,fmtlib/fmt,https://github.com/fmtlib/fmt,"Политические лозунги, логотип, сбор денег. Что характерно, до 1 марта Зверович агитировал за белорусских нациков, видимо работодатель заставил перевесить."
+473,2022-04-30 10:49:00,political_slogans,dmtrKovalenko/cypress-real-events,https://github.com/dmtrKovalenko/cypress-real-events/commit/660025b0dac4e69ef6a982eeb0a26e025d3a7696,"Баннер для сбора пожертвований, в том числе для армии Украины"

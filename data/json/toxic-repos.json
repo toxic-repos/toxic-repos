@@ -792,6 +792,14 @@
         "description": "Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ."
     },
     {
+        "id": 471,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "hostle_action",
+        "name": "letyshops",
+        "commit_link": "https://letyshops.com/ru",
+        "description": "при входе на сайт из России:\r\nНа данный момент, сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить, почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1462,6 +1470,22 @@
         "name": "IBM Quantum Lab",
         "commit_link": "quantum-computing.ibm.com",
         "description": "Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP"
+    },
+    {
+        "id": 469,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "ip_block",
+        "name": "JSFiddle (Code Playground)",
+        "commit_link": "https://jsfiddle.net",
+        "description": "Не открывается в Российских IP. Через VPN открывается."
+    },
+    {
+        "id": 470,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "ip_block",
+        "name": "CVE Details",
+        "commit_link": "https://www.cvedetails.com/",
+        "description": "Блокировка на Cloudflare: CF 1009: The owner of this website (www.cvedetails.com) has banned the country or region your IP address is in (RU) from accessing this website."
     },
     {
         "id": 1,
@@ -3230,5 +3254,21 @@
         "name": "Claws Mail",
         "commit_link": "https://www.claws-mail.org/",
         "description": "Ukraine flag with slogan \"no war\" at Claws Mail's homepage."
+    },
+    {
+        "id": 472,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "political_slogans",
+        "name": "fmtlib/fmt",
+        "commit_link": "https://github.com/fmtlib/fmt",
+        "description": "Политические лозунги, логотип, сбор денег. Что характерно, до 1 марта Зверович агитировал за белорусских нациков, видимо работодатель заставил перевесить."
+    },
+    {
+        "id": 473,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "political_slogans",
+        "name": "dmtrKovalenko/cypress-real-events",
+        "commit_link": "https://github.com/dmtrKovalenko/cypress-real-events/commit/660025b0dac4e69ef6a982eeb0a26e025d3a7696",
+        "description": "Баннер для сбора пожертвований, в том числе для армии Украины"
     }
 ]
