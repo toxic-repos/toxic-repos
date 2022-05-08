@@ -800,6 +800,118 @@
         "description": "при входе на сайт из России:\r\nНа данный момент, сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить, почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
     },
     {
+        "id": 474,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "SmartFix",
+        "commit_link": "https://smartfix.pro/",
+        "description": "Еще софт от Simplix - украинского автора \"Набор обновлений UpdatePack7R2\". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.\r\nЕсть вероятность деструктивных действий для российских пользователей по команде с сервера.\r\nДругие продукты автора - SmartMon и LightBackup."
+    },
+    {
+        "id": 475,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "TeamViewer",
+        "commit_link": "https://www.teamviewer.com/ru/",
+        "description": "Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.\r\n\"Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси\", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
+    },
+    {
+        "id": 476,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "DownDetector",
+        "commit_link": "https://downdetector.com/companies/",
+        "description": "Из сервиса Downdetector пропали российские платформы и компании https://habr.com/ru/news/t/663756/"
+    },
+    {
+        "id": 477,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Confluence",
+        "commit_link": "https://www.atlassian.com/",
+        "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia\""
+    },
+    {
+        "id": 481,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Hostinger",
+        "commit_link": "https://www.hostinger.com/",
+        "description": "Баннер и ссылка на сбор пожертвований для Украины. Прекратили принимать платежи из России. Не работает русскоязычная версия https://www.hostinger.ru/"
+    },
+    {
+        "id": 483,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Cisco",
+        "commit_link": "cisco.com",
+        "description": "9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access \"http://id.cisco.com/oauth2/default/v1/authorize?\" on this server."
+    },
+    {
+        "id": 484,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "VMware",
+        "commit_link": "vmware.com",
+        "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
+    },
+    {
+        "id": 485,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Web of Knowledge",
+        "commit_link": "http://www.webofknowledge.com/",
+        "description": "Web of Science https://en.wikipedia.org/wiki/Web_of_Science - paid platform that provides reference and citation data"
+    },
+    {
+        "id": 487,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "zerofix",
+        "commit_link": "https://gitlab.com/zerofix1/zerofix",
+        "description": "под предлогом улучшения производительности, продвигает ряд \"патчей\" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
+    },
+    {
+        "id": 491,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "eMule",
+        "commit_link": "https://www.emule-project.com",
+        "description": "Open-source P2P file sharing client. Вместо русской версии сайта надпись \"Война никогда не меняется\" и внизу ссылка на англ. сайт."
+    },
+    {
+        "id": 492,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "deadbeef player",
+        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
+        "description": "Удалили русский перевод из программы"
+    },
+    {
+        "id": 496,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Kingston",
+        "commit_link": "https://www.kingston.com/ru/company/press/article/65778",
+        "description": "Выводит на сайте плашку с заявлением по Украине. Утверждают, что \"In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia.\" https://pikabu.ru/story/kingston_vsyo_9078019"
+    },
+    {
+        "id": 497,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "Firefox",
+        "commit_link": "-",
+        "description": "Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
+    },
+    {
+        "id": 498,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostle_action",
+        "name": "DuckDuckGo",
+        "commit_link": "https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html",
+        "description": "Основатель \"приватного\" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают \"неправильную\" информацию. О чём заявил в твиттере: \"Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation.\" — Gabriel Weinberg (@yegg) March 10, 2022"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -1486,6 +1598,46 @@
         "name": "CVE Details",
         "commit_link": "https://www.cvedetails.com/",
         "description": "Блокировка на Cloudflare: CF 1009: The owner of this website (www.cvedetails.com) has banned the country or region your IP address is in (RU) from accessing this website."
+    },
+    {
+        "id": 478,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "ip_block",
+        "name": "Ravesli",
+        "commit_link": "https://ravesli.com/",
+        "description": "Украинский блог о программировании. На сайте было много интересных статей. Теперь доступ к сайту заблокирован из РФ/РБ, а в телеграм-канале видео военных действий вместо анонсов статей. Политический баннер в шапке."
+    },
+    {
+        "id": 479,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "ip_block",
+        "name": "windguru.cz",
+        "commit_link": "https://www.windguru.cz/ru_banned.php",
+        "description": "Прогноз погоды для кайтеров и серфенгистов. Заблокирован доступ с IP РФ"
+    },
+    {
+        "id": 480,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "ip_block",
+        "name": "GrayLog",
+        "commit_link": "graylog.org",
+        "description": "Через VPN всё открывается."
+    },
+    {
+        "id": 482,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "ip_block",
+        "name": "Calculator Soup",
+        "commit_link": "https://www.calculatorsoup.com/",
+        "description": "Напрямую 403, через Tor работает"
+    },
+    {
+        "id": 486,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "ip_block",
+        "name": "Scastie",
+        "commit_link": "https://github.com/scalacenter/scastie/commit/b2353d92b0d5761070bfd69cc5882fc4956d75e8",
+        "description": "Для российских IP функционал заблокирован, вместо этого выводит призывы"
     },
     {
         "id": 1,
@@ -3270,5 +3422,53 @@
         "name": "dmtrKovalenko/cypress-real-events",
         "commit_link": "https://github.com/dmtrKovalenko/cypress-real-events/commit/660025b0dac4e69ef6a982eeb0a26e025d3a7696",
         "description": "Баннер для сбора пожертвований, в том числе для армии Украины"
+    },
+    {
+        "id": 488,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "starship",
+        "commit_link": "https://github.com/starship/starship/commit/52fa4bbab4393589aebbeded4351886e657a6275",
+        "description": "Баннер для сбора пожертвований, в том числе для армии Украины"
+    },
+    {
+        "id": 489,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "Reshade",
+        "commit_link": "https://reshade.me/",
+        "description": "Популярная программа для пост-обработки в играх (открытый код с 2017). Добавили флаг Украины в шапку сайта."
+    },
+    {
+        "id": 490,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "Drupal",
+        "commit_link": "https://www.drupal.org",
+        "description": "Opensource CMS. Опубликовали на сайте ссылки на сбор денег для Украины."
+    },
+    {
+        "id": 493,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "spatie/laravel-ignition",
+        "commit_link": "https://github.com/spatie/laravel-ignition/commit/bacdc1c46a6199c3b0915858ed619c8045ae81e8",
+        "description": "Библиотека отвечающая за красивое отображение ошибок в Laravel (идёт из коробки). Добавили в ReadMe баннер для сбора пожертвований в том числе для армии Украины. В коде ничего подозрительного."
+    },
+    {
+        "id": 494,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "jenkins",
+        "commit_link": "https://www.jenkins.io",
+        "description": "Изменен логотип, рядом \"We stand with the people of Ukraine...\""
+    },
+    {
+        "id": 495,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "political_slogans",
+        "name": "Motix",
+        "commit_link": "motix.ru",
+        "description": "Сервис закладок. Вместо сайта motix.ru сделали заглушку c пропагандистким видео и редирект на motix.com.ua. На данный момент сайт заблокирован в РФ."
     }
 ]

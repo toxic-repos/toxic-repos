@@ -1,3 +1,31 @@
+# 08.05.22
+[add]
++ SmartFix
++ TeamViewer
++ DownDetector
++ Confluence
++ Ravesli
++ windguru.cz
++ GrayLog
++ Hostinger
++ Calculator Soup
++ Cisco
++ VMware
++ Web of Knowledge
++ Scastie
++ zerofix
++ starship
++ Reshade
++ Drupal
++ eMule
++ deadbeef player
++ spatie/laravel-ignition
++ jenkins
++ Motix
++ Kingston
++ Firefox
++ DuckDuckGo
+
 # 30.04.22
 [add]
 + JSFiddle (Code Playground)
