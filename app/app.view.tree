@@ -1,5 +1,5 @@
 $toxic_app $mol_book2_catalog
-	menu_title \Toxis Repos
+	menu_title \Toxic Repos
 	menu_tools /
 		<= Add $mol_link
 			uri \https://t.me/darksider_bot
