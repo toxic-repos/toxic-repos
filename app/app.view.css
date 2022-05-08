@@ -1,0 +1,45 @@
+[toxic_app] {
+	--mol_theme_hue: 380deg;
+}
+
+[toxic_app_menu] {
+	flex: 0 0 18rem;
+}
+
+[toxic_app_issues_page] {
+	flex: 0 0 60rem;
+}
+
+[toxic_app_issues] {
+	/* padding: var(--mol_gap_block); */
+}
+
+[toxic_app_issue] {
+	padding: var(--mol_gap_block);
+}
+
+[toxic_app_issue_main] {
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: .75rem;
+}
+
+[toxic_app_issue_name] {
+	text-shadow: 0 0;
+	flex: 1 1 auto;
+}
+
+[toxic_app_issue_type] {
+	color: var(--mol_theme_shade);
+}
+
+[toxic_app_issue_date] {
+	color: var(--mol_theme_shade);
+}
+
+[toxic_app_issue_descr] {
+	max-width: 100%
+}
+
+[toxic_app_issue_descr_row] {
+}
