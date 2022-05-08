@@ -1,0 +1,4 @@
+include \/mol/offline/install
+
+deploy \/toxic/logo/logo.svg
+deploy \/toxic/data/json/toxic-repos.json
