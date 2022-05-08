@@ -15,7 +15,8 @@ jobs:
       uses: hyoo-ru/mam_build@master2
       with:
         token: ${{ secrets.GH_PAT }}
-        package: 'toxic/app'
+        package: 'toxic'
+        modules: 'app'
     
     - name: Deploy on GitHub Pages
       if: github.ref == 'refs/heads/master'
