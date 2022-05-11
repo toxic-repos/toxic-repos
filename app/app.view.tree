@@ -10,16 +10,16 @@ $toxic_app $mol_book2_catalog
 			uri \https://github.com/nin-jin/toxic-repos
 		<= Lights $mol_lights_toggle
 	menu_foot /
-		<= Chat $mol_link
+		<= News $mol_link
 			uri \https://t.me/toxic_repos
-			hint @ \Discussions
-			sub /
-				<= Chat_icon $mol_icon_telegram
-		<= New $mol_link
-			uri \https://twitter.com/ZStravnik
 			hint @ \News
 			sub /
-				<= News_icon $mol_icon_twitter
+				<= News_icon $mol_icon_telegram
+		<= Support $mol_link
+			hint @ \Support
+			uri \https://t.me/g1l2a
+			sub /
+				<= Chat_icon $mol_icon_bug_outline
 		<= Mail $mol_link
 			uri \mailto:info@toxic-repos.ru
 			hint @ \E-Mail

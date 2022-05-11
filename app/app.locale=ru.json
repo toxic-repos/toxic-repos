@@ -1,8 +1,8 @@
 {
 	"$toxic_app_Add_hint": "Добавить новую проблему",
-	"$toxic_app_Chat_hint": "Обсуждения",
+	"$toxic_app_Support_hint": "Поддержка",
 	"$toxic_app_Mail_hint": "Почта",
-	"$toxic_app_New_hint": "Нвости",
+	"$toxic_app_News_hint": "Новости",
 	"$toxic_app_type_name_all": "Все",
 	"$toxic_app_type_name_broken_assembly": "Ломает сборку",
 	"$toxic_app_type_name_ddos": "DDOS",
