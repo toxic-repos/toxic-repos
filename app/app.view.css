@@ -10,8 +10,8 @@
 	flex: 0 0 60rem;
 }
 
-[toxic_app_issues] {
-	/* padding: var(--mol_gap_block); */
+[toxic_app_menu_foot] {
+	padding: var(--mol_gap_block);
 }
 
 [toxic_app_issue] {
@@ -39,7 +39,4 @@
 
 [toxic_app_issue_descr] {
 	max-width: 100%
-}
-
-[toxic_app_issue_descr_row] {
 }

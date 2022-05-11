@@ -26,14 +26,7 @@ namespace $.$$ {
 		
 		@ $mol_mem
 		data_sorted() {
-			return [ ... this.data_all() ]
-				.sort(
-					( left, right )=> left.datetime > right.datetime
-						? -1
-						: left.datetime < right.datetime
-							? 1
-							: 0
-				)
+			return [ ... this.data_all() ].sort( $mol_compare_text( item => item.datetime ) ).reverse()
 		}
 		
 		@ $mol_mem
