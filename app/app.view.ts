@@ -25,6 +25,12 @@ namespace $.$$ {
 		}
 		
 		@ $mol_mem
+		data_sorted() {
+			return [ ... this.data_all() ]
+				.sort( ( left, right )=> left.datetime > right.datetime ? -1 : left.datetime < right.datetime : 1 : 0 )
+		}
+		
+		@ $mol_mem
 		search( next?: string ) {
 			return this.$.$mol_state_arg.value( 'search', next ) ?? ''
 		}
@@ -32,7 +38,7 @@ namespace $.$$ {
 		@ $mol_mem
 		data_filtered() {
 			
-			let data = this.data_all()
+			let data = this.data_sorted()
 			
 			const type = this.spread()
 			if( type ) data = data.filter( item => item.problem_type === type )
