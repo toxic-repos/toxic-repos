@@ -2341,7 +2341,7 @@
         "problem_type": "political_slogans",
         "name": "Evolution CMS",
         "commit_link": "https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77",
-        "description": "После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке."
+        "description": "Есть форк без пропаганды: https://github.com/evocms-community/evolution\r\nПосле обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке."
     },
     {
         "id": 192,

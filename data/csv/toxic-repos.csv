@@ -324,7 +324,8 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 186,2022-03-29 15:48:48,political_slogans,Jest,https://jestjs.io/ru/,Баннер в поддержку Украины.
 189,2022-03-29 15:48:48,political_slogans,yii2-starter-kit,https://github.com/yii-starter-kit/yii2-starter-kit/commit/cfc03ed42cd3dffb7c4b4ee4d081615024bffde7,политические лозунги
 190,2022-03-29 15:48:48,political_slogans,mailtrap.io,mailtrap.io,"Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами, использование сервиса далее заблокировано, vpn решает проблему"
-191,2022-03-29 15:48:48,political_slogans,Evolution CMS,https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77,После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке.
+191,2022-03-29 15:48:48,political_slogans,Evolution CMS,https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77,"Есть форк без пропаганды: https://github.com/evocms-community/evolution
+После обновления на релизы Evolution CMS 3.1.10 и Evolution CMS 1.4.17 полит. лозунг в админке."
 192,2022-03-29 15:48:48,political_slogans,kubernetes-sigs/kind,https://github.com/kubernetes-sigs/kind/pull/2666,"На сайт https://kind.sigs.k8s.io/ добавлен баннер с флагом и ссылка ""Help Provide Humanitarian Aid for Ukraine"". Стоит следить за новыми коммитами на всякий случай"
 193,2022-03-29 15:48:48,political_slogans,Dotnet Foundation,https://github.com/dotnet-foundation/website/commit/72ddd84dd8c1b68489d870e467cc584752af8049,"Баннер ""We Stand with Ukraine"""
 194,2022-03-29 15:48:48,political_slogans,Roave/SecurityAdvisories,https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8,"При недовольстве примешивания политики в опен сорс, людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
