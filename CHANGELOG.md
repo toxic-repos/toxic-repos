@@ -1,3 +1,23 @@
+# 13.05.22
+[update]
+* Evolution CMS
+
+[add]
++ audiophilesoft.ru
++ Splashtop
++ NXP Semiconductors
++ Resonic Player
++ Tyrrrz/LightBulb
++ Zero Spam (for WordPress)
++ Asio4all
++ LameXP
++ Meta Open Source
++ The Movie Database (TMDB)
++ fbreader
++ Tyrrrz/DiscordChatExporter
++ ahrefs.com
++ t.me/cybersecs
+
 # 08.05.22
 [add]
 + SmartFix
