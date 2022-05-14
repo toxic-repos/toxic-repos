@@ -47,6 +47,10 @@ $toxic_app $mol_book2_catalog
 	Issues_page* $mol_page
 		title <= issues_page_title* \
 		tools /
+			<= Download $mol_button_download
+				hint @ \Download as spreadsheet
+				uri <= download_uri \
+				file_name <= download_name \
 			<= Search $mol_search
 				query?val <=> search?val \
 		body /

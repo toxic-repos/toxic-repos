@@ -76,6 +76,15 @@ namespace $.$$ {
 			return this.data_filtered()[ index ].description
 		}
 		
+		download_uri() {
+			const csv = $mol_csv_serial( this.data_filtered() )
+			return `data:text/csv;charset=utf-8,${ encodeURIComponent( csv ) }`
+		}
+		
+		download_name() {
+			return `toxic-repos_${ this.spread() }_${ this.search() }.csv`
+		}
+		
 	}
 	
 }
