@@ -544,6 +544,30 @@
         "description": "Был канал просто по кибербезопасности, а стал токсичным"
     },
     {
+        "id": 513,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "Wasabi Cloud Storage",
+        "commit_link": "https://wasabi.com/",
+        "description": "Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
+    },
+    {
+        "id": 515,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "ESET",
+        "commit_link": "https://www.eset.com/int/ua-crisis/",
+        "description": "Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
+    },
+    {
+        "id": 518,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "DeaDBeeF player",
+        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
+        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1648,14 +1672,6 @@
         "description": "Напрямую 403, через Tor работает"
     },
     {
-        "id": 486,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "ip_block",
-        "name": "Scastie",
-        "commit_link": "https://github.com/scalacenter/scastie/commit/b2353d92b0d5761070bfd69cc5882fc4956d75e8",
-        "description": "Для российских IP функционал заблокирован, вместо этого выводит призывы"
-    },
-    {
         "id": 500,
         "datetime": "2022-05-13 09:39:00",
         "problem_type": "ip_block",
@@ -1686,6 +1702,14 @@
         "name": "ahrefs.com",
         "commit_link": "https://ahrefs.com/",
         "description": "Заблокирован в России"
+    },
+    {
+        "id": 514,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "ip_block",
+        "name": "printerprofi.ru",
+        "commit_link": "https://printerprofi.ru/",
+        "description": "Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/, сайт не открывается из РФ"
     },
     {
         "id": 1,
@@ -3582,5 +3606,37 @@
         "name": "Tyrrrz/DiscordChatExporter",
         "commit_link": "https://github.com/Tyrrrz/DiscordChatExporter",
         "description": "При использовании утилиты выводит в консоль"
+    },
+    {
+        "id": 516,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "NUnit",
+        "commit_link": "https://nunit.org",
+        "description": "На главной странице про-украинские лозунги и ссылка на сбор денег, в том числе для ВСУ"
+    },
+    {
+        "id": 517,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Files (Windows file manager)",
+        "commit_link": "https://github.com/files-community/Website/pull/167",
+        "description": "Добавили украинский флаг в шапку сайта https://files.community/"
+    },
+    {
+        "id": 519,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Friz-zy/awesome-linux-containers",
+        "commit_link": "https://github.com/Friz-zy/awesome-linux-containers",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 520,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Photopea.com",
+        "commit_link": "https://www.photopea.com/",
+        "description": "Политические лозунги"
     }
 ]

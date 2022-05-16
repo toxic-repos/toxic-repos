@@ -1,3 +1,16 @@
+# 16.05.22
+[add]
++ Wasabi Cloud Storage
++ printerprofi.ru
++ ESET
++ NUnit
++ Files (Windows file manager)
++ DeaDBeeF player
++ Friz-zy/awesome-linux-containers
++ Photopea.com
+[delete]
+- Scastie
+
 # 13.05.22
 [update]
 * Evolution CMS
