@@ -1,3 +1,10 @@
+# 17.05.22
+[add]
++ Redminer for Android
++ GNU Guix
++ GitHub Enterprise Server
++ Zabbix
+
 # 16.05.22
 [add]
 + Wasabi Cloud Storage

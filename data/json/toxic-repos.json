@@ -568,6 +568,30 @@
         "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
     },
     {
+        "id": 521,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "Redminer for Android",
+        "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
+        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+    },
+    {
+        "id": 523,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "GitHub Enterprise Server",
+        "commit_link": "https://github.com/github/site-policy/pull/556/files",
+        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
+    },
+    {
+        "id": 524,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "Zabbix",
+        "commit_link": "https://www.zabbix.com/pr/pr389",
+        "description": "7 марта объявили о прекращении поддержки клиентов в РФ"
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1710,6 +1734,14 @@
         "name": "printerprofi.ru",
         "commit_link": "https://printerprofi.ru/",
         "description": "Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/, сайт не открывается из РФ"
+    },
+    {
+        "id": 522,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "ip_block",
+        "name": "GNU Guix",
+        "commit_link": "https://guix.gnu.org/",
+        "description": "GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ, что является нарушением приципов свободного ПО, пропагандируемых GNU. Через VPN - работает."
     },
     {
         "id": 1,
