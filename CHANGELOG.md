@@ -1,3 +1,8 @@
+# 19.05.22
+[add]
++ Salesforce
++ nunomaduro/collision
+
 # 17.05.22
 [add]
 + Redminer for Android

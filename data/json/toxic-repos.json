@@ -592,6 +592,14 @@
         "description": "7 марта объявили о прекращении поддержки клиентов в РФ"
     },
     {
+        "id": 525,
+        "datetime": "2022-05-19 09:28:00",
+        "problem_type": "hostile_action",
+        "name": "Salesforce",
+        "commit_link": "https://www.salesforce.com/news/stories/standing-with-ukraine/",
+        "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -3670,5 +3678,13 @@
         "name": "Photopea.com",
         "commit_link": "https://www.photopea.com/",
         "description": "Политические лозунги"
+    },
+    {
+        "id": 526,
+        "datetime": "2022-05-19 09:28:00",
+        "problem_type": "political_slogans",
+        "name": "nunomaduro/collision",
+        "commit_link": "https://github.com/nunomaduro/collision/commit/3be926d6c3949a6a526ef21566fd05ab3ea4de5d",
+        "description": "Composer-пакет"
     }
 ]
