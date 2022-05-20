@@ -544,6 +544,62 @@
         "description": "Был канал просто по кибербезопасности, а стал токсичным"
     },
     {
+        "id": 513,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "Wasabi Cloud Storage",
+        "commit_link": "https://wasabi.com/",
+        "description": "Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
+    },
+    {
+        "id": 515,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "ESET",
+        "commit_link": "https://www.eset.com/int/ua-crisis/",
+        "description": "Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
+    },
+    {
+        "id": 518,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_action",
+        "name": "DeaDBeeF player",
+        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
+        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
+    },
+    {
+        "id": 521,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "Redminer for Android",
+        "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
+        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+    },
+    {
+        "id": 523,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "GitHub Enterprise Server",
+        "commit_link": "https://github.com/github/site-policy/pull/556/files",
+        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
+    },
+    {
+        "id": 524,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_action",
+        "name": "Zabbix",
+        "commit_link": "https://www.zabbix.com/pr/pr389",
+        "description": "7 марта объявили о прекращении поддержки клиентов в РФ"
+    },
+    {
+        "id": 525,
+        "datetime": "2022-05-19 09:28:00",
+        "problem_type": "hostile_action",
+        "name": "Salesforce",
+        "commit_link": "https://www.salesforce.com/news/stories/standing-with-ukraine/",
+        "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1648,14 +1704,6 @@
         "description": "Напрямую 403, через Tor работает"
     },
     {
-        "id": 486,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "ip_block",
-        "name": "Scastie",
-        "commit_link": "https://github.com/scalacenter/scastie/commit/b2353d92b0d5761070bfd69cc5882fc4956d75e8",
-        "description": "Для российских IP функционал заблокирован, вместо этого выводит призывы"
-    },
-    {
         "id": 500,
         "datetime": "2022-05-13 09:39:00",
         "problem_type": "ip_block",
@@ -1686,6 +1734,22 @@
         "name": "ahrefs.com",
         "commit_link": "https://ahrefs.com/",
         "description": "Заблокирован в России"
+    },
+    {
+        "id": 514,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "ip_block",
+        "name": "printerprofi.ru",
+        "commit_link": "https://printerprofi.ru/",
+        "description": "Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/, сайт не открывается из РФ"
+    },
+    {
+        "id": 522,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "ip_block",
+        "name": "GNU Guix",
+        "commit_link": "https://guix.gnu.org/",
+        "description": "GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ, что является нарушением приципов свободного ПО, пропагандируемых GNU. Через VPN - работает."
     },
     {
         "id": 1,
@@ -3582,5 +3646,45 @@
         "name": "Tyrrrz/DiscordChatExporter",
         "commit_link": "https://github.com/Tyrrrz/DiscordChatExporter",
         "description": "При использовании утилиты выводит в консоль"
+    },
+    {
+        "id": 516,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "NUnit",
+        "commit_link": "https://nunit.org",
+        "description": "На главной странице про-украинские лозунги и ссылка на сбор денег, в том числе для ВСУ"
+    },
+    {
+        "id": 517,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Files (Windows file manager)",
+        "commit_link": "https://github.com/files-community/Website/pull/167",
+        "description": "Добавили украинский флаг в шапку сайта https://files.community/"
+    },
+    {
+        "id": 519,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Friz-zy/awesome-linux-containers",
+        "commit_link": "https://github.com/Friz-zy/awesome-linux-containers",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 520,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "political_slogans",
+        "name": "Photopea.com",
+        "commit_link": "https://www.photopea.com/",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 526,
+        "datetime": "2022-05-19 09:28:00",
+        "problem_type": "political_slogans",
+        "name": "nunomaduro/collision",
+        "commit_link": "https://github.com/nunomaduro/collision/commit/3be926d6c3949a6a526ef21566fd05ab3ea4de5d",
+        "description": "Composer-пакет"
     }
 ]

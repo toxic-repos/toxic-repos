@@ -1,3 +1,28 @@
+# 19.05.22
+[add]
++ Salesforce
++ nunomaduro/collision
+
+# 17.05.22
+[add]
++ Redminer for Android
++ GNU Guix
++ GitHub Enterprise Server
++ Zabbix
+
+# 16.05.22
+[add]
++ Wasabi Cloud Storage
++ printerprofi.ru
++ ESET
++ NUnit
++ Files (Windows file manager)
++ DeaDBeeF player
++ Friz-zy/awesome-linux-containers
++ Photopea.com
+[delete]
+- Scastie
+
 # 13.05.22
 [update]
 * Evolution CMS
