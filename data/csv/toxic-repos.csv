@@ -98,6 +98,7 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 523,2022-05-17 10:51:00,hostile_action,GitHub Enterprise Server,https://github.com/github/site-policy/pull/556/files,"30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим ""только чтение""."
 524,2022-05-17 10:51:00,hostile_action,Zabbix,https://www.zabbix.com/pr/pr389,7 марта объявили о прекращении поддержки клиентов в РФ
 525,2022-05-19 09:28:00,hostile_action,Salesforce,https://www.salesforce.com/news/stories/standing-with-ukraine/,"Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+528,2022-05-23 09:50:00,hostile_action,IceRaven Browser,https://github.com/fork-maintainers/iceraven-browser,"Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -251,6 +252,7 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 511,2022-05-13 09:39:00,ip_block,ahrefs.com,https://ahrefs.com/,Заблокирован в России
 514,2022-05-16 09:34:00,ip_block,printerprofi.ru,https://printerprofi.ru/,"Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/, сайт не открывается из РФ"
 522,2022-05-17 10:51:00,ip_block,GNU Guix,https://guix.gnu.org/,"GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ, что является нарушением приципов свободного ПО, пропагандируемых GNU. Через VPN - работает."
+529,2022-05-23 09:50:00,ip_block,parsec.app,https://parsec.app/,При попытке скачать - блокировка по ip.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -500,3 +502,4 @@ Updated the Ukrainian theme and added an ability to switch it off in the Prefere
 519,2022-05-16 09:34:00,political_slogans,Friz-zy/awesome-linux-containers,https://github.com/Friz-zy/awesome-linux-containers,Политические лозунги
 520,2022-05-16 09:34:00,political_slogans,Photopea.com,https://www.photopea.com/,Политические лозунги
 526,2022-05-19 09:28:00,political_slogans,nunomaduro/collision,https://github.com/nunomaduro/collision/commit/3be926d6c3949a6a526ef21566fd05ab3ea4de5d,Composer-пакет
+527,2022-05-23 09:50:00,political_slogans,Arx Libertatis,https://github.com/arx/arx-libertatis.org/commit/c478d9304cbe478bb2ae16a7cdbc2ceddd69c76b,Open source engine for Arx Fatalis game. Повесили на сайт https://arx-libertatis.org баннер с флагом Украины и лозунгами.
