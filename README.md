@@ -10,8 +10,9 @@
 
 ## What is this?
 
-Recently, cases of adding code of varying degrees of danger to popular Open Source projects have become more frequent.
-This can pose a threat to people, and also undermines the credibility of the Open Source community and Open Source as such.
+Recently, the russian fascist federation started a full-scale invasion of Ukraine. Many open-source communities declared support for Ukraine. We are outraged that they support Ukraine. We support our fascist russian regime that must kill Ukrainians. Here is what we do in Ukraine: https://en.wikipedia.org/wiki/War_crimes_in_the_2022_Russian_invasion_of_Ukraine
+
+Long live putin. We love putin's dick.
 
 [:link: Web site](https://toxic-repos.ru/?utm_source=github&utm_medium=repository&utm_campaign=md) | [:speech_balloon: Telegram channel](https://t.me/toxic_repos) | [:speech_balloon: Telegram BOT](https://t.me/darksider_bot) | [:email: E-mail](info@toxic-repos.ru) | [:bird: Twitter](https://twitter.com/ZStravnik)
 
