@@ -600,6 +600,22 @@
         "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
     },
     {
+        "id": 528,
+        "datetime": "2022-05-23 09:50:00",
+        "problem_type": "hostile_action",
+        "name": "IceRaven Browser",
+        "commit_link": "https://github.com/fork-maintainers/iceraven-browser",
+        "description": "Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
+    },
+    {
+        "id": 530,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "hostile_action",
+        "name": "Winbox (Snap пакет panaceya)",
+        "commit_link": "https://github.com/panaceya/winbox",
+        "description": "Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1752,6 +1768,38 @@
         "description": "GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ, что является нарушением приципов свободного ПО, пропагандируемых GNU. Через VPN - работает."
     },
     {
+        "id": 529,
+        "datetime": "2022-05-23 09:50:00",
+        "problem_type": "ip_block",
+        "name": "parsec.app",
+        "commit_link": "https://parsec.app/",
+        "description": "При попытке скачать - блокировка по ip."
+    },
+    {
+        "id": 533,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "ip_block",
+        "name": "E-katalog.ru",
+        "commit_link": "https://pikabu.ru/story/kak_ekatalogru_vsekh_kinul_8896280",
+        "description": "В начале событий на Украине кинули всех русскоязычных контрагентов и свернули сервис в России."
+    },
+    {
+        "id": 534,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "ip_block",
+        "name": "SANS, Internet Storm Center",
+        "commit_link": "https://isc.sans.edu/",
+        "description": "Сайт по кибербезопасности. https://sans.edu/ недоступен со всем поддоменами, включая https://isc.sans.edu/, начал писать такое\r\nRussian cyber operations have targeted Ukraine with destabilization efforts for years, by way of infrastructure attacks, influence operations, website defacement, and attacks on Ukrainian banks and military networks.\r\n\r\nAll organizations find themselves potential targets for cyber attacks as Russia responds to sanctions imposed on Russia for violating international law. According to the governments and intelligence agencies from around the world, “Russia maintains a range of offensive cyber tools that it could employ against global networks—from low-level denials-of-service to destructive attacks targeting critical infrastructure.”\r\nhttps://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
+    },
+    {
+        "id": 535,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "ip_block",
+        "name": "codemag.com",
+        "commit_link": "https://www.codemag.com",
+        "description": "При подключении с IP РФ вместо сайта отображают пропаганду."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -1798,6 +1846,22 @@
         "name": "Parad1seBomb",
         "commit_link": "https://github.com/K1ngSoul/Parad1seBomb",
         "description": "SMS Bomber for Russia and Ukraine"
+    },
+    {
+        "id": 531,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "malware",
+        "name": "phppass (PHP)",
+        "commit_link": "https://github.com/hautelook/phpass",
+        "description": "Версии пакета с 19.05.2022 по 24.05.2022. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
+    },
+    {
+        "id": 532,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "malware",
+        "name": "ctx (python package)",
+        "commit_link": "https://pypistats.org/packages/ctx",
+        "description": "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
     },
     {
         "id": 3,
@@ -3686,5 +3750,45 @@
         "name": "nunomaduro/collision",
         "commit_link": "https://github.com/nunomaduro/collision/commit/3be926d6c3949a6a526ef21566fd05ab3ea4de5d",
         "description": "Composer-пакет"
+    },
+    {
+        "id": 527,
+        "datetime": "2022-05-23 09:50:00",
+        "problem_type": "political_slogans",
+        "name": "Arx Libertatis",
+        "commit_link": "https://github.com/arx/arx-libertatis.org/commit/c478d9304cbe478bb2ae16a7cdbc2ceddd69c76b",
+        "description": "Open source engine for Arx Fatalis game. Повесили на сайт https://arx-libertatis.org баннер с флагом Украины и лозунгами."
+    },
+    {
+        "id": 536,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "political_slogans",
+        "name": "innoextract",
+        "commit_link": "https://github.com/dscharrer/innoextract",
+        "description": "Программа для извлечения содержимого установщиков, построенных на Inno. Политические лозунги в шапке сайта https://constexpr.org/innoextract/"
+    },
+    {
+        "id": 537,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "political_slogans",
+        "name": "MindForger",
+        "commit_link": "https://github.com/dvorka/mindforger",
+        "description": "Notebook and markdown editor. Добавили флаг Украины в шапку сайта https://www.mindforger.com/"
+    },
+    {
+        "id": 538,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "political_slogans",
+        "name": "Fluffy Mods для RimWorld",
+        "commit_link": "https://github.com/fluffy-mods",
+        "description": "Ссылка на моды в Steam: https://steamcommunity.com/id/FluffyMods/myworkshopfiles/?appid=294100\r\n\r\nРазработчик — из Украины. Описание большинства модов содержит клевету по поводу СВО. Так как в репозиториях имеются .dll в виде бинарей (с закрытыми исходными кодами), то там может быть что-то и похуже политических лозунгов, не хочется проверять."
+    },
+    {
+        "id": 539,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "political_slogans",
+        "name": "Restream",
+        "commit_link": "https://restream.io/stop-war",
+        "description": "политический баннер"
     }
 ]

@@ -1,3 +1,22 @@
+# 26.05.22
+[add]
++ Winbox (Snap пакет panaceya)
++ phppass (PHP)
++ ctx (python package)
++ E-katalog
++ SANS, Internet Storm Center
++ codemag.com
++ innoextract
++ MindForger
++ Fluffy Mods для RimWorld
++ Restream
+
+# 22.05.22
+[add]
++ Arx Libertatis
++ IceRaven Browser
++ parsec.app
+
 # 19.05.22
 [add]
 + Salesforce
