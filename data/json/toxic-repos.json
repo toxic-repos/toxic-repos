@@ -1792,12 +1792,44 @@
         "description": "Сайт по кибербезопасности. https://sans.edu/ недоступен со всем поддоменами, включая https://isc.sans.edu/, начал писать такое\r\nRussian cyber operations have targeted Ukraine with destabilization efforts for years, by way of infrastructure attacks, influence operations, website defacement, and attacks on Ukrainian banks and military networks.\r\n\r\nAll organizations find themselves potential targets for cyber attacks as Russia responds to sanctions imposed on Russia for violating international law. According to the governments and intelligence agencies from around the world, “Russia maintains a range of offensive cyber tools that it could employ against global networks—from low-level denials-of-service to destructive attacks targeting critical infrastructure.”\r\nhttps://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
     },
     {
-        "id": 535,
-        "datetime": "2022-05-26 09:26:00",
+        "id": 540,
+        "datetime": "2022-05-31 09:54:00",
         "problem_type": "ip_block",
-        "name": "codemag.com",
-        "commit_link": "https://www.codemag.com",
-        "description": "При подключении с IP РФ вместо сайта отображают пропаганду."
+        "name": "MongoDB",
+        "commit_link": "https://www.mongodb.com/",
+        "description": "Блокировка доступа к сайту с российских IP. ошибка 403"
+    },
+    {
+        "id": 541,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "ip_block",
+        "name": "Studio 3T, Robo 3T",
+        "commit_link": "https://studio3t.com/download-thank-you/",
+        "description": "Блокировка скачивания с российских IP"
+    },
+    {
+        "id": 542,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "ip_block",
+        "name": "Weather Underground",
+        "commit_link": "https://www.wunderground.com/",
+        "description": "Блокируются российские IP."
+    },
+    {
+        "id": 543,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "ip_block",
+        "name": "Cisco Webex",
+        "commit_link": "https://habr.com/ru/news/t/668110/",
+        "description": "26 мая 2022 года сервис вебинаров и веб-конференций Cisco Webex прекратил обслуживать клиентов из РФ"
+    },
+    {
+        "id": 544,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "ip_block",
+        "name": "Microsoft Dynamics 365 Community",
+        "commit_link": "https://community.dynamics.com/",
+        "description": "Блокировка доступа с российских IP. Ошибка Access denied"
     },
     {
         "id": 1,
@@ -3789,6 +3821,46 @@
         "problem_type": "political_slogans",
         "name": "Restream",
         "commit_link": "https://restream.io/stop-war",
+        "description": "политический баннер"
+    },
+    {
+        "id": 545,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "political_slogans",
+        "name": "AppVeyor CI",
+        "commit_link": "https://ci.appveyor.com/login",
+        "description": "В шапке сайта украинский флаг."
+    },
+    {
+        "id": 546,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "political_slogans",
+        "name": "CipherSuite",
+        "commit_link": "https://ciphersuite.info/",
+        "description": "ссылка на сайт с пропагандой и сбор пожертвований на главной странице"
+    },
+    {
+        "id": 547,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "political_slogans",
+        "name": "ScienceDirect",
+        "commit_link": "https://www.sciencedirect.com/",
+        "description": "Флаг и ссылка на сайт с пропагандой на главной странице"
+    },
+    {
+        "id": 548,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "political_slogans",
+        "name": "Hiveon mining pool",
+        "commit_link": "https://hiveon.net",
+        "description": "Слева вверху баннер-ссылка на на страницу https://hiveon.com/blog/standforpeace/ для сбора пожертвований для армии Украины.\r\nДля российский IP баннер и страница не отображаются."
+    },
+    {
+        "id": 549,
+        "datetime": "2022-05-31 09:54:00",
+        "problem_type": "political_slogans",
+        "name": "SolidJS",
+        "commit_link": "https://www.solidjs.com/",
         "description": "политический баннер"
     }
 ]
