@@ -1,3 +1,19 @@
+# 31.05.22
+[add]
++ MongoDB
++ Studio 3T, Robo 3T
++ Weather Underground
++ Cisco Webex
++ Microsoft Dynamics 365 Community
++ AppVeyor CI
++ CipherSuite
++ ScienceDirect
++ Hiveon mining pool
++ SolidJS
+
+[delete]
+- codemag
+
 # 26.05.22
 [add]
 + Winbox (Snap пакет panaceya)
