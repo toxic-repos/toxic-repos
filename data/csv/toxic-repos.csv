@@ -265,6 +265,11 @@ https://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
 542,2022-05-31 09:54:00,ip_block,Weather Underground,https://www.wunderground.com/,Блокируются российские IP.
 543,2022-05-31 09:54:00,ip_block,Cisco Webex,https://habr.com/ru/news/t/668110/,26 мая 2022 года сервис вебинаров и веб-конференций Cisco Webex прекратил обслуживать клиентов из РФ
 544,2022-05-31 09:54:00,ip_block,Microsoft Dynamics 365 Community,https://community.dynamics.com/,Блокировка доступа с российских IP. Ошибка Access denied
+550,2022-06-12 09:05:00,ip_block,TestComplete,https://smartbear.com/,Популярное ПО для тестирования. Заблокирован доступ к сайту из РФ
+551,2022-06-12 09:05:00,ip_block,Cobian Backup,https://www.cobiansoft.com/cobianbackup.html,Заблокирован доступ к ссылкам на скачивание продуктов Cobian. С VPN работает.
+552,2022-06-12 09:05:00,ip_block,SpeedTest,http://speedtest.com/,Измерение скорости интернет-соединения. Доступ к сайту заблокирован с российских IP
+553,2022-06-12 09:05:00,ip_block,NI LabView,https://www.ni.com/ru-ru/support/downloads/software-products/download.labview.html#443865,NI заблокировал скачивание LabView для российский ip-адресов
+554,2022-06-12 09:05:00,ip_block,qBitTorrent forum,https://forum.qbittorrent.org,"forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -525,7 +530,9 @@ Updated the Ukrainian theme and added an ability to switch it off in the Prefere
 539,2022-05-26 09:26:00,political_slogans,Restream,https://restream.io/stop-war,политический баннер
 545,2022-05-31 09:54:00,political_slogans,AppVeyor CI,https://ci.appveyor.com/login,В шапке сайта украинский флаг.
 546,2022-05-31 09:54:00,political_slogans,CipherSuite,https://ciphersuite.info/,ссылка на сайт с пропагандой и сбор пожертвований на главной странице
-547,2022-05-31 09:54:00,political_slogans,ScienceDirect,https://www.sciencedirect.com/,Флаг и ссылка на сайт с пропагандой на главной странице
 548,2022-05-31 09:54:00,political_slogans,Hiveon mining pool,https://hiveon.net,"Слева вверху баннер-ссылка на на страницу https://hiveon.com/blog/standforpeace/ для сбора пожертвований для армии Украины.
 Для российский IP баннер и страница не отображаются."
 549,2022-05-31 09:54:00,political_slogans,SolidJS,https://www.solidjs.com/,политический баннер
+555,2022-06-12 09:05:00,political_slogans,Bareos,https://github.com/bareos/bareos/pull/1117,Украинский флаг в логотипе. Webui фон при авторизации в цвет флага.
+556,2022-06-12 09:05:00,political_slogans,Лурк,https://lurkmore.to,Замена контента сайта на полит. лозунги
+557,2022-06-12 09:05:00,political_slogans,Remi's RPM repository,https://rpms.remirepo.net/,лозунг на главной и других страницах Please STOP WAR NOW!

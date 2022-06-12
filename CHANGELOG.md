@@ -1,3 +1,17 @@
+# 12.06.22
+[add]
++ TestComplete
++ Cobian Backup
++ SpeedTest
++ NI LabView
++ qBitTorrent forum
++ Bareos
++ Лурк
++ Remi's RPM repository
+
+[delete]
+- ScienceDirect
+
 # 31.05.22
 [add]
 + MongoDB

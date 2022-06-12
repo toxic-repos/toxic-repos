@@ -1832,6 +1832,46 @@
         "description": "Блокировка доступа с российских IP. Ошибка Access denied"
     },
     {
+        "id": 550,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "ip_block",
+        "name": "TestComplete",
+        "commit_link": "https://smartbear.com/",
+        "description": "Популярное ПО для тестирования. Заблокирован доступ к сайту из РФ"
+    },
+    {
+        "id": 551,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "ip_block",
+        "name": "Cobian Backup",
+        "commit_link": "https://www.cobiansoft.com/cobianbackup.html",
+        "description": "Заблокирован доступ к ссылкам на скачивание продуктов Cobian. С VPN работает."
+    },
+    {
+        "id": 552,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "ip_block",
+        "name": "SpeedTest",
+        "commit_link": "http://speedtest.com/",
+        "description": "Измерение скорости интернет-соединения. Доступ к сайту заблокирован с российских IP"
+    },
+    {
+        "id": 553,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "ip_block",
+        "name": "NI LabView",
+        "commit_link": "https://www.ni.com/ru-ru/support/downloads/software-products/download.labview.html#443865",
+        "description": "NI заблокировал скачивание LabView для российский ip-адресов"
+    },
+    {
+        "id": 554,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "ip_block",
+        "name": "qBitTorrent forum",
+        "commit_link": "https://forum.qbittorrent.org",
+        "description": "forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3840,14 +3880,6 @@
         "description": "ссылка на сайт с пропагандой и сбор пожертвований на главной странице"
     },
     {
-        "id": 547,
-        "datetime": "2022-05-31 09:54:00",
-        "problem_type": "political_slogans",
-        "name": "ScienceDirect",
-        "commit_link": "https://www.sciencedirect.com/",
-        "description": "Флаг и ссылка на сайт с пропагандой на главной странице"
-    },
-    {
         "id": 548,
         "datetime": "2022-05-31 09:54:00",
         "problem_type": "political_slogans",
@@ -3862,5 +3894,29 @@
         "name": "SolidJS",
         "commit_link": "https://www.solidjs.com/",
         "description": "политический баннер"
+    },
+    {
+        "id": 555,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "political_slogans",
+        "name": "Bareos",
+        "commit_link": "https://github.com/bareos/bareos/pull/1117",
+        "description": "Украинский флаг в логотипе. Webui фон при авторизации в цвет флага."
+    },
+    {
+        "id": 556,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "political_slogans",
+        "name": "Лурк",
+        "commit_link": "https://lurkmore.to",
+        "description": "Замена контента сайта на полит. лозунги"
+    },
+    {
+        "id": 557,
+        "datetime": "2022-06-12 09:05:00",
+        "problem_type": "political_slogans",
+        "name": "Remi's RPM repository",
+        "commit_link": "https://rpms.remirepo.net/",
+        "description": "лозунг на главной и других страницах Please STOP WAR NOW!"
     }
 ]
