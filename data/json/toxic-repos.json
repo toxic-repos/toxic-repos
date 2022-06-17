@@ -1872,6 +1872,54 @@
         "description": "forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
     },
     {
+        "id": 558,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "Syncthing",
+        "commit_link": "syncthing.net",
+        "description": "File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137), connection timed out\r\nДобавили баннер на главной странице\r\nЧерез VPN работает."
+    },
+    {
+        "id": 559,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "Kerkythea",
+        "commit_link": "http://kerkythea.net/",
+        "description": "Kerkythea — бесплатная проприетарная программа с закрытым кодом, система рендеринга, позволяющая создавать фотореалистичные изображения. При заходе на сайт пишет: \"Thank you for your interest in an Altair Engineering, Inc. Product. We regret that at this time access to our website is restricted under United States and other governments export rules and regulations.\"."
+    },
+    {
+        "id": 560,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "UserSide",
+        "commit_link": "https://www.userside.eu/ru/",
+        "description": "Софт для оператора связи. Заблочили учётки российских клиентов - при попытке логина на my.userside.eu - ошибка 422 The account is blocked.\r\nЕсть неподтвержденная информация, что техподдержка UserSide использовала свой доступ для вредоносных действий в системе своих клиентов. https://t.me/s/userside/56"
+    },
+    {
+        "id": 561,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "Canva",
+        "commit_link": "https://www.canva.com/",
+        "description": "Онлайн графический редактор. Заблокирован доступ с российских IP."
+    },
+    {
+        "id": 565,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "kaleido.ai",
+        "commit_link": "kaleido.ai",
+        "description": "kaleido.ai и их сервисы, например remove.bg - слоганы, ограничение доступа по региону, возможно с сохранением куки/слепка браузера - повторный заход без чистки из обычной вкладки с vpn кидает туда же"
+    },
+    {
+        "id": 566,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "ip_block",
+        "name": "Sysdig",
+        "commit_link": "https://sysdig.com/",
+        "description": "Доступ заблокирован из IP РФ, 403"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3918,5 +3966,29 @@
         "name": "Remi's RPM repository",
         "commit_link": "https://rpms.remirepo.net/",
         "description": "лозунг на главной и других страницах Please STOP WAR NOW!"
+    },
+    {
+        "id": 562,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "political_slogans",
+        "name": "Canardoux/flutter_sound",
+        "commit_link": "https://github.com/Canardoux/flutter_sound/commit/923de938fca04ded9e5e85c4cba9ff2dae0ebb55",
+        "description": "Flutter plugin for sound. Audio recorder and player. Навставляли картинок в описание пакета https://pub.dev/packages/flutter_sound, может быть что-то еще."
+    },
+    {
+        "id": 563,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "political_slogans",
+        "name": "Thonny IDE for Python",
+        "commit_link": "https://github.com/thonny/thonny-webpage/commit/c13d44bd90dff1a7836a7d7b681457893e487c4c",
+        "description": "Python IDE for beginners. Политические лозунги на главной странице https://thonny.org/, оскорбления по национальному признаку."
+    },
+    {
+        "id": 564,
+        "datetime": "2022-06-17 12:58:00",
+        "problem_type": "political_slogans",
+        "name": "World Air Quality Index",
+        "commit_link": "aqicn.org",
+        "description": "Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.\r\nThe library EventSource displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199"
     }
 ]

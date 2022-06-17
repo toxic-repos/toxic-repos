@@ -270,6 +270,15 @@ https://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
 552,2022-06-12 09:05:00,ip_block,SpeedTest,http://speedtest.com/,Измерение скорости интернет-соединения. Доступ к сайту заблокирован с российских IP
 553,2022-06-12 09:05:00,ip_block,NI LabView,https://www.ni.com/ru-ru/support/downloads/software-products/download.labview.html#443865,NI заблокировал скачивание LabView для российский ip-адресов
 554,2022-06-12 09:05:00,ip_block,qBitTorrent forum,https://forum.qbittorrent.org,"forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
+558,2022-06-17 12:58:00,ip_block,Syncthing,syncthing.net,"File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137), connection timed out
+Добавили баннер на главной странице
+Через VPN работает."
+559,2022-06-17 12:58:00,ip_block,Kerkythea,http://kerkythea.net/,"Kerkythea — бесплатная проприетарная программа с закрытым кодом, система рендеринга, позволяющая создавать фотореалистичные изображения. При заходе на сайт пишет: ""Thank you for your interest in an Altair Engineering, Inc. Product. We regret that at this time access to our website is restricted under United States and other governments export rules and regulations.""."
+560,2022-06-17 12:58:00,ip_block,UserSide,https://www.userside.eu/ru/,"Софт для оператора связи. Заблочили учётки российских клиентов - при попытке логина на my.userside.eu - ошибка 422 The account is blocked.
+Есть неподтвержденная информация, что техподдержка UserSide использовала свой доступ для вредоносных действий в системе своих клиентов. https://t.me/s/userside/56"
+561,2022-06-17 12:58:00,ip_block,Canva,https://www.canva.com/,Онлайн графический редактор. Заблокирован доступ с российских IP.
+565,2022-06-17 12:58:00,ip_block,kaleido.ai,kaleido.ai,"kaleido.ai и их сервисы, например remove.bg - слоганы, ограничение доступа по региону, возможно с сохранением куки/слепка браузера - повторный заход без чистки из обычной вкладки с vpn кидает туда же"
+566,2022-06-17 12:58:00,ip_block,Sysdig,https://sysdig.com/,"Доступ заблокирован из IP РФ, 403"
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -536,3 +545,7 @@ Updated the Ukrainian theme and added an ability to switch it off in the Prefere
 555,2022-06-12 09:05:00,political_slogans,Bareos,https://github.com/bareos/bareos/pull/1117,Украинский флаг в логотипе. Webui фон при авторизации в цвет флага.
 556,2022-06-12 09:05:00,political_slogans,Лурк,https://lurkmore.to,Замена контента сайта на полит. лозунги
 557,2022-06-12 09:05:00,political_slogans,Remi's RPM repository,https://rpms.remirepo.net/,лозунг на главной и других страницах Please STOP WAR NOW!
+562,2022-06-17 12:58:00,political_slogans,Canardoux/flutter_sound,https://github.com/Canardoux/flutter_sound/commit/923de938fca04ded9e5e85c4cba9ff2dae0ebb55,"Flutter plugin for sound. Audio recorder and player. Навставляли картинок в описание пакета https://pub.dev/packages/flutter_sound, может быть что-то еще."
+563,2022-06-17 12:58:00,political_slogans,Thonny IDE for Python,https://github.com/thonny/thonny-webpage/commit/c13d44bd90dff1a7836a7d7b681457893e487c4c,"Python IDE for beginners. Политические лозунги на главной странице https://thonny.org/, оскорбления по национальному признаку."
+564,2022-06-17 12:58:00,political_slogans,World Air Quality Index,aqicn.org,"Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.
+The library EventSource displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199"

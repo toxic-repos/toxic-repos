@@ -1,3 +1,15 @@
+#17.06.22
+[add]
++ Syncthing
++ Kerkythea
++ UserSide
++ Canva
++ Canardoux/flutter_sound
++ Thonny IDE for Python
++ World Air Quality Index
++ kaleido
++ Sysdig
+
 # 12.06.22
 [add]
 + TestComplete
