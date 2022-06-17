@@ -1,5 +1,7 @@
 # toxic-repos
 
+![StandWithRussia](data/img/flag.jpg)
+
 ---
 > Now you can send information to be added to the list via telegram bot! [DarkSider BOT](https://t.me/darksider_bot)
 > 
