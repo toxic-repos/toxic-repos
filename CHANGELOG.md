@@ -1,3 +1,10 @@
+#21.06.22
+[add]
++ cgtrader
++ Microsoft
++ jtx Board
++ devart
+
 #17.06.22
 [add]
 + Syncthing

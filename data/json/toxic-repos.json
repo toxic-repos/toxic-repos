@@ -1920,6 +1920,30 @@
         "description": "Доступ заблокирован из IP РФ, 403"
     },
     {
+        "id": 567,
+        "datetime": "2022-06-21 09:24:00",
+        "problem_type": "ip_block",
+        "name": "cgtrader.com",
+        "commit_link": "https://www.cgtrader.com",
+        "description": "не даёт качать объекты с российского IP, с VPN даёт.\r\nSERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOUR REGION."
+    },
+    {
+        "id": 568,
+        "datetime": "2022-06-21 09:24:00",
+        "problem_type": "ip_block",
+        "name": "Microsoft",
+        "commit_link": "https://www.microsoft.com/en-us/download",
+        "description": "Блокировка скачивания дистрибутивов с российских IP"
+    },
+    {
+        "id": 570,
+        "datetime": "2022-06-21 09:24:00",
+        "problem_type": "ip_block",
+        "name": "devart.com",
+        "commit_link": "devart.com",
+        "description": "не открывается. В поддержке пообещали отозвать активные подписки и прекратить любую поддержку людям из России и Белоруссии."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3990,5 +4014,13 @@
         "name": "World Air Quality Index",
         "commit_link": "aqicn.org",
         "description": "Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.\r\nThe library EventSource displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199"
+    },
+    {
+        "id": 569,
+        "datetime": "2022-06-21 09:24:00",
+        "problem_type": "political_slogans",
+        "name": "jtx Board",
+        "commit_link": "https://jtx.techbee.at",
+        "description": "Политические лозунги в About приложения"
     }
 ]

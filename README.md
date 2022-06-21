@@ -1,7 +1,5 @@
 # toxic-repos
 
-![StandWithRussia](data/img/flag.jpg)
-
 ---
 > Now you can send information to be added to the list via telegram bot! [DarkSider BOT](https://t.me/darksider_bot)
 > 
@@ -19,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 499
+Records in the database: 503
 
 [CHANGELOG](CHANGELOG.md)
 
