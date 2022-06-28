@@ -624,6 +624,14 @@
         "description": "заблокированы аккаунты из России, призывы переводить деньги и т. п."
     },
     {
+        "id": 579,
+        "datetime": "2022-06-28 20:48:00",
+        "problem_type": "hostile_action",
+        "name": "gperftools/gperftools",
+        "commit_link": "https://github.com/gperftools/gperftools/issues/1345",
+        "description": "Удалили поддержку e2k, но arm почему-то оставили."
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
