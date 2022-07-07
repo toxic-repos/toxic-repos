@@ -304,6 +304,62 @@
         "description": "Список российских ресурсов для DDoS атак"
     },
     {
+        "id": 596,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "breakerspace/weaponizing-censors",
+        "commit_link": "https://github.com/breakerspace/weaponizing-censors",
+        "description": "ddos tool"
+    },
+    {
+        "id": 597,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "D3pR4V3d/norussian",
+        "commit_link": "https://github.com/D3pR4V3d/norussian",
+        "description": "ddos tool"
+    },
+    {
+        "id": 598,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "palahsu/DDoS-Ripper",
+        "commit_link": "https://github.com/palahsu/DDoS-Ripper",
+        "description": "ddos tool"
+    },
+    {
+        "id": 599,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "erkexzcx/stoppropaganda",
+        "commit_link": "https://github.com/erkexzcx/stoppropaganda",
+        "description": "ddos tool"
+    },
+    {
+        "id": 600,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "epsylon/ufonet",
+        "commit_link": "https://github.com/epsylon/ufonet",
+        "description": "ddos tool"
+    },
+    {
+        "id": 601,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "MHProDev/MHDDoS",
+        "commit_link": "https://github.com/MHProDev/MHDDoS",
+        "description": "ddos tool"
+    },
+    {
+        "id": 602,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ddos",
+        "name": "cyberhubarchive",
+        "commit_link": "https://github.com/cyberhubarchive/archive",
+        "description": "ddos tool"
+    },
+    {
         "id": 416,
         "datetime": "2022-04-15 10:24:12",
         "problem_type": "hostile_action",
@@ -630,6 +686,102 @@
         "name": "gperftools/gperftools",
         "commit_link": "https://github.com/gperftools/gperftools/issues/1345",
         "description": "Удалили поддержку e2k, но arm почему-то оставили."
+    },
+    {
+        "id": 581,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Autodesk",
+        "commit_link": "https://adsknews.autodesk.com/views/crisis-in-ukraine",
+        "description": "Autodesk is suspending our business in Russia"
+    },
+    {
+        "id": 582,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "NETSCOUT",
+        "commit_link": "https://www.netscout.com/blog/netscout-statement-about-ukraine",
+        "description": "stopped all sales, support, and services to Russian companies."
+    },
+    {
+        "id": 583,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "upwork",
+        "commit_link": "https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022",
+        "description": "Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
+    },
+    {
+        "id": 584,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Fiverr",
+        "commit_link": "https://blog.fiverr.com/post/fiverr-suspends-business-in-russia",
+        "description": "Fiverr Suspends Business in Russia"
+    },
+    {
+        "id": 585,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Adobe",
+        "commit_link": "adobe.com",
+        "description": "stopping all sales in Russia"
+    },
+    {
+        "id": 586,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Sketch",
+        "commit_link": "https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/",
+        "description": "stopping all sales in Russia"
+    },
+    {
+        "id": 587,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Acronis",
+        "commit_link": "https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/",
+        "description": "Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
+    },
+    {
+        "id": 588,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Veeam",
+        "commit_link": "https://www.veeam.com/blog/142834.html",
+        "description": "Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
+    },
+    {
+        "id": 593,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Crevils/InstaReport",
+        "commit_link": "https://github.com/Crevils/InstaReport",
+        "description": "script which reports targeted instagram accounts and instagram videos in bulk"
+    },
+    {
+        "id": 594,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "Argisht44/android",
+        "commit_link": "https://github.com/Argisht44/android",
+        "description": "СМС-спам, бомбер"
+    },
+    {
+        "id": 595,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "NIRVANA101/Russian-GBSB",
+        "commit_link": "https://github.com/NIRVANA101/Russian-GBSB",
+        "description": "Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
+    },
+    {
+        "id": 603,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_action",
+        "name": "jamesdh/kompromat",
+        "commit_link": "https://github.com/jamesdh/kompromat",
+        "description": "Бот для спама в отзывах на Яндекс.Картах"
     },
     {
         "id": 6,
@@ -1992,6 +2144,38 @@
         "description": "Бесплатный обмен файлами. Блокируется доступ из РФ. С VPN все работает нормально."
     },
     {
+        "id": 589,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ip_block",
+        "name": "themoviedb (TMDB)",
+        "commit_link": "https://www.themoviedb.org/",
+        "description": "База данных фильмов и сериалов. Блокируется доступ из РФ и Беларуси. С VPN все работает нормально. Запись в блоге https://blog.themoviedb.org/the-movie-database-suspends-access-from-russia-and-belarus-b6a1a96fb35b"
+    },
+    {
+        "id": 590,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ip_block",
+        "name": "Download Master",
+        "commit_link": "https://westbyte.com/dm",
+        "description": "Ошибка 403 при посещении westbyte.com с российским IP"
+    },
+    {
+        "id": 591,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ip_block",
+        "name": "ANSYS",
+        "commit_link": "https://www.ansys.com/academic/students",
+        "description": "Блокировка всего студенческого софта от ANSYS\r\nЧерез впн - доступно"
+    },
+    {
+        "id": 592,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "ip_block",
+        "name": "myPerfectCV",
+        "commit_link": "https://www.myperfectcv.co.uk",
+        "description": "Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -2054,6 +2238,14 @@
         "name": "ctx (python package)",
         "commit_link": "https://pypistats.org/packages/ctx",
         "description": "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
+    },
+    {
+        "id": 580,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "malware",
+        "name": "sweetalert2/sweetalert2",
+        "commit_link": "https://github.com/sweetalert2/sweetalert2/commit/1ad0dd97ee11bd472c381e4063a9ec8fa0d40be1",
+        "description": "JS-библиотека для popup alerts. Вставили в код закладку, чтобы отображать призывы и видео. Срабатывает только если у пользователя в браузере выбран русский язык, а сайт, на котором выполняется код, находится в зоне ru/su. Таким образом хотят подставить владельцев сайтов в зоне ru/su."
     },
     {
         "id": 3,
@@ -4094,5 +4286,29 @@
         "name": "Depositphotos",
         "commit_link": "depositphotos.com",
         "description": "Баннер в заголовке. Сам сервис https://ru.depositphotos.com/upscaler.html и загрузка фото пока работают"
+    },
+    {
+        "id": 604,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "political_slogans",
+        "name": "sindresorhus/Awesome",
+        "commit_link": "https://github.com/sindresorhus/awesome",
+        "description": "Каталог awesome - списков полезных ссылок по темам. Украинский флаг и призывы в Readme."
+    },
+    {
+        "id": 605,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "political_slogans",
+        "name": "PyText",
+        "commit_link": "https://github.com/facebookresearch/pytext/commit/a2faf473f7ba652d5aed5cd09c3a5297e9cce24e",
+        "description": "Очередной фейсбучный репозиторий, куда вставили политический баннер в readme"
+    },
+    {
+        "id": 606,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "political_slogans",
+        "name": "Wix",
+        "commit_link": "https://www.wix.com/stands-with-ukraine",
+        "description": "Призывают жертвовать для Украины"
     }
 ]

@@ -1,3 +1,33 @@
+#07.07.22
+[add]
++ sweetalert2/sweetalert2
++ Autodesk
++ NETSCOUT
++ upwork
++ Fiverr
++ Adobe
++ Sketch
++ Acronis
++ Veeam
++ themoviedb (TMDB)
++ Download Master
++ ANSYS
++ myPerfectCV
++ Crevils/InstaReport
++ Argisht44/android
++ NIRVANA101/Russian-GBSB
++ breakerspace/weaponizing-censors
++ D3pR4V3d/norussian
++ palahsu/DDoS-Ripper
++ erkexzcx/stoppropaganda
++ epsylon/ufonet
++ MHProDev/MHDDoS
++ cyberhubarchive
++ jamesdh/kompromat
++ sindresorhus/Awesome
++ PyText
++ Wix
+
 #28.06.22
 [add]
 + LiveCareer
