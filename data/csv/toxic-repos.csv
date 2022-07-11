@@ -313,6 +313,7 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 591,2022-07-07 08:41:00,ip_block,ANSYS,https://www.ansys.com/academic/students,"Блокировка всего студенческого софта от ANSYS
 Через впн - доступно"
 592,2022-07-07 08:41:00,ip_block,myPerfectCV,https://www.myperfectcv.co.uk,"Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
+607,2022-07-11 17:51:00,ip_block,Zety Resume Builder,https://builder.zety.com,Генератор резюме. Заблокировали доступ из РФ
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -591,3 +592,4 @@ The library EventSource displays political slogans on your site. To do this, it 
 604,2022-07-07 08:41:00,political_slogans,sindresorhus/Awesome,https://github.com/sindresorhus/awesome,Каталог awesome - списков полезных ссылок по темам. Украинский флаг и призывы в Readme.
 605,2022-07-07 08:41:00,political_slogans,PyText,https://github.com/facebookresearch/pytext/commit/a2faf473f7ba652d5aed5cd09c3a5297e9cce24e,"Очередной фейсбучный репозиторий, куда вставили политический баннер в readme"
 606,2022-07-07 08:41:00,political_slogans,Wix,https://www.wix.com/stands-with-ukraine,Призывают жертвовать для Украины
+608,2022-07-11 17:51:00,political_slogans,GHCup,https://gitlab.haskell.org/haskell/ghcup-hs/-/commit/2e08efeed7150ec355a8cf115cc5ea0ec7080ecf,GHCup - инсталлятор Haskell. На странице https://www.haskell.org/ghcup/ перекрасили шапку в цвета флага Украины.

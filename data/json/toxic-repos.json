@@ -2176,6 +2176,14 @@
         "description": "Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
     },
     {
+        "id": 607,
+        "datetime": "2022-07-11 17:51:00",
+        "problem_type": "ip_block",
+        "name": "Zety Resume Builder",
+        "commit_link": "https://builder.zety.com",
+        "description": "Генератор резюме. Заблокировали доступ из РФ"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -4310,5 +4318,13 @@
         "name": "Wix",
         "commit_link": "https://www.wix.com/stands-with-ukraine",
         "description": "Призывают жертвовать для Украины"
+    },
+    {
+        "id": 608,
+        "datetime": "2022-07-11 17:51:00",
+        "problem_type": "political_slogans",
+        "name": "GHCup",
+        "commit_link": "https://gitlab.haskell.org/haskell/ghcup-hs/-/commit/2e08efeed7150ec355a8cf115cc5ea0ec7080ecf",
+        "description": "GHCup - инсталлятор Haskell. На странице https://www.haskell.org/ghcup/ перекрасили шапку в цвета флага Украины."
     }
 ]

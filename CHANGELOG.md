@@ -1,3 +1,8 @@
+#11.07.22
+[add]
++ Zety Resume Builder
++ GHCup
+
 #07.07.22
 [add]
 + sweetalert2/sweetalert2
