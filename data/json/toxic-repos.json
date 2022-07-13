@@ -2184,6 +2184,14 @@
         "description": "Генератор резюме. Заблокировали доступ из РФ"
     },
     {
+        "id": 609,
+        "datetime": "2022-07-13 12:41:00",
+        "problem_type": "ip_block",
+        "name": " selfsignedcertificate",
+        "commit_link": "http://selfsignedcertificate.com/",
+        "description": "сайт генерации самоподписанных сертификатов закрыл доступ для российского сегмента интернета"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",

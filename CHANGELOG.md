@@ -1,3 +1,7 @@
+#13.07.22
+[add]
++ selfsignedcertificate
+
 #11.07.22
 [add]
 + Zety Resume Builder
