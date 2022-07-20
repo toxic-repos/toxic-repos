@@ -2192,6 +2192,38 @@
         "description": "сайт генерации самоподписанных сертификатов закрыл доступ для российского сегмента интернета"
     },
     {
+        "id": 610,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "ip_block",
+        "name": "WinZip",
+        "commit_link": "https://www.winzip.com/en/download/winzip/",
+        "description": "Страница открывается, но не дает скачать инсталлятор из РФ/Беларуси: Content is not available in your country/region."
+    },
+    {
+        "id": 611,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "ip_block",
+        "name": "OSZone",
+        "commit_link": "https://oszone.net",
+        "description": "При заходе с российского IP идёт переадресация на личный сайт автора - https://www.outsidethebox.ms/"
+    },
+    {
+        "id": 612,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "ip_block",
+        "name": "vagrant",
+        "commit_link": "https://vagrantcloud.com/generic/ubuntu2110",
+        "description": "блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку, установить плагины и тд."
+    },
+    {
+        "id": 613,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "ip_block",
+        "name": "Trainstation 2",
+        "commit_link": "https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896",
+        "description": "Ограничение доступа к игре для РФ по политическим соображениям."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -4334,5 +4366,45 @@
         "name": "GHCup",
         "commit_link": "https://gitlab.haskell.org/haskell/ghcup-hs/-/commit/2e08efeed7150ec355a8cf115cc5ea0ec7080ecf",
         "description": "GHCup - инсталлятор Haskell. На странице https://www.haskell.org/ghcup/ перекрасили шапку в цвета флага Украины."
+    },
+    {
+        "id": 614,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "political_slogans",
+        "name": "Trilium Notes",
+        "commit_link": "https://github.com/zadam/trilium/blob/master/README.md",
+        "description": "В README ссылка на сбор пожертвований для ВСУ"
+    },
+    {
+        "id": 615,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "political_slogans",
+        "name": "NoCoDB",
+        "commit_link": "https://github.com/nocodb/nocodb",
+        "description": "Зависит от es5-ext, смотрите описание проблемы с es5-ext"
+    },
+    {
+        "id": 616,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "political_slogans",
+        "name": "nestjs-pino",
+        "commit_link": "https://github.com/iamolegga/nestjs-pino/commit/246847e2bc77429a11a3ac38da6170c9ccc60c2c",
+        "description": "логгер для NestJS. Политические лозунги, сбор денег"
+    },
+    {
+        "id": 617,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "political_slogans",
+        "name": "SnowRunner",
+        "commit_link": "https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896?cid=243584895",
+        "description": "Заменили в игре названия российских машин на AZOV в честь нацбатальона."
+    },
+    {
+        "id": 618,
+        "datetime": "2022-07-20 12:06:00",
+        "problem_type": "political_slogans",
+        "name": "Poster POS",
+        "commit_link": "https://joinposter.com/",
+        "description": "Пользователей РФ переадресует на страницу с пропагандой. Поэтому доступ к сайту был заблокирован РКН."
     }
 ]

@@ -315,6 +315,10 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 592,2022-07-07 08:41:00,ip_block,myPerfectCV,https://www.myperfectcv.co.uk,"Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
 607,2022-07-11 17:51:00,ip_block,Zety Resume Builder,https://builder.zety.com,Генератор резюме. Заблокировали доступ из РФ
 609,2022-07-13 12:41:00,ip_block, selfsignedcertificate,http://selfsignedcertificate.com/,сайт генерации самоподписанных сертификатов закрыл доступ для российского сегмента интернета
+610,2022-07-20 12:06:00,ip_block,WinZip,https://www.winzip.com/en/download/winzip/,"Страница открывается, но не дает скачать инсталлятор из РФ/Беларуси: Content is not available in your country/region."
+611,2022-07-20 12:06:00,ip_block,OSZone,https://oszone.net,При заходе с российского IP идёт переадресация на личный сайт автора - https://www.outsidethebox.ms/
+612,2022-07-20 12:06:00,ip_block,vagrant,https://vagrantcloud.com/generic/ubuntu2110,"блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку, установить плагины и тд."
+613,2022-07-20 12:06:00,ip_block,Trainstation 2,https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896,Ограничение доступа к игре для РФ по политическим соображениям.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -594,3 +598,8 @@ The library EventSource displays political slogans on your site. To do this, it 
 605,2022-07-07 08:41:00,political_slogans,PyText,https://github.com/facebookresearch/pytext/commit/a2faf473f7ba652d5aed5cd09c3a5297e9cce24e,"Очередной фейсбучный репозиторий, куда вставили политический баннер в readme"
 606,2022-07-07 08:41:00,political_slogans,Wix,https://www.wix.com/stands-with-ukraine,Призывают жертвовать для Украины
 608,2022-07-11 17:51:00,political_slogans,GHCup,https://gitlab.haskell.org/haskell/ghcup-hs/-/commit/2e08efeed7150ec355a8cf115cc5ea0ec7080ecf,GHCup - инсталлятор Haskell. На странице https://www.haskell.org/ghcup/ перекрасили шапку в цвета флага Украины.
+614,2022-07-20 12:06:00,political_slogans,Trilium Notes,https://github.com/zadam/trilium/blob/master/README.md,В README ссылка на сбор пожертвований для ВСУ
+615,2022-07-20 12:06:00,political_slogans,NoCoDB,https://github.com/nocodb/nocodb,"Зависит от es5-ext, смотрите описание проблемы с es5-ext"
+616,2022-07-20 12:06:00,political_slogans,nestjs-pino,https://github.com/iamolegga/nestjs-pino/commit/246847e2bc77429a11a3ac38da6170c9ccc60c2c,"логгер для NestJS. Политические лозунги, сбор денег"
+617,2022-07-20 12:06:00,political_slogans,SnowRunner,https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896?cid=243584895,Заменили в игре названия российских машин на AZOV в честь нацбатальона.
+618,2022-07-20 12:06:00,political_slogans,Poster POS,https://joinposter.com/,Пользователей РФ переадресует на страницу с пропагандой. Поэтому доступ к сайту был заблокирован РКН.

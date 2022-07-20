@@ -1,3 +1,15 @@
+#20.07.22
+[add]
++ WinZip
++ OSZone
++ vagrant
++ Trainstation 2
++ Trilium Notes
++ NoCoDB
++ nestjs-pino
++ SnowRunner
++ Poster POS
+
 #13.07.22
 [add]
 + selfsignedcertificate
