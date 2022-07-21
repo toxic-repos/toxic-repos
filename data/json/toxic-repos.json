@@ -3552,14 +3552,6 @@
         "description": "Иконки перекрашены в цвета флага Украины"
     },
     {
-        "id": 328,
-        "datetime": "2022-04-02 10:36:34",
-        "problem_type": "political_slogans",
-        "name": "pastebin.com",
-        "commit_link": "https://pastebin.com",
-        "description": "Покрасили лого в цвета украинского флага"
-    },
-    {
         "id": 329,
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "political_slogans",
@@ -4406,5 +4398,13 @@
         "name": "Poster POS",
         "commit_link": "https://joinposter.com/",
         "description": "Пользователей РФ переадресует на страницу с пропагандой. Поэтому доступ к сайту был заблокирован РКН."
+    },
+    {
+        "id": 619,
+        "datetime": "2022-07-21 08:06:00",
+        "problem_type": "political_slogans",
+        "name": "Magic Enum",
+        "commit_link": "https://github.com/Neargye/magic_enum/commit/b2ac76235b2261305bdfe562eb5982c808d07e73",
+        "description": "Баннер \"Stand With Ukraine\""
     }
 ]

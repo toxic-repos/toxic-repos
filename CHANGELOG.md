@@ -1,3 +1,7 @@
+#21.07.22
+[add]
++ Magic Enum
+
 #20.07.22
 [add]
 + WinZip

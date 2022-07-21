@@ -486,7 +486,6 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 325,2022-04-02 10:36:34,political_slogans,Wagtail (CMS на Django),https://wagtail.org/,Баннер в поддержку Украины в шапке сайта
 326,2022-04-02 10:36:34,political_slogans,Vim,https://www.vim.org/,Перекрасили шапку сайта в цвета украинского флага
 327,2022-04-02 10:36:34,political_slogans,random-user-agent (расширение для браузера),https://github.com/tarampampam/random-user-agent/,Иконки перекрашены в цвета флага Украины
-328,2022-04-02 10:36:34,political_slogans,pastebin.com,https://pastebin.com,Покрасили лого в цвета украинского флага
 329,2022-04-02 10:36:34,political_slogans,MikTex,https://miktex.org/,Логотип на фоне флага украины со ссылкой на пожертвования украинским беженцам
 331,2022-04-02 10:36:34,political_slogans,Online-go.com,https://github.com/online-go/online-go.com,Логотип перекрашен в цвета флага Украины
 332,2022-04-02 10:36:34,political_slogans,Prometheus,https://prometheus.io/,Проукраинский баннер на титульной странице проекта
@@ -603,3 +602,4 @@ The library EventSource displays political slogans on your site. To do this, it 
 616,2022-07-20 12:06:00,political_slogans,nestjs-pino,https://github.com/iamolegga/nestjs-pino/commit/246847e2bc77429a11a3ac38da6170c9ccc60c2c,"логгер для NestJS. Политические лозунги, сбор денег"
 617,2022-07-20 12:06:00,political_slogans,SnowRunner,https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896?cid=243584895,Заменили в игре названия российских машин на AZOV в честь нацбатальона.
 618,2022-07-20 12:06:00,political_slogans,Poster POS,https://joinposter.com/,Пользователей РФ переадресует на страницу с пропагандой. Поэтому доступ к сайту был заблокирован РКН.
+619,2022-07-21 08:06:00,political_slogans,Magic Enum,https://github.com/Neargye/magic_enum/commit/b2ac76235b2261305bdfe562eb5982c808d07e73,"Баннер ""Stand With Ukraine"""
