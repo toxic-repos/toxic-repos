@@ -360,430 +360,6 @@
         "description": "ddos tool"
     },
     {
-        "id": 416,
-        "datetime": "2022-04-15 10:24:12",
-        "problem_type": "hostile_action",
-        "name": "wxwidgets cross platform gui library",
-        "commit_link": "https://www.wxwidgets.org/",
-        "description": "UA флаг на главной странице"
-    },
-    {
-        "id": 418,
-        "datetime": "2022-04-15 10:46:31",
-        "problem_type": "hostile_action",
-        "name": "Vintage programmable calculators",
-        "commit_link": "http://www.pisi.com.pl/piotr433/index.htm",
-        "description": "В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
-    },
-    {
-        "id": 425,
-        "datetime": "2022-04-18 12:38:00",
-        "problem_type": "hostile_action",
-        "name": "Udemy (онлайн курсы)",
-        "commit_link": "https://www.udemy.com/",
-        "description": "На главной странице: \"На данный момент мы не принимаем оплату новых регистраций на курсы от учащихся из России.\""
-    },
-    {
-        "id": 427,
-        "datetime": "2022-04-18 12:38:00",
-        "problem_type": "hostile_action",
-        "name": "pagerduty",
-        "commit_link": "https://www.pagerduty.com/blog/support-for-ukraine-company-statement",
-        "description": "пришло письмо об отмене оплаченной подписки с 19 мая"
-    },
-    {
-        "id": 429,
-        "datetime": "2022-04-18 12:38:00",
-        "problem_type": "hostile_action",
-        "name": "Weblium",
-        "commit_link": "weblium.com",
-        "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги, видео. Не пускает в админку сайта"
-    },
-    {
-        "id": 437,
-        "datetime": "2022-04-18 12:38:00",
-        "problem_type": "hostile_action",
-        "name": "Parallels",
-        "commit_link": "parallels.com",
-        "description": "Удалили русский перевод сайта. Пропаганда.\r\nhttps://imgbox.com/vIwZXDIO\r\nhttps://imgbox.com/ZJ11M8bf"
-    },
-    {
-        "id": 444,
-        "datetime": "2022-04-20 09:36:00",
-        "problem_type": "hostile_action",
-        "name": "Stripe",
-        "commit_link": "https://dashboard.stripe.com/register",
-        "description": "Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
-    },
-    {
-        "id": 446,
-        "datetime": "2022-04-20 09:36:00",
-        "problem_type": "hostile_action",
-        "name": "Archi",
-        "commit_link": "https://github.com/archimatetool/archi",
-        "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate,\r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
-    },
-    {
-        "id": 448,
-        "datetime": "2022-04-20 11:16:00",
-        "problem_type": "hostile_action",
-        "name": "CCleaner",
-        "commit_link": "https://www.ccleaner.com/ru-ru/ccleaner/download/standard",
-        "description": "При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m\r\nВозможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
-    },
-    {
-        "id": 449,
-        "datetime": "2022-04-20 11:16:00",
-        "problem_type": "hostile_action",
-        "name": "SAP",
-        "commit_link": "https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html",
-        "description": "Полностью выводят бизнес, который они вели здесь более 30 лет.\r\nПризывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
-    },
-    {
-        "id": 450,
-        "datetime": "2022-04-20 11:16:00",
-        "problem_type": "hostile_action",
-        "name": "SSL.com",
-        "commit_link": "ssl.com",
-        "description": "заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена"
-    },
-    {
-        "id": 452,
-        "datetime": "2022-04-21 09:37:00",
-        "problem_type": "hostile_action",
-        "name": "MaxMind GeoLite2",
-        "commit_link": "https://dev.maxmind.com/geoip/geolite2-free-geolocation-data",
-        "description": "Прислали письмо:\r\n\r\nDear GeoLite User,\r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
-    },
-    {
-        "id": 458,
-        "datetime": "2022-04-25 13:02:00",
-        "problem_type": "hostile_action",
-        "name": "YetiForce CRM",
-        "commit_link": "https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786",
-        "description": "Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ."
-    },
-    {
-        "id": 471,
-        "datetime": "2022-04-30 10:49:00",
-        "problem_type": "hostile_action",
-        "name": "letyshops",
-        "commit_link": "https://letyshops.com/ru",
-        "description": "при входе на сайт из России:\r\nНа данный момент, сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить, почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
-    },
-    {
-        "id": 474,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "SmartFix",
-        "commit_link": "https://smartfix.pro/",
-        "description": "Еще софт от Simplix - украинского автора \"Набор обновлений UpdatePack7R2\". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.\r\nЕсть вероятность деструктивных действий для российских пользователей по команде с сервера.\r\nДругие продукты автора - SmartMon и LightBackup."
-    },
-    {
-        "id": 475,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "TeamViewer",
-        "commit_link": "https://www.teamviewer.com/ru/",
-        "description": "Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.\r\n\"Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси\", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
-    },
-    {
-        "id": 476,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "DownDetector",
-        "commit_link": "https://downdetector.com/companies/",
-        "description": "Из сервиса Downdetector пропали российские платформы и компании https://habr.com/ru/news/t/663756/"
-    },
-    {
-        "id": 477,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Confluence",
-        "commit_link": "https://www.atlassian.com/",
-        "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia\""
-    },
-    {
-        "id": 481,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Hostinger",
-        "commit_link": "https://www.hostinger.com/",
-        "description": "Баннер и ссылка на сбор пожертвований для Украины. Прекратили принимать платежи из России. Не работает русскоязычная версия https://www.hostinger.ru/"
-    },
-    {
-        "id": 483,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Cisco",
-        "commit_link": "cisco.com",
-        "description": "9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access \"http://id.cisco.com/oauth2/default/v1/authorize?\" on this server."
-    },
-    {
-        "id": 484,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "VMware",
-        "commit_link": "vmware.com",
-        "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
-    },
-    {
-        "id": 485,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Web of Knowledge",
-        "commit_link": "http://www.webofknowledge.com/",
-        "description": "Web of Science https://en.wikipedia.org/wiki/Web_of_Science - paid platform that provides reference and citation data"
-    },
-    {
-        "id": 487,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "zerofix",
-        "commit_link": "https://gitlab.com/zerofix1/zerofix",
-        "description": "под предлогом улучшения производительности, продвигает ряд \"патчей\" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
-    },
-    {
-        "id": 491,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "eMule",
-        "commit_link": "https://www.emule-project.com",
-        "description": "Open-source P2P file sharing client. Вместо русской версии сайта надпись \"Война никогда не меняется\" и внизу ссылка на англ. сайт."
-    },
-    {
-        "id": 492,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "deadbeef player",
-        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
-        "description": "Удалили русский перевод из программы"
-    },
-    {
-        "id": 496,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Kingston",
-        "commit_link": "https://www.kingston.com/ru/company/press/article/65778",
-        "description": "Выводит на сайте плашку с заявлением по Украине. Утверждают, что \"In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia.\" https://pikabu.ru/story/kingston_vsyo_9078019"
-    },
-    {
-        "id": 497,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "Firefox",
-        "commit_link": "-",
-        "description": "Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
-    },
-    {
-        "id": 498,
-        "datetime": "2022-05-08 20:53:00",
-        "problem_type": "hostile_action",
-        "name": "DuckDuckGo",
-        "commit_link": "https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html",
-        "description": "Основатель \"приватного\" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают \"неправильную\" информацию. О чём заявил в твиттере: \"Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation.\" — Gabriel Weinberg (@yegg) March 10, 2022"
-    },
-    {
-        "id": 499,
-        "datetime": "2022-05-13 09:39:00",
-        "problem_type": "hostile_action",
-        "name": "audiophilesoft.ru",
-        "commit_link": "https://audiophilesoft.ru/",
-        "description": "Автор удалил все статьи со своего сайта, сейчас там заглушка с лозунгами"
-    },
-    {
-        "id": 512,
-        "datetime": "2022-05-13 09:39:00",
-        "problem_type": "hostile_action",
-        "name": "t.me/cybersecs",
-        "commit_link": "https://t.me/cybersecs",
-        "description": "Был канал просто по кибербезопасности, а стал токсичным"
-    },
-    {
-        "id": 513,
-        "datetime": "2022-05-16 09:34:00",
-        "problem_type": "hostile_action",
-        "name": "Wasabi Cloud Storage",
-        "commit_link": "https://wasabi.com/",
-        "description": "Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
-    },
-    {
-        "id": 515,
-        "datetime": "2022-05-16 09:34:00",
-        "problem_type": "hostile_action",
-        "name": "ESET",
-        "commit_link": "https://www.eset.com/int/ua-crisis/",
-        "description": "Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
-    },
-    {
-        "id": 518,
-        "datetime": "2022-05-16 09:34:00",
-        "problem_type": "hostile_action",
-        "name": "DeaDBeeF player",
-        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
-        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
-    },
-    {
-        "id": 521,
-        "datetime": "2022-05-17 10:51:00",
-        "problem_type": "hostile_action",
-        "name": "Redminer for Android",
-        "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
-        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
-    },
-    {
-        "id": 523,
-        "datetime": "2022-05-17 10:51:00",
-        "problem_type": "hostile_action",
-        "name": "GitHub Enterprise Server",
-        "commit_link": "https://github.com/github/site-policy/pull/556/files",
-        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
-    },
-    {
-        "id": 524,
-        "datetime": "2022-05-17 10:51:00",
-        "problem_type": "hostile_action",
-        "name": "Zabbix",
-        "commit_link": "https://www.zabbix.com/pr/pr389",
-        "description": "7 марта объявили о прекращении поддержки клиентов в РФ"
-    },
-    {
-        "id": 525,
-        "datetime": "2022-05-19 09:28:00",
-        "problem_type": "hostile_action",
-        "name": "Salesforce",
-        "commit_link": "https://www.salesforce.com/news/stories/standing-with-ukraine/",
-        "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
-    },
-    {
-        "id": 528,
-        "datetime": "2022-05-23 09:50:00",
-        "problem_type": "hostile_action",
-        "name": "IceRaven Browser",
-        "commit_link": "https://github.com/fork-maintainers/iceraven-browser",
-        "description": "Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
-    },
-    {
-        "id": 530,
-        "datetime": "2022-05-26 09:26:00",
-        "problem_type": "hostile_action",
-        "name": "Winbox (Snap пакет panaceya)",
-        "commit_link": "https://github.com/panaceya/winbox",
-        "description": "Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
-    },
-    {
-        "id": 578,
-        "datetime": "2022-06-28 14:47:00",
-        "problem_type": "hostile_action",
-        "name": "djinni",
-        "commit_link": "djinni.co",
-        "description": "заблокированы аккаунты из России, призывы переводить деньги и т. п."
-    },
-    {
-        "id": 579,
-        "datetime": "2022-06-28 20:48:00",
-        "problem_type": "hostile_action",
-        "name": "gperftools/gperftools",
-        "commit_link": "https://github.com/gperftools/gperftools/issues/1345",
-        "description": "Удалили поддержку e2k, но arm почему-то оставили."
-    },
-    {
-        "id": 581,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Autodesk",
-        "commit_link": "https://adsknews.autodesk.com/views/crisis-in-ukraine",
-        "description": "Autodesk is suspending our business in Russia"
-    },
-    {
-        "id": 582,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "NETSCOUT",
-        "commit_link": "https://www.netscout.com/blog/netscout-statement-about-ukraine",
-        "description": "stopped all sales, support, and services to Russian companies."
-    },
-    {
-        "id": 583,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "upwork",
-        "commit_link": "https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022",
-        "description": "Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
-    },
-    {
-        "id": 584,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Fiverr",
-        "commit_link": "https://blog.fiverr.com/post/fiverr-suspends-business-in-russia",
-        "description": "Fiverr Suspends Business in Russia"
-    },
-    {
-        "id": 585,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Adobe",
-        "commit_link": "adobe.com",
-        "description": "stopping all sales in Russia"
-    },
-    {
-        "id": 586,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Sketch",
-        "commit_link": "https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/",
-        "description": "stopping all sales in Russia"
-    },
-    {
-        "id": 587,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Acronis",
-        "commit_link": "https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/",
-        "description": "Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
-    },
-    {
-        "id": 588,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Veeam",
-        "commit_link": "https://www.veeam.com/blog/142834.html",
-        "description": "Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
-    },
-    {
-        "id": 593,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Crevils/InstaReport",
-        "commit_link": "https://github.com/Crevils/InstaReport",
-        "description": "script which reports targeted instagram accounts and instagram videos in bulk"
-    },
-    {
-        "id": 594,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "Argisht44/android",
-        "commit_link": "https://github.com/Argisht44/android",
-        "description": "СМС-спам, бомбер"
-    },
-    {
-        "id": 595,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "NIRVANA101/Russian-GBSB",
-        "commit_link": "https://github.com/NIRVANA101/Russian-GBSB",
-        "description": "Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
-    },
-    {
-        "id": 603,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "hostile_action",
-        "name": "jamesdh/kompromat",
-        "commit_link": "https://github.com/jamesdh/kompromat",
-        "description": "Бот для спама в отзывах на Яндекс.Картах"
-    },
-    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1166,6 +742,446 @@
         "name": "GitHub blog",
         "commit_link": "https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/",
         "description": "Перекрасили логотип в цвета украинского флага."
+    },
+    {
+        "id": 416,
+        "datetime": "2022-04-15 10:24:12",
+        "problem_type": "hostile_actions",
+        "name": "wxwidgets cross platform gui library",
+        "commit_link": "https://www.wxwidgets.org/",
+        "description": "UA флаг на главной странице"
+    },
+    {
+        "id": 418,
+        "datetime": "2022-04-15 10:46:31",
+        "problem_type": "hostile_actions",
+        "name": "Vintage programmable calculators",
+        "commit_link": "http://www.pisi.com.pl/piotr433/index.htm",
+        "description": "В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
+    },
+    {
+        "id": 425,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostile_actions",
+        "name": "Udemy (онлайн курсы)",
+        "commit_link": "https://www.udemy.com/",
+        "description": "На главной странице: \"На данный момент мы не принимаем оплату новых регистраций на курсы от учащихся из России.\""
+    },
+    {
+        "id": 427,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostile_actions",
+        "name": "pagerduty",
+        "commit_link": "https://www.pagerduty.com/blog/support-for-ukraine-company-statement",
+        "description": "пришло письмо об отмене оплаченной подписки с 19 мая"
+    },
+    {
+        "id": 429,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostile_actions",
+        "name": "Weblium",
+        "commit_link": "weblium.com",
+        "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги, видео. Не пускает в админку сайта"
+    },
+    {
+        "id": 437,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "hostile_actions",
+        "name": "Parallels",
+        "commit_link": "parallels.com",
+        "description": "Удалили русский перевод сайта. Пропаганда.\r\nhttps://imgbox.com/vIwZXDIO\r\nhttps://imgbox.com/ZJ11M8bf"
+    },
+    {
+        "id": 444,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "hostile_actions",
+        "name": "Stripe",
+        "commit_link": "https://dashboard.stripe.com/register",
+        "description": "Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
+    },
+    {
+        "id": 446,
+        "datetime": "2022-04-20 09:36:00",
+        "problem_type": "hostile_actions",
+        "name": "Archi",
+        "commit_link": "https://github.com/archimatetool/archi",
+        "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate,\r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
+    },
+    {
+        "id": 448,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostile_actions",
+        "name": "CCleaner",
+        "commit_link": "https://www.ccleaner.com/ru-ru/ccleaner/download/standard",
+        "description": "При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m\r\nВозможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
+    },
+    {
+        "id": 449,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostile_actions",
+        "name": "SAP",
+        "commit_link": "https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html",
+        "description": "Полностью выводят бизнес, который они вели здесь более 30 лет.\r\nПризывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
+    },
+    {
+        "id": 450,
+        "datetime": "2022-04-20 11:16:00",
+        "problem_type": "hostile_actions",
+        "name": "SSL.com",
+        "commit_link": "ssl.com",
+        "description": "заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена"
+    },
+    {
+        "id": 452,
+        "datetime": "2022-04-21 09:37:00",
+        "problem_type": "hostile_actions",
+        "name": "MaxMind GeoLite2",
+        "commit_link": "https://dev.maxmind.com/geoip/geolite2-free-geolocation-data",
+        "description": "Прислали письмо:\r\n\r\nDear GeoLite User,\r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
+    },
+    {
+        "id": 458,
+        "datetime": "2022-04-25 13:02:00",
+        "problem_type": "hostile_actions",
+        "name": "YetiForce CRM",
+        "commit_link": "https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786",
+        "description": "Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ."
+    },
+    {
+        "id": 471,
+        "datetime": "2022-04-30 10:49:00",
+        "problem_type": "hostile_actions",
+        "name": "letyshops",
+        "commit_link": "https://letyshops.com/ru",
+        "description": "при входе на сайт из России:\r\nНа данный момент, сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить, почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
+    },
+    {
+        "id": 474,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "SmartFix",
+        "commit_link": "https://smartfix.pro/",
+        "description": "Еще софт от Simplix - украинского автора \"Набор обновлений UpdatePack7R2\". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.\r\nЕсть вероятность деструктивных действий для российских пользователей по команде с сервера.\r\nДругие продукты автора - SmartMon и LightBackup."
+    },
+    {
+        "id": 475,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "TeamViewer",
+        "commit_link": "https://www.teamviewer.com/ru/",
+        "description": "Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.\r\n\"Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси\", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
+    },
+    {
+        "id": 476,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "DownDetector",
+        "commit_link": "https://downdetector.com/companies/",
+        "description": "Из сервиса Downdetector пропали российские платформы и компании https://habr.com/ru/news/t/663756/"
+    },
+    {
+        "id": 477,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Confluence",
+        "commit_link": "https://www.atlassian.com/",
+        "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia\""
+    },
+    {
+        "id": 481,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Hostinger",
+        "commit_link": "https://www.hostinger.com/",
+        "description": "Баннер и ссылка на сбор пожертвований для Украины. Прекратили принимать платежи из России. Не работает русскоязычная версия https://www.hostinger.ru/"
+    },
+    {
+        "id": 483,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Cisco",
+        "commit_link": "cisco.com",
+        "description": "9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access \"http://id.cisco.com/oauth2/default/v1/authorize?\" on this server."
+    },
+    {
+        "id": 484,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "VMware",
+        "commit_link": "vmware.com",
+        "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
+    },
+    {
+        "id": 485,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Web of Knowledge",
+        "commit_link": "http://www.webofknowledge.com/",
+        "description": "Web of Science https://en.wikipedia.org/wiki/Web_of_Science - paid platform that provides reference and citation data"
+    },
+    {
+        "id": 487,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "zerofix",
+        "commit_link": "https://gitlab.com/zerofix1/zerofix",
+        "description": "под предлогом улучшения производительности, продвигает ряд \"патчей\" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
+    },
+    {
+        "id": 491,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "eMule",
+        "commit_link": "https://www.emule-project.com",
+        "description": "Open-source P2P file sharing client. Вместо русской версии сайта надпись \"Война никогда не меняется\" и внизу ссылка на англ. сайт."
+    },
+    {
+        "id": 492,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "deadbeef player",
+        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
+        "description": "Удалили русский перевод из программы"
+    },
+    {
+        "id": 496,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Kingston",
+        "commit_link": "https://www.kingston.com/ru/company/press/article/65778",
+        "description": "Выводит на сайте плашку с заявлением по Украине. Утверждают, что \"In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia.\" https://pikabu.ru/story/kingston_vsyo_9078019"
+    },
+    {
+        "id": 497,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "Firefox",
+        "commit_link": "-",
+        "description": "Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
+    },
+    {
+        "id": 498,
+        "datetime": "2022-05-08 20:53:00",
+        "problem_type": "hostile_actions",
+        "name": "DuckDuckGo",
+        "commit_link": "https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html",
+        "description": "Основатель \"приватного\" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают \"неправильную\" информацию. О чём заявил в твиттере: \"Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation.\" — Gabriel Weinberg (@yegg) March 10, 2022"
+    },
+    {
+        "id": 499,
+        "datetime": "2022-05-13 09:39:00",
+        "problem_type": "hostile_actions",
+        "name": "audiophilesoft.ru",
+        "commit_link": "https://audiophilesoft.ru/",
+        "description": "Автор удалил все статьи со своего сайта, сейчас там заглушка с лозунгами"
+    },
+    {
+        "id": 512,
+        "datetime": "2022-05-13 09:39:00",
+        "problem_type": "hostile_actions",
+        "name": "t.me/cybersecs",
+        "commit_link": "https://t.me/cybersecs",
+        "description": "Был канал просто по кибербезопасности, а стал токсичным"
+    },
+    {
+        "id": 513,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_actions",
+        "name": "Wasabi Cloud Storage",
+        "commit_link": "https://wasabi.com/",
+        "description": "Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
+    },
+    {
+        "id": 515,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_actions",
+        "name": "ESET",
+        "commit_link": "https://www.eset.com/int/ua-crisis/",
+        "description": "Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
+    },
+    {
+        "id": 518,
+        "datetime": "2022-05-16 09:34:00",
+        "problem_type": "hostile_actions",
+        "name": "DeaDBeeF player",
+        "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
+        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
+    },
+    {
+        "id": 521,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_actions",
+        "name": "Redminer for Android",
+        "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
+        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+    },
+    {
+        "id": 523,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_actions",
+        "name": "GitHub Enterprise Server",
+        "commit_link": "https://github.com/github/site-policy/pull/556/files",
+        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
+    },
+    {
+        "id": 524,
+        "datetime": "2022-05-17 10:51:00",
+        "problem_type": "hostile_actions",
+        "name": "Zabbix",
+        "commit_link": "https://www.zabbix.com/pr/pr389",
+        "description": "7 марта объявили о прекращении поддержки клиентов в РФ"
+    },
+    {
+        "id": 525,
+        "datetime": "2022-05-19 09:28:00",
+        "problem_type": "hostile_actions",
+        "name": "Salesforce",
+        "commit_link": "https://www.salesforce.com/news/stories/standing-with-ukraine/",
+        "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+    },
+    {
+        "id": 528,
+        "datetime": "2022-05-23 09:50:00",
+        "problem_type": "hostile_actions",
+        "name": "IceRaven Browser",
+        "commit_link": "https://github.com/fork-maintainers/iceraven-browser",
+        "description": "Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
+    },
+    {
+        "id": 530,
+        "datetime": "2022-05-26 09:26:00",
+        "problem_type": "hostile_actions",
+        "name": "Winbox (Snap пакет panaceya)",
+        "commit_link": "https://github.com/panaceya/winbox",
+        "description": "Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
+    },
+    {
+        "id": 578,
+        "datetime": "2022-06-28 14:47:00",
+        "problem_type": "hostile_actions",
+        "name": "djinni",
+        "commit_link": "djinni.co",
+        "description": "заблокированы аккаунты из России, призывы переводить деньги и т. п."
+    },
+    {
+        "id": 579,
+        "datetime": "2022-06-28 20:48:00",
+        "problem_type": "hostile_actions",
+        "name": "gperftools/gperftools",
+        "commit_link": "https://github.com/gperftools/gperftools/issues/1345",
+        "description": "Удалили поддержку e2k, но arm почему-то оставили."
+    },
+    {
+        "id": 581,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Autodesk",
+        "commit_link": "https://adsknews.autodesk.com/views/crisis-in-ukraine",
+        "description": "Autodesk is suspending our business in Russia"
+    },
+    {
+        "id": 582,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "NETSCOUT",
+        "commit_link": "https://www.netscout.com/blog/netscout-statement-about-ukraine",
+        "description": "stopped all sales, support, and services to Russian companies."
+    },
+    {
+        "id": 583,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "upwork",
+        "commit_link": "https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022",
+        "description": "Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
+    },
+    {
+        "id": 584,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Fiverr",
+        "commit_link": "https://blog.fiverr.com/post/fiverr-suspends-business-in-russia",
+        "description": "Fiverr Suspends Business in Russia"
+    },
+    {
+        "id": 585,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Adobe",
+        "commit_link": "adobe.com",
+        "description": "stopping all sales in Russia"
+    },
+    {
+        "id": 586,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Sketch",
+        "commit_link": "https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/",
+        "description": "stopping all sales in Russia"
+    },
+    {
+        "id": 587,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Acronis",
+        "commit_link": "https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/",
+        "description": "Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
+    },
+    {
+        "id": 588,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Veeam",
+        "commit_link": "https://www.veeam.com/blog/142834.html",
+        "description": "Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
+    },
+    {
+        "id": 593,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Crevils/InstaReport",
+        "commit_link": "https://github.com/Crevils/InstaReport",
+        "description": "script which reports targeted instagram accounts and instagram videos in bulk"
+    },
+    {
+        "id": 594,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "Argisht44/android",
+        "commit_link": "https://github.com/Argisht44/android",
+        "description": "СМС-спам, бомбер"
+    },
+    {
+        "id": 595,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "NIRVANA101/Russian-GBSB",
+        "commit_link": "https://github.com/NIRVANA101/Russian-GBSB",
+        "description": "Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
+    },
+    {
+        "id": 603,
+        "datetime": "2022-07-07 08:41:00",
+        "problem_type": "hostile_actions",
+        "name": "jamesdh/kompromat",
+        "commit_link": "https://github.com/jamesdh/kompromat",
+        "description": "Бот для спама в отзывах на Яндекс.Картах"
+    },
+    {
+        "id": 624,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "hostile_actions",
+        "name": "trustpilot",
+        "commit_link": "https://www.trustpilot.com/review/yandex.ru",
+        "description": "Сервис отзывов. Запретили отзывы о российских сайтах."
+    },
+    {
+        "id": 625,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "hostile_actions",
+        "name": "VirtualBox",
+        "commit_link": "virtualbox.org",
+        "description": "При попытке входа в старый российский аккаунт (https://login.oracle.com/mysso/signon.jsp) пишет \"неверный логин/пароль\". При регистрации нового аккаунта через VPN нельзя выбрать Россию."
     },
     {
         "id": 57,
@@ -2222,6 +2238,54 @@
         "name": "Trainstation 2",
         "commit_link": "https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896",
         "description": "Ограничение доступа к игре для РФ по политическим соображениям."
+    },
+    {
+        "id": 620,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "Unscreen",
+        "commit_link": "unscreen.com",
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+    },
+    {
+        "id": 621,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "Remove image background",
+        "commit_link": "remove.bg",
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+    },
+    {
+        "id": 622,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "Designify",
+        "commit_link": "designify.com",
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+    },
+    {
+        "id": 623,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "Kaleido AI",
+        "commit_link": "https://www.kaleido.ai/ru-no-access",
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+    },
+    {
+        "id": 626,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "NetApp Community",
+        "commit_link": "https://community.netapp.com/",
+        "description": "Основной сайт доступен, но комьюнити забанили для РФ. Подробности https://servernews.ru/1061732"
+    },
+    {
+        "id": 627,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "ip_block",
+        "name": "QCAD",
+        "commit_link": "https://qcad.org/en/",
+        "description": "\"The Open Source CAD System For Everyone\". Видимо мы в \"everyone\" больше не входим.\r\nТак же заблокирован доступ к сайту производителя (RibbonSoft, GmbH):\r\nhttps://www.ribbonsoft.com"
     },
     {
         "id": 1,
@@ -4406,5 +4470,61 @@
         "name": "Magic Enum",
         "commit_link": "https://github.com/Neargye/magic_enum/commit/b2ac76235b2261305bdfe562eb5982c808d07e73",
         "description": "Баннер \"Stand With Ukraine\""
+    },
+    {
+        "id": 628,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "facebook/chisel",
+        "commit_link": "https://github.com/facebook/chisel",
+        "description": "плашка \"Support Ukraine\" в README"
+    },
+    {
+        "id": 629,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "nedbat/coveragepy",
+        "commit_link": "https://github.com/nedbat/coveragepy",
+        "description": "Баннер в поддержку Украины в README"
+    },
+    {
+        "id": 630,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "Hack language",
+        "commit_link": "https://hacklang.org/",
+        "description": "Hack is an object-oriented programming language for building reliable websites at epic scale. Ссылка на сбор пожертвований для Украины."
+    },
+    {
+        "id": 631,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "namecheap",
+        "commit_link": "https://www.namecheap.com/",
+        "description": "Баннер для сбора пожертвований для Украины"
+    },
+    {
+        "id": 632,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "cex.io",
+        "commit_link": "cex.io",
+        "description": "Криптобиржа. Сбор пожертвований для Украины"
+    },
+    {
+        "id": 633,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "Downie 4 (macOS)",
+        "commit_link": "software.charliemonroe.net/downie/",
+        "description": "Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг, если у вас русская локаль. Сейчас можно отключить в настройках."
+    },
+    {
+        "id": 634,
+        "datetime": "2022-08-08 14:00:00",
+        "problem_type": "political_slogans",
+        "name": "bestwebsoft",
+        "commit_link": "https://bestwebsoft.com/ ",
+        "description": "плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
     }
 ]

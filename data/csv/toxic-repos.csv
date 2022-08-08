@@ -44,83 +44,6 @@ id,datetime,problem_type,name,commit_link,description
 600,2022-07-07 08:41:00,ddos,epsylon/ufonet,https://github.com/epsylon/ufonet,ddos tool
 601,2022-07-07 08:41:00,ddos,MHProDev/MHDDoS,https://github.com/MHProDev/MHDDoS,ddos tool
 602,2022-07-07 08:41:00,ddos,cyberhubarchive,https://github.com/cyberhubarchive/archive,ddos tool
-416,2022-04-15 10:24:12,hostile_action,wxwidgets cross platform gui library,https://www.wxwidgets.org/,UA флаг на главной странице
-418,2022-04-15 10:46:31,hostile_action,Vintage programmable calculators,http://www.pisi.com.pl/piotr433/index.htm,"В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
-425,2022-04-18 12:38:00,hostile_action,Udemy (онлайн курсы),https://www.udemy.com/,"На главной странице: ""На данный момент мы не принимаем оплату новых регистраций на курсы от учащихся из России."""
-427,2022-04-18 12:38:00,hostile_action,pagerduty,https://www.pagerduty.com/blog/support-for-ukraine-company-statement,пришло письмо об отмене оплаченной подписки с 19 мая
-429,2022-04-18 12:38:00,hostile_action,Weblium,weblium.com,"Сообщение ""Weblium приостанавливает все новые продажи продуктов и услуг в России"". Политические лозунги, видео. Не пускает в админку сайта"
-437,2022-04-18 12:38:00,hostile_action,Parallels,parallels.com,"Удалили русский перевод сайта. Пропаганда.
-https://imgbox.com/vIwZXDIO
-https://imgbox.com/ZJ11M8bf"
-444,2022-04-20 09:36:00,hostile_action,Stripe,https://dashboard.stripe.com/register,"Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
-446,2022-04-20 09:36:00,hostile_action,Archi,https://github.com/archimatetool/archi,"Archi - opensource продукт для создания моделей и эскизов ArchiMate,
-используется корпоративными архитекторами повсеместно.
-На сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
-448,2022-04-20 11:16:00,hostile_action,CCleaner,https://www.ccleaner.com/ru-ru/ccleaner/download/standard,"При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m
-Возможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
-449,2022-04-20 11:16:00,hostile_action,SAP,https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html,"Полностью выводят бизнес, который они вели здесь более 30 лет.
-Призывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
-450,2022-04-20 11:16:00,hostile_action,SSL.com,ssl.com,заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена
-452,2022-04-21 09:37:00,hostile_action,MaxMind GeoLite2,https://dev.maxmind.com/geoip/geolite2-free-geolocation-data,"Прислали письмо:
-
-Dear GeoLite User,
-
-In order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.
-
-Your account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
-458,2022-04-25 13:02:00,hostile_action,YetiForce CRM,https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786,Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ.
-471,2022-04-30 10:49:00,hostile_action,letyshops,https://letyshops.com/ru,"при входе на сайт из России:
-На данный момент, сервис недоступен в этом регионе
-В вашем аккаунте указан регион РФ.
-Если это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru
-Вывести кэшбэк на благотворительность
-Пришло время пояснить, почему вы не можете пользоваться сервисом.
-Я - украинец. Живу в Украине. И у нас война. и т.д."
-474,2022-05-08 20:53:00,hostile_action,SmartFix,https://smartfix.pro/,"Еще софт от Simplix - украинского автора ""Набор обновлений UpdatePack7R2"". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.
-Есть вероятность деструктивных действий для российских пользователей по команде с сервера.
-Другие продукты автора - SmartMon и LightBackup."
-475,2022-05-08 20:53:00,hostile_action,TeamViewer,https://www.teamviewer.com/ru/,"Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.
-""Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси"", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
-476,2022-05-08 20:53:00,hostile_action,DownDetector,https://downdetector.com/companies/,Из сервиса Downdetector пропали российские платформы и компании https://habr.com/ru/news/t/663756/
-477,2022-05-08 20:53:00,hostile_action,Confluence,https://www.atlassian.com/,"Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:
-""We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia"""
-481,2022-05-08 20:53:00,hostile_action,Hostinger,https://www.hostinger.com/,Баннер и ссылка на сбор пожертвований для Украины. Прекратили принимать платежи из России. Не работает русскоязычная версия https://www.hostinger.ru/
-483,2022-05-08 20:53:00,hostile_action,Cisco,cisco.com,"9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access ""http://id.cisco.com/oauth2/default/v1/authorize?"" on this server."
-484,2022-05-08 20:53:00,hostile_action,VMware,vmware.com,"Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:
-
-The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
-485,2022-05-08 20:53:00,hostile_action,Web of Knowledge,http://www.webofknowledge.com/,Web of Science https://en.wikipedia.org/wiki/Web_of_Science - paid platform that provides reference and citation data
-487,2022-05-08 20:53:00,hostile_action,zerofix,https://gitlab.com/zerofix1/zerofix,"под предлогом улучшения производительности, продвигает ряд ""патчей"" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
-491,2022-05-08 20:53:00,hostile_action,eMule,https://www.emule-project.com,"Open-source P2P file sharing client. Вместо русской версии сайта надпись ""Война никогда не меняется"" и внизу ссылка на англ. сайт."
-492,2022-05-08 20:53:00,hostile_action,deadbeef player,https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732,Удалили русский перевод из программы
-496,2022-05-08 20:53:00,hostile_action,Kingston,https://www.kingston.com/ru/company/press/article/65778,"Выводит на сайте плашку с заявлением по Украине. Утверждают, что ""In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia."" https://pikabu.ru/story/kingston_vsyo_9078019"
-497,2022-05-08 20:53:00,hostile_action,Firefox,-,"Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
-498,2022-05-08 20:53:00,hostile_action,DuckDuckGo,https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html,"Основатель ""приватного"" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают ""неправильную"" информацию. О чём заявил в твиттере: ""Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation."" — Gabriel Weinberg (@yegg) March 10, 2022"
-499,2022-05-13 09:39:00,hostile_action,audiophilesoft.ru,https://audiophilesoft.ru/,"Автор удалил все статьи со своего сайта, сейчас там заглушка с лозунгами"
-512,2022-05-13 09:39:00,hostile_action,t.me/cybersecs,https://t.me/cybersecs,"Был канал просто по кибербезопасности, а стал токсичным"
-513,2022-05-16 09:34:00,hostile_action,Wasabi Cloud Storage,https://wasabi.com/,"Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
-515,2022-05-16 09:34:00,hostile_action,ESET,https://www.eset.com/int/ua-crisis/,"Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
-518,2022-05-16 09:34:00,hostile_action,DeaDBeeF player,https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732,"Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
-521,2022-05-17 10:51:00,hostile_action,Redminer for Android,https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US,"Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
-523,2022-05-17 10:51:00,hostile_action,GitHub Enterprise Server,https://github.com/github/site-policy/pull/556/files,"30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим ""только чтение""."
-524,2022-05-17 10:51:00,hostile_action,Zabbix,https://www.zabbix.com/pr/pr389,7 марта объявили о прекращении поддержки клиентов в РФ
-525,2022-05-19 09:28:00,hostile_action,Salesforce,https://www.salesforce.com/news/stories/standing-with-ukraine/,"Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
-528,2022-05-23 09:50:00,hostile_action,IceRaven Browser,https://github.com/fork-maintainers/iceraven-browser,"Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
-530,2022-05-26 09:26:00,hostile_action,Winbox (Snap пакет panaceya),https://github.com/panaceya/winbox,"Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
-578,2022-06-28 14:47:00,hostile_action,djinni,djinni.co,"заблокированы аккаунты из России, призывы переводить деньги и т. п."
-579,2022-06-28 20:48:00,hostile_action,gperftools/gperftools,https://github.com/gperftools/gperftools/issues/1345,"Удалили поддержку e2k, но arm почему-то оставили."
-581,2022-07-07 08:41:00,hostile_action,Autodesk,https://adsknews.autodesk.com/views/crisis-in-ukraine,Autodesk is suspending our business in Russia
-582,2022-07-07 08:41:00,hostile_action,NETSCOUT,https://www.netscout.com/blog/netscout-statement-about-ukraine,"stopped all sales, support, and services to Russian companies."
-583,2022-07-07 08:41:00,hostile_action,upwork,https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022,"Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
-584,2022-07-07 08:41:00,hostile_action,Fiverr,https://blog.fiverr.com/post/fiverr-suspends-business-in-russia,Fiverr Suspends Business in Russia
-585,2022-07-07 08:41:00,hostile_action,Adobe,adobe.com,stopping all sales in Russia
-586,2022-07-07 08:41:00,hostile_action,Sketch,https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/,stopping all sales in Russia
-587,2022-07-07 08:41:00,hostile_action,Acronis,https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/,"Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
-588,2022-07-07 08:41:00,hostile_action,Veeam,https://www.veeam.com/blog/142834.html,"Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
-593,2022-07-07 08:41:00,hostile_action,Crevils/InstaReport,https://github.com/Crevils/InstaReport,script which reports targeted instagram accounts and instagram videos in bulk
-594,2022-07-07 08:41:00,hostile_action,Argisht44/android,https://github.com/Argisht44/android,"СМС-спам, бомбер"
-595,2022-07-07 08:41:00,hostile_action,NIRVANA101/Russian-GBSB,https://github.com/NIRVANA101/Russian-GBSB,"Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
-603,2022-07-07 08:41:00,hostile_action,jamesdh/kompromat,https://github.com/jamesdh/kompromat,Бот для спама в отзывах на Яндекс.Картах
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -169,6 +92,85 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 407,2022-04-11 10:28:33,hostile_actions,iFixit,https://ru.ifixit.com/,Перекрасили логотип в цвета украинского флага.
 408,2022-04-11 10:28:33,hostile_actions,softportal.com,https://www.softportal.com/img/green/head/sp_lenta2.jpg,добавили синюю и желтую ленточки
 412,2022-04-13 14:17:54,hostile_actions,GitHub blog,https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/,Перекрасили логотип в цвета украинского флага.
+416,2022-04-15 10:24:12,hostile_actions,wxwidgets cross platform gui library,https://www.wxwidgets.org/,UA флаг на главной странице
+418,2022-04-15 10:46:31,hostile_actions,Vintage programmable calculators,http://www.pisi.com.pl/piotr433/index.htm,"В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
+425,2022-04-18 12:38:00,hostile_actions,Udemy (онлайн курсы),https://www.udemy.com/,"На главной странице: ""На данный момент мы не принимаем оплату новых регистраций на курсы от учащихся из России."""
+427,2022-04-18 12:38:00,hostile_actions,pagerduty,https://www.pagerduty.com/blog/support-for-ukraine-company-statement,пришло письмо об отмене оплаченной подписки с 19 мая
+429,2022-04-18 12:38:00,hostile_actions,Weblium,weblium.com,"Сообщение ""Weblium приостанавливает все новые продажи продуктов и услуг в России"". Политические лозунги, видео. Не пускает в админку сайта"
+437,2022-04-18 12:38:00,hostile_actions,Parallels,parallels.com,"Удалили русский перевод сайта. Пропаганда.
+https://imgbox.com/vIwZXDIO
+https://imgbox.com/ZJ11M8bf"
+444,2022-04-20 09:36:00,hostile_actions,Stripe,https://dashboard.stripe.com/register,"Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
+446,2022-04-20 09:36:00,hostile_actions,Archi,https://github.com/archimatetool/archi,"Archi - opensource продукт для создания моделей и эскизов ArchiMate,
+используется корпоративными архитекторами повсеместно.
+На сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
+448,2022-04-20 11:16:00,hostile_actions,CCleaner,https://www.ccleaner.com/ru-ru/ccleaner/download/standard,"При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m
+Возможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
+449,2022-04-20 11:16:00,hostile_actions,SAP,https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html,"Полностью выводят бизнес, который они вели здесь более 30 лет.
+Призывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
+450,2022-04-20 11:16:00,hostile_actions,SSL.com,ssl.com,заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена
+452,2022-04-21 09:37:00,hostile_actions,MaxMind GeoLite2,https://dev.maxmind.com/geoip/geolite2-free-geolocation-data,"Прислали письмо:
+
+Dear GeoLite User,
+
+In order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.
+
+Your account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
+458,2022-04-25 13:02:00,hostile_actions,YetiForce CRM,https://github.com/YetiForceCompany/YetiForceCRM/discussions/15786,Дали на халяву все платные фичи компаниям из Украины. Обещали в последующих обновлениях (версии выше 6.3) запретить использование компаниям из РФ.
+471,2022-04-30 10:49:00,hostile_actions,letyshops,https://letyshops.com/ru,"при входе на сайт из России:
+На данный момент, сервис недоступен в этом регионе
+В вашем аккаунте указан регион РФ.
+Если это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru
+Вывести кэшбэк на благотворительность
+Пришло время пояснить, почему вы не можете пользоваться сервисом.
+Я - украинец. Живу в Украине. И у нас война. и т.д."
+474,2022-05-08 20:53:00,hostile_actions,SmartFix,https://smartfix.pro/,"Еще софт от Simplix - украинского автора ""Набор обновлений UpdatePack7R2"". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.
+Есть вероятность деструктивных действий для российских пользователей по команде с сервера.
+Другие продукты автора - SmartMon и LightBackup."
+475,2022-05-08 20:53:00,hostile_actions,TeamViewer,https://www.teamviewer.com/ru/,"Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.
+""Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси"", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
+476,2022-05-08 20:53:00,hostile_actions,DownDetector,https://downdetector.com/companies/,Из сервиса Downdetector пропали российские платформы и компании https://habr.com/ru/news/t/663756/
+477,2022-05-08 20:53:00,hostile_actions,Confluence,https://www.atlassian.com/,"Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:
+""We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia"""
+481,2022-05-08 20:53:00,hostile_actions,Hostinger,https://www.hostinger.com/,Баннер и ссылка на сбор пожертвований для Украины. Прекратили принимать платежи из России. Не работает русскоязычная версия https://www.hostinger.ru/
+483,2022-05-08 20:53:00,hostile_actions,Cisco,cisco.com,"9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access ""http://id.cisco.com/oauth2/default/v1/authorize?"" on this server."
+484,2022-05-08 20:53:00,hostile_actions,VMware,vmware.com,"Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:
+
+The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
+485,2022-05-08 20:53:00,hostile_actions,Web of Knowledge,http://www.webofknowledge.com/,Web of Science https://en.wikipedia.org/wiki/Web_of_Science - paid platform that provides reference and citation data
+487,2022-05-08 20:53:00,hostile_actions,zerofix,https://gitlab.com/zerofix1/zerofix,"под предлогом улучшения производительности, продвигает ряд ""патчей"" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
+491,2022-05-08 20:53:00,hostile_actions,eMule,https://www.emule-project.com,"Open-source P2P file sharing client. Вместо русской версии сайта надпись ""Война никогда не меняется"" и внизу ссылка на англ. сайт."
+492,2022-05-08 20:53:00,hostile_actions,deadbeef player,https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732,Удалили русский перевод из программы
+496,2022-05-08 20:53:00,hostile_actions,Kingston,https://www.kingston.com/ru/company/press/article/65778,"Выводит на сайте плашку с заявлением по Украине. Утверждают, что ""In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia."" https://pikabu.ru/story/kingston_vsyo_9078019"
+497,2022-05-08 20:53:00,hostile_actions,Firefox,-,"Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
+498,2022-05-08 20:53:00,hostile_actions,DuckDuckGo,https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html,"Основатель ""приватного"" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают ""неправильную"" информацию. О чём заявил в твиттере: ""Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation."" — Gabriel Weinberg (@yegg) March 10, 2022"
+499,2022-05-13 09:39:00,hostile_actions,audiophilesoft.ru,https://audiophilesoft.ru/,"Автор удалил все статьи со своего сайта, сейчас там заглушка с лозунгами"
+512,2022-05-13 09:39:00,hostile_actions,t.me/cybersecs,https://t.me/cybersecs,"Был канал просто по кибербезопасности, а стал токсичным"
+513,2022-05-16 09:34:00,hostile_actions,Wasabi Cloud Storage,https://wasabi.com/,"Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
+515,2022-05-16 09:34:00,hostile_actions,ESET,https://www.eset.com/int/ua-crisis/,"Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
+518,2022-05-16 09:34:00,hostile_actions,DeaDBeeF player,https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732,"Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
+521,2022-05-17 10:51:00,hostile_actions,Redminer for Android,https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US,"Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+523,2022-05-17 10:51:00,hostile_actions,GitHub Enterprise Server,https://github.com/github/site-policy/pull/556/files,"30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим ""только чтение""."
+524,2022-05-17 10:51:00,hostile_actions,Zabbix,https://www.zabbix.com/pr/pr389,7 марта объявили о прекращении поддержки клиентов в РФ
+525,2022-05-19 09:28:00,hostile_actions,Salesforce,https://www.salesforce.com/news/stories/standing-with-ukraine/,"Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+528,2022-05-23 09:50:00,hostile_actions,IceRaven Browser,https://github.com/fork-maintainers/iceraven-browser,"Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
+530,2022-05-26 09:26:00,hostile_actions,Winbox (Snap пакет panaceya),https://github.com/panaceya/winbox,"Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
+578,2022-06-28 14:47:00,hostile_actions,djinni,djinni.co,"заблокированы аккаунты из России, призывы переводить деньги и т. п."
+579,2022-06-28 20:48:00,hostile_actions,gperftools/gperftools,https://github.com/gperftools/gperftools/issues/1345,"Удалили поддержку e2k, но arm почему-то оставили."
+581,2022-07-07 08:41:00,hostile_actions,Autodesk,https://adsknews.autodesk.com/views/crisis-in-ukraine,Autodesk is suspending our business in Russia
+582,2022-07-07 08:41:00,hostile_actions,NETSCOUT,https://www.netscout.com/blog/netscout-statement-about-ukraine,"stopped all sales, support, and services to Russian companies."
+583,2022-07-07 08:41:00,hostile_actions,upwork,https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022,"Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
+584,2022-07-07 08:41:00,hostile_actions,Fiverr,https://blog.fiverr.com/post/fiverr-suspends-business-in-russia,Fiverr Suspends Business in Russia
+585,2022-07-07 08:41:00,hostile_actions,Adobe,adobe.com,stopping all sales in Russia
+586,2022-07-07 08:41:00,hostile_actions,Sketch,https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/,stopping all sales in Russia
+587,2022-07-07 08:41:00,hostile_actions,Acronis,https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/,"Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
+588,2022-07-07 08:41:00,hostile_actions,Veeam,https://www.veeam.com/blog/142834.html,"Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
+593,2022-07-07 08:41:00,hostile_actions,Crevils/InstaReport,https://github.com/Crevils/InstaReport,script which reports targeted instagram accounts and instagram videos in bulk
+594,2022-07-07 08:41:00,hostile_actions,Argisht44/android,https://github.com/Argisht44/android,"СМС-спам, бомбер"
+595,2022-07-07 08:41:00,hostile_actions,NIRVANA101/Russian-GBSB,https://github.com/NIRVANA101/Russian-GBSB,"Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
+603,2022-07-07 08:41:00,hostile_actions,jamesdh/kompromat,https://github.com/jamesdh/kompromat,Бот для спама в отзывах на Яндекс.Картах
+624,2022-08-08 14:00:00,hostile_actions,trustpilot,https://www.trustpilot.com/review/yandex.ru,Сервис отзывов. Запретили отзывы о российских сайтах.
+625,2022-08-08 14:00:00,hostile_actions,VirtualBox,virtualbox.org,"При попытке входа в старый российский аккаунт (https://login.oracle.com/mysso/signon.jsp) пишет ""неверный логин/пароль"". При регистрации нового аккаунта через VPN нельзя выбрать Россию."
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -319,6 +321,14 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 611,2022-07-20 12:06:00,ip_block,OSZone,https://oszone.net,При заходе с российского IP идёт переадресация на личный сайт автора - https://www.outsidethebox.ms/
 612,2022-07-20 12:06:00,ip_block,vagrant,https://vagrantcloud.com/generic/ubuntu2110,"блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку, установить плагины и тд."
 613,2022-07-20 12:06:00,ip_block,Trainstation 2,https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896,Ограничение доступа к игре для РФ по политическим соображениям.
+620,2022-08-08 14:00:00,ip_block,Unscreen,unscreen.com,"Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+621,2022-08-08 14:00:00,ip_block,Remove image background,remove.bg,"Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+622,2022-08-08 14:00:00,ip_block,Designify,designify.com,"Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+623,2022-08-08 14:00:00,ip_block,Kaleido AI,https://www.kaleido.ai/ru-no-access,"Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+626,2022-08-08 14:00:00,ip_block,NetApp Community,https://community.netapp.com/,"Основной сайт доступен, но комьюнити забанили для РФ. Подробности https://servernews.ru/1061732"
+627,2022-08-08 14:00:00,ip_block,QCAD,https://qcad.org/en/,"""The Open Source CAD System For Everyone"". Видимо мы в ""everyone"" больше не входим.
+Так же заблокирован доступ к сайту производителя (RibbonSoft, GmbH):
+https://www.ribbonsoft.com"
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -603,3 +613,10 @@ The library EventSource displays political slogans on your site. To do this, it 
 617,2022-07-20 12:06:00,political_slogans,SnowRunner,https://pikabu.ru/story/reshil_paru_dney_nazad_poigrat_v_igru_9284896?cid=243584895,Заменили в игре названия российских машин на AZOV в честь нацбатальона.
 618,2022-07-20 12:06:00,political_slogans,Poster POS,https://joinposter.com/,Пользователей РФ переадресует на страницу с пропагандой. Поэтому доступ к сайту был заблокирован РКН.
 619,2022-07-21 08:06:00,political_slogans,Magic Enum,https://github.com/Neargye/magic_enum/commit/b2ac76235b2261305bdfe562eb5982c808d07e73,"Баннер ""Stand With Ukraine"""
+628,2022-08-08 14:00:00,political_slogans,facebook/chisel,https://github.com/facebook/chisel,"плашка ""Support Ukraine"" в README"
+629,2022-08-08 14:00:00,political_slogans,nedbat/coveragepy,https://github.com/nedbat/coveragepy,Баннер в поддержку Украины в README
+630,2022-08-08 14:00:00,political_slogans,Hack language,https://hacklang.org/,Hack is an object-oriented programming language for building reliable websites at epic scale. Ссылка на сбор пожертвований для Украины.
+631,2022-08-08 14:00:00,political_slogans,namecheap,https://www.namecheap.com/,Баннер для сбора пожертвований для Украины
+632,2022-08-08 14:00:00,political_slogans,cex.io,cex.io,Криптобиржа. Сбор пожертвований для Украины
+633,2022-08-08 14:00:00,political_slogans,Downie 4 (macOS),software.charliemonroe.net/downie/,"Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг, если у вас русская локаль. Сейчас можно отключить в настройках."
+634,2022-08-08 14:00:00,political_slogans,bestwebsoft,https://bestwebsoft.com/ ,"плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."

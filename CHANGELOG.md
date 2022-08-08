@@ -1,3 +1,21 @@
+#08.08.22
+[add]
++ Unscreen
++ Remove image background
++ Designify
++ Kaleido AI
++ trustpilot
++ VirtualBox
++ NetApp Community
++ QCAD
++ facebook/chisel
++ nedbat/coveragepy
++ Hack language
++ namecheap
++ cex.io
++ Downie 4 (macOS)
++ bestwebsoft
+
 #21.07.22
 [add]
 + Magic Enum
