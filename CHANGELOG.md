@@ -1,3 +1,10 @@
+#17.08.22
+[add]
++ Disc Makers
++ Случайный User-Agent (browser extension)
++ Custom firmware for Nindendo 3DS
++ AdBlockPlus (browser extension)
+
 #08.08.22
 [add]
 + Unscreen

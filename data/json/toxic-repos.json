@@ -2288,6 +2288,14 @@
         "description": "\"The Open Source CAD System For Everyone\". Видимо мы в \"everyone\" больше не входим.\r\nТак же заблокирован доступ к сайту производителя (RibbonSoft, GmbH):\r\nhttps://www.ribbonsoft.com"
     },
     {
+        "id": 635,
+        "datetime": "2022-08-17 13:11:00",
+        "problem_type": "ip_block",
+        "name": "Disc Makers",
+        "commit_link": "discmakers.com",
+        "description": "О компании: Компания, специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD, наклейки для аудио-кассет).\r\n\r\nБлокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -4526,5 +4534,29 @@
         "name": "bestwebsoft",
         "commit_link": "https://bestwebsoft.com/ ",
         "description": "плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
+    },
+    {
+        "id": 636,
+        "datetime": "2022-08-17 13:11:00",
+        "problem_type": "political_slogans",
+        "name": "Случайный User-Agent (browser extension)",
+        "commit_link": "https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90",
+        "description": "Расширение браузера https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp/related?hl=ru логотип перекрашен в цвета флага Украины."
+    },
+    {
+        "id": 637,
+        "datetime": "2022-08-17 13:11:00",
+        "problem_type": "political_slogans",
+        "name": "Custom firmware for Nindendo 3DS",
+        "commit_link": "https://github.com/rashevskyv/3ds",
+        "description": "на сайте JS/CSS-вставка с украинской пропагандой"
+    },
+    {
+        "id": 638,
+        "datetime": "2022-08-17 13:11:00",
+        "problem_type": "political_slogans",
+        "name": "AdBlockPlus (browser extension)",
+        "commit_link": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/",
+        "description": "ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/\r\nТ.е. ABP заменяет чужую \"неприемлемую\" рекламу, на проплаченную \"приемлемую\". Среди \"приемлемой\" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
     }
 ]

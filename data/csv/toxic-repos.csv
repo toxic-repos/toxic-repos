@@ -329,6 +329,9 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 627,2022-08-08 14:00:00,ip_block,QCAD,https://qcad.org/en/,"""The Open Source CAD System For Everyone"". Видимо мы в ""everyone"" больше не входим.
 Так же заблокирован доступ к сайту производителя (RibbonSoft, GmbH):
 https://www.ribbonsoft.com"
+635,2022-08-17 13:11:00,ip_block,Disc Makers,discmakers.com,"О компании: Компания, специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD, наклейки для аудио-кассет).
+
+Блокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -620,3 +623,7 @@ The library EventSource displays political slogans on your site. To do this, it 
 632,2022-08-08 14:00:00,political_slogans,cex.io,cex.io,Криптобиржа. Сбор пожертвований для Украины
 633,2022-08-08 14:00:00,political_slogans,Downie 4 (macOS),software.charliemonroe.net/downie/,"Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг, если у вас русская локаль. Сейчас можно отключить в настройках."
 634,2022-08-08 14:00:00,political_slogans,bestwebsoft,https://bestwebsoft.com/ ,"плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
+636,2022-08-17 13:11:00,political_slogans,Случайный User-Agent (browser extension),https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,Расширение браузера https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp/related?hl=ru логотип перекрашен в цвета флага Украины.
+637,2022-08-17 13:11:00,political_slogans,Custom firmware for Nindendo 3DS,https://github.com/rashevskyv/3ds,на сайте JS/CSS-вставка с украинской пропагандой
+638,2022-08-17 13:11:00,political_slogans,AdBlockPlus (browser extension),https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/,"ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/
+Т.е. ABP заменяет чужую ""неприемлемую"" рекламу, на проплаченную ""приемлемую"". Среди ""приемлемой"" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
