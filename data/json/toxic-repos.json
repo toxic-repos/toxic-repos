@@ -1184,6 +1184,38 @@
         "description": "При попытке входа в старый российский аккаунт (https://login.oracle.com/mysso/signon.jsp) пишет \"неверный логин/пароль\". При регистрации нового аккаунта через VPN нельзя выбрать Россию."
     },
     {
+        "id": 639,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "hybridauth/hybridauth",
+        "commit_link": "https://github.com/hybridauth/hybridauth/releases/tag/v3.8.2",
+        "description": "Удалили авторизацию через российских провайдеров: ВК, ОК, Яндекс, Mail.ru. Лозунги."
+    },
+    {
+        "id": 640,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "JetBrains",
+        "commit_link": "https://www.fontanka.ru/2022/08/19/71584787/",
+        "description": "JetBrains полностью закрывает подразделения в РФ. Компания вывезла часть сотрудников зарубеж и продала свои офисы. Еще в марте 2022г прекратили продажи лицензий в РФ и РБ."
+    },
+    {
+        "id": 642,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "mongodb",
+        "commit_link": "https://www.mongodb.com/",
+        "description": "Перестали блокировать доступ к сайту. Но по прежнему блокируют вход/регистрацию аккаунтов из РФ. Поэтому невозможно пользоваться Atlas."
+    },
+    {
+        "id": 643,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "Grub2Win",
+        "commit_link": "https://sourceforge.net/projects/grub2win/files/",
+        "description": "Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том, что из-за СВО на Украине для России \"лицензия отозвана\". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это \"зашито\" в серверную часть, так как при запуске без интернета сообщения нет, а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик, так что это иностранный сочувствующий."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2294,6 +2326,14 @@
         "name": "Disc Makers",
         "commit_link": "discmakers.com",
         "description": "О компании: Компания, специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD, наклейки для аудио-кассет).\r\n\r\nБлокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
+    },
+    {
+        "id": 641,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Underline Js",
+        "commit_link": "http://underlinejs.org/",
+        "description": "библиотека для создания подчёркиваний на JS. При переходе на страницу проекта пишет: \"country not allowed\""
     },
     {
         "id": 1,
@@ -4558,5 +4598,21 @@
         "name": "AdBlockPlus (browser extension)",
         "commit_link": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/",
         "description": "ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/\r\nТ.е. ABP заменяет чужую \"неприемлемую\" рекламу, на проплаченную \"приемлемую\". Среди \"приемлемой\" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
+    },
+    {
+        "id": 644,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "FBSearch",
+        "commit_link": "http://fbsearch.ru",
+        "description": "Сервис литературного поиска. Политическое видео на поисковой странице. Дискредитация писателей с иным мнением. Пруф: https://ibb.co/1J3BCWB"
+    },
+    {
+        "id": 645,
+        "datetime": "2022-08-24 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "ngrx/platform",
+        "commit_link": "https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts",
+        "description": "Политический лозунг"
     }
 ]

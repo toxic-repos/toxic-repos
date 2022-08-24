@@ -1,3 +1,13 @@
+#24.08.22
+[add]
++ hybridauth/hybridauth
++ JetBrains
++ Underline Js
++ mongodb
++ Grub2Win
++ FBSearch
++ ngrx/platform
+
 #17.08.22
 [add]
 + Disc Makers
