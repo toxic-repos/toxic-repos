@@ -4615,4 +4615,12 @@
         "commit_link": "https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts",
         "description": "Политический лозунг"
     }
+        {
+        "id": 646,
+        "datetime": "2022-08-12 23:59:00",
+        "problem_type": "political_slogans",
+        "name": "immerjs/immer",
+        "commit_link": "https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a",
+        "description": "Баннер в поддержку Украины"
+    }
 ]
