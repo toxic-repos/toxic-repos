@@ -25,6 +25,9 @@ $toxic_app $mol_book2_catalog
 			hint @ \E-Mail
 			sub /
 				<= Mail_icon $mol_icon_email
+	link_content* /
+		<= spread_title*
+		<= Spread_count* $mol_view sub / <= spread_count* 0
 	plugins /
 		<= Theme $mol_theme_auto
 	spreads *

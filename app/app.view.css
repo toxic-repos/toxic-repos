@@ -6,6 +6,10 @@
 	flex: 0 0 18rem;
 }
 
+[toxic_app_link] {
+	justify-content: space-between;
+}
+
 [toxic_app_issues_page] {
 	flex: 0 0 60rem;
 }

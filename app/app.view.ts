@@ -18,10 +18,17 @@ namespace $.$$ {
 			return this.type_name()[ id ] ?? id
 		}
 		
+		@ $mol_mem_key
+		spread_count( type: string ) {
+			let data = this.data_all()
+			if( type ) data = data.filter( item => item.problem_type === type )
+			return data.length
+		}
+		
 		@ $mol_mem
 		data_all() {
 			const json = this.$.$mol_fetch.json( 'toxic/data/json/toxic-repos.json' )
-			return Data( json )
+			return Data( json as any )
 		}
 		
 		@ $mol_mem
