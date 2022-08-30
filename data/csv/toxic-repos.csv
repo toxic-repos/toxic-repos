@@ -634,3 +634,4 @@ The library EventSource displays political slogans on your site. To do this, it 
 Т.е. ABP заменяет чужую ""неприемлемую"" рекламу, на проплаченную ""приемлемую"". Среди ""приемлемой"" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
 644,2022-08-24 09:10:00,political_slogans,FBSearch,http://fbsearch.ru,Сервис литературного поиска. Политическое видео на поисковой странице. Дискредитация писателей с иным мнением. Пруф: https://ibb.co/1J3BCWB
 645,2022-08-24 09:10:00,political_slogans,ngrx/platform,https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts,Политический лозунг
+646,2022-08-30 10:01:01,political_slogans,immerjs/immer,https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a
