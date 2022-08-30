@@ -1,3 +1,138 @@
+#24.08.22
+[add]
++ hybridauth/hybridauth
++ JetBrains
++ Underline Js
++ mongodb
++ Grub2Win
++ FBSearch
++ ngrx/platform
+
+#17.08.22
+[add]
++ Disc Makers
++ Случайный User-Agent (browser extension)
++ Custom firmware for Nindendo 3DS
++ AdBlockPlus (browser extension)
+
+#08.08.22
+[add]
++ Unscreen
++ Remove image background
++ Designify
++ Kaleido AI
++ trustpilot
++ VirtualBox
++ NetApp Community
++ QCAD
++ facebook/chisel
++ nedbat/coveragepy
++ Hack language
++ namecheap
++ cex.io
++ Downie 4 (macOS)
++ bestwebsoft
+
+#21.07.22
+[add]
++ Magic Enum
+
+#20.07.22
+[add]
++ WinZip
++ OSZone
++ vagrant
++ Trainstation 2
++ Trilium Notes
++ NoCoDB
++ nestjs-pino
++ SnowRunner
++ Poster POS
+
+#13.07.22
+[add]
++ selfsignedcertificate
+
+#11.07.22
+[add]
++ Zety Resume Builder
++ GHCup
+
+#07.07.22
+[add]
++ sweetalert2/sweetalert2
++ Autodesk
++ NETSCOUT
++ upwork
++ Fiverr
++ Adobe
++ Sketch
++ Acronis
++ Veeam
++ themoviedb (TMDB)
++ Download Master
++ ANSYS
++ myPerfectCV
++ Crevils/InstaReport
++ Argisht44/android
++ NIRVANA101/Russian-GBSB
++ breakerspace/weaponizing-censors
++ D3pR4V3d/norussian
++ palahsu/DDoS-Ripper
++ erkexzcx/stoppropaganda
++ epsylon/ufonet
++ MHProDev/MHDDoS
++ cyberhubarchive
++ jamesdh/kompromat
++ sindresorhus/Awesome
++ PyText
++ Wix
+
+#28.06.22
+[add]
++ LiveCareer
++ 3DMark
++ GTMetrix
++ Gofile
++ ArduinoJSON
++ PlatformIO
++ Depositphotos
++ djinni
++ gperftools/gperftools
+
+#21.06.22
+[add]
++ cgtrader
++ Microsoft
++ jtx Board
++ devart
+
+#17.06.22
+[add]
++ Syncthing
++ Kerkythea
++ UserSide
++ Canva
++ Canardoux/flutter_sound
++ Thonny IDE for Python
++ World Air Quality Index
++ kaleido
++ Sysdig
+
+# 12.06.22
+[add]
++ TestComplete
++ Cobian Backup
++ SpeedTest
++ NI LabView
++ qBitTorrent forum
++ Bareos
++ Лурк
++ Remi's RPM repository
+
+[delete]
+- ScienceDirect
+
 # 31.05.22
 [add]
 + MongoDB
