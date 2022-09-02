@@ -5,6 +5,7 @@
 + Lossless Scaling
 + Octopus Deploy
 + exler
++ immerjs/immer
 
 #24.08.22
 [add]

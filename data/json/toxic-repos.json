@@ -4654,5 +4654,13 @@
         "name": "exler",
         "commit_link": "exler.ru",
         "description": "Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"
+    },
+    {
+        "id": 651,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "political_slogans",
+        "name": "immerjs/immer",
+        "commit_link": "https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a",
+        "description": "Баннер в поддержку Украины"
     }
 ]
