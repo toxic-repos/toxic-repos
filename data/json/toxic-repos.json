@@ -1216,6 +1216,22 @@
         "description": "Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том, что из-за СВО на Украине для России \"лицензия отозвана\". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это \"зашито\" в серверную часть, так как при запуске без интернета сообщения нет, а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик, так что это иностранный сочувствующий."
     },
     {
+        "id": 646,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "hostile_actions",
+        "name": "Seagate",
+        "commit_link": "https://www.seagate.com/",
+        "description": "на сайте Seagate убрали выбор русского языка, хотя страница https://www.seagate.com/ru/ru/ всё еще доступна"
+    },
+    {
+        "id": 649,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "hostile_actions",
+        "name": "Octopus Deploy",
+        "commit_link": "https://octopus.com/",
+        "description": "Отказываются продлевать лицензию компаниям с российским происхождением."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2334,6 +2350,22 @@
         "name": "Underline Js",
         "commit_link": "http://underlinejs.org/",
         "description": "библиотека для создания подчёркиваний на JS. При переходе на страницу проекта пишет: \"country not allowed\""
+    },
+    {
+        "id": 647,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "ip_block",
+        "name": "WeTransfer",
+        "commit_link": "wetransfer.com",
+        "description": "Сервис для отправки больших файлов. Заблокировали доступ из РФ и РБ."
+    },
+    {
+        "id": 648,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "ip_block",
+        "name": "Lossless Scaling",
+        "commit_link": "https://steamdb.info/app/993090/history/?changeid=14397307",
+        "description": "1 апреля 2022 года убрали русский перевод в своей программе и сделали ее недоступной для России. https://store.steampowered.com/app/993090"
     },
     {
         "id": 1,
@@ -4614,5 +4646,13 @@
         "name": "ngrx/platform",
         "commit_link": "https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts",
         "description": "Политический лозунг"
+    },
+    {
+        "id": 650,
+        "datetime": "2022-09-02 11:05:00",
+        "problem_type": "political_slogans",
+        "name": "exler",
+        "commit_link": "exler.ru",
+        "description": "Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"
     }
 ]

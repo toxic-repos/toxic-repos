@@ -175,6 +175,8 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 640,2022-08-24 09:10:00,hostile_actions,JetBrains,https://www.fontanka.ru/2022/08/19/71584787/,JetBrains полностью закрывает подразделения в РФ. Компания вывезла часть сотрудников зарубеж и продала свои офисы. Еще в марте 2022г прекратили продажи лицензий в РФ и РБ.
 642,2022-08-24 09:10:00,hostile_actions,mongodb,https://www.mongodb.com/,Перестали блокировать доступ к сайту. Но по прежнему блокируют вход/регистрацию аккаунтов из РФ. Поэтому невозможно пользоваться Atlas.
 643,2022-08-24 09:10:00,hostile_actions,Grub2Win,https://sourceforge.net/projects/grub2win/files/,"Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том, что из-за СВО на Украине для России ""лицензия отозвана"". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это ""зашито"" в серверную часть, так как при запуске без интернета сообщения нет, а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик, так что это иностранный сочувствующий."
+646,2022-09-02 11:05:00,hostile_actions,Seagate,https://www.seagate.com/,"на сайте Seagate убрали выбор русского языка, хотя страница https://www.seagate.com/ru/ru/ всё еще доступна"
+649,2022-09-02 11:05:00,hostile_actions,Octopus Deploy,https://octopus.com/,Отказываются продлевать лицензию компаниям с российским происхождением.
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -337,6 +339,8 @@ https://www.ribbonsoft.com"
 
 Блокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
 641,2022-08-24 09:10:00,ip_block,Underline Js,http://underlinejs.org/,"библиотека для создания подчёркиваний на JS. При переходе на страницу проекта пишет: ""country not allowed"""
+647,2022-09-02 11:05:00,ip_block,WeTransfer,wetransfer.com,Сервис для отправки больших файлов. Заблокировали доступ из РФ и РБ.
+648,2022-09-02 11:05:00,ip_block,Lossless Scaling,https://steamdb.info/app/993090/history/?changeid=14397307,1 апреля 2022 года убрали русский перевод в своей программе и сделали ее недоступной для России. https://store.steampowered.com/app/993090
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -634,3 +638,4 @@ The library EventSource displays political slogans on your site. To do this, it 
 Т.е. ABP заменяет чужую ""неприемлемую"" рекламу, на проплаченную ""приемлемую"". Среди ""приемлемой"" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
 644,2022-08-24 09:10:00,political_slogans,FBSearch,http://fbsearch.ru,Сервис литературного поиска. Политическое видео на поисковой странице. Дискредитация писателей с иным мнением. Пруф: https://ibb.co/1J3BCWB
 645,2022-08-24 09:10:00,political_slogans,ngrx/platform,https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts,Политический лозунг
+650,2022-09-02 11:05:00,political_slogans,exler,exler.ru,"Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"

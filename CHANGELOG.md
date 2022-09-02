@@ -1,3 +1,11 @@
+#02.09.22
+[add]
++ Seagate
++ WeTransfer
++ Lossless Scaling
++ Octopus Deploy
++ exler
+
 #24.08.22
 [add]
 + hybridauth/hybridauth
