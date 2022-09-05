@@ -44,6 +44,7 @@ id,datetime,problem_type,name,commit_link,description
 600,2022-07-07 08:41:00,ddos,epsylon/ufonet,https://github.com/epsylon/ufonet,ddos tool
 601,2022-07-07 08:41:00,ddos,MHProDev/MHDDoS,https://github.com/MHProDev/MHDDoS,ddos tool
 602,2022-07-07 08:41:00,ddos,cyberhubarchive,https://github.com/cyberhubarchive/archive,ddos tool
+655,2022-09-05 09:28:00,ddos,NewEXE/ua-help,https://github.com/NewEXE/ua-help,"Украинец Vlad Voloshyn из Харькова сделал сайт http://belsk.pp.ua для помощи студентам Белгородского строительного колледжа. На этом же сайте разместил ссылку на другой свой сайт https://github.com/NewEXE/ua-help, где опубликовал призывы остановить войну и инструкцию для DDoS атак на госучереждения РФ."
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -60,7 +61,6 @@ id,datetime,problem_type,name,commit_link,description
 86,2022-03-29 15:48:48,hostile_actions,GitHub,нет,Пришло сегодня письмо от гитхаба: Thank you for your patience during this process. After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be ab
 88,2022-03-29 15:48:48,hostile_actions,1password,https://blog.1password.com/responding-to-the-conflict-in-ukraine/,"Нельзя зарегать новый аккаунт из России, нельзя продлить подписку"
 91,2022-03-29 15:48:48,hostile_actions,Wowza,https://www.wowza.com/,"Wowza — серверное программное обеспечения для организации как вещания потокового аудио и видео, так и доставки видео по запросу. Отозвало лицензии, в связи с чем вещание прекратилось. Ищите замену"
-94,2022-03-29 15:48:48,hostile_actions,Mongodb Atlas,https://www.securitylab.ru/news/530550.php,"Был неприятный инцидент с Mongodb Atlas. Да, это не круто и это многим не нравится. Но это не опенсорсная монга, она на основе опен-сорс"
 159,2022-03-29 15:48:48,hostile_actions,emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni,https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55,"Ресурсы для сбора разведданных и аналитики - геолокация, парсинг ресурсов, и т.п."
 164,2022-03-29 15:48:48,hostile_actions,danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English,https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab,"Страница для координации хакерских атак на инфраструктуру РФ, ссылки на прикладное ПО для атак, цели и адреса групп координирующих хакерские атаки"
 166,2022-03-29 15:48:48,hostile_actions,a2435191/ukraine-war-map-twitter-bot,https://github.com/a2435191/ukraine-war-map-twitter-bot/commit/7c8c5fcd1478f5dcf61f76cc754c34e6de2682e1,Бот для ведения пропаганды в твиттере
@@ -177,6 +177,8 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 643,2022-08-24 09:10:00,hostile_actions,Grub2Win,https://sourceforge.net/projects/grub2win/files/,"Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том, что из-за СВО на Украине для России ""лицензия отозвана"". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это ""зашито"" в серверную часть, так как при запуске без интернета сообщения нет, а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик, так что это иностранный сочувствующий."
 646,2022-09-02 11:05:00,hostile_actions,Seagate,https://www.seagate.com/,"на сайте Seagate убрали выбор русского языка, хотя страница https://www.seagate.com/ru/ru/ всё еще доступна"
 649,2022-09-02 11:05:00,hostile_actions,Octopus Deploy,https://octopus.com/,Отказываются продлевать лицензию компаниям с российским происхождением.
+652,2022-09-05 09:28:00,hostile_actions,Mongodb Atlas,https://www.mongodb.com/atlas/database,MongoDB уничтожит все данные аккаунтов РФ/РБ в облачном сервисе Atlas. https://www.securitylab.ru/news/530550.php
+654,2022-09-05 09:28:00,hostile_actions,Autodesk,https://www.autodesk.com,"AutoCAD и прочее. Сайт https://www.autodesk.ru/ отключен. Московское представительство закрывается, российских сотрудников уволят. Подробнее https://www.cnews.ru/news/top/2022-08-18_autodesk_vserossijskie_sotrudniki"
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -233,7 +235,6 @@ https://github.com/Cisco-Talos/clamav/issues/500"
 319,2022-04-02 10:36:34,ip_block,A Cloud Guru,https://acloudguru.com/,"Портал с обучением по IT тематике. Сам портал доступен, но при попытке авторизации в личный кабинет с российского IP пишут ""SORRY, THIS SITE IS NOT AVAILABLE IN YOUR AREA."" Техподдержка подтвердила блокировку, но если зайти через европейский VPN, то все ра"
 320,2022-04-02 10:36:34,ip_block,Atlassian Jira,https://www.atlassian.com/ru/software/jira,"Не работает скачивание плагинов с российских IP. Сайт доступен, но при попытке скачать показывать сообщение в поддержку Украины и о приостановке продаж в РФ"
 321,2022-04-02 10:36:34,ip_block,EmBitz,Embitz.org,"Не совсем опенсорс. Бан по IP и по локали, на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE, на easyelectronics уже сумели это обойти."
-322,2022-04-02 10:36:34,ip_block,Downlod Master,https://westbyte.com/,"При заходе с российского IP высвечивает ""403 Forbidden"""
 323,2022-04-02 10:36:34,ip_block,vertica,https://www.vertica.com/,Block reason: Access from your Country was disabled by the administrator.
 352,2022-04-08 11:06:54,ip_block,AVG AntiVirus Free Edition,http://bits.avcdn.net,Заблокирован доступ для скачивания антивируса
 353,2022-04-08 11:06:54,ip_block,O&O ShutUp10,https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe,Заблокирован доступ к серверу для скачивания утилиты для деактивации некоторых функций Windows 10/11
@@ -289,14 +290,12 @@ Russian cyber operations have targeted Ukraine with destabilization efforts for 
 
 All organizations find themselves potential targets for cyber attacks as Russia responds to sanctions imposed on Russia for violating international law. According to the governments and intelligence agencies from around the world, “Russia maintains a range of offensive cyber tools that it could employ against global networks—from low-level denials-of-service to destructive attacks targeting critical infrastructure.”
 https://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
-540,2022-05-31 09:54:00,ip_block,MongoDB,https://www.mongodb.com/,Блокировка доступа к сайту с российских IP. ошибка 403
 541,2022-05-31 09:54:00,ip_block,"Studio 3T, Robo 3T",https://studio3t.com/download-thank-you/,Блокировка скачивания с российских IP
 542,2022-05-31 09:54:00,ip_block,Weather Underground,https://www.wunderground.com/,Блокируются российские IP.
 543,2022-05-31 09:54:00,ip_block,Cisco Webex,https://habr.com/ru/news/t/668110/,26 мая 2022 года сервис вебинаров и веб-конференций Cisco Webex прекратил обслуживать клиентов из РФ
 544,2022-05-31 09:54:00,ip_block,Microsoft Dynamics 365 Community,https://community.dynamics.com/,Блокировка доступа с российских IP. Ошибка Access denied
 550,2022-06-12 09:05:00,ip_block,TestComplete,https://smartbear.com/,Популярное ПО для тестирования. Заблокирован доступ к сайту из РФ
 551,2022-06-12 09:05:00,ip_block,Cobian Backup,https://www.cobiansoft.com/cobianbackup.html,Заблокирован доступ к ссылкам на скачивание продуктов Cobian. С VPN работает.
-552,2022-06-12 09:05:00,ip_block,SpeedTest,http://speedtest.com/,Измерение скорости интернет-соединения. Доступ к сайту заблокирован с российских IP
 553,2022-06-12 09:05:00,ip_block,NI LabView,https://www.ni.com/ru-ru/support/downloads/software-products/download.labview.html#443865,NI заблокировал скачивание LabView для российский ip-адресов
 554,2022-06-12 09:05:00,ip_block,qBitTorrent forum,https://forum.qbittorrent.org,"forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
 558,2022-06-17 12:58:00,ip_block,Syncthing,syncthing.net,"File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137), connection timed out
@@ -322,7 +321,6 @@ SERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOU
 Через впн - доступно"
 592,2022-07-07 08:41:00,ip_block,myPerfectCV,https://www.myperfectcv.co.uk,"Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
 607,2022-07-11 17:51:00,ip_block,Zety Resume Builder,https://builder.zety.com,Генератор резюме. Заблокировали доступ из РФ
-609,2022-07-13 12:41:00,ip_block, selfsignedcertificate,http://selfsignedcertificate.com/,сайт генерации самоподписанных сертификатов закрыл доступ для российского сегмента интернета
 610,2022-07-20 12:06:00,ip_block,WinZip,https://www.winzip.com/en/download/winzip/,"Страница открывается, но не дает скачать инсталлятор из РФ/Беларуси: Content is not available in your country/region."
 611,2022-07-20 12:06:00,ip_block,OSZone,https://oszone.net,При заходе с российского IP идёт переадресация на личный сайт автора - https://www.outsidethebox.ms/
 612,2022-07-20 12:06:00,ip_block,vagrant,https://vagrantcloud.com/generic/ubuntu2110,"блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку, установить плагины и тд."
@@ -341,6 +339,7 @@ https://www.ribbonsoft.com"
 641,2022-08-24 09:10:00,ip_block,Underline Js,http://underlinejs.org/,"библиотека для создания подчёркиваний на JS. При переходе на страницу проекта пишет: ""country not allowed"""
 647,2022-09-02 11:05:00,ip_block,WeTransfer,wetransfer.com,Сервис для отправки больших файлов. Заблокировали доступ из РФ и РБ.
 648,2022-09-02 11:05:00,ip_block,Lossless Scaling,https://steamdb.info/app/993090/history/?changeid=14397307,1 апреля 2022 года убрали русский перевод в своей программе и сделали ее недоступной для России. https://store.steampowered.com/app/993090
+653,2022-09-05 09:28:00,ip_block,pixabay,https://pixabay.com/,Бесплатные стоковые фото. Сайт не открывается из РФ
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -359,7 +358,6 @@ https://www.ribbonsoft.com"
 100,2022-03-29 15:48:48,political_slogans,MicrosoftDocs/azure-docs,https://github.com/MicrosoftDocs/azure-docs,В статьях перед справкой появляется #StopRussianWar
 101,2022-03-29 15:48:48,political_slogans,styled-components,https://github.com/styled-components,"после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
 103,2022-03-29 15:48:48,political_slogans,postfixadmin,https://github.com/postfixadmin/postfixadmin.git,Политический баннер #StandWithUkraine
-107,2022-03-29 15:48:48,political_slogans,MacUpdate,https://www.macupdate.com,Баннер на сайте в поддержку Украины.
 108,2022-03-29 15:48:48,political_slogans,PlantUML,https://plantuml.com/ru/,"Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
 110,2022-03-29 15:48:48,political_slogans,Locust,https://github.com/locustio/locust/commit/38fb94d4c39db07a2f984b6b1a6c944a4e489d7f,Added Support Ukraine badge to README.md
 111,2022-03-29 15:48:48,political_slogans,Целый список wordpress плагинов,https://docs.google.com/document/d/1CusIWpZVO5TrQNLMWwT7URMiEfIR6y3K45GGWTBEOZU/edit?usp=sharing,Как минимум один из них собирает донаты на военную компанию https://plugins.trac.wordpress.org/browser/stand-with-ukraine/trunk/stand-with-ukraine.php#L26
@@ -397,7 +395,6 @@ https://www.ribbonsoft.com"
 146,2022-03-29 15:48:48,political_slogans,Refactoring.Guru,https://refactoring.guru/ru/help-ukraine,"Призывы спонсировать украинских военных и волонтеров, гуманитарные благотворительные организации."
 147,2022-03-29 15:48:48,political_slogans,Notepad++,https://notepad-plus-plus.org/news/v833-make-apps-not-war/,Политические лозунги на сайте. Есть опасение что последние версии продукта могут их содержать.
 148,2022-03-29 15:48:48,political_slogans,Isomorphic Authorization JavaScript library,https://github.com/stalniy/casl/commit/b13c3de252b8412079b4030ff73309d65713c8d2,"Политический баннер ""Stop war in Ukraine. All truth about Russia invasion"""
-149,2022-03-29 15:48:48,political_slogans,Расширение Random User-Agent,https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,так то вроде ничего серьёзного. перекрасили лого в известные цвета.
 150,2022-03-29 15:48:48,political_slogans,The unarchiver (macOS App Store),https://imgur.com/a/q5DGKxG,"Если не нажать кнопку, то разархивировать не будет, но только раз. При следующем запуске не возникает"
 151,2022-03-29 15:48:48,political_slogans,ratatype.ru,https://www.ratatype.ru/,https://www.ratatype.ru/
 152,2022-03-29 15:48:48,political_slogans,FreePBX,ОТСУТСТВУЕТ,При обновлении каждую 5 команду выдает сообщение с призывом остановить РФ
@@ -469,7 +466,6 @@ https://www.ribbonsoft.com"
 234,2022-03-29 15:48:48,political_slogans,Return youtube dislike api,https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf,Добавление на главную страницу украинского флага и ссылки на сайт для поддержки украинской армии; + интересная строка в комментарии одного из разработчиков (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/
 235,2022-03-29 15:48:48,political_slogans,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949,см. условия использования в конце readme
 236,2022-03-29 15:48:48,political_slogans,react-native-ui-lib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Политический баннер #StandWithUkraine
-239,2022-03-29 15:48:48,political_slogans,Autodesk AutoCAD,https://www.autodesk.ru/,Лозунги
 240,2022-03-29 15:48:48,political_slogans,Pnpn менеджер пакетов,https://github.com/pnpm/pnpm,"Вредительства не замечено, но сайт с доками блочит ру айпи"
 241,2022-03-29 15:48:48,political_slogans,Svelte Material UI,https://github.com/hperrin/svelte-material-ui,на их официальрном сайте https://sveltematerialui.com/ висит плашка с лозунгом
 242,2022-03-29 15:48:48,political_slogans,filestash,https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d,С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали
@@ -507,7 +503,6 @@ https://www.ribbonsoft.com"
 324,2022-04-02 10:36:34,political_slogans,Angular,https://angular.io/,Добавли баннер в шапку сайта
 325,2022-04-02 10:36:34,political_slogans,Wagtail (CMS на Django),https://wagtail.org/,Баннер в поддержку Украины в шапке сайта
 326,2022-04-02 10:36:34,political_slogans,Vim,https://www.vim.org/,Перекрасили шапку сайта в цвета украинского флага
-327,2022-04-02 10:36:34,political_slogans,random-user-agent (расширение для браузера),https://github.com/tarampampam/random-user-agent/,Иконки перекрашены в цвета флага Украины
 329,2022-04-02 10:36:34,political_slogans,MikTex,https://miktex.org/,Логотип на фоне флага украины со ссылкой на пожертвования украинским беженцам
 331,2022-04-02 10:36:34,political_slogans,Online-go.com,https://github.com/online-go/online-go.com,Логотип перекрашен в цвета флага Украины
 332,2022-04-02 10:36:34,political_slogans,Prometheus,https://prometheus.io/,Проукраинский баннер на титульной странице проекта
@@ -524,10 +519,8 @@ https://www.ribbonsoft.com"
 374,2022-04-08 11:12:05,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
 375,2022-04-08 11:12:05,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
 376,2022-04-08 11:12:05,political_slogans,ClickHouse,https://clickhouse.com/blog/we-stand-with-ukraine/,Политические лозунги на главной и в блоге. Перекрасили шапку в цвета украинского флага.
-377,2022-04-08 11:12:05,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
 378,2022-04-08 11:12:29,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
 379,2022-04-08 11:12:29,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
-381,2022-04-08 11:12:29,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
 382,2022-04-08 11:12:54,political_slogans,docker-php-extension-installer,https://github.com/mlocati/docker-php-extension-installer/commit/5fab1d04c3a857ece3284b6052b029652ca50477,Утилита для установки PHP-модулей внутри контейнеров. Совмещает политические коммиты с недокументируемыми изменениями
 383,2022-04-08 11:12:54,political_slogans,docker-compose Icinga stack,https://github.com/lippserd/docker-compose-icinga,"заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
 385,2022-04-08 11:12:54,political_slogans,AltStore (iOS),https://altstore.io/,"Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
@@ -632,7 +625,6 @@ The library EventSource displays political slogans on your site. To do this, it 
 632,2022-08-08 14:00:00,political_slogans,cex.io,cex.io,Криптобиржа. Сбор пожертвований для Украины
 633,2022-08-08 14:00:00,political_slogans,Downie 4 (macOS),software.charliemonroe.net/downie/,"Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг, если у вас русская локаль. Сейчас можно отключить в настройках."
 634,2022-08-08 14:00:00,political_slogans,bestwebsoft,https://bestwebsoft.com/ ,"плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
-636,2022-08-17 13:11:00,political_slogans,Случайный User-Agent (browser extension),https://github.com/tarampampam/random-user-agent/commit/fb9f595306a0e149a248c080859749b6d549be90,Расширение браузера https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp/related?hl=ru логотип перекрашен в цвета флага Украины.
 637,2022-08-17 13:11:00,political_slogans,Custom firmware for Nindendo 3DS,https://github.com/rashevskyv/3ds,на сайте JS/CSS-вставка с украинской пропагандой
 638,2022-08-17 13:11:00,political_slogans,AdBlockPlus (browser extension),https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/,"ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/
 Т.е. ABP заменяет чужую ""неприемлемую"" рекламу, на проплаченную ""приемлемую"". Среди ""приемлемой"" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
