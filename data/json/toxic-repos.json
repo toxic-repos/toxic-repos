@@ -2360,6 +2360,22 @@
         "description": "Бесплатные стоковые фото. Сайт не открывается из РФ"
     },
     {
+        "id": 656,
+        "datetime": "2022-09-14 08:03:00",
+        "problem_type": "ip_block",
+        "name": "strava",
+        "commit_link": "strava.com",
+        "description": "Сайт с российского ip не открывается. Приложение в российском магазине не доступно."
+    },
+    {
+        "id": 657,
+        "datetime": "2022-09-14 08:03:00",
+        "problem_type": "ip_block",
+        "name": "Mutools MuLab",
+        "commit_link": "https://mutools.com",
+        "description": "Музыкальный софт. Из России открывается заглушка вместо сайта."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -4598,5 +4614,21 @@
         "name": "immerjs/immer",
         "commit_link": "https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a",
         "description": "Баннер в поддержку Украины"
+    },
+    {
+        "id": 658,
+        "datetime": "2022-09-14 08:03:00",
+        "problem_type": "political_slogans",
+        "name": "gperftools",
+        "commit_link": "https://github.com/gperftools/gperftools/commit/9d44463380716ebad2f8ba13ce8a737f22bb2602",
+        "description": "Google Performance Tools (С++ библиотека). Удалили поддержку российской процессорной архитектуры E2K. Обсуждение https://github.com/gperftools/gperftools/issues/1345"
+    },
+    {
+        "id": 659,
+        "datetime": "2022-09-14 08:03:00",
+        "problem_type": "political_slogans",
+        "name": "GitBook",
+        "commit_link": "https://gitbook.com/",
+        "description": "Баннер на главной странице с ссылкой на https://blog.gitbook.com/company/gitbook-stands-with-ukraine с осуждением РФ"
     }
 ]

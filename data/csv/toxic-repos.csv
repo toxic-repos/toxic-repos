@@ -340,6 +340,8 @@ https://www.ribbonsoft.com"
 647,2022-09-02 11:05:00,ip_block,WeTransfer,wetransfer.com,Сервис для отправки больших файлов. Заблокировали доступ из РФ и РБ.
 648,2022-09-02 11:05:00,ip_block,Lossless Scaling,https://steamdb.info/app/993090/history/?changeid=14397307,1 апреля 2022 года убрали русский перевод в своей программе и сделали ее недоступной для России. https://store.steampowered.com/app/993090
 653,2022-09-05 09:28:00,ip_block,pixabay,https://pixabay.com/,Бесплатные стоковые фото. Сайт не открывается из РФ
+656,2022-09-14 08:03:00,ip_block,strava,strava.com,Сайт с российского ip не открывается. Приложение в российском магазине не доступно.
+657,2022-09-14 08:03:00,ip_block,Mutools MuLab,https://mutools.com,Музыкальный софт. Из России открывается заглушка вместо сайта.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -632,3 +634,5 @@ The library EventSource displays political slogans on your site. To do this, it 
 645,2022-08-24 09:10:00,political_slogans,ngrx/platform,https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts,Политический лозунг
 650,2022-09-02 11:05:00,political_slogans,exler,exler.ru,"Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"
 651,2022-09-02 11:05:00,political_slogans,immerjs/immer,https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a,Баннер в поддержку Украины
+658,2022-09-14 08:03:00,political_slogans,gperftools,https://github.com/gperftools/gperftools/commit/9d44463380716ebad2f8ba13ce8a737f22bb2602,Google Performance Tools (С++ библиотека). Удалили поддержку российской процессорной архитектуры E2K. Обсуждение https://github.com/gperftools/gperftools/issues/1345
+659,2022-09-14 08:03:00,political_slogans,GitBook,https://gitbook.com/,Баннер на главной странице с ссылкой на https://blog.gitbook.com/company/gitbook-stands-with-ukraine с осуждением РФ
