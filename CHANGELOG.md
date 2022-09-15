@@ -1,3 +1,26 @@
+#14.09.22
+[add]
++ strava
++ Mutools MuLab
++ gperftools
++ GitBook
+
+#05.09.22
+[add]
++ Mongodb Atlas
++ pixabay
++ Autodesk
++ NewEXE/ua-help
+
+#02.09.22
+[add]
++ Seagate
++ WeTransfer
++ Lossless Scaling
++ Octopus Deploy
++ exler
++ immerjs/immer
+
 #24.08.22
 [add]
 + hybridauth/hybridauth
