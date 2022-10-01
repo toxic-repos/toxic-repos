@@ -1,3 +1,10 @@
+#19.09.22
+[add]
++ metafields.guru
++ Lorem Picsum
++ AzureCast
++ time.is
+
 #14.09.22
 [add]
 + strava

@@ -1248,6 +1248,14 @@
         "description": "AutoCAD и прочее. Сайт https://www.autodesk.ru/ отключен. Московское представительство закрывается, российских сотрудников уволят. Подробнее https://www.cnews.ru/news/top/2022-08-18_autodesk_vserossijskie_sotrudniki"
     },
     {
+        "id": 663,
+        "datetime": "2022-09-19 08:43:00",
+        "problem_type": "hostile_actions",
+        "name": "time.is",
+        "commit_link": "https://time.is",
+        "description": "Известный зарубежный сервис точного времени. В списке часовых поясов на главной странице заменили Москву на Киев https://images2.imgbox.com/3f/b5/3V0oFhOV_o.png"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2374,6 +2382,22 @@
         "name": "Mutools MuLab",
         "commit_link": "https://mutools.com",
         "description": "Музыкальный софт. Из России открывается заглушка вместо сайта."
+    },
+    {
+        "id": 660,
+        "datetime": "2022-09-19 08:43:00",
+        "problem_type": "ip_block",
+        "name": "metafields.guru",
+        "commit_link": "app.metafields.guru",
+        "description": "Приложение metafields.guru на сайте shopify.com, не работает с российских адресов.\r\nПрименяется геоблок на уровне DNS, для России выдает 127.0.0.1 для домена app.metafields.guru"
+    },
+    {
+        "id": 661,
+        "datetime": "2022-09-19 08:43:00",
+        "problem_type": "ip_block",
+        "name": "Lorem Picsum",
+        "commit_link": "https://picsum.photos/",
+        "description": "С недавних пор блокировка работы сервиса по IP. Пожалуйста заведите issue на https://github.com/DMarby/picsum-photos"
     },
     {
         "id": 1,
@@ -4630,5 +4654,13 @@
         "name": "GitBook",
         "commit_link": "https://gitbook.com/",
         "description": "Баннер на главной странице с ссылкой на https://blog.gitbook.com/company/gitbook-stands-with-ukraine с осуждением РФ"
+    },
+    {
+        "id": 662,
+        "datetime": "2022-09-19 08:43:00",
+        "problem_type": "political_slogans",
+        "name": "AzureCast",
+        "commit_link": "https://www.azuracast.com",
+        "description": "В консоли текст #StandWithUkraine"
     }
 ]
