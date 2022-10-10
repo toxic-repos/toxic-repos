@@ -1,3 +1,9 @@
+#10.10.22
+[add]
++ CZ-NIC/pz
++ w84death/Tanks-of-Freedom
++ Atlassian
+
 #19.09.22
 [add]
 + metafields.guru
