@@ -1256,6 +1256,30 @@
         "description": "Известный зарубежный сервис точного времени. В списке часовых поясов на главной странице заменили Москву на Киев https://images2.imgbox.com/3f/b5/3V0oFhOV_o.png"
     },
     {
+        "id": 666,
+        "datetime": "2022-10-10 10:22:00",
+        "problem_type": "hostile_actions",
+        "name": "Atlassian",
+        "commit_link": "https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine",
+        "description": "Уход с рынка РФ"
+    },
+    {
+        "id": 673,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "hostile_actions",
+        "name": "Jooble",
+        "commit_link": "https://jooble.org/",
+        "description": "Сайт вакансий. Если язык браузера русский - пишет, что ушли из России из-за СВО. Если язык браузера английский - отображает баннер на сбор пожетвований на ВСУ."
+    },
+    {
+        "id": 675,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "hostile_actions",
+        "name": "WD Marvel repair tool",
+        "commit_link": "https://wdmarvel.com",
+        "description": "https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483\r\nзаблокировали все купленные лицензии, антироссийкая позиция"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2400,6 +2424,54 @@
         "description": "С недавних пор блокировка работы сервиса по IP. Пожалуйста заведите issue на https://github.com/DMarby/picsum-photos"
     },
     {
+        "id": 667,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "cybersecurity-help",
+        "commit_link": "cybersecurity-help.cz",
+        "description": "Политический лозунг, блокировка РФ адресов"
+    },
+    {
+        "id": 669,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "letitbit",
+        "commit_link": "http://letitbit.net/",
+        "description": "Файлообменник. При обращении с российского IP сообщение \"Country not allowed\""
+    },
+    {
+        "id": 670,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "PocketTube (Firefox addon)",
+        "commit_link": "https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/",
+        "description": "Региональная блокировка, призывы на сайте https://yousub.info/"
+    },
+    {
+        "id": 671,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "FFmpeg",
+        "commit_link": "https://lame.buanzo.org/ffmpeg64audacity.php",
+        "description": "ссылка с раздела поддержки Audacity. Блокировка доступа из РФ"
+    },
+    {
+        "id": 672,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "Citrix Workspace",
+        "commit_link": "https://www.citrix.com/",
+        "description": "Блокировка доступа из РФ к сайту и к скачке клиента"
+    },
+    {
+        "id": 674,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "ip_block",
+        "name": "meteo.paraplan",
+        "commit_link": "meteo.paraplan.net",
+        "description": "Блокировка доступа из РФ. Флаг Украины и требование сдаться."
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3398,14 +3470,6 @@
         "name": "react-native-ui-lib",
         "commit_link": "https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c",
         "description": "Политический баннер #StandWithUkraine"
-    },
-    {
-        "id": 240,
-        "datetime": "2022-03-29 15:48:48",
-        "problem_type": "political_slogans",
-        "name": "Pnpn менеджер пакетов",
-        "commit_link": "https://github.com/pnpm/pnpm",
-        "description": "Вредительства не замечено, но сайт с доками блочит ру айпи"
     },
     {
         "id": 241,
@@ -4640,14 +4704,6 @@
         "description": "Баннер в поддержку Украины"
     },
     {
-        "id": 658,
-        "datetime": "2022-09-14 08:03:00",
-        "problem_type": "political_slogans",
-        "name": "gperftools",
-        "commit_link": "https://github.com/gperftools/gperftools/commit/9d44463380716ebad2f8ba13ce8a737f22bb2602",
-        "description": "Google Performance Tools (С++ библиотека). Удалили поддержку российской процессорной архитектуры E2K. Обсуждение https://github.com/gperftools/gperftools/issues/1345"
-    },
-    {
         "id": 659,
         "datetime": "2022-09-14 08:03:00",
         "problem_type": "political_slogans",
@@ -4662,5 +4718,77 @@
         "name": "AzureCast",
         "commit_link": "https://www.azuracast.com",
         "description": "В консоли текст #StandWithUkraine"
+    },
+    {
+        "id": 664,
+        "datetime": "2022-10-10 10:22:00",
+        "problem_type": "political_slogans",
+        "name": "CZ-NIC/pz",
+        "commit_link": "https://github.com/CZ-NIC/pz",
+        "description": "Политический лозунг"
+    },
+    {
+        "id": 665,
+        "datetime": "2022-10-10 10:22:00",
+        "problem_type": "political_slogans",
+        "name": "w84death/Tanks-of-Freedom",
+        "commit_link": "https://github.com/w84death/Tanks-of-Freedom/issues/123",
+        "description": "Политический лозунг"
+    },
+    {
+        "id": 668,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "arrterian/nix-env-selector",
+        "commit_link": "https://github.com/arrterian/nix-env-selector",
+        "description": "Политический лозунг"
+    },
+    {
+        "id": 676,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "reportportal",
+        "commit_link": "https://github.com/reportportal/reportportal",
+        "description": "На сайте https://reportportal.io висит баннер в поддержку Украины и сбор пожертвований. Была когда-то такая успешная белорусская ИТ-компания EPAM."
+    },
+    {
+        "id": 677,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "appium",
+        "commit_link": "https://github.com/appium/appium",
+        "description": "Test automation tool. Баннер для сбора средств на армию Украины"
+    },
+    {
+        "id": 678,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "Keenetic",
+        "commit_link": "https://blog.keenetic.com/statement-on-ukraine/",
+        "description": "Keenetic перестал быть российской компанией, и переписывает свою историю в Википедии. Успехов вам на рынке Европы."
+    },
+    {
+        "id": 679,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "host-tracker",
+        "commit_link": "https://www.host-tracker.com/",
+        "description": "Сервис проверки доступности сайта. Плашка на главной про \"нет войне\"."
+    },
+    {
+        "id": 680,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "SELKS (StamusNetwork)",
+        "commit_link": "https://www.stamus-networks.com/en-us/landing/russia-ukraine-statement",
+        "description": "Во вкладке \"Resourses\" ссылка на заявление с антироссийской трактовкой конфликта"
+    },
+    {
+        "id": 681,
+        "datetime": "2022-10-16 13:55:00",
+        "problem_type": "political_slogans",
+        "name": "bdseo",
+        "commit_link": "https://bdseo.ru/",
+        "description": "\"Блог вебмастера\". Флаг Украины и лозунг \"Слава ВСУ\"."
     }
 ]

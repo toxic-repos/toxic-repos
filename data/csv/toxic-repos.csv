@@ -180,6 +180,10 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 652,2022-09-05 09:28:00,hostile_actions,Mongodb Atlas,https://www.mongodb.com/atlas/database,MongoDB уничтожит все данные аккаунтов РФ/РБ в облачном сервисе Atlas. https://www.securitylab.ru/news/530550.php
 654,2022-09-05 09:28:00,hostile_actions,Autodesk,https://www.autodesk.com,"AutoCAD и прочее. Сайт https://www.autodesk.ru/ отключен. Московское представительство закрывается, российских сотрудников уволят. Подробнее https://www.cnews.ru/news/top/2022-08-18_autodesk_vserossijskie_sotrudniki"
 663,2022-09-19 08:43:00,hostile_actions,time.is,https://time.is,Известный зарубежный сервис точного времени. В списке часовых поясов на главной странице заменили Москву на Киев https://images2.imgbox.com/3f/b5/3V0oFhOV_o.png
+666,2022-10-10 10:22:00,hostile_actions,Atlassian,https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine,Уход с рынка РФ
+673,2022-10-16 13:55:00,hostile_actions,Jooble,https://jooble.org/,"Сайт вакансий. Если язык браузера русский - пишет, что ушли из России из-за СВО. Если язык браузера английский - отображает баннер на сбор пожетвований на ВСУ."
+675,2022-10-16 13:55:00,hostile_actions,WD Marvel repair tool,https://wdmarvel.com,"https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483
+заблокировали все купленные лицензии, антироссийкая позиция"
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -346,6 +350,12 @@ https://www.ribbonsoft.com"
 660,2022-09-19 08:43:00,ip_block,metafields.guru,app.metafields.guru,"Приложение metafields.guru на сайте shopify.com, не работает с российских адресов.
 Применяется геоблок на уровне DNS, для России выдает 127.0.0.1 для домена app.metafields.guru"
 661,2022-09-19 08:43:00,ip_block,Lorem Picsum,https://picsum.photos/,С недавних пор блокировка работы сервиса по IP. Пожалуйста заведите issue на https://github.com/DMarby/picsum-photos
+667,2022-10-16 13:55:00,ip_block,cybersecurity-help,cybersecurity-help.cz,"Политический лозунг, блокировка РФ адресов"
+669,2022-10-16 13:55:00,ip_block,letitbit,http://letitbit.net/,"Файлообменник. При обращении с российского IP сообщение ""Country not allowed"""
+670,2022-10-16 13:55:00,ip_block,PocketTube (Firefox addon),https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/,"Региональная блокировка, призывы на сайте https://yousub.info/"
+671,2022-10-16 13:55:00,ip_block,FFmpeg,https://lame.buanzo.org/ffmpeg64audacity.php,ссылка с раздела поддержки Audacity. Блокировка доступа из РФ
+672,2022-10-16 13:55:00,ip_block,Citrix Workspace,https://www.citrix.com/,Блокировка доступа из РФ к сайту и к скачке клиента
+674,2022-10-16 13:55:00,ip_block,meteo.paraplan,meteo.paraplan.net,Блокировка доступа из РФ. Флаг Украины и требование сдаться.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -472,7 +482,6 @@ https://www.ribbonsoft.com"
 234,2022-03-29 15:48:48,political_slogans,Return youtube dislike api,https://github.com/Anarios/return-youtube-dislike/commit/9f257b354c2a933610fafc7c466af0572eef91bf,Добавление на главную страницу украинского флага и ссылки на сайт для поддержки украинской армии; + интересная строка в комментарии одного из разработчиков (https://github.com/Anarios/return-youtube-dislike/graphs/contributors): https://github.com/Anarios/
 235,2022-03-29 15:48:48,political_slogans,pre-commit-terraform,https://github.com/antonbabenko/pre-commit-terraform/pull/348/commits/fc190f980a6f0edac571253bce39e288c5d93949,см. условия использования в конце readme
 236,2022-03-29 15:48:48,political_slogans,react-native-ui-lib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Политический баннер #StandWithUkraine
-240,2022-03-29 15:48:48,political_slogans,Pnpn менеджер пакетов,https://github.com/pnpm/pnpm,"Вредительства не замечено, но сайт с доками блочит ру айпи"
 241,2022-03-29 15:48:48,political_slogans,Svelte Material UI,https://github.com/hperrin/svelte-material-ui,на их официальрном сайте https://sveltematerialui.com/ висит плашка с лозунгом
 242,2022-03-29 15:48:48,political_slogans,filestash,https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d,С помощью определения ip показывали видео обращение Зеленского. Сейчас убрали
 243,2022-03-29 15:48:48,political_slogans,Activeadmin SimpleMDE Markdown Editor,https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9,Политические лозунги.
@@ -638,6 +647,14 @@ The library EventSource displays political slogans on your site. To do this, it 
 645,2022-08-24 09:10:00,political_slogans,ngrx/platform,https://github.com/ngrx/platform/blob/a3fdfb47fc177c49a461a1613c11df4040dfcc49/projects/ngrx.io/src/app/custom-elements/ngrx/mff.component.ts,Политический лозунг
 650,2022-09-02 11:05:00,political_slogans,exler,exler.ru,"Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"
 651,2022-09-02 11:05:00,political_slogans,immerjs/immer,https://github.com/immerjs/immer/commit/4ef5cdcce030127bec0fa1402e2a4a5766dcf33a,Баннер в поддержку Украины
-658,2022-09-14 08:03:00,political_slogans,gperftools,https://github.com/gperftools/gperftools/commit/9d44463380716ebad2f8ba13ce8a737f22bb2602,Google Performance Tools (С++ библиотека). Удалили поддержку российской процессорной архитектуры E2K. Обсуждение https://github.com/gperftools/gperftools/issues/1345
 659,2022-09-14 08:03:00,political_slogans,GitBook,https://gitbook.com/,Баннер на главной странице с ссылкой на https://blog.gitbook.com/company/gitbook-stands-with-ukraine с осуждением РФ
 662,2022-09-19 08:43:00,political_slogans,AzureCast,https://www.azuracast.com,В консоли текст #StandWithUkraine
+664,2022-10-10 10:22:00,political_slogans,CZ-NIC/pz,https://github.com/CZ-NIC/pz,Политический лозунг
+665,2022-10-10 10:22:00,political_slogans,w84death/Tanks-of-Freedom,https://github.com/w84death/Tanks-of-Freedom/issues/123,Политический лозунг
+668,2022-10-16 13:55:00,political_slogans,arrterian/nix-env-selector,https://github.com/arrterian/nix-env-selector,Политический лозунг
+676,2022-10-16 13:55:00,political_slogans,reportportal,https://github.com/reportportal/reportportal,На сайте https://reportportal.io висит баннер в поддержку Украины и сбор пожертвований. Была когда-то такая успешная белорусская ИТ-компания EPAM.
+677,2022-10-16 13:55:00,political_slogans,appium,https://github.com/appium/appium,Test automation tool. Баннер для сбора средств на армию Украины
+678,2022-10-16 13:55:00,political_slogans,Keenetic,https://blog.keenetic.com/statement-on-ukraine/,"Keenetic перестал быть российской компанией, и переписывает свою историю в Википедии. Успехов вам на рынке Европы."
+679,2022-10-16 13:55:00,political_slogans,host-tracker,https://www.host-tracker.com/,"Сервис проверки доступности сайта. Плашка на главной про ""нет войне""."
+680,2022-10-16 13:55:00,political_slogans,SELKS (StamusNetwork),https://www.stamus-networks.com/en-us/landing/russia-ukraine-statement,"Во вкладке ""Resourses"" ссылка на заявление с антироссийской трактовкой конфликта"
+681,2022-10-16 13:55:00,political_slogans,bdseo,https://bdseo.ru/,"""Блог вебмастера"". Флаг Украины и лозунг ""Слава ВСУ""."
