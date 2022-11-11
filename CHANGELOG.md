@@ -1,3 +1,18 @@
+# 11.11.22
+[add]
++ WorldCat
++ wikidot
++ NewTek
++ Syncfusion
++ preactjs/preact-www (Preact JS)
++ dmitriigriffin/dmitriigriffin.github.io
++ cherrypy/cherrypy
++ zen-tools/gxkb
++ butzist/ActivityLauncher (Activity Launcher)
++ Anivisual
++ Charcoal app
++ BokhanMax/cheshiresofficial
+
 # 16.10.22
 [add]
 + cybersecurity-help

@@ -2472,6 +2472,38 @@
         "description": "Блокировка доступа из РФ. Флаг Украины и требование сдаться."
     },
     {
+        "id": 682,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "ip_block",
+        "name": "WorldCat",
+        "commit_link": "https://www.worldcat.org/",
+        "description": "Поиск книг, музыки, видео. Заблокировали доступ из РФ"
+    },
+    {
+        "id": 683,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "ip_block",
+        "name": "wikidot",
+        "commit_link": "http://wikidot.com/",
+        "description": "Вики-хостинг. Заблокировали доступ из РФ/РБ. На поддоменах были полезные ресурсы. Вместо сайта и поддоменов для российских и белорусских IP отображают заглушку с обвинениями."
+    },
+    {
+        "id": 684,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "ip_block",
+        "name": "NewTek",
+        "commit_link": "newtek.com",
+        "description": "Обработка видео. Заблокировали доступ из РФ"
+    },
+    {
+        "id": 685,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "ip_block",
+        "name": "Syncfusion",
+        "commit_link": "syncfusion.com",
+        "description": "UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -4790,5 +4822,69 @@
         "name": "bdseo",
         "commit_link": "https://bdseo.ru/",
         "description": "\"Блог вебмастера\". Флаг Украины и лозунг \"Слава ВСУ\"."
+    },
+    {
+        "id": 686,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "preactjs/preact-www (Preact JS)",
+        "commit_link": "https://github.com/preactjs/preact-www/commit/b04ccc87e480c950a8a55b2a376d24dea09dda36#diff-71dbb35ea3b8b527f82a89549131f93ab71aa72acc533bff9c704c1fb8f99d52R28",
+        "description": "В шапке сайта https://preactjs.com/ баннер в поддержку Украины. А ведь раньше там был лозунг BLM. Это что же, для вас жизни белых снова важнее черных?"
+    },
+    {
+        "id": 687,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "dmitriigriffin/dmitriigriffin.github.io",
+        "commit_link": "https://github.com/dmitriigriffin/dmitriigriffin.github.io",
+        "description": "Сайт с призывами от Тихановской"
+    },
+    {
+        "id": 688,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "cherrypy/cherrypy",
+        "commit_link": "https://github.com/cherrypy/cherrypy",
+        "description": "#StandWithUkraine"
+    },
+    {
+        "id": 689,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "zen-tools/gxkb",
+        "commit_link": "https://github.com/zen-tools/gxkb/commit/c93458256f924dd97efc23f3f3b510efc1f0a4c6",
+        "description": "X11 keyboard indicator and switcher. Автор удалил русский и беларусский флаги."
+    },
+    {
+        "id": 690,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "butzist/ActivityLauncher (Activity Launcher)",
+        "commit_link": "https://github.com/butzist/ActivityLauncher",
+        "description": "Приложение https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher не доступно в РФ, русский язык заменён украинским."
+    },
+    {
+        "id": 691,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "Anivisual",
+        "commit_link": "anivisual.net",
+        "description": "Комиксы. Украинский флаг шапке сайта"
+    },
+    {
+        "id": 692,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "Charcoal app",
+        "commit_link": "https://apps.apple.com/us/app/charcoal/id1490279484",
+        "description": "Флаг Украины https://imgbox.com/KKG4cOJj в справке"
+    },
+    {
+        "id": 693,
+        "datetime": "2022-11-11 13:00:00",
+        "problem_type": "political_slogans",
+        "name": "BokhanMax/cheshiresofficial",
+        "commit_link": "https://github.com/BokhanMax/cheshiresofficial.com",
+        "description": "#staywithukraine"
     }
 ]

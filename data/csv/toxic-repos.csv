@@ -356,6 +356,10 @@ https://www.ribbonsoft.com"
 671,2022-10-16 13:55:00,ip_block,FFmpeg,https://lame.buanzo.org/ffmpeg64audacity.php,ссылка с раздела поддержки Audacity. Блокировка доступа из РФ
 672,2022-10-16 13:55:00,ip_block,Citrix Workspace,https://www.citrix.com/,Блокировка доступа из РФ к сайту и к скачке клиента
 674,2022-10-16 13:55:00,ip_block,meteo.paraplan,meteo.paraplan.net,Блокировка доступа из РФ. Флаг Украины и требование сдаться.
+682,2022-11-11 13:00:00,ip_block,WorldCat,https://www.worldcat.org/,"Поиск книг, музыки, видео. Заблокировали доступ из РФ"
+683,2022-11-11 13:00:00,ip_block,wikidot,http://wikidot.com/,Вики-хостинг. Заблокировали доступ из РФ/РБ. На поддоменах были полезные ресурсы. Вместо сайта и поддоменов для российских и белорусских IP отображают заглушку с обвинениями.
+684,2022-11-11 13:00:00,ip_block,NewTek,newtek.com,Обработка видео. Заблокировали доступ из РФ
+685,2022-11-11 13:00:00,ip_block,Syncfusion,syncfusion.com,UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -658,3 +662,11 @@ The library EventSource displays political slogans on your site. To do this, it 
 679,2022-10-16 13:55:00,political_slogans,host-tracker,https://www.host-tracker.com/,"Сервис проверки доступности сайта. Плашка на главной про ""нет войне""."
 680,2022-10-16 13:55:00,political_slogans,SELKS (StamusNetwork),https://www.stamus-networks.com/en-us/landing/russia-ukraine-statement,"Во вкладке ""Resourses"" ссылка на заявление с антироссийской трактовкой конфликта"
 681,2022-10-16 13:55:00,political_slogans,bdseo,https://bdseo.ru/,"""Блог вебмастера"". Флаг Украины и лозунг ""Слава ВСУ""."
+686,2022-11-11 13:00:00,political_slogans,preactjs/preact-www (Preact JS),https://github.com/preactjs/preact-www/commit/b04ccc87e480c950a8a55b2a376d24dea09dda36#diff-71dbb35ea3b8b527f82a89549131f93ab71aa72acc533bff9c704c1fb8f99d52R28,"В шапке сайта https://preactjs.com/ баннер в поддержку Украины. А ведь раньше там был лозунг BLM. Это что же, для вас жизни белых снова важнее черных?"
+687,2022-11-11 13:00:00,political_slogans,dmitriigriffin/dmitriigriffin.github.io,https://github.com/dmitriigriffin/dmitriigriffin.github.io,Сайт с призывами от Тихановской
+688,2022-11-11 13:00:00,political_slogans,cherrypy/cherrypy,https://github.com/cherrypy/cherrypy,#StandWithUkraine
+689,2022-11-11 13:00:00,political_slogans,zen-tools/gxkb,https://github.com/zen-tools/gxkb/commit/c93458256f924dd97efc23f3f3b510efc1f0a4c6,X11 keyboard indicator and switcher. Автор удалил русский и беларусский флаги.
+690,2022-11-11 13:00:00,political_slogans,butzist/ActivityLauncher (Activity Launcher),https://github.com/butzist/ActivityLauncher,"Приложение https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher не доступно в РФ, русский язык заменён украинским."
+691,2022-11-11 13:00:00,political_slogans,Anivisual,anivisual.net,Комиксы. Украинский флаг шапке сайта
+692,2022-11-11 13:00:00,political_slogans,Charcoal app,https://apps.apple.com/us/app/charcoal/id1490279484,Флаг Украины https://imgbox.com/KKG4cOJj в справке
+693,2022-11-11 13:00:00,political_slogans,BokhanMax/cheshiresofficial,https://github.com/BokhanMax/cheshiresofficial.com,#staywithukraine

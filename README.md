@@ -17,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 599
+Records in the database: 611
 
 [CHANGELOG](CHANGELOG.md)
 
