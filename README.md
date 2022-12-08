@@ -38,6 +38,4 @@ Records in the database: 611
 
 - You can write to our [Telegram chat](https://t.me/g1l2a)
 - You can write to us at info@toxic-repos.ru
-- Submit your pull reguest;
-- Create [issue](https://github.com/stravnik/toxic-repos/issues/new);
-- Start [discussion](https://github.com/stravnik/toxic-repos/discussions/new).
+- Submit your pull reguest.
