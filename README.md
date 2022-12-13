@@ -15,6 +15,13 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 [:link: Web site](https://toxic-repos.ru/?utm_source=github&utm_medium=repository&utm_campaign=md) | [:speech_balloon: Telegram channel](https://t.me/toxic_repos) | [:speech_balloon: Telegram chat](https://t.me/g1l2a) | [:speech_balloon: Telegram BOT](https://t.me/darksider_bot)
 
+## Problem types
+
+- broken_assembly - 
+- ddos
+- hostile_actions
+- political_slogans
+- ip_block
 ## Statistics
 
 Records in the database: 611
