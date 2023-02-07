@@ -368,6 +368,30 @@
         "description": "Украинец Vlad Voloshyn из Харькова сделал сайт http://belsk.pp.ua для помощи студентам Белгородского строительного колледжа. На этом же сайте разместил ссылку на другой свой сайт https://github.com/NewEXE/ua-help, где опубликовал призывы остановить войну и инструкцию для DDoS атак на госучереждения РФ."
     },
     {
+        "id": 719,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ddos",
+        "name": "db1000n",
+        "commit_link": "https://github.com/Arriven/db1000n",
+        "description": "Координатор целей атаки для ботов https://github.com/db1000n-coordinators/LoadTestConfig/blob/main/config.v0.7.json\r\n\r\nВероятный чат поддержки https://t.me/db1000nX100\r\nОдин из авторов https://www.codementor.io/@bohdanivashko"
+    },
+    {
+        "id": 720,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ddos",
+        "name": "stoprussia2022/KonturCertAuthDown",
+        "commit_link": "https://github.com/stoprussia2022/KonturCertAuthDown",
+        "description": "Координатор DDoS атак (конфиг)"
+    },
+    {
+        "id": 721,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ddos",
+        "name": "Anarcho-Hacktivist-JP/Kacap-Cracking",
+        "commit_link": "https://github.com/Anarcho-Hacktivist-JP/Kacap-Cracking",
+        "description": "ddos tool"
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -1278,6 +1302,22 @@
         "name": "WD Marvel repair tool",
         "commit_link": "https://wdmarvel.com",
         "description": "https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483\r\nзаблокировали все купленные лицензии, антироссийкая позиция"
+    },
+    {
+        "id": 695,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "s3.translator, s3.screengrab и др. расширения",
+        "commit_link": "https://www.s3blog.org/",
+        "description": "Разработчик из Киева, ранее встраивал нахрюк-систему в свое изделие s3.weather (заблокировано в магазине Firefox). Что сейчас находится в скриптах - одному Олэксандру известно"
+    },
+    {
+        "id": 697,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "hostile_actions",
+        "name": "YoutubeExplode",
+        "commit_link": "https://github.com/Tyrrrz/YoutubeExplode/commit/d1489ee3caee12b15b120d10cd1c60aef5b17ee9",
+        "description": "Блокировка сборки (вывод ошибки) при обнаруженных белорусской или российской локалей."
     },
     {
         "id": 57,
@@ -2504,6 +2544,182 @@
         "description": "UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI"
     },
     {
+        "id": 698,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Freescale Semiconductor",
+        "commit_link": "http://www.freescale.com/",
+        "description": "Производитель чипов и прошивок к ним. Заблокировали доступ из РФ, через VPN доступен."
+    },
+    {
+        "id": 699,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Сайт php",
+        "commit_link": "https://php.su",
+        "description": "лозунг возле логотипа, блокировка доступа из РФ"
+    },
+    {
+        "id": 700,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Miro",
+        "commit_link": "https://miro.com/blog/update-from-miro-team/",
+        "description": "Закрыли офис в РФ; Прекращение всех продаж в РФ и РБ; Приостановка действия лицензий россиян. Бесплатное продление подписок для украинцев.\r\nhttps://miro.com/blog/letter-from-miro-support-for-ukraine/"
+    },
+    {
+        "id": 701,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "MagicalJellyBean",
+        "commit_link": "https://www.magicaljellybean.com",
+        "description": "При заходе с российского IP отображается заглушка с нецензурной надписью"
+    },
+    {
+        "id": 702,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Ajax Systems",
+        "commit_link": "https://ajax.systems/ru-ua/blog/ajax-charity/",
+        "description": "Охранные системы. Прекратили обслуживать клиентов из РФ. Сбор денег на ВСУ на сайте.\r\nhttps://pikabu.ru/story/ajax_v_rossii_i_respublike_belarus__vsyo_9703507"
+    },
+    {
+        "id": 703,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Apptopia",
+        "commit_link": "https://apptopia.com/",
+        "description": "Ошибка 403 при подключении из РФ. Через VPN открывается."
+    },
+    {
+        "id": 704,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Yttrium",
+        "commit_link": "https://apps.apple.com/us/app/yttrium/id1448131915",
+        "description": "Удалили приложение из российского App Store без объяснения причин."
+    },
+    {
+        "id": 705,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "CodeSnack IDE",
+        "commit_link": "https://apps.apple.com/us/app/code-compiler-programming/id1397424959",
+        "description": "Удалили приложение из российского App Store без объяснения причин."
+    },
+    {
+        "id": 706,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Canvas Lite for Homeowners",
+        "commit_link": "https://apps.apple.com/us/app/id1169235377?pt=157857&ct=CanvasIO_GetCanvas&mt=8",
+        "description": "Удалили приложение из российского App Store без объяснения причин."
+    },
+    {
+        "id": 707,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Carnets – Jupyter",
+        "commit_link": "https://holzschu.github.io/Carnets_Jupyter/",
+        "description": "Удалили приложение из российского App Store без объяснения причин.\r\nТестовые версии по прежнему доступны через Test Flight – https://testflight.apple.com/join/yevwlUs1"
+    },
+    {
+        "id": 708,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Illusory",
+        "commit_link": "https://apps.apple.com/us/app/id1428745381",
+        "description": "Заблокировали в российском App Store без объяснения причин. В блоге информации нет\r\nhttps://www.2zgroup.net/"
+    },
+    {
+        "id": 709,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "GitLab",
+        "commit_link": "https://packages.gitlab.com/gitlab/gitlab-ee",
+        "description": "Логотип был перекрашен в цвета флага Украины, теперь убрали. Но репозиторий ветки EE недоступен с российских IP"
+    },
+    {
+        "id": 710,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Blackmagic Design",
+        "commit_link": "www.blackmagicdesign.com",
+        "description": "Полностью снесли русскоязнычную часть сайта. При попытке зайти – сбрасывает в англоязычную версию.\r\nВыкинули пункт ресселеров в России на странице продуктов.\r\nhttps://web.archive.org/web/20220306215950/https://www.blackmagicdesign.com/ru\r\nhttps://www.blackmagicdesign.com/ru\r\nhttps://imgbox.com/wsT2Fk3T"
+    },
+    {
+        "id": 711,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "ThingsBoard",
+        "commit_link": "https://thingsboard.io/",
+        "description": "Платформа для Интернета вещей, созданная украинскими программистами. Блокируют доступ для российских IP (ошибка 1020). На главной в углу стоит баннер, ведущий на страницу с пропагандой и снисходительным обращением к россиянам, в т.ч. цитата «жаль, запретить вам использование open-source версии https://github.com/thingsboard/thingsboard мы не можем, но продажу лицензий российским компаниям прикрыли»."
+    },
+    {
+        "id": 712,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Netlify",
+        "commit_link": "https://www.netlify.com/blog/we-stand-with-ukraine/",
+        "description": "Конструктор сайтов. Очередное прекращение ведения бизнеса с российскими компаниями."
+    },
+    {
+        "id": 713,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "GameLoop",
+        "commit_link": "https://www.gameloop.com/",
+        "description": "Android эмулятор. Доступ из ДНР заблокирован, на оф. сайте отображают заглушку. В РФ открывается."
+    },
+    {
+        "id": 714,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Corel",
+        "commit_link": "https://www.corel.com/ru/",
+        "description": "прекратили продажи в РФ и РБ.\r\nСнесли русскоязычную страницу, теперь перекидывает на англ. версию:\r\nhttps://web.archive.org/web/20220105030431/https://www.corel.com/ru/"
+    },
+    {
+        "id": 715,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "chatgpt",
+        "commit_link": "https://openai.com/blog/chatgpt/",
+        "description": "При создании аккаунта не принимает телефонный номер РФ. Если попробовать создать аккаунт через Google (Continue with Google), пишет: OpenAI's services are not available in your country."
+    },
+    {
+        "id": 716,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Perforce",
+        "commit_link": "https://www.perforce.com/",
+        "description": "Access denied\r\nError code 1020\r\nYou do not have access to www.perforce.com.\r\nThe site owner may have set restrictions that prevent you from accessing the site."
+    },
+    {
+        "id": 717,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Crowdin",
+        "commit_link": "https://crowdin.com/stand-with-ukraine",
+        "description": "Сервис локализации. Пожетвовали 300 000 долларов и прекращаем бизнес с клиентами из российских компаний. Призывы жертвовать ВСУ."
+    },
+    {
+        "id": 718,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "github marketplace",
+        "commit_link": "github.com/marketplace",
+        "description": "Попытка купить, или подписаться на бесплатный сервис или план:\r\nAfter reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.\r\nIf you disagree with this decision, or want to learn more, please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls."
+    },
+    {
+        "id": 734,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "ip_block",
+        "name": "Perforce Software",
+        "commit_link": "https://www.perforce.com",
+        "description": "блокирует из РФ"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -2566,14 +2782,6 @@
         "name": "ctx (python package)",
         "commit_link": "https://pypistats.org/packages/ctx",
         "description": "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
-    },
-    {
-        "id": 580,
-        "datetime": "2022-07-07 08:41:00",
-        "problem_type": "malware",
-        "name": "sweetalert2/sweetalert2",
-        "commit_link": "https://github.com/sweetalert2/sweetalert2/commit/1ad0dd97ee11bd472c381e4063a9ec8fa0d40be1",
-        "description": "JS-библиотека для popup alerts. Вставили в код закладку, чтобы отображать призывы и видео. Срабатывает только если у пользователя в браузере выбран русский язык, а сайт, на котором выполняется код, находится в зоне ru/su. Таким образом хотят подставить владельцев сайтов в зоне ru/su."
     },
     {
         "id": 3,
@@ -4886,5 +5094,165 @@
         "name": "BokhanMax/cheshiresofficial",
         "commit_link": "https://github.com/BokhanMax/cheshiresofficial.com",
         "description": "#staywithukraine"
+    },
+    {
+        "id": 694,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "SweetAlert2",
+        "commit_link": "https://github.com/sweetalert2/sweetalert2/commit/7de8f7af35f4b0067edc4a735c5b9550537925c4",
+        "description": "Повторный случай для этой JS-библиотеки. На этот раз автор посчитал остоумным при посещении сайта в RU-зоне из браузера с RU-локалью включать украинский гимн."
+    },
+    {
+        "id": 696,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Tyrrrz/DiscordChatExporter",
+        "commit_link": "https://github.com/Tyrrrz/DiscordChatExporter",
+        "description": "С начала конфликта и до версии 2.36.4 при запуске показывалась плашка с пропагандой помощи Украине. С версии 2.37 программа отказывается запускаться, если в системе не прописана переменная среды с оскорблением русского народа. Скриншот: https://imgbox.com/exCP7iOc"
+    },
+    {
+        "id": 722,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Helix Toolkit",
+        "commit_link": "https://github.com/helix-toolkit/helix-toolkit/wiki",
+        "description": "баннер на странице с вики"
+    },
+    {
+        "id": 723,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Fork TS Checker Webpack Plugin",
+        "commit_link": "https://github.com/TypeStrong/fork-ts-checker-webpack-plugin",
+        "description": "Баннер в readme.md"
+    },
+    {
+        "id": 724,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "BetterBird",
+        "commit_link": "https://www.betterbird.eu/index.html",
+        "description": "Форк Thunderbird, вывесили плашку с флагом Украины на сайте"
+    },
+    {
+        "id": 725,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "ShellHacks, Command-Line Tips",
+        "commit_link": "https://www.shellhacks.com/",
+        "description": "Баннер \"Stop the War in Urkaine\" со ссылкой на украинский сайт для поддержки войны."
+    },
+    {
+        "id": 726,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "ClickHouse",
+        "commit_link": "https://clickhouse.com/blog/we-stand-with-ukraine",
+        "description": "Выступли с политическим заявлением у себя в блоге. и заблокировали загрузку из РФ отображая сообщение https://clickhouse.com/service-unavailable-country. Потом пользователей стало мало, загрузку разблокировали."
+    },
+    {
+        "id": 727,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "PlugY-Configurator",
+        "commit_link": "https://github.com/Raf-9600/PlugY-Configurator.net",
+        "description": "Малоизвестный репозиторий. Баннер в Readme.md"
+    },
+    {
+        "id": 728,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Yet another flags",
+        "commit_link": "https://chrome.google.com/webstore/detail/yet-another-flags/dmchcmgddbhmbkakammmklpoonoiiomk",
+        "description": "После обновления от 26.01.2023 иногда показывает флаг Украины и призыв помочь ВФУ. При клике по укр.флагу открывается страница https://savelife.in.ua/en/donate-en/#donate-army-card-once, где собираются деньги для ВФУ. Исходники вероятно здесь https://github.com/kipupuseja/yet-another-flags-extension, но обновлений не было с 2016г"
+    },
+    {
+        "id": 729,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Мракопедия",
+        "commit_link": "https://mrakopedia.net",
+        "description": "Призывают поддержать ВСУ, а россиян учат сдаваться. Сайт заблокирован РКН."
+    },
+    {
+        "id": 730,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "SendPulse",
+        "commit_link": "https://sendpulse.com/ru",
+        "description": "Спам-рассылки. Сердечко с флагом Украины в логотипе"
+    },
+    {
+        "id": 731,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Vectornator",
+        "commit_link": "https://www.vectornator.io/blog/standing-with-ukraine/",
+        "description": "Программа-рисовалка. Пропаганда, истории очевидцев только с одной стороны.\r\nПризывают жертвовать фондам, в том числе Come Back Alive, оказывающей поддержку ВСУ."
+    },
+    {
+        "id": 732,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Pixelmator",
+        "commit_link": "https://www.pixelmator.com/community/viewtopic.php?p=66192",
+        "description": "Графический редактор. Литовская компания, в штате есть украинцы. В комментариях https://www.pixelmator.com/community/viewtopic.php?p=66192 команда выражает поддержку Украине:\r\n\"we have a colleague working remotely in Ukraine and, as a Lithuanian-based company, Russia's invasion of Ukraine has quite deeply affected all of us over the past two months, so the codename was chosen as an expression of support for Ukraine\". Высокий риск блокировки услуг для пользователей из РФ."
+    },
+    {
+        "id": 733,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "HDRezka",
+        "commit_link": "https://hdrezka.ag/",
+        "description": "Пиратский сайт просмотра кино и сериалов. Стали вывешивать проукраинские баннеры в стиле \"инструкции как сдаваться в плен\" и \"Слава Украине\"."
+    },
+    {
+        "id": 735,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Depesz",
+        "commit_link": "https://explain.depesz.com/",
+        "description": "Лозунги"
+    },
+    {
+        "id": 736,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "Uppy",
+        "commit_link": "https://uppy.io/",
+        "description": "Баннер на главной странице"
+    },
+    {
+        "id": 737,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "django-ninja",
+        "commit_link": "https://github.com/vitalik/django-ninja",
+        "description": "Политические лозунги на странице проекта."
+    },
+    {
+        "id": 738,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "koskimas/kysely",
+        "commit_link": "https://github.com/koskimas/kysely",
+        "description": "Политические лозунги на странице проекта."
+    },
+    {
+        "id": 739,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "spatie/laravel-google-fonts",
+        "commit_link": "https://github.com/spatie/laravel-google-fonts",
+        "description": "Spreading political propaganda. Supporting racism.\r\n\r\nCommit:\r\nhttps://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575e6dbdba0fcd104"
+    },
+    {
+        "id": 740,
+        "datetime": "2023-02-07 09:10:00",
+        "problem_type": "political_slogans",
+        "name": "nilsteampassnet/TeamPass",
+        "commit_link": "https://github.com/nilsteampassnet/TeamPass",
+        "description": "Политические лозунги на странице проекта."
     }
 ]

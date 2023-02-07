@@ -45,6 +45,12 @@ id,datetime,problem_type,name,commit_link,description
 601,2022-07-07 08:41:00,ddos,MHProDev/MHDDoS,https://github.com/MHProDev/MHDDoS,ddos tool
 602,2022-07-07 08:41:00,ddos,cyberhubarchive,https://github.com/cyberhubarchive/archive,ddos tool
 655,2022-09-05 09:28:00,ddos,NewEXE/ua-help,https://github.com/NewEXE/ua-help,"Украинец Vlad Voloshyn из Харькова сделал сайт http://belsk.pp.ua для помощи студентам Белгородского строительного колледжа. На этом же сайте разместил ссылку на другой свой сайт https://github.com/NewEXE/ua-help, где опубликовал призывы остановить войну и инструкцию для DDoS атак на госучереждения РФ."
+719,2023-02-07 09:10:00,ddos,db1000n,https://github.com/Arriven/db1000n,"Координатор целей атаки для ботов https://github.com/db1000n-coordinators/LoadTestConfig/blob/main/config.v0.7.json
+
+Вероятный чат поддержки https://t.me/db1000nX100
+Один из авторов https://www.codementor.io/@bohdanivashko"
+720,2023-02-07 09:10:00,ddos,stoprussia2022/KonturCertAuthDown,https://github.com/stoprussia2022/KonturCertAuthDown,Координатор DDoS атак (конфиг)
+721,2023-02-07 09:10:00,ddos,Anarcho-Hacktivist-JP/Kacap-Cracking,https://github.com/Anarcho-Hacktivist-JP/Kacap-Cracking,ddos tool
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -184,6 +190,8 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 673,2022-10-16 13:55:00,hostile_actions,Jooble,https://jooble.org/,"Сайт вакансий. Если язык браузера русский - пишет, что ушли из России из-за СВО. Если язык браузера английский - отображает баннер на сбор пожетвований на ВСУ."
 675,2022-10-16 13:55:00,hostile_actions,WD Marvel repair tool,https://wdmarvel.com,"https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483
 заблокировали все купленные лицензии, антироссийкая позиция"
+695,2023-02-07 09:10:00,hostile_actions,"s3.translator, s3.screengrab и др. расширения",https://www.s3blog.org/,"Разработчик из Киева, ранее встраивал нахрюк-систему в свое изделие s3.weather (заблокировано в магазине Firefox). Что сейчас находится в скриптах - одному Олэксандру известно"
+697,2023-02-07 09:10:00,hostile_actions,YoutubeExplode,https://github.com/Tyrrrz/YoutubeExplode/commit/d1489ee3caee12b15b120d10cd1c60aef5b17ee9,Блокировка сборки (вывод ошибки) при обнаруженных белорусской или российской локалей.
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -360,6 +368,43 @@ https://www.ribbonsoft.com"
 683,2022-11-11 13:00:00,ip_block,wikidot,http://wikidot.com/,Вики-хостинг. Заблокировали доступ из РФ/РБ. На поддоменах были полезные ресурсы. Вместо сайта и поддоменов для российских и белорусских IP отображают заглушку с обвинениями.
 684,2022-11-11 13:00:00,ip_block,NewTek,newtek.com,Обработка видео. Заблокировали доступ из РФ
 685,2022-11-11 13:00:00,ip_block,Syncfusion,syncfusion.com,UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI
+698,2023-02-07 09:10:00,ip_block,Freescale Semiconductor,http://www.freescale.com/,"Производитель чипов и прошивок к ним. Заблокировали доступ из РФ, через VPN доступен."
+699,2023-02-07 09:10:00,ip_block,Сайт php,https://php.su,"лозунг возле логотипа, блокировка доступа из РФ"
+700,2023-02-07 09:10:00,ip_block,Miro,https://miro.com/blog/update-from-miro-team/,"Закрыли офис в РФ; Прекращение всех продаж в РФ и РБ; Приостановка действия лицензий россиян. Бесплатное продление подписок для украинцев.
+https://miro.com/blog/letter-from-miro-support-for-ukraine/"
+701,2023-02-07 09:10:00,ip_block,MagicalJellyBean,https://www.magicaljellybean.com,При заходе с российского IP отображается заглушка с нецензурной надписью
+702,2023-02-07 09:10:00,ip_block,Ajax Systems,https://ajax.systems/ru-ua/blog/ajax-charity/,"Охранные системы. Прекратили обслуживать клиентов из РФ. Сбор денег на ВСУ на сайте.
+https://pikabu.ru/story/ajax_v_rossii_i_respublike_belarus__vsyo_9703507"
+703,2023-02-07 09:10:00,ip_block,Apptopia,https://apptopia.com/,Ошибка 403 при подключении из РФ. Через VPN открывается.
+704,2023-02-07 09:10:00,ip_block,Yttrium,https://apps.apple.com/us/app/yttrium/id1448131915,Удалили приложение из российского App Store без объяснения причин.
+705,2023-02-07 09:10:00,ip_block,CodeSnack IDE,https://apps.apple.com/us/app/code-compiler-programming/id1397424959,Удалили приложение из российского App Store без объяснения причин.
+706,2023-02-07 09:10:00,ip_block,Canvas Lite for Homeowners,https://apps.apple.com/us/app/id1169235377?pt=157857&ct=CanvasIO_GetCanvas&mt=8,Удалили приложение из российского App Store без объяснения причин.
+707,2023-02-07 09:10:00,ip_block,Carnets – Jupyter,https://holzschu.github.io/Carnets_Jupyter/,"Удалили приложение из российского App Store без объяснения причин.
+Тестовые версии по прежнему доступны через Test Flight – https://testflight.apple.com/join/yevwlUs1"
+708,2023-02-07 09:10:00,ip_block,Illusory,https://apps.apple.com/us/app/id1428745381,"Заблокировали в российском App Store без объяснения причин. В блоге информации нет
+https://www.2zgroup.net/"
+709,2023-02-07 09:10:00,ip_block,GitLab,https://packages.gitlab.com/gitlab/gitlab-ee,"Логотип был перекрашен в цвета флага Украины, теперь убрали. Но репозиторий ветки EE недоступен с российских IP"
+710,2023-02-07 09:10:00,ip_block,Blackmagic Design,www.blackmagicdesign.com,"Полностью снесли русскоязнычную часть сайта. При попытке зайти – сбрасывает в англоязычную версию.
+Выкинули пункт ресселеров в России на странице продуктов.
+https://web.archive.org/web/20220306215950/https://www.blackmagicdesign.com/ru
+https://www.blackmagicdesign.com/ru
+https://imgbox.com/wsT2Fk3T"
+711,2023-02-07 09:10:00,ip_block,ThingsBoard,https://thingsboard.io/,"Платформа для Интернета вещей, созданная украинскими программистами. Блокируют доступ для российских IP (ошибка 1020). На главной в углу стоит баннер, ведущий на страницу с пропагандой и снисходительным обращением к россиянам, в т.ч. цитата «жаль, запретить вам использование open-source версии https://github.com/thingsboard/thingsboard мы не можем, но продажу лицензий российским компаниям прикрыли»."
+712,2023-02-07 09:10:00,ip_block,Netlify,https://www.netlify.com/blog/we-stand-with-ukraine/,Конструктор сайтов. Очередное прекращение ведения бизнеса с российскими компаниями.
+713,2023-02-07 09:10:00,ip_block,GameLoop,https://www.gameloop.com/,"Android эмулятор. Доступ из ДНР заблокирован, на оф. сайте отображают заглушку. В РФ открывается."
+714,2023-02-07 09:10:00,ip_block,Corel,https://www.corel.com/ru/,"прекратили продажи в РФ и РБ.
+Снесли русскоязычную страницу, теперь перекидывает на англ. версию:
+https://web.archive.org/web/20220105030431/https://www.corel.com/ru/"
+715,2023-02-07 09:10:00,ip_block,chatgpt,https://openai.com/blog/chatgpt/,"При создании аккаунта не принимает телефонный номер РФ. Если попробовать создать аккаунт через Google (Continue with Google), пишет: OpenAI's services are not available in your country."
+716,2023-02-07 09:10:00,ip_block,Perforce,https://www.perforce.com/,"Access denied
+Error code 1020
+You do not have access to www.perforce.com.
+The site owner may have set restrictions that prevent you from accessing the site."
+717,2023-02-07 09:10:00,ip_block,Crowdin,https://crowdin.com/stand-with-ukraine,Сервис локализации. Пожетвовали 300 000 долларов и прекращаем бизнес с клиентами из российских компаний. Призывы жертвовать ВСУ.
+718,2023-02-07 09:10:00,ip_block,github marketplace,github.com/marketplace,"Попытка купить, или подписаться на бесплатный сервис или план:
+After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.
+If you disagree with this decision, or want to learn more, please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls."
+734,2023-02-07 09:10:00,ip_block,Perforce Software,https://www.perforce.com,блокирует из РФ
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -368,7 +413,6 @@ https://www.ribbonsoft.com"
 13,2022-03-29 15:48:48,malware,Parad1seBomb,https://github.com/K1ngSoul/Parad1seBomb,SMS Bomber for Russia and Ukraine
 531,2022-05-26 09:26:00,malware,phppass (PHP),https://github.com/hautelook/phpass,Версии пакета с 19.05.2022 по 24.05.2022. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242
 532,2022-05-26 09:26:00,malware,ctx (python package),https://pypistats.org/packages/ctx,"Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
-580,2022-07-07 08:41:00,malware,sweetalert2/sweetalert2,https://github.com/sweetalert2/sweetalert2/commit/1ad0dd97ee11bd472c381e4063a9ec8fa0d40be1,"JS-библиотека для popup alerts. Вставили в код закладку, чтобы отображать призывы и видео. Срабатывает только если у пользователя в браузере выбран русский язык, а сайт, на котором выполняется код, находится в зоне ru/su. Таким образом хотят подставить владельцев сайтов в зоне ru/su."
 3,2022-03-29 15:48:48,political_slogans,RedisDesktopManager,https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22,как бы чего еще туда не заложили вредного
 5,2022-03-29 15:48:48,political_slogans,WordPress плагин Mistape,https://wordpress.org/plugins/mistape/,"Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора, заливает плагин UnderConstruction, с помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событи"
 56,2022-03-29 15:48:48,political_slogans,Личный сайт Столярова А.В. stolyarov.info,http://stolyarov.info/,"Через пару дней после начала спецоперации сменил весь сайт на надпись ""КОГДА ПУШКИ ГОВОРЯТ, МУЗЫ МОЛЧАТ"" со ссылкой на страницу с книгами (на чём спасибо), функционирование остального сайта в данных обстоятельствах счёл неуместным."
@@ -670,3 +714,28 @@ The library EventSource displays political slogans on your site. To do this, it 
 691,2022-11-11 13:00:00,political_slogans,Anivisual,anivisual.net,Комиксы. Украинский флаг шапке сайта
 692,2022-11-11 13:00:00,political_slogans,Charcoal app,https://apps.apple.com/us/app/charcoal/id1490279484,Флаг Украины https://imgbox.com/KKG4cOJj в справке
 693,2022-11-11 13:00:00,political_slogans,BokhanMax/cheshiresofficial,https://github.com/BokhanMax/cheshiresofficial.com,#staywithukraine
+694,2023-02-07 09:10:00,political_slogans,SweetAlert2,https://github.com/sweetalert2/sweetalert2/commit/7de8f7af35f4b0067edc4a735c5b9550537925c4,Повторный случай для этой JS-библиотеки. На этот раз автор посчитал остоумным при посещении сайта в RU-зоне из браузера с RU-локалью включать украинский гимн.
+696,2023-02-07 09:10:00,political_slogans,Tyrrrz/DiscordChatExporter,https://github.com/Tyrrrz/DiscordChatExporter,"С начала конфликта и до версии 2.36.4 при запуске показывалась плашка с пропагандой помощи Украине. С версии 2.37 программа отказывается запускаться, если в системе не прописана переменная среды с оскорблением русского народа. Скриншот: https://imgbox.com/exCP7iOc"
+722,2023-02-07 09:10:00,political_slogans,Helix Toolkit,https://github.com/helix-toolkit/helix-toolkit/wiki,баннер на странице с вики
+723,2023-02-07 09:10:00,political_slogans,Fork TS Checker Webpack Plugin,https://github.com/TypeStrong/fork-ts-checker-webpack-plugin,Баннер в readme.md
+724,2023-02-07 09:10:00,political_slogans,BetterBird,https://www.betterbird.eu/index.html,"Форк Thunderbird, вывесили плашку с флагом Украины на сайте"
+725,2023-02-07 09:10:00,political_slogans,"ShellHacks, Command-Line Tips",https://www.shellhacks.com/,"Баннер ""Stop the War in Urkaine"" со ссылкой на украинский сайт для поддержки войны."
+726,2023-02-07 09:10:00,political_slogans,ClickHouse,https://clickhouse.com/blog/we-stand-with-ukraine,"Выступли с политическим заявлением у себя в блоге. и заблокировали загрузку из РФ отображая сообщение https://clickhouse.com/service-unavailable-country. Потом пользователей стало мало, загрузку разблокировали."
+727,2023-02-07 09:10:00,political_slogans,PlugY-Configurator,https://github.com/Raf-9600/PlugY-Configurator.net,Малоизвестный репозиторий. Баннер в Readme.md
+728,2023-02-07 09:10:00,political_slogans,Yet another flags,https://chrome.google.com/webstore/detail/yet-another-flags/dmchcmgddbhmbkakammmklpoonoiiomk,"После обновления от 26.01.2023 иногда показывает флаг Украины и призыв помочь ВФУ. При клике по укр.флагу открывается страница https://savelife.in.ua/en/donate-en/#donate-army-card-once, где собираются деньги для ВФУ. Исходники вероятно здесь https://github.com/kipupuseja/yet-another-flags-extension, но обновлений не было с 2016г"
+729,2023-02-07 09:10:00,political_slogans,Мракопедия,https://mrakopedia.net,"Призывают поддержать ВСУ, а россиян учат сдаваться. Сайт заблокирован РКН."
+730,2023-02-07 09:10:00,political_slogans,SendPulse,https://sendpulse.com/ru,Спам-рассылки. Сердечко с флагом Украины в логотипе
+731,2023-02-07 09:10:00,political_slogans,Vectornator,https://www.vectornator.io/blog/standing-with-ukraine/,"Программа-рисовалка. Пропаганда, истории очевидцев только с одной стороны.
+Призывают жертвовать фондам, в том числе Come Back Alive, оказывающей поддержку ВСУ."
+732,2023-02-07 09:10:00,political_slogans,Pixelmator,https://www.pixelmator.com/community/viewtopic.php?p=66192,"Графический редактор. Литовская компания, в штате есть украинцы. В комментариях https://www.pixelmator.com/community/viewtopic.php?p=66192 команда выражает поддержку Украине:
+""we have a colleague working remotely in Ukraine and, as a Lithuanian-based company, Russia's invasion of Ukraine has quite deeply affected all of us over the past two months, so the codename was chosen as an expression of support for Ukraine"". Высокий риск блокировки услуг для пользователей из РФ."
+733,2023-02-07 09:10:00,political_slogans,HDRezka,https://hdrezka.ag/,"Пиратский сайт просмотра кино и сериалов. Стали вывешивать проукраинские баннеры в стиле ""инструкции как сдаваться в плен"" и ""Слава Украине""."
+735,2023-02-07 09:10:00,political_slogans,Depesz,https://explain.depesz.com/,Лозунги
+736,2023-02-07 09:10:00,political_slogans,Uppy,https://uppy.io/,Баннер на главной странице
+737,2023-02-07 09:10:00,political_slogans,django-ninja,https://github.com/vitalik/django-ninja,Политические лозунги на странице проекта.
+738,2023-02-07 09:10:00,political_slogans,koskimas/kysely,https://github.com/koskimas/kysely,Политические лозунги на странице проекта.
+739,2023-02-07 09:10:00,political_slogans,spatie/laravel-google-fonts,https://github.com/spatie/laravel-google-fonts,"Spreading political propaganda. Supporting racism.
+
+Commit:
+https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575e6dbdba0fcd104"
+740,2023-02-07 09:10:00,political_slogans,nilsteampassnet/TeamPass,https://github.com/nilsteampassnet/TeamPass,Политические лозунги на странице проекта.
