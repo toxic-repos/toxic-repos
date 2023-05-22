@@ -1320,6 +1320,22 @@
         "description": "Блокировка сборки (вывод ошибки) при обнаруженных белорусской или российской локалей."
     },
     {
+        "id": 742,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "hostile_actions",
+        "name": "Valentina pattern design software",
+        "commit_link": "https://smart-pattern.com.ua/en/valentina/download/",
+        "description": "Программа намеренно падает с ошибкой, если в системе установлена русская локаль"
+    },
+    {
+        "id": 743,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "hostile_actions",
+        "name": "lawinsider",
+        "commit_link": "https://www.lawinsider.com/dictionary/personal-use-license",
+        "description": "Перенаправление на ролик на youtube"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2718,6 +2734,30 @@
         "name": "Perforce Software",
         "commit_link": "https://www.perforce.com",
         "description": "блокирует из РФ"
+    },
+    {
+        "id": 744,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "ip_block",
+        "name": "crosstalksolutions",
+        "commit_link": "https://www.crosstalksolutions.com/",
+        "description": "блокировка по стране"
+    },
+    {
+        "id": 745,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "ip_block",
+        "name": "porteus-kiosk",
+        "commit_link": "https://porteus-kiosk.org/",
+        "description": "при попытке установки проверяет геопозицию по ip-адресу, и в случае запуска с российского адреса установка блокируется с сообщением: &quot;Due to our company policies the Porteus Kiosk systemc cannot be used in country: Russian Federation&quot;."
+    },
+    {
+        "id": 746,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "ip_block",
+        "name": "skillsetter",
+        "commit_link": "https://skillsetter.io/",
+        "description": "До СВО обучали продуктовым и проектным профессиям, но так как создатели из Украины, потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry, you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
     },
     {
         "id": 1,
@@ -5254,5 +5294,29 @@
         "name": "nilsteampassnet/TeamPass",
         "commit_link": "https://github.com/nilsteampassnet/TeamPass",
         "description": "Политические лозунги на странице проекта."
+    },
+    {
+        "id": 741,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "political_slogans",
+        "name": "zadam/trilium",
+        "commit_link": "https://github.com/zadam/trilium",
+        "description": "Политические лозунги на странице проекта."
+    },
+    {
+        "id": 747,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "political_slogans",
+        "name": "mockk/mockk",
+        "commit_link": "https://github.com/mockk/mockk",
+        "description": "Баннер со сбором средств на дроны в самом  https://github.com/mockk/mockk/blob/6cfbc12d58d2e5d62a775a7b64946d932aee1e4d/_layouts/default.html#L247"
+    },
+    {
+        "id": 748,
+        "datetime": "2023-05-22 12:00:00",
+        "problem_type": "political_slogans",
+        "name": "aiogram/aiogram",
+        "commit_link": "https://github.com/aiogram/aiogram",
+        "description": "Лозунги"
     }
 ]

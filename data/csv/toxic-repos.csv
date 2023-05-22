@@ -192,6 +192,8 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 заблокировали все купленные лицензии, антироссийкая позиция"
 695,2023-02-07 09:10:00,hostile_actions,"s3.translator, s3.screengrab и др. расширения",https://www.s3blog.org/,"Разработчик из Киева, ранее встраивал нахрюк-систему в свое изделие s3.weather (заблокировано в магазине Firefox). Что сейчас находится в скриптах - одному Олэксандру известно"
 697,2023-02-07 09:10:00,hostile_actions,YoutubeExplode,https://github.com/Tyrrrz/YoutubeExplode/commit/d1489ee3caee12b15b120d10cd1c60aef5b17ee9,Блокировка сборки (вывод ошибки) при обнаруженных белорусской или российской локалей.
+742,2023-05-22 12:00:00,hostile_actions,Valentina pattern design software,https://smart-pattern.com.ua/en/valentina/download/,"Программа намеренно падает с ошибкой, если в системе установлена русская локаль"
+743,2023-05-22 12:00:00,hostile_actions,lawinsider,https://www.lawinsider.com/dictionary/personal-use-license,Перенаправление на ролик на youtube
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -405,6 +407,9 @@ The site owner may have set restrictions that prevent you from accessing the sit
 After reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.
 If you disagree with this decision, or want to learn more, please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls."
 734,2023-02-07 09:10:00,ip_block,Perforce Software,https://www.perforce.com,блокирует из РФ
+744,2023-05-22 12:00:00,ip_block,crosstalksolutions,https://www.crosstalksolutions.com/,блокировка по стране
+745,2023-05-22 12:00:00,ip_block,porteus-kiosk,https://porteus-kiosk.org/,"при попытке установки проверяет геопозицию по ip-адресу, и в случае запуска с российского адреса установка блокируется с сообщением: &quot;Due to our company policies the Porteus Kiosk systemc cannot be used in country: Russian Federation&quot;."
+746,2023-05-22 12:00:00,ip_block,skillsetter,https://skillsetter.io/,"До СВО обучали продуктовым и проектным профессиям, но так как создатели из Украины, потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry, you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -739,3 +744,6 @@ The library EventSource displays political slogans on your site. To do this, it 
 Commit:
 https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575e6dbdba0fcd104"
 740,2023-02-07 09:10:00,political_slogans,nilsteampassnet/TeamPass,https://github.com/nilsteampassnet/TeamPass,Политические лозунги на странице проекта.
+741,2023-05-22 12:00:00,political_slogans,zadam/trilium,https://github.com/zadam/trilium,Политические лозунги на странице проекта.
+747,2023-05-22 12:00:00,political_slogans,mockk/mockk,https://github.com/mockk/mockk,Баннер со сбором средств на дроны в самом  https://github.com/mockk/mockk/blob/6cfbc12d58d2e5d62a775a7b64946d932aee1e4d/_layouts/default.html#L247
+748,2023-05-22 12:00:00,political_slogans,aiogram/aiogram,https://github.com/aiogram/aiogram,Лозунги
