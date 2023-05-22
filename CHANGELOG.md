@@ -1,3 +1,14 @@
+# 22.05.23
+[add]
++ zadam/trilium
++ Valentina pattern design software
++ lawinsider
++ crosstalksolutions
++ porteus-kiosk
++ skillsetter
++ mockk/mockk
++ aiogram/aiogram
+
 # 07.02.23
 [add]
 + SweetAlert2
