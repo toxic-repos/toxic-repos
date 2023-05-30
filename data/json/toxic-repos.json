@@ -5318,5 +5318,21 @@
         "name": "aiogram/aiogram",
         "commit_link": "https://github.com/aiogram/aiogram",
         "description": "Лозунги"
+    },
+    {
+        "id": 749,
+        "datetime": "2023-05-30 14:30:00",
+        "problem_type": "political_slogans",
+        "name": "oliver006/redis_exporter",
+        "commit_link": "https://github.com/oliver006/redis_exporter",
+        "description": "Политические лозунги на странице проекта."
+    },
+    {
+        "id": 750,
+        "datetime": "2023-05-30 14:30:00",
+        "problem_type": "political_slogans",
+        "name": "React is a JavaScript library",
+        "commit_link": "https://react.dev/",
+        "description": "Политический баннер в шапке"
     }
 ]

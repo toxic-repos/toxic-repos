@@ -1,3 +1,8 @@
+# 30.05.23
+[add]
++ oliver006/redis_exporter
++ React is a JavaScript library
+
 # 22.05.23
 [add]
 + zadam/trilium
