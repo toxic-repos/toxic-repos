@@ -2571,7 +2571,7 @@
         "id": 699,
         "datetime": "2023-02-07 09:10:00",
         "problem_type": "ip_block",
-        "name": "Сайт php",
+        "name": "Неофициальный сайт php.su",
         "commit_link": "https://php.su",
         "description": "лозунг возле логотипа, блокировка доступа из РФ"
     },

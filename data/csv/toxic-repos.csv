@@ -371,7 +371,7 @@ https://www.ribbonsoft.com"
 684,2022-11-11 13:00:00,ip_block,NewTek,newtek.com,Обработка видео. Заблокировали доступ из РФ
 685,2022-11-11 13:00:00,ip_block,Syncfusion,syncfusion.com,UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI
 698,2023-02-07 09:10:00,ip_block,Freescale Semiconductor,http://www.freescale.com/,"Производитель чипов и прошивок к ним. Заблокировали доступ из РФ, через VPN доступен."
-699,2023-02-07 09:10:00,ip_block,Сайт php,https://php.su,"лозунг возле логотипа, блокировка доступа из РФ"
+699,2023-02-07 09:10:00,ip_block,Неофициальный сайт php.su,https://php.su,"лозунг возле логотипа, блокировка доступа из РФ"
 700,2023-02-07 09:10:00,ip_block,Miro,https://miro.com/blog/update-from-miro-team/,"Закрыли офис в РФ; Прекращение всех продаж в РФ и РБ; Приостановка действия лицензий россиян. Бесплатное продление подписок для украинцев.
 https://miro.com/blog/letter-from-miro-support-for-ukraine/"
 701,2023-02-07 09:10:00,ip_block,MagicalJellyBean,https://www.magicaljellybean.com,При заходе с российского IP отображается заглушка с нецензурной надписью

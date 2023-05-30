@@ -16,7 +16,7 @@
 + Tyrrrz/DiscordChatExporter
 + YoutubeExplode
 + Freescale Semiconductor
-+ Сайт php
++ Неофициальный сайт php.su
 + Miro
 + MagicalJellyBean
 + Ajax Systems
