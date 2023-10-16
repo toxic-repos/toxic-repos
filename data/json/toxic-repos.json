@@ -1336,6 +1336,30 @@
         "description": "Перенаправление на ролик на youtube"
     },
     {
+        "id": 755,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "hostile_actions",
+        "name": "outline",
+        "commit_link": "https://github.com/outline/outline/commit/228d1faa9fd3cbb82409d98e1443fed65adc5715",
+        "description": "удалили русский перевод без анонсов и объяснений"
+    },
+    {
+        "id": 756,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "hostile_actions",
+        "name": "getoutline",
+        "commit_link": "https://translate.getoutline.com/",
+        "description": "без уведомлений и объяснений убрали русскую локализацию и добавили украинскую"
+    },
+    {
+        "id": 760,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "hostile_actions",
+        "name": "OkHttp Profiler",
+        "commit_link": "https://plugins.jetbrains.com/plugin/11249-okhttp-profiler",
+        "description": "Плагин &quot;OkHttp Profiler&quot; для Android Studio https://plugins.jetbrains.com/plugin/11249-okhttp-profiler (там есть скриншот в комментариях) Выводит ругательства русским и показывает кнопки &quot;Russia Invided Ukraine!&quot; Репозиторий: https://github.com/gektor650/OkHttpProfiler-AndroidStudio-Plugin"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2760,6 +2784,38 @@
         "description": "До СВО обучали продуктовым и проектным профессиям, но так как создатели из Украины, потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry, you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
     },
     {
+        "id": 751,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "ip_block",
+        "name": "catgirl.cloud",
+        "commit_link": "https://catgirl.cloud",
+        "description": "сервер со свободными сервисами (invidious, matrix и другие) — не отрывается в РФ"
+    },
+    {
+        "id": 757,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "ip_block",
+        "name": "SAS",
+        "commit_link": "https://www.sas.com/",
+        "description": "поставщик бизнес-решений для работы с данными, ограничил доступ из России к документации, местному stackoverflow. Под VPN заходит. Заблокировали начиная с марта 2022 года."
+    },
+    {
+        "id": 758,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "ip_block",
+        "name": "pygame",
+        "commit_link": "https://www.pygame.org",
+        "description": "открывает сайт-заглушку при запросе с российского IP"
+    },
+    {
+        "id": 759,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "ip_block",
+        "name": "semrush",
+        "commit_link": "https://semrush.com",
+        "description": "Блокировка по IP"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3795,7 +3851,7 @@
         "id": 246,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
-        "name": "django-modeltranslatio",
+        "name": "django-modeltranslation",
         "commit_link": "https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2",
         "description": "Политические лозунги в документации"
     },
@@ -5334,5 +5390,29 @@
         "name": "React is a JavaScript library",
         "commit_link": "https://react.dev/",
         "description": "Политический баннер в шапке"
+    },
+    {
+        "id": 752,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "political_slogans",
+        "name": "Bitwarden",
+        "commit_link": "https://github.com/bitwarden/clients/pull/5011",
+        "description": "1. Удалили поддержку карт Мир по политическим целям 2. Ничего не делают с protestware в их клиенте, вызванный Sweetalert2"
+    },
+    {
+        "id": 753,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "political_slogans",
+        "name": "KLog",
+        "commit_link": "https://www.klog.xyz/",
+        "description": "флаг Украины в заголовке. KLog 2.0 – Stop the war. Posted on 26 February, 2022 by Jaime"
+    },
+    {
+        "id": 754,
+        "datetime": "2023-10-16 11:11:00",
+        "problem_type": "political_slogans",
+        "name": "factorio",
+        "commit_link": "https://factorio.com/",
+        "description": "Плашка с поддержкой Украины на главном сайте, mods. и forum. поддоменах, на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
     }
 ]

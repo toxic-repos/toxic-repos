@@ -194,6 +194,9 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 697,2023-02-07 09:10:00,hostile_actions,YoutubeExplode,https://github.com/Tyrrrz/YoutubeExplode/commit/d1489ee3caee12b15b120d10cd1c60aef5b17ee9,Блокировка сборки (вывод ошибки) при обнаруженных белорусской или российской локалей.
 742,2023-05-22 12:00:00,hostile_actions,Valentina pattern design software,https://smart-pattern.com.ua/en/valentina/download/,"Программа намеренно падает с ошибкой, если в системе установлена русская локаль"
 743,2023-05-22 12:00:00,hostile_actions,lawinsider,https://www.lawinsider.com/dictionary/personal-use-license,Перенаправление на ролик на youtube
+755,2023-10-16 11:11:00,hostile_actions,outline,https://github.com/outline/outline/commit/228d1faa9fd3cbb82409d98e1443fed65adc5715,удалили русский перевод без анонсов и объяснений
+756,2023-10-16 11:11:00,hostile_actions,getoutline,https://translate.getoutline.com/,без уведомлений и объяснений убрали русскую локализацию и добавили украинскую
+760,2023-10-16 11:11:00,hostile_actions,OkHttp Profiler,https://plugins.jetbrains.com/plugin/11249-okhttp-profiler,Плагин &quot;OkHttp Profiler&quot; для Android Studio https://plugins.jetbrains.com/plugin/11249-okhttp-profiler (там есть скриншот в комментариях) Выводит ругательства русским и показывает кнопки &quot;Russia Invided Ukraine!&quot; Репозиторий: https://github.com/gektor650/OkHttpProfiler-AndroidStudio-Plugin
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -410,6 +413,10 @@ If you disagree with this decision, or want to learn more, please go to https://
 744,2023-05-22 12:00:00,ip_block,crosstalksolutions,https://www.crosstalksolutions.com/,блокировка по стране
 745,2023-05-22 12:00:00,ip_block,porteus-kiosk,https://porteus-kiosk.org/,"при попытке установки проверяет геопозицию по ip-адресу, и в случае запуска с российского адреса установка блокируется с сообщением: &quot;Due to our company policies the Porteus Kiosk systemc cannot be used in country: Russian Federation&quot;."
 746,2023-05-22 12:00:00,ip_block,skillsetter,https://skillsetter.io/,"До СВО обучали продуктовым и проектным профессиям, но так как создатели из Украины, потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry, you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
+751,2023-10-16 11:11:00,ip_block,catgirl.cloud,https://catgirl.cloud,"сервер со свободными сервисами (invidious, matrix и другие) — не отрывается в РФ"
+757,2023-10-16 11:11:00,ip_block,SAS,https://www.sas.com/,"поставщик бизнес-решений для работы с данными, ограничил доступ из России к документации, местному stackoverflow. Под VPN заходит. Заблокировали начиная с марта 2022 года."
+758,2023-10-16 11:11:00,ip_block,pygame,https://www.pygame.org,открывает сайт-заглушку при запросе с российского IP
+759,2023-10-16 11:11:00,ip_block,semrush,https://semrush.com,Блокировка по IP
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -540,7 +547,7 @@ If you disagree with this decision, or want to learn more, please go to https://
 243,2022-03-29 15:48:48,political_slogans,Activeadmin SimpleMDE Markdown Editor,https://github.com/ypylypenko/activeadmin_simplemde/commit/9bdf811b5c23430b5d7c45d342082e4f1cca14a9,Политические лозунги.
 244,2022-03-29 15:48:48,political_slogans,Php Project,https://github.com/spider-mane/php-project/commit/f742eafcf96496ad7f687f452a5c893d29f3e79e,#StandWithUkraine
 245,2022-03-29 15:48:48,political_slogans,PHPBench,https://github.com/phpbench/phpbench/commit/414f462c2ee40a6b30ffafbe0c4ee760e75780f8,standwithukraine
-246,2022-03-29 15:48:48,political_slogans,django-modeltranslatio,https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2,Политические лозунги в документации
+246,2022-03-29 15:48:48,political_slogans,django-modeltranslation,https://github.com/deschler/django-modeltranslation/commit/0617eadfb4606cd9cf3c5fcea761af142b5eb3b2,Политические лозунги в документации
 247,2022-03-29 15:48:48,political_slogans,11ty/11ty-website,https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6,шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для украины
 248,2022-03-29 15:48:48,political_slogans,repo.packagist.org,https://github.com/composer/packagist/pull/1270,composer update - выдает в консоли #StandWithUkraine
 249,2022-03-29 15:48:48,political_slogans,RNUILib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Баннер #StandWithUkraine
@@ -749,3 +756,6 @@ https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575
 748,2023-05-22 12:00:00,political_slogans,aiogram/aiogram,https://github.com/aiogram/aiogram,Лозунги
 749,2023-05-30 14:30:00,political_slogans,oliver006/redis_exporter,https://github.com/oliver006/redis_exporter,Политические лозунги на странице проекта.
 750,2023-05-30 14:30:00,political_slogans,React is a JavaScript library,https://react.dev/,Политический баннер в шапке
+752,2023-10-16 11:11:00,political_slogans,Bitwarden,https://github.com/bitwarden/clients/pull/5011,"1. Удалили поддержку карт Мир по политическим целям 2. Ничего не делают с protestware в их клиенте, вызванный Sweetalert2"
+753,2023-10-16 11:11:00,political_slogans,KLog,https://www.klog.xyz/,"флаг Украины в заголовке. KLog 2.0 – Stop the war. Posted on 26 February, 2022 by Jaime"
+754,2023-10-16 11:11:00,political_slogans,factorio,https://factorio.com/,"Плашка с поддержкой Украины на главном сайте, mods. и forum. поддоменах, на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
