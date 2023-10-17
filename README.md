@@ -39,3 +39,14 @@ Records in the database: 677
 - You can write to our [Telegram chat](https://t.me/g1l2a)
 - You can write to us at info@toxic-repos.ru
 - Submit your pull request.
+
+
+
+## 👥 Contributors
+
+<div align="center">
+  <a href="https://github.com/toxic-repos/toxic-repos/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=toxic-repos/toxic-repos&max=100&columns=15" style="margin: 5px;" />
+  </a>
+  <p>Join our community and become a contributor today! 🚀 </p>
+</div>
