@@ -38,4 +38,4 @@ Records in the database: 677
 
 - You can write to our [Telegram chat](https://t.me/g1l2a)
 - You can write to us at info@toxic-repos.ru
-- Submit your pull reguest.
+- Submit your pull request.
