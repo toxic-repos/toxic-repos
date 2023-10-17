@@ -17,7 +17,7 @@ This can pose a threat to people, and also undermines the credibility of the Ope
 
 ## Statistics
 
-Records in the database: 677
+Records in the database: 679
 
 [CHANGELOG](CHANGELOG.md)
 
@@ -39,7 +39,6 @@ Records in the database: 677
 - You can write to our [Telegram chat](https://t.me/g1l2a)
 - You can write to us at info@toxic-repos.ru
 - Submit your pull request.
-
 
 
 ## 👥 Contributors
