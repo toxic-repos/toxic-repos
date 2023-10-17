@@ -1360,6 +1360,14 @@
         "description": "Плагин &quot;OkHttp Profiler&quot; для Android Studio https://plugins.jetbrains.com/plugin/11249-okhttp-profiler (там есть скриншот в комментариях) Выводит ругательства русским и показывает кнопки &quot;Russia Invided Ukraine!&quot; Репозиторий: https://github.com/gektor650/OkHttpProfiler-AndroidStudio-Plugin"
     },
     {
+        "id": 761,
+        "datetime": "2023-10-16 12:29:00",
+        "problem_type": "hostile_actions",
+        "name": "Tailscale",
+        "commit_link": "tailscale.com",
+        "description": "Разработчики Tailscale запретили пользоваться их ПО, тперь для жителей России в магазинах приложений AppStore и Google Market клиента TailScale не скачать. У кого были скачены продолжают работать, но на долго ли …."
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -2814,6 +2822,14 @@
         "name": "semrush",
         "commit_link": "https://semrush.com",
         "description": "Блокировка по IP"
+    },
+    {
+        "id": 762,
+        "datetime": "2023-10-16 12:29:00",
+        "problem_type": "ip_block",
+        "name": "Servarr",
+        "commit_link": "https://github.com/Servarr",
+        "description": "Набор ПО для организации медиатеки и скачки кино, музыки и книг по запросу. После начала СВО автор запретили пользователям из РФ и РБ использовать свой api, также сделали блокировку по IP что отчасти ломает функционал ПО и блокируют доступ к сайту."
     },
     {
         "id": 1,
