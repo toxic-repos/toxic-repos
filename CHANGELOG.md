@@ -1,3 +1,8 @@
+# 25.10.23
+[add]
++ virtuozzo (jelastic)
++ dmarket
+
 # update to 16.10.23
 [add]
 + Tailscale

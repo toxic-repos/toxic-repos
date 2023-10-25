@@ -2832,6 +2832,14 @@
         "description": "Набор ПО для организации медиатеки и скачки кино, музыки и книг по запросу. После начала СВО автор запретили пользователям из РФ и РБ использовать свой api, также сделали блокировку по IP что отчасти ломает функционал ПО и блокируют доступ к сайту."
     },
     {
+        "id": 763,
+        "datetime": "2023-10-25 12:08:00",
+        "problem_type": "ip_block",
+        "name": "virtuozzo (jelastic)",
+        "commit_link": "https://virtuozzo.com",
+        "description": "https://virtuozzo.com https://jelastic.com Блокировка по ip"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -5430,5 +5438,13 @@
         "name": "factorio",
         "commit_link": "https://factorio.com/",
         "description": "Плашка с поддержкой Украины на главном сайте, mods. и forum. поддоменах, на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
+    },
+    {
+        "id": 764,
+        "datetime": "2023-10-25 12:08:00",
+        "problem_type": "political_slogans",
+        "name": "dmarket",
+        "commit_link": "https://dmarket.com/",
+        "description": "Политический лозунг"
     }
 ]
