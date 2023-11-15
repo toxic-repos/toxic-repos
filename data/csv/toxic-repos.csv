@@ -198,6 +198,10 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 756,2023-10-16 11:11:00,hostile_actions,getoutline,https://translate.getoutline.com/,без уведомлений и объяснений убрали русскую локализацию и добавили украинскую
 760,2023-10-16 11:11:00,hostile_actions,OkHttp Profiler,https://plugins.jetbrains.com/plugin/11249-okhttp-profiler,Плагин &quot;OkHttp Profiler&quot; для Android Studio https://plugins.jetbrains.com/plugin/11249-okhttp-profiler (там есть скриншот в комментариях) Выводит ругательства русским и показывает кнопки &quot;Russia Invided Ukraine!&quot; Репозиторий: https://github.com/gektor650/OkHttpProfiler-AndroidStudio-Plugin
 761,2023-10-16 12:29:00,hostile_actions,Tailscale,tailscale.com,"Разработчики Tailscale запретили пользоваться их ПО, тперь для жителей России в магазинах приложений AppStore и Google Market клиента TailScale не скачать. У кого были скачены продолжают работать, но на долго ли …."
+767,2023-11-15 09:15:00,hostile_actions,TabHamster,https://github.com/onikienko/TabHamster/commit/d406d1c3a95c44c28374e7aef7824095a63a6648,"Разработчик расширения управления закладками для браузера Chrome и Opera. Расширение позволяет сохранять и восстанавливать закладки, а также импортировать и экспортировать их через текстовой файл. На странице угрозы от нахрюка в адрес РФ. Хочет удалить русскую локаль: https://github.com/onikienko/TabHamster/issues/53 (их борьба). Сообщил в abuse на владельца (hate speech), Github ничего не сделал, угрозы по прежнему в readme репозитория."
+768,2023-11-15 09:15:00,hostile_actions,MyHomeLib,https://pikabu.ru/story/o_kriptomaynerakh_v_programmakh_dlya_rabotyi_s_arkhivami_knig_10614906,"Встроенный в программу для работы с архивами криптомайнер, отправляющий деньги ВСУ"
+780,2023-11-15 09:15:00,hostile_actions,Hogwarts Legacy,https://www.hogwartslegacy.com/,"Нет русского языка при наличии украинского. Нет возможности приобрести, только пиратство. В самом «продукте» русский перевод имеется. https://imgbox.com/MjrumW8o"
+782,2023-11-15 09:15:00,hostile_actions,Yohoho,https://yohoho.cc/,"Сайт для просмотра фильмов и сериалов (по коду фильма с кинопоиска). Предлагает перед просмотром внести пожертвование. При переходе на пожертвование предлагает ""пiдтримать до ВСУ"". Фактически блокируют просмотр, если не пожертвовать."
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -420,6 +424,16 @@ If you disagree with this decision, or want to learn more, please go to https://
 759,2023-10-16 11:11:00,ip_block,semrush,https://semrush.com,Блокировка по IP
 762,2023-10-16 12:29:00,ip_block,Servarr,https://github.com/Servarr,"Набор ПО для организации медиатеки и скачки кино, музыки и книг по запросу. После начала СВО автор запретили пользователям из РФ и РБ использовать свой api, также сделали блокировку по IP что отчасти ломает функционал ПО и блокируют доступ к сайту."
 763,2023-10-25 12:08:00,ip_block,virtuozzo (jelastic),https://virtuozzo.com,https://virtuozzo.com https://jelastic.com Блокировка по ip
+769,2023-11-15 09:15:00,ip_block,finplot,https://pypi.org/project/finplot/,"Если видит в локали пользователя что-то из _ru _by ru_ be_ ru be, то делает выход из программы. Опасности нет, просто идиотизм (пока что)."
+770,2023-11-15 09:15:00,ip_block,Corona Renderer,https://corona-renderer.com/download,403 Forbidden
+771,2023-11-15 09:15:00,ip_block,Ablebits,https://imgbox.com/TAfTSiJW,"На всех страницах ablebits.com клякса с ссылкой на очередной высер про «агрессоров», «соогрессоров» и далее по регламенту. А ещё они отреклись от Беларуси, где были основаны."
+772,2023-11-15 09:15:00,ip_block,Monal IM,https://monal.im,Страна не разрешена
+773,2023-11-15 09:15:00,ip_block,SetApp,https://setapp.com,"Подписочный сервис от украинских разработчиков с каталогом софта для macOS. Прекратили работу сервиса и заблокировали сайт в Беларуси и России, для всех остальных в программе висит баннер с ссылками на помощь ВСУ (судя по скриншоту с страницы-загулшки). Иронично, что блокировка так же блочит запись в блоге разработчиков с ""правдой"" от ""проверенных"" источников, на которую ссылается страница-заглушка."
+774,2023-11-15 09:15:00,ip_block,gcore,https://gcore.com/,"Удаляют сервера и аккаунты русских пользователей с формулировкой ""За захват Украины"""
+775,2023-11-15 09:15:00,ip_block,signalhire,https://www.signalhire.com,баннер со словами руский военый корабль
+776,2023-11-15 09:15:00,ip_block,kahoot,https://kahoot.it/,с российских IP редиректит на страницу с баннером
+777,2023-11-15 09:15:00,ip_block,Bellsoft,https://bell-sw.com/,Заблокировали доступ с российских IP
+778,2023-11-15 09:15:00,ip_block,bitbucket,https://community.atlassian.com/t5/Trello-questions/Terminate-your-Atlassian-account-in-30-days/qaq-p/2419532,Прислали письмо 26 сентября 2023.
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
@@ -763,3 +777,16 @@ https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575
 753,2023-10-16 11:11:00,political_slogans,KLog,https://www.klog.xyz/,"флаг Украины в заголовке. KLog 2.0 – Stop the war. Posted on 26 February, 2022 by Jaime"
 754,2023-10-16 11:11:00,political_slogans,factorio,https://factorio.com/,"Плашка с поддержкой Украины на главном сайте, mods. и forum. поддоменах, на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
 764,2023-10-25 12:08:00,political_slogans,dmarket,https://dmarket.com/,Политический лозунг
+765,2023-10-26 08:00:00,political_slogans,jestjs,https://github.com/jestjs/jest,Политический лозунг
+766,2023-11-15 09:15:00,political_slogans,PhpSpeadsheet,https://github.com/MarkBaker/PHPComplex/commit/d130142eba9d5c6d7e8f3fb4a9571133f206cf69,Политический лозунг
+779,2023-11-15 09:15:00,political_slogans,RoadRunner,https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.1,Баннер в версии 2.12.1
+781,2023-11-15 09:15:00,political_slogans,pdf-manuals,https://pdf-manuals.ru/,"При загрузке инструкции над кнопкой отображается надпись ""Остановите войну с Украиной"", загруженные файлы вместо инструкций содержат страницу стихотворения с фоном в виде украинского флага"
+783,2023-11-15 09:15:00,political_slogans,LammeXP,https://lamexp.sourceforge.net/,"Сайт программы содержит большое фото антироссийского митинга со всеми этими ""FCK PTN""."
+784,2023-11-15 09:15:00,political_slogans,Cobain Backup,https://www.cobiansoft.com/,"Баннер, лозунги. Поведение не ясно. Без обновления отказывается работать"
+785,2023-11-15 09:15:00,political_slogans,Internal Design Foundation,https://www.interaction-design.org/,https://imgbox.com/gzmIfuap
+786,2023-11-15 09:15:00,political_slogans,open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,Список софта для macOS с открытым исходным кодом. Добавили баннер в readme.
+787,2023-11-15 09:15:00,political_slogans,НомерНедели,номернедели.рф,Флаг Украины в шапке и в картинке в результатах поиска
+788,2023-11-15 09:15:00,political_slogans,Blender Artists Community,https://blenderartists.org/,Флаг Украины в логотипе
+789,2023-11-15 09:15:00,political_slogans,Kompass,https://www.kompass.com/,Очередное безосновательное “We stand with ukraine people” и удаление российской версии сайта. https://web.archive.org/web/20220301001832/https://ru.kompass.com/
+790,2023-11-15 09:15:00,political_slogans,OrbitalMarket - Enhanced marketplace,https://github.com/hugoattal/OrbitalMarket/commit/325547d22239e398c02a982f76c860b4a108c20a,"""Orbital Market stands with Ukraine"" в README и на сайте"
+791,2023-11-15 09:15:00,political_slogans,Vox Player,https://vox.rocks/forum/,В шапке баннер с политическими заявлениями. Разработчики с Украины. Лучше не пользоваться этим плеером

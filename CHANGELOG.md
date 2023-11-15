@@ -1,3 +1,36 @@
+# 15.11.23
+[add]
++ PhpSpeadsheet
++ TabHamster
++ MyHomeLib
++ finplot
++ Corona Renderer
++ Ablebits
++ Monal IM
++ SetApp
++ gcore
++ signalhire
++ kahoot
++ Bellsoft
++ bitbucket
++ RoadRunner
++ Hogwarts Legacy
++ pdf-manuals
++ Yohoho
++ LammeXP
++ Cobain Backup
++ Internal Design Foundation
++ open-source-mac-os-apps
++ НомерНедели
++ Blender Artists Community
++ Kompass
++ OrbitalMarket - Enhanced marketplace
++ Vox Player
+
+# 26.10.23
+[add]
++ jestjs
+
 # 25.10.23
 [add]
 + virtuozzo (jelastic)
