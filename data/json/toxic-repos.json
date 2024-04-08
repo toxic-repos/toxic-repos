@@ -2952,6 +2952,14 @@
         "description": "Прислали письмо 26 сентября 2023."
     },
     {
+        "id": 792,
+        "datetime": "2024-04-08 13:49:00",
+        "problem_type": "ip_block",
+        "name": "swagger",
+        "commit_link": "https://swagger.io/",
+        "description": "Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
