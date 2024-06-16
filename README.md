@@ -27,8 +27,8 @@ Records in the database: 708
 
 ## Recommendations
 
-- Assembly isolation in containers, including for intermediate assemblies on developers' machines.
-- Forks all libraries (if possible) and containers to yourself.
+- Code isolation in containers, including intermediate code on developers' machines.
+- Fork all libraries (if possible) and containers to yourself.
 - Mirroring package repositories.
 - Inclusion in CI of at least search by keywords, UTF characters with the image of the Ukrainian flag and comparison of the list of files with the whitelist.
 - Research on code analysis tools.
