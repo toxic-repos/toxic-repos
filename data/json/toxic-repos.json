@@ -293,7 +293,7 @@
         "problem_type": "ddos",
         "name": "MHDDoS_proxy",
         "commit_link": "https://github.com/SlavaUkraineSince1991/DDoS-for-all/blob/main/MHDDoS_proxy.md",
-        "description": "Используется украиной для DDoS атак на российские коммерческие и государственные компании"
+        "description": "Используется Украиной для DDoS атак на российские коммерческие и государственные компании"
     },
     {
         "id": 467,
@@ -493,7 +493,7 @@
         "problem_type": "hostile_actions",
         "name": "DeskCamera",
         "commit_link": "https://www.deskcamera.com",
-        "description": "Блокируют проплаченные и активированные лицензии в России. Техподдержка отвечает \"Слава украине\"."
+        "description": "Блокируют проплаченные и активированные лицензии в России. Техподдержка отвечает \"Слава Украине\"."
     },
     {
         "id": 86,
@@ -597,7 +597,7 @@
         "problem_type": "hostile_actions",
         "name": "W3schools Rus on GitHub",
         "commit_link": "https://github.com/w3schoolsrus/w3schoolsrus.github.io/commit/b3860d3e66dbc0c54ba617326c0378e42fd7fb12",
-        "description": "Клон сайта W3schools на русском. Делал укроинец. После 23 февраля решил удалить русский перевод и оставить только украинский. Восстановленная версия по состоянию на 23.02.2022 https://open-source-peace.github.io/w3schoolsrus/ https://github.com/w3schoolsru"
+        "description": "Клон сайта W3schools на русском. Делал украинец. После 23 февраля решил удалить русский перевод и оставить только украинский. Восстановленная версия по состоянию на 23.02.2022 https://open-source-peace.github.io/w3schoolsrus/ https://github.com/w3schoolsru"
     },
     {
         "id": 337,
@@ -1037,7 +1037,7 @@
         "problem_type": "hostile_actions",
         "name": "Redminer for Android",
         "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
-        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги Украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
     },
     {
         "id": 523,
@@ -3997,7 +3997,7 @@
         "problem_type": "political_slogans",
         "name": "11ty/11ty-website",
         "commit_link": "https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6",
-        "description": "шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для украины"
+        "description": "шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для Украины"
     },
     {
         "id": 248,
@@ -4149,7 +4149,7 @@
         "problem_type": "political_slogans",
         "name": "YoutubeDownloader",
         "commit_link": "https://github.com/Tyrrrz/YoutubeDownloader",
-        "description": "Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. \"украины\""
+        "description": "Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. \"Украины\""
     },
     {
         "id": 277,
@@ -4181,7 +4181,7 @@
         "problem_type": "political_slogans",
         "name": "verdaccio",
         "commit_link": "https://github.com/verdaccio/verdaccio/pull/3060",
-        "description": "Баннер в поддержку украины"
+        "description": "Баннер в поддержку Украины"
     },
     {
         "id": 281,
@@ -4237,7 +4237,7 @@
         "problem_type": "political_slogans",
         "name": "MikTex",
         "commit_link": "https://miktex.org/",
-        "description": "Логотип на фоне флага украины со ссылкой на пожертвования украинским беженцам"
+        "description": "Логотип на фоне флага Украины со ссылкой на пожертвования украинским беженцам"
     },
     {
         "id": 331,
@@ -4789,7 +4789,7 @@
         "problem_type": "political_slogans",
         "name": "fbreader",
         "commit_link": "https://fbreader.org/",
-        "description": "на сайте в качестве обозначения россии используется колабоционисткий флаг россии который массово сейчас используют так называемые за мир на украине"
+        "description": "на сайте в качестве обозначения России используется коллаборационистский флаг России который массово сейчас используют так называемые за мир на Украине"
     },
     {
         "id": 510,
@@ -4981,7 +4981,7 @@
         "problem_type": "political_slogans",
         "name": "PlatformIO",
         "commit_link": "https://platformio.org/",
-        "description": "PlatformIO - IDE для Embedded систем. Добавили внизу баннер в поддержку украины со ссылкой на твит и донаты"
+        "description": "PlatformIO - IDE для Embedded систем. Добавили внизу баннер в поддержку Украины со ссылкой на твит и донаты"
     },
     {
         "id": 577,
