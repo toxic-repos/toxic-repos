@@ -6,5 +6,5 @@
   - Or find our group: Toxic repos (private)
 - You can write to us at info@toxic-repos.ru
 - You can submit your pull request;
-- You can create [issue](https://github.com/stravnik/toxic-repos/issues/new);
-- You can start [discussion](https://github.com/stravnik/toxic-repos/discussions/new).
+- You can create an [issue](https://github.com/stravnik/toxic-repos/issues/new);
+- You can begin a [discussion](https://github.com/stravnik/toxic-repos/discussions/new).
