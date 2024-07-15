@@ -5533,7 +5533,7 @@
         "problem_type": "political_slogans",
         "name": "Bitwarden",
         "commit_link": "https://github.com/bitwarden/clients/pull/5011",
-        "description": "1. Удалили поддержку карт Мир по политическим целям 2. Ничего не делают с protestware в их клиенте, вызванный Sweetalert2"
+        "description": "Удалили поддержку карт Мир по политическим целям"
     },
     {
         "id": 753,
