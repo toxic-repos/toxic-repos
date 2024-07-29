@@ -5662,5 +5662,13 @@
         "name": "Vox Player",
         "commit_link": "https://vox.rocks/forum/",
         "description": "В шапке баннер с политическими заявлениями. Разработчики с Украины. Лучше не пользоваться этим плеером"
+    },
+    {
+        "id": 792,
+        "datetime": "2024-07-17 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "yurchykyur/project-stephen-js",
+        "commit_link": "https://github.com/yurchykyur/project-stephen-js/commit/686f5083006642eab139441f41940d0026e9db4e",
+        "description": "Политика на сайте"
     }
 ]
