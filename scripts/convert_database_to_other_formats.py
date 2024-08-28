@@ -29,11 +29,11 @@ def main() -> None:
         }
         for column_data in column_datas
     ]
-    with open(JSON_OUTFILE_PATH, "w") as fp:
+    with open(JSON_OUTFILE_PATH, "w", encoding="utf-8") as fp:
         json.dump(json_data, fp, ensure_ascii=False, indent=4)
 
     # To csv
-    with open(CSV_OUTFILE_PATH, "w", newline='') as fp:
+    with open(CSV_OUTFILE_PATH, "w", newline='', encoding="utf-8") as fp:
         csv_writer = csv.writer(fp)
         csv_writer.writerow(row_names)
         for column_data in column_datas:
