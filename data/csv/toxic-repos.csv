@@ -51,6 +51,7 @@ id,datetime,problem_type,name,commit_link,description
 Один из авторов https://www.codementor.io/@bohdanivashko"
 720,2023-02-07 09:10:00,ddos,stoprussia2022/KonturCertAuthDown,https://github.com/stoprussia2022/KonturCertAuthDown,Координатор DDoS атак (конфиг)
 721,2023-02-07 09:10:00,ddos,Anarcho-Hacktivist-JP/Kacap-Cracking,https://github.com/Anarcho-Hacktivist-JP/Kacap-Cracking,ddos tool
+802,2024-07-29 09:15:00,ddos,ghostsmatters/stoputin.github.io,https://github.com/ghostsmatters/stoputin.github.io/blob/main/app.js,Политика в репозитории с исходным кодом
 6,2022-03-29 15:48:48,hostile_actions,Глянец,https://drupal.ru/glyanec-scam,"Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
 20,2022-03-29 15:48:48,hostile_actions,ch33r10/SunflowerCon,https://github.com/ch33r10/SunflowerCon/commit/424e61c74463949dd43a62435ac8e332f4ba5a5f,Страница по координации и сбору IT - разведданных нацеленных на атаки инфраструктуры РФ
 23,2022-03-29 15:48:48,hostile_actions,curated-intel/Ukraine-Cyber-Operations,https://github.com/curated-intel/Ukraine-Cyber-Operations,Страница кураторов IT-разведок для координации информации необходимой для проведения хакерских атак и сбора разведданных о разведке РФ
@@ -788,6 +789,15 @@ https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575
 787,2023-11-15 09:15:00,political_slogans,НомерНедели,номернедели.рф,Флаг Украины в шапке и в картинке в результатах поиска
 788,2023-11-15 09:15:00,political_slogans,Blender Artists Community,https://blenderartists.org/,Флаг Украины в логотипе
 789,2023-11-15 09:15:00,political_slogans,Kompass,https://www.kompass.com/,Очередное безосновательное “We stand with ukraine people” и удаление российской версии сайта. https://web.archive.org/web/20220301001832/https://ru.kompass.com/
-790,2023-11-15 09:15:00,political_slogans,OrbitalMarket - Enhanced marketplace,https://github.com/hugoattal/OrbitalMarket/commit/325547d22239e398c02a982f76c860b4a108c20a,"""Orbital Market stands with Ukraine"" в README и на сайте"
+790,2023-11-15 09:15:00,political_slogans,OrbitalMarket - Enhanced marketplace,https://github.com/hugoattal/OrbitalMarket/commit/325547d22239e398c02a982f76c860b4a108c20a,"Orbital Market stands with Ukraine" в README и на сайте"
 791,2023-11-15 09:15:00,political_slogans,Vox Player,https://vox.rocks/forum/,В шапке баннер с политическими заявлениями. Разработчики с Украины. Лучше не пользоваться этим плеером
 792,2024-07-17 09:15:00,political_slogans,yurchykyur/project-stephen-js,https://github.com/yurchykyur/project-stephen-js/commit/686f5083006642eab139441f41940d0026e9db4e,Политика на сайте
+793,2024-07-29 09:15:00,political_slogans,facebookresearch/ReAgent,https://github.com/facebookresearch/ReAgent?tab=readme-ov-file,Политика в репозитории с исходным кодом
+794,2024-07-29 09:15:00,political_slogans,facebookincubator/OnlineSchemaChange,https://github.com/facebookincubator/OnlineSchemaChange?tab=readme-ov-file#onlineschemachange,Политика в репозитории с исходным кодом
+795,2024-07-29 09:15:00,political_slogans,spatie/attended.io,https://github.com/spatie/attended.io/blob/1c65b06d345c7bc9f4d31c4596ff8a3d8cf957d1/readme.md?plain=1#L2,Политика в репозитории с исходным кодом
+796,2024-07-29 09:15:00,political_slogans,facebook/jscodeshift,https://github.com/facebook/jscodeshift/blob/d028a6faabb9668528f5f4737d507e5231a20a5e/README.md?plain=1,Политика в репозитории с исходным кодом
+797,2024-07-29 09:15:00,political_slogans,hackernoon/learn,https://github.com/hackernoon/learn/blob/567634d659329be4654b9b5beae94d12988ac56e/media/politics.md?plain=1#L488,Политика в репозитории с исходным кодом
+798,2024-07-29 09:15:00,political_slogans,bonny-art/it-frogs-tp-02,https://github.com/bonny-art/it-frogs-tp-02/blob/f81247c9d6acfea727e697ca0d590df8c6f4e946/src/main.js#L13,Политика в репозитории с исходным кодом
+799,2024-07-29 09:15:00,political_slogans,sirLightRain/project-12OuFrnd,https://github.com/sirLightRain/project-12OuFrnd/blob/79c6b9e6b205675d2117c135b7aa23fa7d1c2317/src/index.js#L4,Политика в репозитории с исходным кодом
+800,2024-07-29 09:15:00,political_slogans,facebook/redex,https://github.com/facebook/redex/blob/c1cdada3eef8b5ff5a5e90ac8c47830716854fc5/website/docusaurus.config.js#L58,Политика в репозитории с исходным кодом
+801,2024-07-29 09:15:00,political_slogans,punk-security/support-ukraine,https://github.com/punk-security/support-ukraine?tab=readme-ov-file#usage,Политика в репозитории с исходным кодом

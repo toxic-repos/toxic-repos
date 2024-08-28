@@ -392,6 +392,14 @@
         "description": "ddos tool"
     },
     {
+        "id": 802,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "ddos",
+        "name": "ghostsmatters/stoputin.github.io",
+        "commit_link": "https://github.com/ghostsmatters/stoputin.github.io/blob/main/app.js",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
         "id": 6,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
@@ -5670,5 +5678,77 @@
         "name": "yurchykyur/project-stephen-js",
         "commit_link": "https://github.com/yurchykyur/project-stephen-js/commit/686f5083006642eab139441f41940d0026e9db4e",
         "description": "Политика на сайте"
+    },
+    {
+        "id": 793,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "facebookresearch/ReAgent",
+        "commit_link": "https://github.com/facebookresearch/ReAgent?tab=readme-ov-file",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 794,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "facebookincubator/OnlineSchemaChange",
+        "commit_link": "https://github.com/facebookincubator/OnlineSchemaChange?tab=readme-ov-file#onlineschemachange",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 795,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "spatie/attended.io",
+        "commit_link": "https://github.com/spatie/attended.io/blob/1c65b06d345c7bc9f4d31c4596ff8a3d8cf957d1/readme.md?plain=1#L2",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 796,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "facebook/jscodeshift",
+        "commit_link": "https://github.com/facebook/jscodeshift/blob/d028a6faabb9668528f5f4737d507e5231a20a5e/README.md?plain=1",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 797,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "hackernoon/learn",
+        "commit_link": "https://github.com/hackernoon/learn/blob/567634d659329be4654b9b5beae94d12988ac56e/media/politics.md?plain=1#L488",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 798,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "bonny-art/it-frogs-tp-02",
+        "commit_link": "https://github.com/bonny-art/it-frogs-tp-02/blob/f81247c9d6acfea727e697ca0d590df8c6f4e946/src/main.js#L13",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 799,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "sirLightRain/project-12OuFrnd",
+        "commit_link": "https://github.com/sirLightRain/project-12OuFrnd/blob/79c6b9e6b205675d2117c135b7aa23fa7d1c2317/src/index.js#L4",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 800,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "facebook/redex",
+        "commit_link": "https://github.com/facebook/redex/blob/c1cdada3eef8b5ff5a5e90ac8c47830716854fc5/website/docusaurus.config.js#L58",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
+        "id": 801,
+        "datetime": "2024-07-29 09:15:00",
+        "problem_type": "political_slogans",
+        "name": "punk-security/support-ukraine",
+        "commit_link": "https://github.com/punk-security/support-ukraine?tab=readme-ov-file#usage",
+        "description": "Политика в репозитории с исходным кодом"
     }
 ]
