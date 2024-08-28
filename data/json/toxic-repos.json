@@ -1416,6 +1416,14 @@
         "description": "Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов, https://habr.com/ru/news/839336/"
     },
     {
+        "id": 804,
+        "datetime": "2024-08-28 09:15:00",
+        "problem_type": "hostile_actions",
+        "name": "facebook/yoga",
+        "commit_link": "https://github.com/facebook/yoga/commit/b4d144a5469a76aecc9666c3602caf28d3077b4a",
+        "description": "Политика в репозитории с исходным кодом"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
