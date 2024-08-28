@@ -204,7 +204,6 @@ The U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, B
 780,2023-11-15 09:15:00,hostile_actions,Hogwarts Legacy,https://www.hogwartslegacy.com/,"Нет русского языка при наличии украинского. Нет возможности приобрести, только пиратство. В самом «продукте» русский перевод имеется. https://imgbox.com/MjrumW8o"
 782,2023-11-15 09:15:00,hostile_actions,Yohoho,https://yohoho.cc/,"Сайт для просмотра фильмов и сериалов (по коду фильма с кинопоиска). Предлагает перед просмотром внести пожертвование. При переходе на пожертвование предлагает ""пiдтримать до ВСУ"". Фактически блокируют просмотр, если не пожертвовать."
 803,2024-08-28 09:15:00,hostile_actions,opentofu/registry,https://github.com/opentofu/registry/commit/33e2456f294bca4c955d04afc4620ab05c559fb9,"Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов, https://habr.com/ru/news/839336/"
-804,2024-08-28 09:15:00,hostile_actions,facebook/yoga,https://github.com/facebook/yoga/commit/b4d144a5469a76aecc9666c3602caf28d3077b4a,Политика в репозитории с исходным кодом
 57,2022-03-29 15:48:48,ip_block,Игра Top Eleven от nordeus,eu.nordeus.topeleven.android,"Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
 58,2022-03-29 15:48:48,ip_block,Grafana,https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi,"При попытке скачать бинарники Grafa появляется ошибка ""Sorry, our service is currently not available in your region"""
 59,2022-03-29 15:48:48,ip_block,checkmk,https://checkmk.com/,Закрыт доступ с российских IP
@@ -803,3 +802,6 @@ https://github.com/spatie/laravel-google-fonts/commit/53aba438beaafdb3c99bb57575
 799,2024-07-29 09:15:00,political_slogans,sirLightRain/project-12OuFrnd,https://github.com/sirLightRain/project-12OuFrnd/blob/79c6b9e6b205675d2117c135b7aa23fa7d1c2317/src/index.js#L4,Политика в репозитории с исходным кодом
 800,2024-07-29 09:15:00,political_slogans,facebook/redex,https://github.com/facebook/redex/blob/c1cdada3eef8b5ff5a5e90ac8c47830716854fc5/website/docusaurus.config.js#L58,Политика в репозитории с исходным кодом
 801,2024-07-29 09:15:00,political_slogans,punk-security/support-ukraine,https://github.com/punk-security/support-ukraine?tab=readme-ov-file#usage,Политика в репозитории с исходным кодом
+804,2024-08-28 09:15:00,political_slogans,facebook/yoga,https://github.com/facebook/yoga/commit/b4d144a5469a76aecc9666c3602caf28d3077b4a,Политика в репозитории с исходным кодом
+805,2024-08-28 09:15:00,political_slogans,tekkeon/stand-with-ukraine,https://github.com/tekkeon/stand-with-ukraine,Front-end components to unify the web in support Ukraine
+806,2024-08-28 09:15:00,political_slogans,mudmykola/support-ukraine-landing,https://github.com/mudmykola/support-ukraine-landing,Support Ukraine Landing
