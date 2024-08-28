@@ -12,6 +12,7 @@ JSON_OUTFILE_PATH = Path("data/json/toxic-repos.json")
 CSV_OUTFILE_PATH = Path("data/csv/toxic-repos.csv")
 
 
+
 def main() -> None:
     connection = sqlite3.connect(DATABASE_PATH)
     cursor = connection.cursor()
