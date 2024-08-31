@@ -1416,6 +1416,22 @@
         "description": "Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов, https://habr.com/ru/news/839336/"
     },
     {
+        "id": 807,
+        "datetime": "2024-07-02 09:15:00",
+        "problem_type": "ip-block",
+        "name": "packages.sury.org",
+        "commit_link": "https://github.com/oerdnj/deb.sury.org/issues/2155",
+        "description": "#117 Делает сборки PHP под Debian и Ubuntu. Заблокировал доступ к своему репозиторию с российских IP, а также из шведской локации VPS Aeza (раньше блок IP принадлежал провайдеру VDSina, потому тоже попал под раздачу). Через браузер его репозиторий https://packages.sury.org/ открывается нормально, а через менеджер пакетов apt (для которого он предназначен) не работает из-за нестандартного кода ответа сервера 451. Также переблочил в своём github-репозитории российских коллабораторов, отобрав доступ к созданию issue и пулреквестов, а также комментированию."
+    },
+    {
+        "id": 808,
+        "datetime": "2024-08-29 09:15:00",
+        "problem_type": "ip-block",
+        "name": "makenotion/notion-sdk-js",
+        "commit_link": "https://www.notion.so/help/restrictions-for-customers-based-in-russia",
+        "description": "#118 Сервис для управления проектами Notion прекращает работу в России с 9.09.2024. https://habr.com/p/839296/ #118"
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
@@ -3030,6 +3046,54 @@
         "name": "ctx (python package)",
         "commit_link": "https://pypistats.org/packages/ctx",
         "description": "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
+    },
+    {
+        "id": 809,
+        "datetime": "2024-08-29 09:15:00",
+        "problem_type": "malware",
+        "name": "polyfillpolyfill/polyfill-service",
+        "commit_link": "https://web.archive.org/web/20240624110153/https://github.com/polyfillpolyfill/polyfill-service/issues/2873",
+        "description": "#119 https://habr.com/p/825774/"
+    },
+    {
+        "id": 810,
+        "datetime": "2024-08-29 09:15:00",
+        "problem_type": "malware",
+        "name": "pabio/redirect-russia",
+        "commit_link": "https://github.com/pabio/redirect-russia",
+        "description": "Redirect Russian traffic from your site to support Ukraine"
+    },
+    {
+        "id": 811,
+        "datetime": "2024-08-29 09:15:00",
+        "problem_type": "malware",
+        "name": "AnandChowdhary",
+        "commit_link": "https://github.com/pabio/redirect-russia/graphs/contributors",
+        "description": "#120 Разработчик сервиса по редиректу на политические лозунги"
+    },
+    {
+        "id": 812,
+        "datetime": "2024-08-30 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "mermakowich/spaceZZZ",
+        "commit_link": "https://github.com/mermakowich/spaceZZZ/commit/d62c132cc630bedca4c804beb4c9d67543228e80",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 813,
+        "datetime": "2024-08-30 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "mermakowich/GOYDA-ZOV",
+        "commit_link": "https://github.com/mermakowich/GOYDA-ZOV",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 814,
+        "datetime": "2024-08-30 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "ILK17/zov",
+        "commit_link": "https://github.com/ILK17/zov/commit/f0de3242fad6ceb33bce2c08c799138a5a2faa93",
+        "description": "Политические лозунги"
     },
     {
         "id": 3,
