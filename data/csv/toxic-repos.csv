@@ -438,6 +438,7 @@ If you disagree with this decision, or want to learn more, please go to https://
 776,2023-11-15 09:15:00,ip_block,kahoot,https://kahoot.it/,с российских IP редиректит на страницу с баннером
 777,2023-11-15 09:15:00,ip_block,Bellsoft,https://bell-sw.com/,Заблокировали доступ с российских IP
 778,2023-11-15 09:15:00,ip_block,bitbucket,https://community.atlassian.com/t5/Trello-questions/Terminate-your-Atlassian-account-in-30-days/qaq-p/2419532,Прислали письмо 26 сентября 2023.
+815,2024-09-27 18:49:00,ip_block,swagger.io,https://github.com/swagger-api/swagger-ui/issues/9640,Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP
 1,2022-03-29 15:48:48,malware,Onefetch,https://github.com/o2sh/onefetch,"При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
 2,2022-03-29 15:48:48,malware,Yaffle/EventSource,https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a,https://github.com/Yaffle/EventSource/issues/199
 9,2022-03-29 15:48:48,malware,node-ipc,https://github.com/RIAEvangelist/node-ipc/issues/233,https://github.com/RIAEvangelist/node-ipc/issues/233 В библиотеку node-ipc добавили шифровальщик для ip России и Белоруссии https://github.com/RIAEvangelist/node-ipc/blob/847047cf7f81ab08352038b2204f0e7633449580/dao/ssl-geospec.js Оно реально всю фс закиды
