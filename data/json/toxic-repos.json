@@ -2984,6 +2984,14 @@
         "description": "Прислали письмо 26 сентября 2023."
     },
     {
+        "id": 817,
+        "datetime": "2024-09-27 09:15:00",
+        "problem_type": "ip_block",
+        "name": "swagger-api/swagger-ui",
+        "commit_link": "https://github.com/swagger-api/swagger-ui",
+        "description": "https://github.com/swagger-api/swagger-ui/issues/9640 , https://swagger.io/ - Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3110,14 +3118,6 @@
         "name": "nissl-lab/npoi",
         "commit_link": "https://github.com/nissl-lab/npoi/commit/63a74df47e64fec9ad93ed96dce816f5acb543e6",
         "description": "Политические лозунги"
-    },
-    {
-        "id": 817,
-        "datetime": "2024-09-27 09:15:00",
-        "problem_type": "political-slogans",
-        "name": "swagger-api/swagger-ui",
-        "commit_link": "https://github.com/swagger-api/swagger-ui",
-        "description": "https://github.com/swagger-api/swagger-ui/issues/9640 , https://swagger.io/ - Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
     },
     {
         "id": 3,
