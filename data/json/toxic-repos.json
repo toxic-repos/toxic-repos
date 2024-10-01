@@ -13,7 +13,7 @@
         "problem_type": "broken_assembly",
         "name": "yandex-php-library",
         "commit_link": "https://github.com/nixsolutions/yandex-php-library/blob/master/README.md",
-        "description": "Заметил проблему с библиотекой дней 10 назад, владелец из Харькова,"
+        "description": "Заметил проблему с библиотекой дней 10 назад. Владелец из Харькова"
     },
     {
         "id": 8,
@@ -21,7 +21,7 @@
         "problem_type": "broken_assembly",
         "name": "Un-Official Yandex-XML PHP library",
         "commit_link": "https://packagist.org/packages/anton-shevchuk/yandex-xml-library",
-        "description": "В packagist добавлена версия пакета с политическим лозунгом, а исходники удалены из гитхаба. Результат - поломаная сборка проекта"
+        "description": "В packagist добавлена версия пакета с политическим лозунгом. Исходники удалены из гитхаба. Результат - поломаная сборка проекта"
     },
     {
         "id": 12,
@@ -45,7 +45,7 @@
         "problem_type": "ddos",
         "name": "Anti-Prop/antiprop_basic",
         "commit_link": "https://github.com/Anti-Prop/antiprop_basic/commit/77a2f5f09b79d39702b6929be10fae5e260177ab",
-        "description": "DDoS tool, working from browser, against RU resources"
+        "description": "DDoS tool working from browser against RU resources"
     },
     {
         "id": 16,
@@ -85,7 +85,7 @@
         "problem_type": "ddos",
         "name": "alexander-danilenko/ua-loadtest",
         "commit_link": "https://github.com/alexander-danilenko/ua-loadtest/commit/ce994b94bf8cc67fd04914d08e3913bcac1c4f53",
-        "description": "ПО для нагрузочного тестирования, ориентированное на использования в DDoS атаках на ресурсы РФ"
+        "description": "ПО для нагрузочного тестирования ориентированное на использования в DDoS атаках на ресурсы РФ"
     },
     {
         "id": 22,
@@ -101,7 +101,7 @@
         "problem_type": "ddos",
         "name": "erkexzcx/stoppropaganda",
         "commit_link": "https://github.com/erkexzcx/stoppropaganda/commit/d1e0a530e6ebce2b61df2afa038956c074998292",
-        "description": "Хакерское ПО для проведения DDoS атак, настроенное на инфраструктуру и ресурсы РФ"
+        "description": "Хакерское ПО для проведения DDoS атак и настроенное на инфраструктуру + ресурсы РФ"
     },
     {
         "id": 27,
@@ -109,7 +109,7 @@
         "problem_type": "ddos",
         "name": "GloryToUA/Justice3",
         "commit_link": "https://github.com/GloryToUA/Justice3/commit/38d5e7710929d6a6b19e7c60a867ef6a391abac0",
-        "description": "Инструментарий для DDoS атак, нацеленный на нефтедобывающую отрасль"
+        "description": "Инструментарий для DDoS атак на нефтедобывающую отрасль"
     },
     {
         "id": 31,
@@ -117,7 +117,7 @@
         "problem_type": "ddos",
         "name": "0x77dev/stoprussia",
         "commit_link": "https://github.com/0x77dev/stoprussia",
-        "description": "Набор инструментов для атак инфраструктуры РФ - доставка еды, транспорт, гос.ресурсы, различных коммерческих компаний"
+        "description": "Набор инструментов для атак инфраструктуры РФ"
     },
     {
         "id": 32,
@@ -125,7 +125,7 @@
         "problem_type": "ddos",
         "name": "Инструмент для DDoS атак",
         "commit_link": "https://github.com/d1sUa/DisDDos",
-        "description": "Инструмент для DDoS атак, призывы к атакам инфраструктуры РФ"
+        "description": "Инструмент для DDoS атак + призывы к атакам инфраструктуры РФ"
     },
     {
         "id": 33,
@@ -141,7 +141,7 @@
         "problem_type": "ddos",
         "name": "russia-must-be-stopped",
         "commit_link": "https://github.com/zozulinskyi/russia-must-be-stopped/commits/main",
-        "description": "Скрипт, встраиваемый в браузер и превращающий его в своебразного \"зомби\" в бот-сети. Также, в репе лежит 2 текстовых файлика со списками url-жертв."
+        "description": "Скрипт встраиваемый в браузер и превращающий его в своебразного \"зомби\" в бот-сети. + лежит 2 текстовых файлика со списками url-жертв."
     },
     {
         "id": 35,
@@ -197,7 +197,7 @@
         "problem_type": "ddos",
         "name": "AlexTrushkovsky/NoWarDDoS",
         "commit_link": "https://github.com/AlexTrushkovsky/NoWarDDoS",
-        "description": "Вообще на неё пожаловались много раз, и в итоге гитхаб выкосил репу, на что автор даже написал что гитхаб поддерживает Русских. Репа опять появилась."
+        "description": "Вообще на неё пожаловались много раз и в итоге гитхаб выкосил репу на что автор даже написал что гитхаб поддерживает Русских. Репа опять появилась."
     },
     {
         "id": 43,
@@ -277,7 +277,7 @@
         "problem_type": "ddos",
         "name": "vnestoruk/BAN-dera",
         "commit_link": "https://github.com/vnestoruk/ban-dera",
-        "description": "Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом. Я думаю, стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
+        "description": "Сервис который ддосит сайты из списка с компьютеров пользователей у кого открыта вкладка с сайтом. Я думаю стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
     },
     {
         "id": 349,
@@ -285,7 +285,7 @@
         "problem_type": "ddos",
         "name": "curlpump",
         "commit_link": "https://github.com/yellowsummer1972/curlpump/",
-        "description": "При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты, но и российские компании)."
+        "description": "При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты но и российские компании)."
     },
     {
         "id": 350,
@@ -365,7 +365,7 @@
         "problem_type": "ddos",
         "name": "NewEXE/ua-help",
         "commit_link": "https://github.com/NewEXE/ua-help",
-        "description": "Украинец Vlad Voloshyn из Харькова сделал сайт http://belsk.pp.ua для помощи студентам Белгородского строительного колледжа. На этом же сайте разместил ссылку на другой свой сайт https://github.com/NewEXE/ua-help, где опубликовал призывы остановить войну и инструкцию для DDoS атак на госучереждения РФ."
+        "description": "Украинец Vlad Voloshyn из Харькова сделал сайт http://belsk.pp.ua для помощи студентам Белгородского строительного колледжа. На этом же сайте разместил ссылку на другой свой сайт https://github.com/NewEXE/ua-help где опубликовал призывы остановить войну и инструкцию для DDoS атак на госучереждения РФ."
     },
     {
         "id": 719,
@@ -405,7 +405,7 @@
         "problem_type": "hostile_actions",
         "name": "Глянец",
         "commit_link": "https://drupal.ru/glyanec-scam",
-        "description": "Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил, что российские сай"
+        "description": "Компания «Глянец» встраивает на сайты клиентов вредоносный код для обхода защиты и получения полного доступа к сайтам. Они называют это «сервисным входом». 26 февраля руководитель «Глянец» Заика Анатолий в публичном телеграм-чате заявил об этом"
     },
     {
         "id": 20,
@@ -517,7 +517,7 @@
         "problem_type": "hostile_actions",
         "name": "1password",
         "commit_link": "https://blog.1password.com/responding-to-the-conflict-in-ukraine/",
-        "description": "Нельзя зарегать новый аккаунт из России, нельзя продлить подписку"
+        "description": "Нельзя зарегать новый аккаунт из России нельзя продлить подписку"
     },
     {
         "id": 91,
@@ -525,7 +525,7 @@
         "problem_type": "hostile_actions",
         "name": "Wowza",
         "commit_link": "https://www.wowza.com/",
-        "description": "Wowza — серверное программное обеспечения для организации как вещания потокового аудио и видео, так и доставки видео по запросу. Отозвало лицензии, в связи с чем вещание прекратилось. Ищите замену"
+        "description": "Wowza — серверное программное обеспечения для организации как вещания потокового аудио и видео так и доставки видео по запросу. Отозвало лицензии в связи с чем вещание прекратилось. Ищите замену"
     },
     {
         "id": 159,
@@ -533,7 +533,7 @@
         "problem_type": "hostile_actions",
         "name": "emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni",
         "commit_link": "https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/commit/278b4ec80b6c957bd7cbc0a8245a8ed2cba88e55",
-        "description": "Ресурсы для сбора разведданных и аналитики - геолокация, парсинг ресурсов, и т.п."
+        "description": "Ресурсы для сбора разведданных и аналитики - геолокация парсинг ресурсов и т.п."
     },
     {
         "id": 164,
@@ -541,7 +541,7 @@
         "problem_type": "hostile_actions",
         "name": "danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English",
         "commit_link": "https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Resources-in-English/commit/7943fb13858197707b13686b612548f5812b3fab",
-        "description": "Страница для координации хакерских атак на инфраструктуру РФ, ссылки на прикладное ПО для атак, цели и адреса групп координирующих хакерские атаки"
+        "description": "Страница для координации хакерских атак на инфраструктуру РФ ссылки на прикладное ПО для атак цели и адреса групп координирующих хакерские атаки"
     },
     {
         "id": 166,
@@ -565,7 +565,7 @@
         "problem_type": "hostile_actions",
         "name": "OkayCMS",
         "commit_link": "https://okay-cms.com/ https://ok-cms.com/",
-        "description": "Были политические заявления в блоге и на сайте компании, указывающие на то, что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей"
+        "description": "Были политические заявления в блоге и на сайте компании указывающие на то что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей"
     },
     {
         "id": 227,
@@ -581,7 +581,7 @@
         "problem_type": "hostile_actions",
         "name": "CliWrap",
         "commit_link": "https://github.com/Tyrrrz/CliWrap",
-        "description": "Внесение в условия использования, по которому использование библиотеки означает согласие с утверждениями которые могут привести у уголовной ответственности, разумеется нарушает принципы Открытого ПО, как заметил в ответах к комментарию автора в твиттере од"
+        "description": "Внесение в условия использования по которому использование библиотеки означает согласие с утверждениями которые могут привести у уголовной ответственности разумеется нарушает принципы Открытого ПО как заметил в ответах к комментарию автора в твиттере од"
     },
     {
         "id": 295,
@@ -613,7 +613,7 @@
         "problem_type": "hostile_actions",
         "name": "Uptime kuma",
         "commit_link": "https://github.com/louislam/uptime-kuma/tree/1.12.0 https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released",
-        "description": "Удаляли русский язык, просили путина закончить войну что бы вернуть его."
+        "description": "Удаляли русский язык просили путина закончить войну что бы вернуть его."
     },
     {
         "id": 355,
@@ -621,7 +621,7 @@
         "problem_type": "hostile_actions",
         "name": "PayPal",
         "commit_link": "paypal.com",
-        "description": "Сняли остаток на счёте, отвязали привязанную виртуальную карту тинькова. При повторной привязке сообщают об ошибке. В списке карт можно выбрать mastercard/visa/итд, а выбор карты МИР - отсутствует. При попытке перевести средства из-за рубежа через форму `https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+user&cmd=_donations&business=user%40domain.com` - предлагают только рубли."
+        "description": "Сняли остаток на счёте отвязали привязанную виртуальную карту тинькова. При повторной привязке сообщают об ошибке. В списке карт можно выбрать mastercard/visa/итд а выбор карты МИР - отсутствует. При попытке перевести средства из-за рубежа через форму `https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+user&cmd=_donations&business=user%40domain.com` - предлагают только рубли."
     },
     {
         "id": 358,
@@ -653,7 +653,7 @@
         "problem_type": "hostile_actions",
         "name": "HPE",
         "commit_link": "hpe.com",
-        "description": "HPE заблокировал аккаунты из РФ и Беларуси (Есть файлы, которые без зарегистрированного аккаунта с привязанным серийным номером не скачать) 24 марта пришло письмо от \"HPE Headquarters\" <no-reply@hpe.com> Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+        "description": "HPE заблокировал аккаунты из РФ и Беларуси (Есть файлы которые без зарегистрированного аккаунта с привязанным серийным номером не скачать) 24 марта пришло письмо от \"HPE Headquarters\" <no-reply@hpe.com> Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
     },
     {
         "id": 370,
@@ -661,7 +661,7 @@
         "problem_type": "hostile_actions",
         "name": "Synology",
         "commit_link": "https://synology.com/",
-        "description": "При запросе в тех.поддержку Synology, автоматически тикет падает в архив с ответом В связи с последними событиями Synology объявила о временной приостановке поставок всех продуктов и предоставлении технической поддержки любым юридическим и физическим лицам в Российской Федерации и Республике Беларусь. Если в аккаунте выбрать Казахстан, то через время отвечают со скриншотом Dear customer, we are sorry to inform you, that we need to close your technical support request. Due to European Union sanctions, Synology subsidiaries within European Union are temporarily unable to provide support for our products and customers, located in russia and belarus. Please reffer entire EU sanction description attached. Please find here the official Knowldege Center: https://kb.synology.com/ Knowledge Center provides description for all functions and help for most common topics. Please do not answer to this message, as we are unable to send you any further reply. Best Regards Synology GmbH Technical Support"
+        "description": "При запросе в тех.поддержку Synology автоматически тикет падает в архив с ответом В связи с последними событиями Synology объявила о временной приостановке поставок всех продуктов и предоставлении технической поддержки любым юридическим и физическим лицам в Российской Федерации и Республике Беларусь. Если в аккаунте выбрать Казахстан то через время отвечают со скриншотом Dear customer we are sorry to inform you that we need to close your technical support request. Due to European Union sanctions Synology subsidiaries within European Union are temporarily unable to provide support for our products and customers located in russia and belarus. Please reffer entire EU sanction description attached. Please find here the official Knowldege Center: https://kb.synology.com/ Knowledge Center provides description for all functions and help for most common topics. Please do not answer to this message as we are unable to send you any further reply. Best Regards Synology GmbH Technical Support"
     },
     {
         "id": 394,
@@ -669,7 +669,7 @@
         "problem_type": "hostile_actions",
         "name": "Norton Security",
         "commit_link": "https://norton.com/",
-        "description": "Отключили обновления. При попытке обновления ошибок нет, но антивирус всё-равно предупреждает об устаревших базах"
+        "description": "Отключили обновления. При попытке обновления ошибок нет но антивирус всё-равно предупреждает об устаревших базах"
     },
     {
         "id": 395,
@@ -677,7 +677,7 @@
         "problem_type": "hostile_actions",
         "name": "Host-tracker",
         "commit_link": "https://www.host-tracker.com/ru/",
-        "description": "Сервис распределенного мониторинга и оповещений. Отказали в обслуживании всем пользователям из России, разослали письма с лозунгами"
+        "description": "Сервис распределенного мониторинга и оповещений. Отказали в обслуживании всем пользователям из России разослали письма с лозунгами"
     },
     {
         "id": 396,
@@ -685,7 +685,7 @@
         "problem_type": "hostile_actions",
         "name": "Coursera",
         "commit_link": "https://www.coursera.org/",
-        "description": "Отказали в платных услугах всем пользователям из России, письмо с лозунгами в поддержку Украины"
+        "description": "Отказали в платных услугах всем пользователям из России письмо с лозунгами в поддержку Украины"
     },
     {
         "id": 397,
@@ -693,7 +693,7 @@
         "problem_type": "hostile_actions",
         "name": "NewRelic",
         "commit_link": "https://newrelic.com",
-        "description": "Отказали в обслуживании пользователям из России, игнор обращений в техподдержку при попытке решить этот вопрос"
+        "description": "Отказали в обслуживании пользователям из России игнор обращений в техподдержку при попытке решить этот вопрос"
     },
     {
         "id": 399,
@@ -709,7 +709,7 @@
         "problem_type": "hostile_actions",
         "name": "Ubuntu",
         "commit_link": "https://ubuntu.com/blog/canonical-standing-with-ukraine",
-        "description": "Canonical направила уведомление о прекращении поддержки, профессиональных услуг и партнерских отношений с российскими предприятиями. «Мы направим любой российский доход от подписки на такое обслуживание на украинские гуманитарные цели»"
+        "description": "Canonical направила уведомление о прекращении поддержки профессиональных услуг и партнерских отношений с российскими предприятиями. «Мы направим любой российский доход от подписки на такое обслуживание на украинские гуманитарные цели»"
     },
     {
         "id": 402,
@@ -789,7 +789,7 @@
         "problem_type": "hostile_actions",
         "name": "Vintage programmable calculators",
         "commit_link": "http://www.pisi.com.pl/piotr433/index.htm",
-        "description": "В марте владелец сайта удалил все материалы, связанные с советскими калькуляторами МК85 и МК90"
+        "description": "В марте владелец сайта удалил все материалы связанные с советскими калькуляторами МК85 и МК90"
     },
     {
         "id": 425,
@@ -813,7 +813,7 @@
         "problem_type": "hostile_actions",
         "name": "Weblium",
         "commit_link": "weblium.com",
-        "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги, видео. Не пускает в админку сайта"
+        "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги видео. Не пускает в админку сайта"
     },
     {
         "id": 437,
@@ -829,7 +829,7 @@
         "problem_type": "hostile_actions",
         "name": "Stripe",
         "commit_link": "https://dashboard.stripe.com/register",
-        "description": "Убрали РФ из списка стран: https://ibb.co/dD1QT57, а также сразу удаляют аккаунт, если указать, что ты из РФ"
+        "description": "Убрали РФ из списка стран: https://ibb.co/dD1QT57 а также сразу удаляют аккаунт если указать что ты из РФ"
     },
     {
         "id": 446,
@@ -837,7 +837,7 @@
         "problem_type": "hostile_actions",
         "name": "Archi",
         "commit_link": "https://github.com/archimatetool/archi",
-        "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate,\r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
+        "description": "Archi - opensource продукт для создания моделей и эскизов ArchiMate \r\nиспользуется корпоративными архитекторами повсеместно.\r\nНа сайте продукта www.archimatetool.com добавили баннер для сбора пожертвований для Украины."
     },
     {
         "id": 448,
@@ -845,7 +845,7 @@
         "problem_type": "hostile_actions",
         "name": "CCleaner",
         "commit_link": "https://www.ccleaner.com/ru-ru/ccleaner/download/standard",
-        "description": "При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m\r\nВозможно такое же поведение и с avast, т.к. разработчик один (Чехия)"
+        "description": "При попытке скачать бесплатную версию перебрасывает на страничку https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_008_999_a6d_m\r\nВозможно такое же поведение и с avast т.к. разработчик один (Чехия)"
     },
     {
         "id": 449,
@@ -853,7 +853,7 @@
         "problem_type": "hostile_actions",
         "name": "SAP",
         "commit_link": "https://www.ixbt.com/news/2022/04/20/krupnejshij-razrabotchik-po-sap-polnostju-uhodit-iz-rossii.html",
-        "description": "Полностью выводят бизнес, который они вели здесь более 30 лет.\r\nПризывают вывести свои данные из облака за пределы России, которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
+        "description": "Полностью выводят бизнес который они вели здесь более 30 лет.\r\nПризывают вывести свои данные из облака за пределы России которое здесь будет заблокировано. Подсанкционным фирмам не будут продлевать лицензии. Локальные продукты пока будут работать."
     },
     {
         "id": 450,
@@ -869,7 +869,7 @@
         "problem_type": "hostile_actions",
         "name": "MaxMind GeoLite2",
         "commit_link": "https://dev.maxmind.com/geoip/geolite2-free-geolocation-data",
-        "description": "Прислали письмо:\r\n\r\nDear GeoLite User,\r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities, MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday, April 25, 2022."
+        "description": "Прислали письмо:\r\n\r\nDear GeoLite User \r\n\r\nIn order to maintain compliance with US sanctions against certain Russian entities MaxMind is exercising its right to terminate your free access to the GeoLite2 Databases or Web Services per Section 10.(b) of the GeoLite2 End User License Agreement.\r\n\r\nYour account will no longer have access to the GeoLite2 Databases or Web Services on Monday April 25 2022."
     },
     {
         "id": 458,
@@ -885,7 +885,7 @@
         "problem_type": "hostile_actions",
         "name": "letyshops",
         "commit_link": "https://letyshops.com/ru",
-        "description": "при входе на сайт из России:\r\nНа данный момент, сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ, напишите, пожалуйста, на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить, почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
+        "description": "при входе на сайт из России:\r\nНа данный момент сервис недоступен в этом регионе\r\nВ вашем аккаунте указан регион РФ.\r\nЕсли это ошибка и вы не относитесь к региону РФ напишите пожалуйста на почту info@letyshops.ru\r\nВывести кэшбэк на благотворительность\r\nПришло время пояснить почему вы не можете пользоваться сервисом.\r\nЯ - украинец. Живу в Украине. И у нас война. и т.д."
     },
     {
         "id": 474,
@@ -893,7 +893,7 @@
         "problem_type": "hostile_actions",
         "name": "SmartFix",
         "commit_link": "https://smartfix.pro/",
-        "description": "Еще софт от Simplix - украинского автора \"Набор обновлений UpdatePack7R2\". SmartFix - это утилита для решения проблем Windows, которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов, запрашивает контрольные суммы со своего сервера, скачивает антивирусы, собственное средство WinRepair, восстанавливает битые системные библиотеки и делает многое другое.\r\nЕсть вероятность деструктивных действий для российских пользователей по команде с сервера.\r\nДругие продукты автора - SmartMon и LightBackup."
+        "description": "Еще софт от Simplix - украинского автора \"Набор обновлений UpdatePack7R2\". SmartFix - это утилита для решения проблем Windows которая внедрена во многие популярные WinPE для восстановления системы. Эта утилита проверяет целостность системных файлов запрашивает контрольные суммы со своего сервера скачивает антивирусы собственное средство WinRepair восстанавливает битые системные библиотеки и делает многое другое.\r\nЕсть вероятность деструктивных действий для российских пользователей по команде с сервера.\r\nДругие продукты автора - SmartMon и LightBackup."
     },
     {
         "id": 475,
@@ -901,7 +901,7 @@
         "problem_type": "hostile_actions",
         "name": "TeamViewer",
         "commit_link": "https://www.teamviewer.com/ru/",
-        "description": "Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.\r\n\"Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси\", - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия, но не будут продлеваться."
+        "description": "Сегодня днем ничего не подозревающие сисадмины и айтишники не смогли воспользоваться TeamViewer. Программа самопроизвольно закрывается и не позволяет подключиться повторно.\r\n\"Мы решили полностью прекратить любую оставшуюся деловую активность в России и Беларуси\" - говорится в сообщении на официальном сайте немецкой компании. Бесплатные версии заблокированы. Действующие подписки будут действительны до окончания их срока действия но не будут продлеваться."
     },
     {
         "id": 476,
@@ -917,7 +917,7 @@
         "problem_type": "hostile_actions",
         "name": "Confluence",
         "commit_link": "https://www.atlassian.com/",
-        "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response, we are pausing the sales of all new software to Russia\""
+        "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response we are pausing the sales of all new software to Russia\""
     },
     {
         "id": 481,
@@ -941,7 +941,7 @@
         "problem_type": "hostile_actions",
         "name": "VMware",
         "commit_link": "vmware.com",
-        "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта, все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce, Bureau of Industry & Security have recently issued prohibitions and sanctions, according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia, Ukraine and Belarus and/or relating to certain products."
+        "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce Bureau of Industry & Security have recently issued prohibitions and sanctions according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia Ukraine and Belarus and/or relating to certain products."
     },
     {
         "id": 485,
@@ -957,7 +957,7 @@
         "problem_type": "hostile_actions",
         "name": "zerofix",
         "commit_link": "https://gitlab.com/zerofix1/zerofix",
-        "description": "под предлогом улучшения производительности, продвигает ряд \"патчей\" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен, но возможно появление форков."
+        "description": "под предлогом улучшения производительности продвигает ряд \"патчей\" для Wine. Это софт на получение удаленного контроля над вашим ПК. Патчи для Wine устанавливаются только на исходный код. А то что предлагается на данном репозитории не является патчем для Wine. Сейчас данный репозиторий уже недоступен но возможно появление форков."
     },
     {
         "id": 491,
@@ -981,7 +981,7 @@
         "problem_type": "hostile_actions",
         "name": "Kingston",
         "commit_link": "https://www.kingston.com/ru/company/press/article/65778",
-        "description": "Выводит на сайте плашку с заявлением по Украине. Утверждают, что \"In light of the unprecedented nature of the conflict and the uncertain environment, Kingston has suspended all shipments to Russia.\" https://pikabu.ru/story/kingston_vsyo_9078019"
+        "description": "Выводит на сайте плашку с заявлением по Украине. Утверждают что \"In light of the unprecedented nature of the conflict and the uncertain environment Kingston has suspended all shipments to Russia.\" https://pikabu.ru/story/kingston_vsyo_9078019"
     },
     {
         "id": 497,
@@ -989,7 +989,7 @@
         "problem_type": "hostile_actions",
         "name": "Firefox",
         "commit_link": "-",
-        "description": "Firefox-based браузеры (Waterfox, Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную, настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ, обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
+        "description": "Firefox-based браузеры (Waterfox Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения."
     },
     {
         "id": 498,
@@ -997,7 +997,7 @@
         "problem_type": "hostile_actions",
         "name": "DuckDuckGo",
         "commit_link": "https://www.republicworld.com/technology-news/apps/russia-ukraine-war-duckduckgo-to-down-rank-sites-associated-with-russian-propaganda-articleshow.html",
-        "description": "Основатель \"приватного\" поисковика DuckDuckGo обещает снижать в выдаче сайты, которые дают \"неправильную\" информацию. О чём заявил в твиттере: \"Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation.\" — Gabriel Weinberg (@yegg) March 10, 2022"
+        "description": "Основатель \"приватного\" поисковика DuckDuckGo обещает снижать в выдаче сайты которые дают \"неправильную\" информацию. О чём заявил в твиттере: \"Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. At DuckDuckGo we've been rolling out search updates that down-rank sites associated with Russian disinformation.\" — Gabriel Weinberg (@yegg) March 10 2022"
     },
     {
         "id": 499,
@@ -1005,7 +1005,7 @@
         "problem_type": "hostile_actions",
         "name": "audiophilesoft.ru",
         "commit_link": "https://audiophilesoft.ru/",
-        "description": "Автор удалил все статьи со своего сайта, сейчас там заглушка с лозунгами"
+        "description": "Автор удалил все статьи со своего сайта сейчас там заглушка с лозунгами"
     },
     {
         "id": 512,
@@ -1013,7 +1013,7 @@
         "problem_type": "hostile_actions",
         "name": "t.me/cybersecs",
         "commit_link": "https://t.me/cybersecs",
-        "description": "Был канал просто по кибербезопасности, а стал токсичным"
+        "description": "Был канал просто по кибербезопасности а стал токсичным"
     },
     {
         "id": 513,
@@ -1021,7 +1021,7 @@
         "problem_type": "hostile_actions",
         "name": "Wasabi Cloud Storage",
         "commit_link": "https://wasabi.com/",
-        "description": "Прислали email - дали 48 часов на скачивание данных, после чего аккаунты, связанные с РФ удаляют. Риск потерять все свои бекапы, хранящиеся там."
+        "description": "Прислали email - дали 48 часов на скачивание данных после чего аккаунты связанные с РФ удаляют. Риск потерять все свои бекапы хранящиеся там."
     },
     {
         "id": 515,
@@ -1029,7 +1029,7 @@
         "problem_type": "hostile_actions",
         "name": "ESET",
         "commit_link": "https://www.eset.com/int/ua-crisis/",
-        "description": "Остановили продажи в РФ/РБ, украинцам бесплатно продлевают лицензии"
+        "description": "Остановили продажи в РФ/РБ украинцам бесплатно продлевают лицензии"
     },
     {
         "id": 518,
@@ -1037,7 +1037,7 @@
         "problem_type": "hostile_actions",
         "name": "DeaDBeeF player",
         "commit_link": "https://github.com/DeaDBeeF-Player/deadbeef/commit/3b3e5beb3371d846373bd4a452044c12c6e41732",
-        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения, давно проживающий в Дании, Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
+        "description": "Кроссплатформенный медиаплеер с открытым кодом. Автор - Алексей Яковенко (украинского происхождения давно проживающий в Дании Копенгаген). В версии 1.9 вставил в заголовок жовто-блакитных сердечек (https://github.com/DeaDBeeF-Player/deadbeef/commit/1bf5a239d8ba6de8a74c481044be4d7d01a9f62b). И удалил поддержку русского (https://github.com/DeaDBeeF-Player/deadbeef/commit/d68495890fab7e3ac63674df72d8de82a592d78f) и беларусского языков из программы. Вскоре по просьбам БЧБ-страждущих вернул беларусский язык назад (https://github.com/DeaDBeeF-Player/deadbeef/commit/2e90493c6546434d1a9dbf6c14aa281048ba7ace)."
     },
     {
         "id": 521,
@@ -1045,7 +1045,7 @@
         "problem_type": "hostile_actions",
         "name": "Redminer for Android",
         "commit_link": "https://play.google.com/store/apps/details?id=com.ideil.redmine&hl=ru&gl=US",
-        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка, на его сайте наблюдаются флаги Украины в большом количестве. Российские пользователи находятся в группе риска, т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
+        "description": "Приложением для доступа в систему управления проектами Redmine. Сейчас приложение стало работать в режиме readonly . Автор из Луцка на его сайте наблюдаются флаги Украины в большом количестве. Российские пользователи находятся в группе риска т.к. у приложения есть ключ для доступа к вашему проекту в Redmine. Рекомендуется удалить приложение и сбросить ключ."
     },
     {
         "id": 523,
@@ -1053,7 +1053,7 @@
         "problem_type": "hostile_actions",
         "name": "GitHub Enterprise Server",
         "commit_link": "https://github.com/github/site-policy/pull/556/files",
-        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран, в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
+        "description": "30 апреля GitHub внёс изменения в политику компании. РФ и РБ внесены в список стран в которых недопускаются продажи GitHub Enterprise Server. Также репозитории платных пользователей из указанных стран могут быть переведены в режим \"только чтение\"."
     },
     {
         "id": 524,
@@ -1069,7 +1069,7 @@
         "problem_type": "hostile_actions",
         "name": "Salesforce",
         "commit_link": "https://www.salesforce.com/news/stories/standing-with-ukraine/",
-        "description": "Разрывают действующие контракты с резидентами РФ, даже при отсутсвии в санкционном списке."
+        "description": "Разрывают действующие контракты с резидентами РФ даже при отсутсвии в санкционном списке."
     },
     {
         "id": 528,
@@ -1077,7 +1077,7 @@
         "problem_type": "hostile_actions",
         "name": "IceRaven Browser",
         "commit_link": "https://github.com/fork-maintainers/iceraven-browser",
-        "description": "Удалили с версии 1.16.0 поисковик Яндекс, в 1.15.0 он был"
+        "description": "Удалили с версии 1.16.0 поисковик Яндекс в 1.15.0 он был"
     },
     {
         "id": 530,
@@ -1085,7 +1085,7 @@
         "problem_type": "hostile_actions",
         "name": "Winbox (Snap пакет panaceya)",
         "commit_link": "https://github.com/panaceya/winbox",
-        "description": "Внутри пакета скрипт, которые при запуске выплевывает окошко с украинской пропагандой, к winbox отношение не имеет, просто данный субъект упаковал в snap пакет winbox+wine, приложения даже не его, но агрессивная пропаганда внутри пакета присутствует, как и на его странице в git, сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети), будьте внимательны."
+        "description": "Внутри пакета скрипт которые при запуске выплевывает окошко с украинской пропагандой к winbox отношение не имеет просто данный субъект упаковал в snap пакет winbox+wine приложения даже не его но агрессивная пропаганда внутри пакета присутствует как и на его странице в git сам пакет в Snap не убирают и не корректируют даже с учетом большого количества негативных отзывов (в т.ч. с нарушением работы сети) будьте внимательны."
     },
     {
         "id": 578,
@@ -1093,7 +1093,7 @@
         "problem_type": "hostile_actions",
         "name": "djinni",
         "commit_link": "djinni.co",
-        "description": "заблокированы аккаунты из России, призывы переводить деньги и т. п."
+        "description": "заблокированы аккаунты из России призывы переводить деньги и т. п."
     },
     {
         "id": 579,
@@ -1101,7 +1101,7 @@
         "problem_type": "hostile_actions",
         "name": "gperftools/gperftools",
         "commit_link": "https://github.com/gperftools/gperftools/issues/1345",
-        "description": "Удалили поддержку e2k, но arm почему-то оставили."
+        "description": "Удалили поддержку e2k но arm почему-то оставили."
     },
     {
         "id": 581,
@@ -1117,7 +1117,7 @@
         "problem_type": "hostile_actions",
         "name": "NETSCOUT",
         "commit_link": "https://www.netscout.com/blog/netscout-statement-about-ukraine",
-        "description": "stopped all sales, support, and services to Russian companies."
+        "description": "stopped all sales support and services to Russian companies."
     },
     {
         "id": 583,
@@ -1125,7 +1125,7 @@
         "problem_type": "hostile_actions",
         "name": "upwork",
         "commit_link": "https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022",
-        "description": "Upwork will be suspending operations in Russia and Belarus, starting today and taking full effect by May 1, 2022."
+        "description": "Upwork will be suspending operations in Russia and Belarus starting today and taking full effect by May 1 2022."
     },
     {
         "id": 584,
@@ -1157,7 +1157,7 @@
         "problem_type": "hostile_actions",
         "name": "Acronis",
         "commit_link": "https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/",
-        "description": "Acronis suspends all operations in Russia. Компания, основанная и построенная русскими, теперь всячески открещивается от своего происхождения и поддерживает Украину"
+        "description": "Acronis suspends all operations in Russia. Компания основанная и построенная русскими теперь всячески открещивается от своего происхождения и поддерживает Украину"
     },
     {
         "id": 588,
@@ -1165,7 +1165,7 @@
         "problem_type": "hostile_actions",
         "name": "Veeam",
         "commit_link": "https://www.veeam.com/blog/142834.html",
-        "description": "Cloud Backup & Replication. Donation to Ukraine, paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
+        "description": "Cloud Backup & Replication. Donation to Ukraine paused all sales in Russia. Статья в блоге стыдливо скрыта при доступе из РФ."
     },
     {
         "id": 593,
@@ -1181,7 +1181,7 @@
         "problem_type": "hostile_actions",
         "name": "Argisht44/android",
         "commit_link": "https://github.com/Argisht44/android",
-        "description": "СМС-спам, бомбер"
+        "description": "СМС-спам бомбер"
     },
     {
         "id": 595,
@@ -1189,7 +1189,7 @@
         "problem_type": "hostile_actions",
         "name": "NIRVANA101/Russian-GBSB",
         "commit_link": "https://github.com/NIRVANA101/Russian-GBSB",
-        "description": "Списки email и url государственных учреждений, банков, услуг и бизнеса РФ для спама и атак."
+        "description": "Списки email и url государственных учреждений банков услуг и бизнеса РФ для спама и атак."
     },
     {
         "id": 603,
@@ -1221,7 +1221,7 @@
         "problem_type": "hostile_actions",
         "name": "hybridauth/hybridauth",
         "commit_link": "https://github.com/hybridauth/hybridauth/releases/tag/v3.8.2",
-        "description": "Удалили авторизацию через российских провайдеров: ВК, ОК, Яндекс, Mail.ru. Лозунги."
+        "description": "Удалили авторизацию через российских провайдеров: ВК ОК Яндекс Mail.ru. Лозунги."
     },
     {
         "id": 640,
@@ -1245,7 +1245,7 @@
         "problem_type": "hostile_actions",
         "name": "Grub2Win",
         "commit_link": "https://sourceforge.net/projects/grub2win/files/",
-        "description": "Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том, что из-за СВО на Украине для России \"лицензия отозвана\". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это \"зашито\" в серверную часть, так как при запуске без интернета сообщения нет, а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик, так что это иностранный сочувствующий."
+        "description": "Веб-инсталлятор Grub2Win при попытке установки проверяет локаль и выдаёт сообщение о том что из-за СВО на Украине для России \"лицензия отозвана\". Скриншот: https://image-box.ru/files/2rp46p516m9.jpg Скорее всего это \"зашито\" в серверную часть так как при запуске без интернета сообщения нет а когда пускаешь в сеть - вываливается сообщение. Сообщение явно переведено через переводчик так что это иностранный сочувствующий."
     },
     {
         "id": 646,
@@ -1253,7 +1253,7 @@
         "problem_type": "hostile_actions",
         "name": "Seagate",
         "commit_link": "https://www.seagate.com/",
-        "description": "на сайте Seagate убрали выбор русского языка, хотя страница https://www.seagate.com/ru/ru/ всё еще доступна"
+        "description": "на сайте Seagate убрали выбор русского языка хотя страница https://www.seagate.com/ru/ru/ всё еще доступна"
     },
     {
         "id": 649,
@@ -1277,7 +1277,7 @@
         "problem_type": "hostile_actions",
         "name": "Autodesk",
         "commit_link": "https://www.autodesk.com",
-        "description": "AutoCAD и прочее. Сайт https://www.autodesk.ru/ отключен. Московское представительство закрывается, российских сотрудников уволят. Подробнее https://www.cnews.ru/news/top/2022-08-18_autodesk_vserossijskie_sotrudniki"
+        "description": "AutoCAD и прочее. Сайт https://www.autodesk.ru/ отключен. Московское представительство закрывается российских сотрудников уволят. Подробнее https://www.cnews.ru/news/top/2022-08-18_autodesk_vserossijskie_sotrudniki"
     },
     {
         "id": 663,
@@ -1301,7 +1301,7 @@
         "problem_type": "hostile_actions",
         "name": "Jooble",
         "commit_link": "https://jooble.org/",
-        "description": "Сайт вакансий. Если язык браузера русский - пишет, что ушли из России из-за СВО. Если язык браузера английский - отображает баннер на сбор пожетвований на ВСУ."
+        "description": "Сайт вакансий. Если язык браузера русский - пишет что ушли из России из-за СВО. Если язык браузера английский - отображает баннер на сбор пожетвований на ВСУ."
     },
     {
         "id": 675,
@@ -1309,15 +1309,15 @@
         "problem_type": "hostile_actions",
         "name": "WD Marvel repair tool",
         "commit_link": "https://wdmarvel.com",
-        "description": "https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483\r\nзаблокировали все купленные лицензии, антироссийкая позиция"
+        "description": "https://wdmarvel.com/forum/ru/viewtopic.php?f=3&t=2483\r\nзаблокировали все купленные лицензии антироссийкая позиция"
     },
     {
         "id": 695,
         "datetime": "2023-02-07 09:10:00",
         "problem_type": "hostile_actions",
-        "name": "s3.translator, s3.screengrab и др. расширения",
+        "name": "s3.translator s3.screengrab и др. расширения",
         "commit_link": "https://www.s3blog.org/",
-        "description": "Разработчик из Киева, ранее встраивал нахрюк-систему в свое изделие s3.weather (заблокировано в магазине Firefox). Что сейчас находится в скриптах - одному Олэксандру известно"
+        "description": "Разработчик из Киева ранее встраивал нахрюк-систему в свое изделие s3.weather (заблокировано в магазине Firefox). Что сейчас находится в скриптах - одному Олэксандру известно"
     },
     {
         "id": 697,
@@ -1333,7 +1333,7 @@
         "problem_type": "hostile_actions",
         "name": "Valentina pattern design software",
         "commit_link": "https://smart-pattern.com.ua/en/valentina/download/",
-        "description": "Программа намеренно падает с ошибкой, если в системе установлена русская локаль"
+        "description": "Программа намеренно падает с ошибкой если в системе установлена русская локаль"
     },
     {
         "id": 743,
@@ -1373,7 +1373,7 @@
         "problem_type": "hostile_actions",
         "name": "Tailscale",
         "commit_link": "tailscale.com",
-        "description": "Разработчики Tailscale запретили пользоваться их ПО, тперь для жителей России в магазинах приложений AppStore и Google Market клиента TailScale не скачать. У кого были скачены продолжают работать, но на долго ли …."
+        "description": "Разработчики Tailscale запретили пользоваться их ПО тперь для жителей России в магазинах приложений AppStore и Google Market клиента TailScale не скачать. У кого были скачены продолжают работать но на долго ли …."
     },
     {
         "id": 767,
@@ -1381,7 +1381,7 @@
         "problem_type": "hostile_actions",
         "name": "TabHamster",
         "commit_link": "https://github.com/onikienko/TabHamster/commit/d406d1c3a95c44c28374e7aef7824095a63a6648",
-        "description": "Разработчик расширения управления закладками для браузера Chrome и Opera. Расширение позволяет сохранять и восстанавливать закладки, а также импортировать и экспортировать их через текстовой файл. На странице угрозы от нахрюка в адрес РФ. Хочет удалить русскую локаль: https://github.com/onikienko/TabHamster/issues/53 (их борьба). Сообщил в abuse на владельца (hate speech), Github ничего не сделал, угрозы по прежнему в readme репозитория."
+        "description": "Разработчик расширения управления закладками для браузера Chrome и Opera. Расширение позволяет сохранять и восстанавливать закладки а также импортировать и экспортировать их через текстовой файл. На странице угрозы от нахрюка в адрес РФ. Хочет удалить русскую локаль: https://github.com/onikienko/TabHamster/issues/53 (их борьба). Сообщил в abuse на владельца (hate speech) Github ничего не сделал угрозы по прежнему в readme репозитория."
     },
     {
         "id": 768,
@@ -1389,7 +1389,7 @@
         "problem_type": "hostile_actions",
         "name": "MyHomeLib",
         "commit_link": "https://pikabu.ru/story/o_kriptomaynerakh_v_programmakh_dlya_rabotyi_s_arkhivami_knig_10614906",
-        "description": "Встроенный в программу для работы с архивами криптомайнер, отправляющий деньги ВСУ"
+        "description": "Встроенный в программу для работы с архивами криптомайнер отправляющий деньги ВСУ"
     },
     {
         "id": 780,
@@ -1397,7 +1397,7 @@
         "problem_type": "hostile_actions",
         "name": "Hogwarts Legacy",
         "commit_link": "https://www.hogwartslegacy.com/",
-        "description": "Нет русского языка при наличии украинского. Нет возможности приобрести, только пиратство. В самом «продукте» русский перевод имеется. https://imgbox.com/MjrumW8o"
+        "description": "Нет русского языка при наличии украинского. Нет возможности приобрести только пиратство. В самом «продукте» русский перевод имеется. https://imgbox.com/MjrumW8o"
     },
     {
         "id": 782,
@@ -1405,7 +1405,7 @@
         "problem_type": "hostile_actions",
         "name": "Yohoho",
         "commit_link": "https://yohoho.cc/",
-        "description": "Сайт для просмотра фильмов и сериалов (по коду фильма с кинопоиска). Предлагает перед просмотром внести пожертвование. При переходе на пожертвование предлагает \"пiдтримать до ВСУ\". Фактически блокируют просмотр, если не пожертвовать."
+        "description": "Сайт для просмотра фильмов и сериалов (по коду фильма с кинопоиска). Предлагает перед просмотром внести пожертвование. При переходе на пожертвование предлагает \"пiдтримать до ВСУ\". Фактически блокируют просмотр если не пожертвовать."
     },
     {
         "id": 803,
@@ -1413,7 +1413,7 @@
         "problem_type": "hostile_actions",
         "name": "opentofu/registry",
         "commit_link": "https://github.com/opentofu/registry/commit/33e2456f294bca4c955d04afc4620ab05c559fb9",
-        "description": "Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов, https://habr.com/ru/news/839336/"
+        "description": "Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов https://habr.com/ru/news/839336/"
     },
     {
         "id": 807,
@@ -1421,7 +1421,7 @@
         "problem_type": "ip-block",
         "name": "packages.sury.org",
         "commit_link": "https://github.com/oerdnj/deb.sury.org/issues/2155",
-        "description": "#117 Делает сборки PHP под Debian и Ubuntu. Заблокировал доступ к своему репозиторию с российских IP, а также из шведской локации VPS Aeza (раньше блок IP принадлежал провайдеру VDSina, потому тоже попал под раздачу). Через браузер его репозиторий https://packages.sury.org/ открывается нормально, а через менеджер пакетов apt (для которого он предназначен) не работает из-за нестандартного кода ответа сервера 451. Также переблочил в своём github-репозитории российских коллабораторов, отобрав доступ к созданию issue и пулреквестов, а также комментированию."
+        "description": "#117 Делает сборки PHP под Debian и Ubuntu. Заблокировал доступ к своему репозиторию с российских IP а также из шведской локации VPS Aeza (раньше блок IP принадлежал провайдеру VDSina потому тоже попал под раздачу). Через браузер его репозиторий https://packages.sury.org/ открывается нормально а через менеджер пакетов apt (для которого он предназначен) не работает из-за нестандартного кода ответа сервера 451. Также переблочил в своём github-репозитории российских коллабораторов отобрав доступ к созданию issue и пулреквестов а также комментированию."
     },
     {
         "id": 808,
@@ -1437,7 +1437,7 @@
         "problem_type": "ip_block",
         "name": "Игра Top Eleven от nordeus",
         "commit_link": "eu.nordeus.topeleven.android",
-        "description": "Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем, у кого была выбрана страна Россия. Я играл с 2019 года."
+        "description": "Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем у кого была выбрана страна Россия. Я играл с 2019 года."
     },
     {
         "id": 58,
@@ -1445,7 +1445,7 @@
         "problem_type": "ip_block",
         "name": "Grafana",
         "commit_link": "https://dl.grafana.com/enterprise/release/grafana-enterprise-8.4.4.windows-amd64.msi",
-        "description": "При попытке скачать бинарники Grafa появляется ошибка \"Sorry, our service is currently not available in your region\""
+        "description": "При попытке скачать бинарники Grafa появляется ошибка \"Sorry our service is currently not available in your region\""
     },
     {
         "id": 59,
@@ -1469,7 +1469,7 @@
         "problem_type": "ip_block",
         "name": "Sypex Geo",
         "commit_link": "https://sypexgeo.net/",
-        "description": "Sypex Geo – продукт для определение местоположения посетителя по IP-адресу. Проверял через немецкий VPN, работает нормально."
+        "description": "Sypex Geo – продукт для определение местоположения посетителя по IP-адресу. Проверял через немецкий VPN работает нормально."
     },
     {
         "id": 62,
@@ -1477,7 +1477,7 @@
         "problem_type": "ip_block",
         "name": "Elasticsearch",
         "commit_link": "docker.elastic.co/elasticsearch/elasticsearch",
-        "description": "Образ не грузится с российского IP. Команда для проверки docker pull docker.elastic.co/elasticsearch/elasticsearch:7.8.1 . См https://ibb.co/kDvN1q3\r\nДоступ к веб сайту https://www.elastic.co/ есть, но скачать ничего нельзя. Оставили доступ только к www, без www выдает ошибку 403. Компания прекратила продажи в РФ."
+        "description": "Образ не грузится с российского IP. Команда для проверки docker pull docker.elastic.co/elasticsearch/elasticsearch:7.8.1 . См https://ibb.co/kDvN1q3\r\nДоступ к веб сайту https://www.elastic.co/ есть но скачать ничего нельзя. Оставили доступ только к www без www выдает ошибку 403. Компания прекратила продажи в РФ."
     },
     {
         "id": 63,
@@ -1485,7 +1485,7 @@
         "problem_type": "ip_block",
         "name": "templatemonster.com",
         "commit_link": "https://www.templatemonster.com/",
-        "description": "Банят по ip через cloudflare. На сайте есть личный кабинет как покупателей так и продавцов, не знаю зависли ли у кого то деньги. Проверить не могу."
+        "description": "Банят по ip через cloudflare. На сайте есть личный кабинет как покупателей так и продавцов не знаю зависли ли у кого то деньги. Проверить не могу."
     },
     {
         "id": 64,
@@ -1501,7 +1501,7 @@
         "problem_type": "ip_block",
         "name": "HPE MyAccount Services",
         "commit_link": "Пришла E-mail рассылка на почту аккаунта",
-        "description": "Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+        "description": "Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
     },
     {
         "id": 66,
@@ -1509,7 +1509,7 @@
         "problem_type": "ip_block",
         "name": "IAR Embedded Workbench",
         "commit_link": "http://eclipse-update.iar.com/",
-        "description": "Закрыт доступ к части сайта, содержащей плагины для среды разработки Eclipse. Фирма IAR Systems является разработчиком компиляторов и интегрированных сред для встраиваемых систем. Также на сайте содержится репозиторий для дополнений к свободной среде Eclip"
+        "description": "Закрыт доступ к части сайта содержащей плагины для среды разработки Eclipse. Фирма IAR Systems является разработчиком компиляторов и интегрированных сред для встраиваемых систем. Также на сайте содержится репозиторий для дополнений к свободной среде Eclip"
     },
     {
         "id": 67,
@@ -1525,7 +1525,7 @@
         "problem_type": "ip_block",
         "name": "Hewlett Packard Enterprise",
         "commit_link": "https://www.hpe.com/ru/ru/home.html",
-        "description": "Прислали письмо: Due to regulatory requirements, HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
+        "description": "Прислали письмо: Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE."
     },
     {
         "id": 72,
@@ -1555,7 +1555,7 @@
         "id": 78,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
-        "name": "Продукты HasiCorp (Terraform, Consul и.т.п)",
+        "name": "Продукты HasiCorp (Terraform Consul и.т.п)",
         "commit_link": "https://apt.releases.hashicorp.com",
         "description": "Заблокирован доступ для скачивания бинарников для IP из России"
     },
@@ -1565,7 +1565,7 @@
         "problem_type": "ip_block",
         "name": "mattermost",
         "commit_link": "https://mattermost.com/",
-        "description": "Основной сайт отдаёт 403, если заходить с российского адреса"
+        "description": "Основной сайт отдаёт 403 если заходить с российского адреса"
     },
     {
         "id": 80,
@@ -1581,7 +1581,7 @@
         "problem_type": "ip_block",
         "name": "Shopware",
         "commit_link": "https://www.shopware.com/",
-        "description": "заблокирован доступ с русских ip, заблокирован русский аккаунт при заходе через VPN, предупреждений не было"
+        "description": "заблокирован доступ с русских ip заблокирован русский аккаунт при заходе через VPN предупреждений не было"
     },
     {
         "id": 82,
@@ -1605,7 +1605,7 @@
         "problem_type": "ip_block",
         "name": "Qt",
         "commit_link": "https://download.qt.io/",
-        "description": "Закрыли доступ ко всем внутренним ресурсам с 7.03.2022 Не работают ни чат, ни сервер загрузок, ни багтреккер. Фины из Qt Company ничего официально не заявляли - и, будем надеяться, что не будут ничего пихать в сорцы."
+        "description": "Закрыли доступ ко всем внутренним ресурсам с 7.03.2022 Не работают ни чат ни сервер загрузок ни багтреккер. Фины из Qt Company ничего официально не заявляли - и будем надеяться что не будут ничего пихать в сорцы."
     },
     {
         "id": 89,
@@ -1613,14 +1613,14 @@
         "problem_type": "ip_block",
         "name": "Oracle cloud infrastructure",
         "commit_link": "https://www.oracle.com/corporate/conflict-in-ukraine/russia/",
-        "description": "Не дает зайти в аккаунт, виртуальные машины пока еще работают"
+        "description": "Не дает зайти в аккаунт виртуальные машины пока еще работают"
     },
     {
         "id": 90,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "pnpm",
-        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83 , https://github.com/pnpm/pnpm/commit/0066c11b97799",
+        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83  https://github.com/pnpm/pnpm/commit/0066c11b97799",
         "description": "Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP."
     },
     {
@@ -1629,7 +1629,7 @@
         "problem_type": "ip_block",
         "name": "CIrcleCI",
         "commit_link": "https://support.circleci.com/hc/en-us/articles/360043679453-CircleCI-Terms-of-Service-Violation-Sanctioned-Country",
-        "description": "Банит, если зайти под русским IP, банит по github-аккаунту или другому способу авторизации, после бана VPN не поможет, только заполнение из формы"
+        "description": "Банит если зайти под русским IP банит по github-аккаунту или другому способу авторизации после бана VPN не поможет только заполнение из формы"
     },
     {
         "id": 291,
@@ -1643,9 +1643,9 @@
         "id": 292,
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
-        "name": "namecheap.com, nc.me, web-hosting.com",
+        "name": "namecheap.com nc.me web-hosting.com",
         "commit_link": "https://www.namecheap.com/",
-        "description": "Изначально обещали удалить все домены, зарегистрированные россиянами, а также приостановить хостинг и почту для доменов в белорусских и российских зонах. Позже сделали исключение для оппозиционных СМИ, но пообещали:\r\n* блокировать платежи с российских карт и с российскими почтовыми адресами\r\n* в саппорте не отвечать на тикеты от пользователей с российскими почтовыми адресами\r\n* забанить хостинг и почту для доменов *.ru*, *.xn--p1ai (рф)*, *.by*, *.xn--90ais (бел)*, *.su*\r\n* в саппорте не отвечать на тикеты от пользователей, которые заходили с российских IP.\r\n\r\nКроме того, основатель компании Richard Kirkendall в Twitter успеть опубликовать пару антироссийских лозунгов, а саппорт компании противоречит самому себе в твиттере и по электронной почте. Стоит отметить, что хотя полностью домены не удалили, это решение привело к финансовым потерям простых клиентов, так как всем нам придётся менять хостинг и регистратора, ведь даже при желании пользоваться Namecheap в дальнейшем не удастся оплачивать услуги."
+        "description": "Изначально обещали удалить все домены зарегистрированные россиянами а также приостановить хостинг и почту для доменов в белорусских и российских зонах. Позже сделали исключение для оппозиционных СМИ но пообещали:\r\n* блокировать платежи с российских карт и с российскими почтовыми адресами\r\n* в саппорте не отвечать на тикеты от пользователей с российскими почтовыми адресами\r\n* забанить хостинг и почту для доменов *.ru* *.xn--p1ai (рф)* *.by* *.xn--90ais (бел)* *.su*\r\n* в саппорте не отвечать на тикеты от пользователей которые заходили с российских IP.\r\n\r\nКроме того основатель компании Richard Kirkendall в Twitter успеть опубликовать пару антироссийских лозунгов а саппорт компании противоречит самому себе в твиттере и по электронной почте. Стоит отметить что хотя полностью домены не удалили это решение привело к финансовым потерям простых клиентов так как всем нам придётся менять хостинг и регистратора ведь даже при желании пользоваться Namecheap в дальнейшем не удастся оплачивать услуги."
     },
     {
         "id": 293,
@@ -1661,7 +1661,7 @@
         "problem_type": "ip_block",
         "name": "GnuDB",
         "commit_link": "https://gnudb.org/",
-        "description": "При подключении с российского IP перенаправляют на заглушку https://ru.gnudb.org/, где только украинский флаг и надпись \"GnuDB is closed for Russia in sympathy with the Ukrainian people.\" Через VPN gnudb.org открывается нормально."
+        "description": "При подключении с российского IP перенаправляют на заглушку https://ru.gnudb.org/ где только украинский флаг и надпись \"GnuDB is closed for Russia in sympathy with the Ukrainian people.\" Через VPN gnudb.org открывается нормально."
     },
     {
         "id": 296,
@@ -1717,7 +1717,7 @@
         "problem_type": "ip_block",
         "name": "SaaSJet - партнёр Atlassian",
         "commit_link": "https://saasjet.com/products/",
-        "description": "Украинская компания, продают платные плагины Jira. Заблокирован доступ к сайту из РФ. Установить даёт, а дальше блочит по IP. У себя на сайте сообщают, что помогают IT-армии Украины взламывать ресурсы в РФ."
+        "description": "Украинская компания продают платные плагины Jira. Заблокирован доступ к сайту из РФ. Установить даёт а дальше блочит по IP. У себя на сайте сообщают что помогают IT-армии Украины взламывать ресурсы в РФ."
     },
     {
         "id": 305,
@@ -1725,7 +1725,7 @@
         "problem_type": "ip_block",
         "name": "Shalla Secure Services",
         "commit_link": "https://www.shallalist.de/",
-        "description": "Обновление черного списка приостановлено автором. этот черный список часто используют на шлюзах для блокировки нежелательного контента. Есть риск, что автор нарушит профессиональную этику и внесет в список хорошие сайты. Обычно на шлюзах этот список обновл"
+        "description": "Обновление черного списка приостановлено автором. этот черный список часто используют на шлюзах для блокировки нежелательного контента. Есть риск что автор нарушит профессиональную этику и внесет в список хорошие сайты. Обычно на шлюзах этот список обновл"
     },
     {
         "id": 307,
@@ -1741,7 +1741,7 @@
         "problem_type": "ip_block",
         "name": "Посмотрели",
         "commit_link": "posmotre.li",
-        "description": "Называли себя \"свободной энциклопедией\" в статье про опен сорс (правда, с припиской, что не свободны от рекламы). Сперва собирали помощь \"жертвам политических репрессий в РФ и РБ\" на главной, а с началом известных действий на Украине закрыли всем доступ \"д"
+        "description": "Называли себя \"свободной энциклопедией\" в статье про опен сорс (правда с припиской что не свободны от рекламы). Сперва собирали помощь \"жертвам политических репрессий в РФ и РБ\" на главной а с началом известных действий на Украине закрыли всем доступ \"д"
     },
     {
         "id": 310,
@@ -1757,7 +1757,7 @@
         "problem_type": "ip_block",
         "name": "OVHcloud",
         "commit_link": "https://www.ovhcloud.com",
-        "description": "Невозможно зарегистрировать новый аккаунт, т.к. в списке телефонных кодов стран отсутствует РФ"
+        "description": "Невозможно зарегистрировать новый аккаунт т.к. в списке телефонных кодов стран отсутствует РФ"
     },
     {
         "id": 312,
@@ -1789,7 +1789,7 @@
         "problem_type": "ip_block",
         "name": "A Cloud Guru",
         "commit_link": "https://acloudguru.com/",
-        "description": "Портал с обучением по IT тематике. Сам портал доступен, но при попытке авторизации в личный кабинет с российского IP пишут \"SORRY, THIS SITE IS NOT AVAILABLE IN YOUR AREA.\" Техподдержка подтвердила блокировку, но если зайти через европейский VPN, то все ра"
+        "description": "Портал с обучением по IT тематике. Сам портал доступен но при попытке авторизации в личный кабинет с российского IP пишут \"SORRY THIS SITE IS NOT AVAILABLE IN YOUR AREA.\" Техподдержка подтвердила блокировку но если зайти через европейский VPN то все ра"
     },
     {
         "id": 320,
@@ -1797,7 +1797,7 @@
         "problem_type": "ip_block",
         "name": "Atlassian Jira",
         "commit_link": "https://www.atlassian.com/ru/software/jira",
-        "description": "Не работает скачивание плагинов с российских IP. Сайт доступен, но при попытке скачать показывать сообщение в поддержку Украины и о приостановке продаж в РФ"
+        "description": "Не работает скачивание плагинов с российских IP. Сайт доступен но при попытке скачать показывать сообщение в поддержку Украины и о приостановке продаж в РФ"
     },
     {
         "id": 321,
@@ -1805,7 +1805,7 @@
         "problem_type": "ip_block",
         "name": "EmBitz",
         "commit_link": "Embitz.org",
-        "description": "Не совсем опенсорс. Бан по IP и по локали, на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE, на easyelectronics уже сумели это обойти."
+        "description": "Не совсем опенсорс. Бан по IP и по локали на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE на easyelectronics уже сумели это обойти."
     },
     {
         "id": 323,
@@ -1845,7 +1845,7 @@
         "problem_type": "ip_block",
         "name": "Сетевая академия Cisco",
         "commit_link": "https://www.netacad.com",
-        "description": "Блокируется вход на сайт с российских IP, также заблокированы российские аккаунты"
+        "description": "Блокируется вход на сайт с российских IP также заблокированы российские аккаунты"
     },
     {
         "id": 357,
@@ -1861,7 +1861,7 @@
         "problem_type": "ip_block",
         "name": "Bitdefender",
         "commit_link": "https://bitdefender.com/",
-        "description": "Сайт заблокирован для пользователей РФ. Вполне возможно, что обновления тоже не работают из-за этого."
+        "description": "Сайт заблокирован для пользователей РФ. Вполне возможно что обновления тоже не работают из-за этого."
     },
     {
         "id": 360,
@@ -1877,7 +1877,7 @@
         "problem_type": "ip_block",
         "name": "Oracle SQL Developer",
         "commit_link": "https://www.oracle.com/tools/downloads/sqldev-downloads.html",
-        "description": "Блокировка скачивания по IP клиента из России после авторизации на скачивание. Thank you for accessing https://edelivery.oracle.com/akam/otn/java/sqldeveloper/sqldeveloper-21.4.2.018.1706-no-jre.zip In compliance with U.S. and applicable Export laws we are unable to process your request. Please contact RPLS-Ops_ww@oracle.com if you believe you are receiving this notice in error. Debug Info: Edge IP=96.17.6.139, Client IP=<мой IP>, Client Country=RU, Client Region=Not Available"
+        "description": "Блокировка скачивания по IP клиента из России после авторизации на скачивание. Thank you for accessing https://edelivery.oracle.com/akam/otn/java/sqldeveloper/sqldeveloper-21.4.2.018.1706-no-jre.zip In compliance with U.S. and applicable Export laws we are unable to process your request. Please contact RPLS-Ops_ww@oracle.com if you believe you are receiving this notice in error. Debug Info: Edge IP=96.17.6.139 Client IP=<мой IP> Client Country=RU Client Region=Not Available"
     },
     {
         "id": 364,
@@ -1901,7 +1901,7 @@
         "problem_type": "ip_block",
         "name": "STMicroelectronics",
         "commit_link": "https://www.st.com/en/development-tools/stm32cubeide.html",
-        "description": "Запрет загрузки ПО и драйверов - Not available for download, нет доступных для скачивания версий. Паспорта pdf загружаются нормально. Через VPN/Proxy всё работает."
+        "description": "Запрет загрузки ПО и драйверов - Not available for download нет доступных для скачивания версий. Паспорта pdf загружаются нормально. Через VPN/Proxy всё работает."
     },
     {
         "id": 367,
@@ -1917,7 +1917,7 @@
         "problem_type": "ip_block",
         "name": "intervention.io",
         "commit_link": "https://github.com/Intervention",
-        "description": "Сайт с документацией не открывается с Российских IP, отображая сообщение про войну."
+        "description": "Сайт с документацией не открывается с Российских IP отображая сообщение про войну."
     },
     {
         "id": 371,
@@ -1933,7 +1933,7 @@
         "problem_type": "ip_block",
         "name": "Bruker",
         "commit_link": "https://bruker.com",
-        "description": "Блокировки российских аккаунтов, российских IP. Техподдержка также не отвечает."
+        "description": "Блокировки российских аккаунтов российских IP. Техподдержка также не отвечает."
     },
     {
         "id": 373,
@@ -1949,7 +1949,7 @@
         "problem_type": "ip_block",
         "name": "bufbuild/buf",
         "commit_link": "https://buf.build/",
-        "description": "Политические лозунги + Блокировка доступа. С росcийского IP - 403. Через зарубежное ВПН - всё ок. Так же, без, ВПН больше не работает сборка proto. https://github.com/bufbuild/buf"
+        "description": "Политические лозунги + Блокировка доступа. С росcийского IP - 403. Через зарубежное ВПН - всё ок. Так же без ВПН больше не работает сборка proto. https://github.com/bufbuild/buf"
     },
     {
         "id": 398,
@@ -1957,7 +1957,7 @@
         "problem_type": "ip_block",
         "name": "Terraform",
         "commit_link": "https://www.terraform.io/",
-        "description": "Нет доступа к Terraform плагинам с белорусского IP, 403 Not Allowed, через VPN работает"
+        "description": "Нет доступа к Terraform плагинам с белорусского IP 403 Not Allowed через VPN работает"
     },
     {
         "id": 400,
@@ -1965,7 +1965,7 @@
         "problem_type": "ip_block",
         "name": "Go (Golang)",
         "commit_link": "https://golang.org/",
-        "description": "Не открывается на территории ДНР, в РФ - открывается"
+        "description": "Не открывается на территории ДНР в РФ - открывается"
     },
     {
         "id": 409,
@@ -1997,7 +1997,7 @@
         "problem_type": "ip_block",
         "name": "Terraform",
         "commit_link": "https://app.terraform.io/",
-        "description": "Сообщение: \"This content is not currently available in your region.\" Не дают скачать бинарники, также нет доступа к репам с модулями. Всё остальное от HashiCorp так же недоступно."
+        "description": "Сообщение: \"This content is not currently available in your region.\" Не дают скачать бинарники также нет доступа к репам с модулями. Всё остальное от HashiCorp так же недоступно."
     },
     {
         "id": 424,
@@ -2028,8 +2028,8 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "ip_block",
         "name": "depesz.com",
-        "commit_link": "depesz.com, explain.depesz.com, paste.depesz.com",
-        "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com, paste.depesz.com"
+        "commit_link": "depesz.com explain.depesz.com paste.depesz.com",
+        "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com paste.depesz.com"
     },
     {
         "id": 431,
@@ -2061,7 +2061,7 @@
         "problem_type": "ip_block",
         "name": "MiTeC",
         "commit_link": "http://www.mitec.cz/",
-        "description": "При подключении с российских IP перенаправляют на сайт со страшными фото. Через VPN нормально, в заголовке пропаганда."
+        "description": "При подключении с российских IP перенаправляют на сайт со страшными фото. Через VPN нормально в заголовке пропаганда."
     },
     {
         "id": 456,
@@ -2077,7 +2077,7 @@
         "problem_type": "ip_block",
         "name": "Certify The Web",
         "commit_link": "https://certifytheweb.com/",
-        "description": "Блокировка по IP, через VPN открывается"
+        "description": "Блокировка по IP через VPN открывается"
     },
     {
         "id": 460,
@@ -2117,7 +2117,7 @@
         "problem_type": "ip_block",
         "name": "Ravesli",
         "commit_link": "https://ravesli.com/",
-        "description": "Украинский блог о программировании. На сайте было много интересных статей. Теперь доступ к сайту заблокирован из РФ/РБ, а в телеграм-канале видео военных действий вместо анонсов статей. Политический баннер в шапке."
+        "description": "Украинский блог о программировании. На сайте было много интересных статей. Теперь доступ к сайту заблокирован из РФ/РБ а в телеграм-канале видео военных действий вместо анонсов статей. Политический баннер в шапке."
     },
     {
         "id": 479,
@@ -2141,7 +2141,7 @@
         "problem_type": "ip_block",
         "name": "Calculator Soup",
         "commit_link": "https://www.calculatorsoup.com/",
-        "description": "Напрямую 403, через Tor работает"
+        "description": "Напрямую 403 через Tor работает"
     },
     {
         "id": 500,
@@ -2181,7 +2181,7 @@
         "problem_type": "ip_block",
         "name": "printerprofi.ru",
         "commit_link": "https://printerprofi.ru/",
-        "description": "Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/, сайт не открывается из РФ"
+        "description": "Сайт-сборник с драйверами для принтеров. Сделали редирект на https://printerprofi.pp.ua/ сайт не открывается из РФ"
     },
     {
         "id": 522,
@@ -2189,7 +2189,7 @@
         "problem_type": "ip_block",
         "name": "GNU Guix",
         "commit_link": "https://guix.gnu.org/",
-        "description": "GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ, что является нарушением приципов свободного ПО, пропагандируемых GNU. Через VPN - работает."
+        "description": "GNU Guix System — дистрибутив GNU. Заблокировали доступ к сайту из РФ что является нарушением приципов свободного ПО пропагандируемых GNU. Через VPN - работает."
     },
     {
         "id": 529,
@@ -2211,15 +2211,15 @@
         "id": 534,
         "datetime": "2022-05-26 09:26:00",
         "problem_type": "ip_block",
-        "name": "SANS, Internet Storm Center",
+        "name": "SANS Internet Storm Center",
         "commit_link": "https://isc.sans.edu/",
-        "description": "Сайт по кибербезопасности. https://sans.edu/ недоступен со всем поддоменами, включая https://isc.sans.edu/, начал писать такое\r\nRussian cyber operations have targeted Ukraine with destabilization efforts for years, by way of infrastructure attacks, influence operations, website defacement, and attacks on Ukrainian banks and military networks.\r\n\r\nAll organizations find themselves potential targets for cyber attacks as Russia responds to sanctions imposed on Russia for violating international law. According to the governments and intelligence agencies from around the world, “Russia maintains a range of offensive cyber tools that it could employ against global networks—from low-level denials-of-service to destructive attacks targeting critical infrastructure.”\r\nhttps://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
+        "description": "Сайт по кибербезопасности. https://sans.edu/ недоступен со всем поддоменами включая https://isc.sans.edu/ начал писать такое\r\nRussian cyber operations have targeted Ukraine with destabilization efforts for years by way of infrastructure attacks influence operations website defacement and attacks on Ukrainian banks and military networks.\r\n\r\nAll organizations find themselves potential targets for cyber attacks as Russia responds to sanctions imposed on Russia for violating international law. According to the governments and intelligence agencies from around the world “Russia maintains a range of offensive cyber tools that it could employ against global networks—from low-level denials-of-service to destructive attacks targeting critical infrastructure.”\r\nhttps://www.sans.org/webcasts/russian-cyber-attack-escalation-in-ukraine/"
     },
     {
         "id": 541,
         "datetime": "2022-05-31 09:54:00",
         "problem_type": "ip_block",
-        "name": "Studio 3T, Robo 3T",
+        "name": "Studio 3T Robo 3T",
         "commit_link": "https://studio3t.com/download-thank-you/",
         "description": "Блокировка скачивания с российских IP"
     },
@@ -2277,7 +2277,7 @@
         "problem_type": "ip_block",
         "name": "qBitTorrent forum",
         "commit_link": "https://forum.qbittorrent.org",
-        "description": "forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu, идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
+        "description": "forum.qbittorrent.org открывается только через VPN/TOR. Сам форум расположен на qbforums.shiki.hu идет перенаправление. Прямая ссылка https://qbforums.shiki.hu отрывается без проблем."
     },
     {
         "id": 558,
@@ -2285,7 +2285,7 @@
         "problem_type": "ip_block",
         "name": "Syncthing",
         "commit_link": "syncthing.net",
-        "description": "File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137), connection timed out\r\nДобавили баннер на главной странице\r\nЧерез VPN работает."
+        "description": "File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137) connection timed out\r\nДобавили баннер на главной странице\r\nЧерез VPN работает."
     },
     {
         "id": 559,
@@ -2293,7 +2293,7 @@
         "problem_type": "ip_block",
         "name": "Kerkythea",
         "commit_link": "http://kerkythea.net/",
-        "description": "Kerkythea — бесплатная проприетарная программа с закрытым кодом, система рендеринга, позволяющая создавать фотореалистичные изображения. При заходе на сайт пишет: \"Thank you for your interest in an Altair Engineering, Inc. Product. We regret that at this time access to our website is restricted under United States and other governments export rules and regulations.\"."
+        "description": "Kerkythea — бесплатная проприетарная программа с закрытым кодом система рендеринга позволяющая создавать фотореалистичные изображения. При заходе на сайт пишет: \"Thank you for your interest in an Altair Engineering Inc. Product. We regret that at this time access to our website is restricted under United States and other governments export rules and regulations.\"."
     },
     {
         "id": 560,
@@ -2301,7 +2301,7 @@
         "problem_type": "ip_block",
         "name": "UserSide",
         "commit_link": "https://www.userside.eu/ru/",
-        "description": "Софт для оператора связи. Заблочили учётки российских клиентов - при попытке логина на my.userside.eu - ошибка 422 The account is blocked.\r\nЕсть неподтвержденная информация, что техподдержка UserSide использовала свой доступ для вредоносных действий в системе своих клиентов. https://t.me/s/userside/56"
+        "description": "Софт для оператора связи. Заблочили учётки российских клиентов - при попытке логина на my.userside.eu - ошибка 422 The account is blocked.\r\nЕсть неподтвержденная информация что техподдержка UserSide использовала свой доступ для вредоносных действий в системе своих клиентов. https://t.me/s/userside/56"
     },
     {
         "id": 561,
@@ -2317,7 +2317,7 @@
         "problem_type": "ip_block",
         "name": "kaleido.ai",
         "commit_link": "kaleido.ai",
-        "description": "kaleido.ai и их сервисы, например remove.bg - слоганы, ограничение доступа по региону, возможно с сохранением куки/слепка браузера - повторный заход без чистки из обычной вкладки с vpn кидает туда же"
+        "description": "kaleido.ai и их сервисы например remove.bg - слоганы ограничение доступа по региону возможно с сохранением куки/слепка браузера - повторный заход без чистки из обычной вкладки с vpn кидает туда же"
     },
     {
         "id": 566,
@@ -2325,7 +2325,7 @@
         "problem_type": "ip_block",
         "name": "Sysdig",
         "commit_link": "https://sysdig.com/",
-        "description": "Доступ заблокирован из IP РФ, 403"
+        "description": "Доступ заблокирован из IP РФ 403"
     },
     {
         "id": 567,
@@ -2333,7 +2333,7 @@
         "problem_type": "ip_block",
         "name": "cgtrader.com",
         "commit_link": "https://www.cgtrader.com",
-        "description": "не даёт качать объекты с российского IP, с VPN даёт.\r\nSERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOUR REGION."
+        "description": "не даёт качать объекты с российского IP с VPN даёт.\r\nSERVICE NOT AVAILABLE. DUE TO LEGAL ISSUES OUR SERVICES ARE NOT AVAILABLE IN YOUR REGION."
     },
     {
         "id": 568,
@@ -2365,7 +2365,7 @@
         "problem_type": "ip_block",
         "name": "3DMark (в магазине Steam)",
         "commit_link": "https://store.steampowered.com/app/223850/3DMark/",
-        "description": "Программа 3Dmark в мае стала недоступна в магазине Steam. Заявлений никаких не было, ни в стиме, ни на сайте https://benchmarks.ul.com/3dmark (авторы программы из Финляндии)."
+        "description": "Программа 3Dmark в мае стала недоступна в магазине Steam. Заявлений никаких не было ни в стиме ни на сайте https://benchmarks.ul.com/3dmark (авторы программы из Финляндии)."
     },
     {
         "id": 573,
@@ -2413,7 +2413,7 @@
         "problem_type": "ip_block",
         "name": "myPerfectCV",
         "commit_link": "https://www.myperfectcv.co.uk",
-        "description": "Сайт про составление резюме. Заблокировали доступ из РФ, через VPN работает"
+        "description": "Сайт про составление резюме. Заблокировали доступ из РФ через VPN работает"
     },
     {
         "id": 607,
@@ -2429,7 +2429,7 @@
         "problem_type": "ip_block",
         "name": "WinZip",
         "commit_link": "https://www.winzip.com/en/download/winzip/",
-        "description": "Страница открывается, но не дает скачать инсталлятор из РФ/Беларуси: Content is not available in your country/region."
+        "description": "Страница открывается но не дает скачать инсталлятор из РФ/Беларуси: Content is not available in your country/region."
     },
     {
         "id": 611,
@@ -2445,7 +2445,7 @@
         "problem_type": "ip_block",
         "name": "vagrant",
         "commit_link": "https://vagrantcloud.com/generic/ubuntu2110",
-        "description": "блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку, установить плагины и тд."
+        "description": "блочат контент по региону в следствии чего невозможно запустить хоть какую виртуалку установить плагины и тд."
     },
     {
         "id": 613,
@@ -2461,7 +2461,7 @@
         "problem_type": "ip_block",
         "name": "Unscreen",
         "commit_link": "unscreen.com",
-        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP"
     },
     {
         "id": 621,
@@ -2469,7 +2469,7 @@
         "problem_type": "ip_block",
         "name": "Remove image background",
         "commit_link": "remove.bg",
-        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP"
     },
     {
         "id": 622,
@@ -2477,7 +2477,7 @@
         "problem_type": "ip_block",
         "name": "Designify",
         "commit_link": "designify.com",
-        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP"
     },
     {
         "id": 623,
@@ -2485,7 +2485,7 @@
         "problem_type": "ip_block",
         "name": "Kaleido AI",
         "commit_link": "https://www.kaleido.ai/ru-no-access",
-        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access, которая не открывается, ведь ее тоже закрыли для российских IP"
+        "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP"
     },
     {
         "id": 626,
@@ -2493,7 +2493,7 @@
         "problem_type": "ip_block",
         "name": "NetApp Community",
         "commit_link": "https://community.netapp.com/",
-        "description": "Основной сайт доступен, но комьюнити забанили для РФ. Подробности https://servernews.ru/1061732"
+        "description": "Основной сайт доступен но комьюнити забанили для РФ. Подробности https://servernews.ru/1061732"
     },
     {
         "id": 627,
@@ -2501,7 +2501,7 @@
         "problem_type": "ip_block",
         "name": "QCAD",
         "commit_link": "https://qcad.org/en/",
-        "description": "\"The Open Source CAD System For Everyone\". Видимо мы в \"everyone\" больше не входим.\r\nТак же заблокирован доступ к сайту производителя (RibbonSoft, GmbH):\r\nhttps://www.ribbonsoft.com"
+        "description": "\"The Open Source CAD System For Everyone\". Видимо мы в \"everyone\" больше не входим.\r\nТак же заблокирован доступ к сайту производителя (RibbonSoft GmbH):\r\nhttps://www.ribbonsoft.com"
     },
     {
         "id": 635,
@@ -2509,7 +2509,7 @@
         "problem_type": "ip_block",
         "name": "Disc Makers",
         "commit_link": "discmakers.com",
-        "description": "О компании: Компания, специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD, наклейки для аудио-кассет).\r\n\r\nБлокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
+        "description": "О компании: Компания специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD наклейки для аудио-кассет).\r\n\r\nБлокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN."
     },
     {
         "id": 641,
@@ -2565,7 +2565,7 @@
         "problem_type": "ip_block",
         "name": "metafields.guru",
         "commit_link": "app.metafields.guru",
-        "description": "Приложение metafields.guru на сайте shopify.com, не работает с российских адресов.\r\nПрименяется геоблок на уровне DNS, для России выдает 127.0.0.1 для домена app.metafields.guru"
+        "description": "Приложение metafields.guru на сайте shopify.com не работает с российских адресов.\r\nПрименяется геоблок на уровне DNS для России выдает 127.0.0.1 для домена app.metafields.guru"
     },
     {
         "id": 661,
@@ -2581,7 +2581,7 @@
         "problem_type": "ip_block",
         "name": "cybersecurity-help",
         "commit_link": "cybersecurity-help.cz",
-        "description": "Политический лозунг, блокировка РФ адресов"
+        "description": "Политический лозунг блокировка РФ адресов"
     },
     {
         "id": 669,
@@ -2597,7 +2597,7 @@
         "problem_type": "ip_block",
         "name": "PocketTube (Firefox addon)",
         "commit_link": "https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/",
-        "description": "Региональная блокировка, призывы на сайте https://yousub.info/"
+        "description": "Региональная блокировка призывы на сайте https://yousub.info/"
     },
     {
         "id": 671,
@@ -2629,7 +2629,7 @@
         "problem_type": "ip_block",
         "name": "WorldCat",
         "commit_link": "https://www.worldcat.org/",
-        "description": "Поиск книг, музыки, видео. Заблокировали доступ из РФ"
+        "description": "Поиск книг музыки видео. Заблокировали доступ из РФ"
     },
     {
         "id": 683,
@@ -2661,7 +2661,7 @@
         "problem_type": "ip_block",
         "name": "Freescale Semiconductor",
         "commit_link": "http://www.freescale.com/",
-        "description": "Производитель чипов и прошивок к ним. Заблокировали доступ из РФ, через VPN доступен."
+        "description": "Производитель чипов и прошивок к ним. Заблокировали доступ из РФ через VPN доступен."
     },
     {
         "id": 699,
@@ -2669,7 +2669,7 @@
         "problem_type": "ip_block",
         "name": "Неофициальный сайт php.su",
         "commit_link": "https://php.su",
-        "description": "лозунг возле логотипа, блокировка доступа из РФ"
+        "description": "лозунг возле логотипа блокировка доступа из РФ"
     },
     {
         "id": 700,
@@ -2749,7 +2749,7 @@
         "problem_type": "ip_block",
         "name": "GitLab",
         "commit_link": "https://packages.gitlab.com/gitlab/gitlab-ee",
-        "description": "Логотип был перекрашен в цвета флага Украины, теперь убрали. Но репозиторий ветки EE недоступен с российских IP"
+        "description": "Логотип был перекрашен в цвета флага Украины теперь убрали. Но репозиторий ветки EE недоступен с российских IP"
     },
     {
         "id": 710,
@@ -2765,7 +2765,7 @@
         "problem_type": "ip_block",
         "name": "ThingsBoard",
         "commit_link": "https://thingsboard.io/",
-        "description": "Платформа для Интернета вещей, созданная украинскими программистами. Блокируют доступ для российских IP (ошибка 1020). На главной в углу стоит баннер, ведущий на страницу с пропагандой и снисходительным обращением к россиянам, в т.ч. цитата «жаль, запретить вам использование open-source версии https://github.com/thingsboard/thingsboard мы не можем, но продажу лицензий российским компаниям прикрыли»."
+        "description": "Платформа для Интернета вещей созданная украинскими программистами. Блокируют доступ для российских IP (ошибка 1020). На главной в углу стоит баннер ведущий на страницу с пропагандой и снисходительным обращением к россиянам в т.ч. цитата «жаль запретить вам использование open-source версии https://github.com/thingsboard/thingsboard мы не можем но продажу лицензий российским компаниям прикрыли»."
     },
     {
         "id": 712,
@@ -2781,7 +2781,7 @@
         "problem_type": "ip_block",
         "name": "GameLoop",
         "commit_link": "https://www.gameloop.com/",
-        "description": "Android эмулятор. Доступ из ДНР заблокирован, на оф. сайте отображают заглушку. В РФ открывается."
+        "description": "Android эмулятор. Доступ из ДНР заблокирован на оф. сайте отображают заглушку. В РФ открывается."
     },
     {
         "id": 714,
@@ -2789,7 +2789,7 @@
         "problem_type": "ip_block",
         "name": "Corel",
         "commit_link": "https://www.corel.com/ru/",
-        "description": "прекратили продажи в РФ и РБ.\r\nСнесли русскоязычную страницу, теперь перекидывает на англ. версию:\r\nhttps://web.archive.org/web/20220105030431/https://www.corel.com/ru/"
+        "description": "прекратили продажи в РФ и РБ.\r\nСнесли русскоязычную страницу теперь перекидывает на англ. версию:\r\nhttps://web.archive.org/web/20220105030431/https://www.corel.com/ru/"
     },
     {
         "id": 715,
@@ -2797,7 +2797,7 @@
         "problem_type": "ip_block",
         "name": "chatgpt",
         "commit_link": "https://openai.com/blog/chatgpt/",
-        "description": "При создании аккаунта не принимает телефонный номер РФ. Если попробовать создать аккаунт через Google (Continue with Google), пишет: OpenAI's services are not available in your country."
+        "description": "При создании аккаунта не принимает телефонный номер РФ. Если попробовать создать аккаунт через Google (Continue with Google) пишет: OpenAI's services are not available in your country."
     },
     {
         "id": 716,
@@ -2821,7 +2821,7 @@
         "problem_type": "ip_block",
         "name": "github marketplace",
         "commit_link": "github.com/marketplace",
-        "description": "Попытка купить, или подписаться на бесплатный сервис или план:\r\nAfter reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.\r\nIf you disagree with this decision, or want to learn more, please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls."
+        "description": "Попытка купить или подписаться на бесплатный сервис или план:\r\nAfter reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.\r\nIf you disagree with this decision or want to learn more please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls."
     },
     {
         "id": 734,
@@ -2845,7 +2845,7 @@
         "problem_type": "ip_block",
         "name": "porteus-kiosk",
         "commit_link": "https://porteus-kiosk.org/",
-        "description": "при попытке установки проверяет геопозицию по ip-адресу, и в случае запуска с российского адреса установка блокируется с сообщением: &quot;Due to our company policies the Porteus Kiosk systemc cannot be used in country: Russian Federation&quot;."
+        "description": "при попытке установки проверяет геопозицию по ip-адресу и в случае запуска с российского адреса установка блокируется с сообщением: &quot;Due to our company policies the Porteus Kiosk systemc cannot be used in country: Russian Federation&quot;."
     },
     {
         "id": 746,
@@ -2853,7 +2853,7 @@
         "problem_type": "ip_block",
         "name": "skillsetter",
         "commit_link": "https://skillsetter.io/",
-        "description": "До СВО обучали продуктовым и проектным профессиям, но так как создатели из Украины, потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry, you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
+        "description": "До СВО обучали продуктовым и проектным профессиям но так как создатели из Украины потихоньку перевели ресурсы на украинский и с недавних пор блочат с RU IP &quot;Sorry you have been blocked&quot; . Собирали деньги на ВСУ и размещали у себя приглашения в &quot;киберкозаки&quot;"
     },
     {
         "id": 751,
@@ -2861,7 +2861,7 @@
         "problem_type": "ip_block",
         "name": "catgirl.cloud",
         "commit_link": "https://catgirl.cloud",
-        "description": "сервер со свободными сервисами (invidious, matrix и другие) — не отрывается в РФ"
+        "description": "сервер со свободными сервисами (invidious matrix и другие) — не отрывается в РФ"
     },
     {
         "id": 757,
@@ -2869,7 +2869,7 @@
         "problem_type": "ip_block",
         "name": "SAS",
         "commit_link": "https://www.sas.com/",
-        "description": "поставщик бизнес-решений для работы с данными, ограничил доступ из России к документации, местному stackoverflow. Под VPN заходит. Заблокировали начиная с марта 2022 года."
+        "description": "поставщик бизнес-решений для работы с данными ограничил доступ из России к документации местному stackoverflow. Под VPN заходит. Заблокировали начиная с марта 2022 года."
     },
     {
         "id": 758,
@@ -2893,7 +2893,7 @@
         "problem_type": "ip_block",
         "name": "Servarr",
         "commit_link": "https://github.com/Servarr",
-        "description": "Набор ПО для организации медиатеки и скачки кино, музыки и книг по запросу. После начала СВО автор запретили пользователям из РФ и РБ использовать свой api, также сделали блокировку по IP что отчасти ломает функционал ПО и блокируют доступ к сайту."
+        "description": "Набор ПО для организации медиатеки и скачки кино музыки и книг по запросу. После начала СВО автор запретили пользователям из РФ и РБ использовать свой api также сделали блокировку по IP что отчасти ломает функционал ПО и блокируют доступ к сайту."
     },
     {
         "id": 763,
@@ -2909,7 +2909,7 @@
         "problem_type": "ip_block",
         "name": "finplot",
         "commit_link": "https://pypi.org/project/finplot/",
-        "description": "Если видит в локали пользователя что-то из _ru _by ru_ be_ ru be, то делает выход из программы. Опасности нет, просто идиотизм (пока что)."
+        "description": "Если видит в локали пользователя что-то из _ru _by ru_ be_ ru be то делает выход из программы. Опасности нет просто идиотизм (пока что)."
     },
     {
         "id": 770,
@@ -2925,7 +2925,7 @@
         "problem_type": "ip_block",
         "name": "Ablebits",
         "commit_link": "https://imgbox.com/TAfTSiJW",
-        "description": "На всех страницах ablebits.com клякса с ссылкой на очередной высер про «агрессоров», «соогрессоров» и далее по регламенту. А ещё они отреклись от Беларуси, где были основаны."
+        "description": "На всех страницах ablebits.com клякса с ссылкой на очередной высер про «агрессоров» «соогрессоров» и далее по регламенту. А ещё они отреклись от Беларуси где были основаны."
     },
     {
         "id": 772,
@@ -2941,7 +2941,7 @@
         "problem_type": "ip_block",
         "name": "SetApp",
         "commit_link": "https://setapp.com",
-        "description": "Подписочный сервис от украинских разработчиков с каталогом софта для macOS. Прекратили работу сервиса и заблокировали сайт в Беларуси и России, для всех остальных в программе висит баннер с ссылками на помощь ВСУ (судя по скриншоту с страницы-загулшки). Иронично, что блокировка так же блочит запись в блоге разработчиков с \"правдой\" от \"проверенных\" источников, на которую ссылается страница-заглушка."
+        "description": "Подписочный сервис от украинских разработчиков с каталогом софта для macOS. Прекратили работу сервиса и заблокировали сайт в Беларуси и России для всех остальных в программе висит баннер с ссылками на помощь ВСУ (судя по скриншоту с страницы-загулшки). Иронично что блокировка так же блочит запись в блоге разработчиков с \"правдой\" от \"проверенных\" источников на которую ссылается страница-заглушка."
     },
     {
         "id": 774,
@@ -2989,7 +2989,7 @@
         "problem_type": "ip_block",
         "name": "swagger-api/swagger-ui",
         "commit_link": "https://github.com/swagger-api/swagger-ui",
-        "description": "https://github.com/swagger-api/swagger-ui/issues/9640 , https://swagger.io/ - Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
+        "description": "https://github.com/swagger-api/swagger-ui/issues/9640 https://swagger.io/ - Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
     },
     {
         "id": 1,
@@ -2997,7 +2997,7 @@
         "problem_type": "malware",
         "name": "Onefetch",
         "commit_link": "https://github.com/o2sh/onefetch",
-        "description": "При установке программы подменяет библиотеку libgcc_s.so.1, система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
+        "description": "При установке программы подменяет библиотеку libgcc_s.so.1 система перестает отвечать и после перезагрузки система выдает ошибку kernel panic. Проблема не подтверждена. Вредоносных коммитов не обнаружено."
     },
     {
         "id": 2,
@@ -3029,7 +3029,7 @@
         "problem_type": "malware",
         "name": "es5-ext",
         "commit_link": "https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2",
-        "description": "Коллеги, обращаем внимание, что популярная библиотека https://www.npmjs.com/package/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как негативную пропаганду, так и код по таймзоне увеличивающий утилиза"
+        "description": "Библиотека https://www.npmjs.com/package/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как негативную пропаганду и так и код по таймзоне увеличивающий утилиза"
     },
     {
         "id": 13,
@@ -3053,7 +3053,7 @@
         "problem_type": "malware",
         "name": "ctx (python package)",
         "commit_link": "https://pypistats.org/packages/ctx",
-        "description": "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
+        "description": "Вредоносные версии 0.2.2 0.2.6 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https://www.opennet.ru/opennews/art.shtml?num=57242"
     },
     {
         "id": 809,
@@ -3133,7 +3133,7 @@
         "problem_type": "political_slogans",
         "name": "WordPress плагин Mistape",
         "commit_link": "https://wordpress.org/plugins/mistape/",
-        "description": "Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора, заливает плагин UnderConstruction, с помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событи"
+        "description": "Через уязвимость в популярном плагине Mistape злоумышленник получает доступ к разделам администратора и заливает плагин UnderConstruction. С помощью которого на главную страницу сайта выводит произвольную информацию. Обычно это виджет на тему текущих событи"
     },
     {
         "id": 56,
@@ -3141,7 +3141,7 @@
         "problem_type": "political_slogans",
         "name": "Личный сайт Столярова А.В. stolyarov.info",
         "commit_link": "http://stolyarov.info/",
-        "description": "Через пару дней после начала спецоперации сменил весь сайт на надпись \"КОГДА ПУШКИ ГОВОРЯТ, МУЗЫ МОЛЧАТ\" со ссылкой на страницу с книгами (на чём спасибо), функционирование остального сайта в данных обстоятельствах счёл неуместным."
+        "description": "Через пару дней после начала спецоперации сменил весь сайт на надпись \"КОГДА ПУШКИ ГОВОРЯТ МУЗЫ МОЛЧАТ\" со ссылкой на страницу с книгами (на чём спасибо) функционирование остального сайта в данных обстоятельствах счёл неуместным."
     },
     {
         "id": 96,
@@ -3165,7 +3165,7 @@
         "problem_type": "political_slogans",
         "name": "Unity Ads for Android",
         "commit_link": "https://github.com/Unity-Technologies/unity-ads-android https://unity.com/products/unity-ads",
-        "description": "После встраивания рекламы Unity Ads в мобильную игру, пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети"
+        "description": "После встраивания рекламы Unity Ads в мобильную игру пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети"
     },
     {
         "id": 100,
@@ -3181,7 +3181,7 @@
         "problem_type": "political_slogans",
         "name": "styled-components",
         "commit_link": "https://github.com/styled-components",
-        "description": "после установки через npm, в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
+        "description": "после установки через npm в консоли появляется текст про Украину. Текст лежит в файле node_modules/styled-components/postinstall.js"
     },
     {
         "id": 103,
@@ -3197,7 +3197,7 @@
         "problem_type": "political_slogans",
         "name": "PlantUML",
         "commit_link": "https://plantuml.com/ru/",
-        "description": "Антирооссийская пропаганда. Угрозы, призывы к антиправительственным акциям"
+        "description": "Антирооссийская пропаганда. Угрозы призывы к антиправительственным акциям"
     },
     {
         "id": 110,
@@ -3221,7 +3221,7 @@
         "problem_type": "political_slogans",
         "name": "MicroSIP",
         "commit_link": "https://www.microsip.org/",
-        "description": "Лозунги на сайте, возможно какой-то недокументированный функционал в новых версиях"
+        "description": "Лозунги на сайте возможно какой-то недокументированный функционал в новых версиях"
     },
     {
         "id": 113,
@@ -3285,7 +3285,7 @@
         "problem_type": "political_slogans",
         "name": "piccy.info",
         "commit_link": "https://piccy.info/",
-        "description": "Сообщение \"\"\"Сайт не работает, потому что\" Россия напала на нас и начинает уничтожать \"мирное население\"\"\""
+        "description": "Сообщение \"\"\"Сайт не работает потому что\" Россия напала на нас и начинает уничтожать \"мирное население\"\"\""
     },
     {
         "id": 123,
@@ -3325,7 +3325,7 @@
         "problem_type": "political_slogans",
         "name": "Yad",
         "commit_link": "https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a",
-        "description": "Вырезание русского языка, \"DROP K HUJAM russian translation\" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); Автор - Украинец, который находится в резерве сил территориальной обороны (https://github.com/v1cont/yad/issues/10"
+        "description": "Вырезание русского языка \"DROP K HUJAM russian translation\" (https://github.com/v1cont/yad/commit/f14f5fc497827871e314c5c7b68d12a4de827d46); Автор - Украинец который находится в резерве сил территориальной обороны (https://github.com/v1cont/yad/issues/10"
     },
     {
         "id": 128,
@@ -3341,7 +3341,7 @@
         "problem_type": "political_slogans",
         "name": "outdatedregime/change",
         "commit_link": "https://github.com/outdatedregime/change/commit/f22e7f90a5bb8fe2b8f0001d9774fe495084d234",
-        "description": "Block people visiting your website from Russia, redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
+        "description": "Block people visiting your website from Russia redirect them to a page telling them their Regime is outdated and offering them unbiased news sources in their language."
     },
     {
         "id": 130,
@@ -3381,7 +3381,7 @@
         "problem_type": "political_slogans",
         "name": "embargoed-list",
         "commit_link": "https://github.com/rameerez/embargoed-list/blob/main/README.md",
-        "description": "List of all language-specific versions of embargoed, software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
+        "description": "List of all language-specific versions of embargoed software to block to block all requests from Russia to any website and display a pro-Ukraine message instead"
     },
     {
         "id": 135,
@@ -3389,7 +3389,7 @@
         "problem_type": "political_slogans",
         "name": "hejny/Ukraine",
         "commit_link": "https://github.com/hejny/Ukraine/commit/e74a5de837d6ed0e2e11e174f4319a5ededc7c28",
-        "description": "Add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service."
+        "description": "Add ribbon with Ukraine flag into the website you manage show the anti-war message to Russian users or block them from your service."
     },
     {
         "id": 136,
@@ -3397,7 +3397,7 @@
         "problem_type": "political_slogans",
         "name": "RussianBlocker Public",
         "commit_link": "https://github.com/OB42/RussianBlocker/commit/10e0ab31f0e0f8372fb24d32544e7e4867d3f688",
-        "description": "Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend, should work 9 times out of 10, except for a few"
+        "description": "Detect Russian and Belarussian visitors to block or alert them to protest the war in Ukraine(works by checking timezone and languages as this is the easiest way to do it unlimitedly for free on the frontend should work 9 times out of 10 except for a few"
     },
     {
         "id": 137,
@@ -3469,7 +3469,7 @@
         "problem_type": "political_slogans",
         "name": "Refactoring.Guru",
         "commit_link": "https://refactoring.guru/ru/help-ukraine",
-        "description": "Призывы спонсировать украинских военных и волонтеров, гуманитарные благотворительные организации."
+        "description": "Призывы спонсировать украинских военных и волонтеров гуманитарные благотворительные организации."
     },
     {
         "id": 147,
@@ -3493,7 +3493,7 @@
         "problem_type": "political_slogans",
         "name": "The unarchiver (macOS App Store)",
         "commit_link": "https://imgur.com/a/q5DGKxG",
-        "description": "Если не нажать кнопку, то разархивировать не будет, но только раз. При следующем запуске не возникает"
+        "description": "Если не нажать кнопку то разархивировать не будет но только раз. При следующем запуске не возникает"
     },
     {
         "id": 151,
@@ -3516,8 +3516,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "Diptrace",
-        "commit_link": "Что за жаргон? Почему не использовать нормальные слова, что за гопницкое быдло?",
-        "description": "После встречи \"пуша в репе\" никакого желания что -либо дальше делать нет, общаться с тупой школотой - ну нафиг."
+        "commit_link": "Что за жаргон? Почему не использовать нормальные слова что за гопницкое быдло?",
+        "description": "После встречи \"пуша в репе\" никакого желания что -либо дальше делать нет общаться с тупой школотой - ну нафиг."
     },
     {
         "id": 154,
@@ -3533,7 +3533,7 @@
         "problem_type": "political_slogans",
         "name": "LeafletJs",
         "commit_link": "https://leafletjs.com/",
-        "description": "На главной странице теперь полит-лозунги, с предложением положить \"семена в корман\" если поддерживаешь РФ. Также ко всем ссылкам в документации добавили лозунг \"SlavaUkraini\", пример: https://leafletjs.com/SlavaUkraini/reference.html"
+        "description": "На главной странице теперь полит-лозунги с предложением положить \"семена в корман\" если поддерживаешь РФ. Также ко всем ссылкам в документации добавили лозунг \"SlavaUkraini\" пример: https://leafletjs.com/SlavaUkraini/reference.html"
     },
     {
         "id": 156,
@@ -3573,7 +3573,7 @@
         "problem_type": "political_slogans",
         "name": "petrussola/help-ukraine-open-source",
         "commit_link": "https://github.com/petrussola/help-ukraine-open-source/commit/676bfac5ed77ccb6b6a8a731353ed6239a57d45f",
-        "description": "Список опенсорс проектов, используемых для сбора данных, создания организаций и пропаганды"
+        "description": "Список опенсорс проектов используемых для сбора данных создания организаций и пропаганды"
     },
     {
         "id": 162,
@@ -3589,7 +3589,7 @@
         "problem_type": "political_slogans",
         "name": "artshishkin/swarm-digital-ocean",
         "commit_link": "https://github.com/artshishkin/swarm-digital-ocean/commit/6d718f17f41011f7d710deb8963fee63e39e4afa",
-        "description": "ПО для хакерских атак, настроенное на конкретные ресурсы в РФ"
+        "description": "ПО для хакерских атак настроенное на конкретные ресурсы в РФ"
     },
     {
         "id": 165,
@@ -3621,7 +3621,7 @@
         "problem_type": "political_slogans",
         "name": "KobaltDigital/goods4ukraine.eu (Laravel)",
         "commit_link": "https://github.com/KobaltDigital/goods4ukraine.eu/commit/2dfda21ef8f0d18a4afce9c886367c4f8aabc543",
-        "description": "Веб-фреймворк, название переименовано в лозунг"
+        "description": "Веб-фреймворк название переименовано в лозунг"
     },
     {
         "id": 171,
@@ -3661,7 +3661,7 @@
         "problem_type": "political_slogans",
         "name": "Synergy",
         "commit_link": "https://github.com/symless/synergy-core/commit/c542c57b5ef6ee0640a5a68ecb40a2997a68bedb",
-        "description": "баннер, редирект с ip адресов РФ"
+        "description": "баннер редирект с ip адресов РФ"
     },
     {
         "id": 176,
@@ -3669,7 +3669,7 @@
         "problem_type": "political_slogans",
         "name": "Rust",
         "commit_link": "https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html",
-        "description": "В начале анонса релиза 1.59.0 абзац: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release, we'd like to state that we stand in"
+        "description": "В начале анонса релиза 1.59.0 абзац: Today's release falls on the day in which the world's attention is captured by the sudden invasion of Ukraine by Putin's forces. Before going into the details of the new Rust release we'd like to state that we stand in"
     },
     {
         "id": 177,
@@ -3709,7 +3709,7 @@
         "problem_type": "political_slogans",
         "name": "VyOS",
         "commit_link": "https://blog.vyos.io/global-security-issue-with-russian-federation-invasion-into-ukraine",
-        "description": "В самом коде пока(?) ничего не замечено, автор этой записи комитил последний раз в 2018 году в их репозиторий, но с учетом текста в конце сообщения и общего характера всего поста, надо учитывать в дальнейшем при обновлении. Так же, ниже в комментариях, ест"
+        "description": "В самом коде пока(?) ничего не замечено автор этой записи комитил последний раз в 2018 году в их репозиторий но с учетом текста в конце сообщения и общего характера всего поста надо учитывать в дальнейшем при обновлении. Так же ниже в комментариях ест"
     },
     {
         "id": 182,
@@ -3717,7 +3717,7 @@
         "problem_type": "political_slogans",
         "name": "LosslessCut",
         "commit_link": "https://github.com/mifi/lossless-cut/issues/1055",
-        "description": "Добавлена кнопка в самом центре окна программы, которая сначала была украинским флагом, а теперь стала просто картинкой с подсолнухами. При нажатии на ссылку открывается пропагандистская страница https://mifi.no/ukraine.html"
+        "description": "Добавлена кнопка в самом центре окна программы которая сначала была украинским флагом а теперь стала просто картинкой с подсолнухами. При нажатии на ссылку открывается пропагандистская страница https://mifi.no/ukraine.html"
     },
     {
         "id": 185,
@@ -3749,7 +3749,7 @@
         "problem_type": "political_slogans",
         "name": "mailtrap.io",
         "commit_link": "mailtrap.io",
-        "description": "Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами, использование сервиса далее заблокировано, vpn решает проблему"
+        "description": "Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами использование сервиса далее заблокировано vpn решает проблему"
     },
     {
         "id": 191,
@@ -3781,7 +3781,7 @@
         "problem_type": "political_slogans",
         "name": "Roave/SecurityAdvisories",
         "commit_link": "https://github.com/Roave/SecurityAdvisories/commit/3b910ed88bb6ee25696073ff282cfdbd4bd886b8",
-        "description": "При недовольстве примешивания политики в опен сорс, людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
+        "description": "При недовольстве примешивания политики в опен сорс людей могут банить - https://github.com/Roave/SecurityAdvisories/pull/92"
     },
     {
         "id": 195,
@@ -3789,7 +3789,7 @@
         "problem_type": "political_slogans",
         "name": "Figma",
         "commit_link": "https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263/3",
-        "description": "Figma решила заморозить корпоративные аккаунты российских клиентов. Личные пока не трогают. (источник: см. \"Ссылка на пуш в репе\", https://vk.com/wall-30666517_1781721)"
+        "description": "Figma решила заморозить корпоративные аккаунты российских клиентов. Личные пока не трогают. (источник: см. \"Ссылка на пуш в репе\" https://vk.com/wall-30666517_1781721)"
     },
     {
         "id": 198,
@@ -3805,7 +3805,7 @@
         "problem_type": "political_slogans",
         "name": "EventSource",
         "commit_link": "https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032",
-        "description": "Полифилы js используются в множестве сторонних сервисов, пол миллиона загрузок в неделю."
+        "description": "Полифилы js используются в множестве сторонних сервисов пол миллиона загрузок в неделю."
     },
     {
         "id": 201,
@@ -3843,7 +3843,7 @@
         "id": 206,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
-        "name": "laminas/*, mezzio/*,",
+        "name": "laminas/* mezzio/* ",
         "commit_link": "https://github.com/laminas/laminas-servicemanager/commit/1fb805d456f4e916e5fbddad4d2349adfd2f05ba",
         "description": "Данный политический лозунг есть во всех пакетах laminas/ и mezzio/."
     },
@@ -3853,7 +3853,7 @@
         "problem_type": "political_slogans",
         "name": "daemon tools",
         "commit_link": "daemon-tools.cc",
-        "description": "с главного сайта начали перенаправлять на политический, отключили обновления"
+        "description": "с главного сайта начали перенаправлять на политический отключили обновления"
     },
     {
         "id": 209,
@@ -3901,7 +3901,7 @@
         "problem_type": "political_slogans",
         "name": "vdz yandex metrika",
         "commit_link": "https://plugins.trac.wordpress.org/browser/vdz-yandex-metrika/assets/banner-772x250.png?rev=2688057",
-        "description": "это плагин wordpress, политические лозунги плюс бекдор, сейчас репозиторий зачищен, плагин блокирован"
+        "description": "это плагин wordpress политические лозунги плюс бекдор сейчас репозиторий зачищен плагин блокирован"
     },
     {
         "id": 217,
@@ -3917,7 +3917,7 @@
         "problem_type": "political_slogans",
         "name": "mallardduck",
         "commit_link": "https://github.com/KickflipCli/kickflip-src",
-        "description": "Генератор фейковых сайтов по шаблону с ключевыми словами и призывами (одного мейнтейнера уже забанили за национальную рознь, другой продолжает работу)"
+        "description": "Генератор фейковых сайтов по шаблону с ключевыми словами и призывами (одного мейнтейнера уже забанили за национальную рознь другой продолжает работу)"
     },
     {
         "id": 219,
@@ -3925,7 +3925,7 @@
         "problem_type": "political_slogans",
         "name": "GM-DONATE (gm-donate.ru) система доната в Garry's mod",
         "commit_link": "https://github.com/GM-DONATE/IGS/commit/d98b6dd9f43225a6b03c665db8a57690646515ee#diff-13dde08e38ae5b40da01b8fed10e552f417dd10447",
-        "description": "Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов, функционал позволяет."
+        "description": "Скрытно заменена текстура модели автомата с содовой на текстуру господина П. с фекалиями с расчетом на проблемы с законом. Возможно дальнейшее внедрение вредоносов функционал позволяет."
     },
     {
         "id": 220,
@@ -3933,7 +3933,7 @@
         "problem_type": "political_slogans",
         "name": "Redirect Russia",
         "commit_link": "https://github.com/pabio/redirect-russia",
-        "description": "Скрипт встраиваемый на сайты, перенаправляющий пользователей из России на страницу с политическими лозунгами"
+        "description": "Скрипт встраиваемый на сайты перенаправляющий пользователей из России на страницу с политическими лозунгами"
     },
     {
         "id": 222,
@@ -3957,7 +3957,7 @@
         "problem_type": "political_slogans",
         "name": "Qalctulate! (GTK)",
         "commit_link": "https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456",
-        "description": "Remove flags for RUB and BYR/BYN, and show UAH flag when first using the new version; Ничего серьезного, но раздражает. Версия с этим коммитом уже в репозиториях arch. Работает не только в РФ/БР, а вообще у всех."
+        "description": "Remove flags for RUB and BYR/BYN and show UAH flag when first using the new version; Ничего серьезного но раздражает. Версия с этим коммитом уже в репозиториях arch. Работает не только в РФ/БР а вообще у всех."
     },
     {
         "id": 225,
@@ -3981,7 +3981,7 @@
         "problem_type": "political_slogans",
         "name": "Dash Electrum",
         "commit_link": "https://github.com/akhavr/electrum-dash/commit/80e7bfbc9325f0012dc9c6bd1017cd71de80e2371017cd71de80e237",
-        "description": "Разработчик впилил в продукт политические лозунги, сделав их сюрпризом - в логе что в софте нового про это ни слова."
+        "description": "Разработчик впилил в продукт политические лозунги сделав их сюрпризом - в логе что в софте нового про это ни слова."
     },
     {
         "id": 229,
@@ -4013,7 +4013,7 @@
         "problem_type": "political_slogans",
         "name": "mint",
         "commit_link": "https://github.com/dbarnett/python-helloworld/pull/13",
-        "description": "https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C,_%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
+        "description": "https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C _%D0%B8%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%85%D1%83%D0%B9"
     },
     {
         "id": 233,
@@ -4125,7 +4125,7 @@
         "problem_type": "political_slogans",
         "name": "deskreen",
         "commit_link": "https://deskreen.com",
-        "description": "Не опенсурс, но не знаю куда ещё отправить эту информацию."
+        "description": "Не опенсурс но не знаю куда ещё отправить эту информацию."
     },
     {
         "id": 252,
@@ -4133,7 +4133,7 @@
         "problem_type": "political_slogans",
         "name": "The Unarchiver",
         "commit_link": "https://github.com/MacPaw (приватный репозиторий)",
-        "description": "Проверить, есть ли что-то помимо лозунгов, пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации."
+        "description": "Проверить есть ли что-то помимо лозунгов пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации."
     },
     {
         "id": 253,
@@ -4141,7 +4141,7 @@
         "problem_type": "political_slogans",
         "name": "Spark",
         "commit_link": "https://sparkmailapp.com/",
-        "description": "Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство, что ограничение на клиентской части приложения, т.к. отказ пришел с обновлениями)"
+        "description": "Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство что ограничение на клиентской части приложения т.к. отказ пришел с обновлениями)"
     },
     {
         "id": 254,
@@ -4157,7 +4157,7 @@
         "problem_type": "political_slogans",
         "name": "plantUml web ресурс",
         "commit_link": "https://plantuml.com/ru/",
-        "description": "Я аналитик, я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии"
+        "description": "Я аналитик я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии"
     },
     {
         "id": 257,
@@ -4213,7 +4213,7 @@
         "problem_type": "political_slogans",
         "name": "russia-sanctions/base",
         "commit_link": "https://github.com/Russia-Sanctions/Base",
-        "description": "Просто пакет, который предлагается включать, чтобы выводить политические лозунги"
+        "description": "Просто пакет который предлагается включать чтобы выводить политические лозунги"
     },
     {
         "id": 270,
@@ -4229,7 +4229,7 @@
         "problem_type": "political_slogans",
         "name": "Поиск по Github",
         "commit_link": "https://github.com/search?l=Markdown&q=SWUbanner&type=Code",
-        "description": "Ссылка на поиск тех, что включил баннер в репу"
+        "description": "Ссылка на поиск тех что включил баннер в репу"
     },
     {
         "id": 273,
@@ -4253,7 +4253,7 @@
         "problem_type": "political_slogans",
         "name": "YoutubeDownloader",
         "commit_link": "https://github.com/Tyrrrz/YoutubeDownloader",
-        "description": "Дал ссылку на репо, там везде призывы к поддержке х-слов, ну и в самой программе при запуске всплывает плашка о поддержке т.н. \"Украины\""
+        "description": "Дал ссылку на репо там везде призывы к поддержке х-слов ну и в самой программе при запуске всплывает плашка о поддержке т.н. \"Украины\""
     },
     {
         "id": 277,
@@ -4277,7 +4277,7 @@
         "problem_type": "political_slogans",
         "name": "Stop Russia IT",
         "commit_link": "https://github.com/stop-war-in-ukraine/stop-russia-it",
-        "description": "По ссылке список сервисов, ссылок на обсуждения, петиции на change.org"
+        "description": "По ссылке список сервисов ссылок на обсуждения петиции на change.org"
     },
     {
         "id": 280,
@@ -4309,7 +4309,7 @@
         "problem_type": "political_slogans",
         "name": "AWS Terraform modules",
         "commit_link": "https://github.com/terraform-aws-modules",
-        "description": "все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest), внимание на \"дополнительные соглашения\" внизу README каждого модуля."
+        "description": "все модули AWS для Terraform поддерживаемые сообществом также сдублировалось в официальный Registry (https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest) внимание на \"дополнительные соглашения\" внизу README каждого модуля."
     },
     {
         "id": 324,
@@ -4381,7 +4381,7 @@
         "problem_type": "political_slogans",
         "name": "Cobian Reflector",
         "commit_link": "https://www.cobiansoft.com/crhistory.html",
-        "description": "Cobiansoft популярные, бесплатные для коммерции, программы резервного копирования. Автор швед, учившийся в России обозлился из-за западной пропаганды на Путина и с каждым обновлением в журнале обновления постит политические лозунги. Заканчивается ли вся не"
+        "description": "Cobiansoft популярные бесплатные для коммерции программы резервного копирования. Автор швед учившийся в России обозлился из-за западной пропаганды на Путина и с каждым обновлением в журнале обновления постит политические лозунги. Заканчивается ли вся не"
     },
     {
         "id": 336,
@@ -4429,7 +4429,7 @@
         "problem_type": "political_slogans",
         "name": "EdgeDB",
         "commit_link": "https://twitter.com/edgedatabase/status/1499842655840190468",
-        "description": "Смена логотипа в репозитории, пропаганда в twitter https://github.com/edgedb"
+        "description": "Смена логотипа в репозитории пропаганда в twitter https://github.com/edgedb"
     },
     {
         "id": 345,
@@ -4437,7 +4437,7 @@
         "problem_type": "political_slogans",
         "name": "virtualdj",
         "commit_link": "https://www.virtualdj.com/",
-        "description": "При запуске программы с росcийского ip вылетает политический пуш, на сайте также в шапке политические лозунги."
+        "description": "При запуске программы с росcийского ip вылетает политический пуш на сайте также в шапке политические лозунги."
     },
     {
         "id": 374,
@@ -4453,7 +4453,7 @@
         "problem_type": "political_slogans",
         "name": "docker-compose Icinga stack",
         "commit_link": "https://github.com/lippserd/docker-compose-icinga",
-        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/ с лозунгом #StandWithUkraine"
     },
     {
         "id": 376,
@@ -4477,7 +4477,7 @@
         "problem_type": "political_slogans",
         "name": "docker-compose Icinga stack",
         "commit_link": "https://github.com/lippserd/docker-compose-icinga",
-        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/ с лозунгом #StandWithUkraine"
     },
     {
         "id": 382,
@@ -4493,7 +4493,7 @@
         "problem_type": "political_slogans",
         "name": "docker-compose Icinga stack",
         "commit_link": "https://github.com/lippserd/docker-compose-icinga",
-        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/, с лозунгом #StandWithUkraine"
+        "description": "заблокирован доступ к файлам в репозитории https://repo.packagist.org/ с лозунгом #StandWithUkraine"
     },
     {
         "id": 385,
@@ -4501,7 +4501,7 @@
         "problem_type": "political_slogans",
         "name": "AltStore (iOS)",
         "commit_link": "https://altstore.io/",
-        "description": "Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам, подготовленное @razomforukraine, с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
+        "description": "Обновлена вкладка «Новости AltStore» со ссылкой на руководство по ресурсам подготовленное @razomforukraine с призывом делать пожертвования и #StandWithUkraine. На сайте чисто."
     },
     {
         "id": 386,
@@ -4565,7 +4565,7 @@
         "problem_type": "political_slogans",
         "name": "zadam/trilium",
         "commit_link": "https://github.com/zadam/trilium",
-        "description": "Всё стандартно. Баннер, лозунги, призывы."
+        "description": "Всё стандартно. Баннер лозунги призывы."
     },
     {
         "id": 411,
@@ -4597,7 +4597,7 @@
         "problem_type": "political_slogans",
         "name": "AlDente",
         "commit_link": "https://apphousekitchen.com/aldente-pro-1-16-release-notes/",
-        "description": "В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения, что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
+        "description": "В новом релизе автор написал что поддерживает Украину. Так же автор добавил флаг. Есть опасения что добавил еще что-то в новый релиз. Обновляться до 1.16 явно опасно."
     },
     {
         "id": 419,
@@ -4645,7 +4645,7 @@
         "problem_type": "political_slogans",
         "name": "composer/packagist",
         "commit_link": "https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981",
-        "description": "Менеджер пакетов для PHP. При скачивании пакетов в терминале выводит текст: \"Info from https://repo.packagist.org: #StandWithUkraine\".\r\nhttps://github.com/composer/packagist/pull/1270\r\nАвтор добавил их в публичный репозиторий packagist, так что апгрейд/даунгрейд самого composer.phar не поможет. Кому-то CI/CD поломало, лозунги пишутся в stderr. Решение: https://github.com/open-composer/composer/issues/3#issuecomment-1087867491"
+        "description": "Менеджер пакетов для PHP. При скачивании пакетов в терминале выводит текст: \"Info from https://repo.packagist.org: #StandWithUkraine\".\r\nhttps://github.com/composer/packagist/pull/1270\r\nАвтор добавил их в публичный репозиторий packagist так что апгрейд/даунгрейд самого composer.phar не поможет. Кому-то CI/CD поломало лозунги пишутся в stderr. Решение: https://github.com/open-composer/composer/issues/3#issuecomment-1087867491"
     },
     {
         "id": 436,
@@ -4709,7 +4709,7 @@
         "problem_type": "political_slogans",
         "name": "CherryTree",
         "commit_link": "https://github.com/giuspen/cherrytree/commit/66d69523239c98ada36d93f841615370a1517c48",
-        "description": "Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский, потом на бело-сине-белый флаг, придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец, живущий в Британии, жена из Украины. Годный продукт, но теперь стрёмно им пользоваться, вдруг начнёт базы портить, если локаль русская"
+        "description": "Под эгидой добавления новых пиктограмм для веток заметок запилил первым в списке жовто-блакитное сердечко и заменил российский флаг сначала на украинский потом на бело-сине-белый флаг придуманный нам западными кураторами на манер БЧБ в Беларуси. Автор - итальянец живущий в Британии жена из Украины. Годный продукт но теперь стрёмно им пользоваться вдруг начнёт базы портить если локаль русская"
     },
     {
         "id": 453,
@@ -4765,7 +4765,7 @@
         "problem_type": "political_slogans",
         "name": "CleanMyMac X",
         "commit_link": "https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12",
-        "description": "Политические лозунги, логотип, сбор денег.\r\nVersion 4.10.4\r\nA new category in the Uninstaller module — Suspicious — where CleanMyMac puts apps associated with or owned by Russian or Belarusian developers.\r\nUpdated the Ukrainian theme and added an ability to switch it off in the Preferences."
+        "description": "Политические лозунги логотип сбор денег.\r\nVersion 4.10.4\r\nA new category in the Uninstaller module — Suspicious — where CleanMyMac puts apps associated with or owned by Russian or Belarusian developers.\r\nUpdated the Ukrainian theme and added an ability to switch it off in the Preferences."
     },
     {
         "id": 468,
@@ -4781,7 +4781,7 @@
         "problem_type": "political_slogans",
         "name": "fmtlib/fmt",
         "commit_link": "https://github.com/fmtlib/fmt",
-        "description": "Политические лозунги, логотип, сбор денег. Что характерно, до 1 марта Зверович агитировал за белорусских нациков, видимо работодатель заставил перевесить."
+        "description": "Политические лозунги логотип сбор денег. Что характерно до 1 марта Зверович агитировал за белорусских нациков видимо работодатель заставил перевесить."
     },
     {
         "id": 473,
@@ -4789,7 +4789,7 @@
         "problem_type": "political_slogans",
         "name": "dmtrKovalenko/cypress-real-events",
         "commit_link": "https://github.com/dmtrKovalenko/cypress-real-events/commit/660025b0dac4e69ef6a982eeb0a26e025d3a7696",
-        "description": "Баннер для сбора пожертвований, в том числе для армии Украины"
+        "description": "Баннер для сбора пожертвований в том числе для армии Украины"
     },
     {
         "id": 488,
@@ -4797,7 +4797,7 @@
         "problem_type": "political_slogans",
         "name": "starship",
         "commit_link": "https://github.com/starship/starship/commit/52fa4bbab4393589aebbeded4351886e657a6275",
-        "description": "Баннер для сбора пожертвований, в том числе для армии Украины"
+        "description": "Баннер для сбора пожертвований в том числе для армии Украины"
     },
     {
         "id": 489,
@@ -4829,7 +4829,7 @@
         "problem_type": "political_slogans",
         "name": "jenkins",
         "commit_link": "https://www.jenkins.io",
-        "description": "Изменен логотип, рядом \"We stand with the people of Ukraine...\""
+        "description": "Изменен логотип рядом \"We stand with the people of Ukraine...\""
     },
     {
         "id": 495,
@@ -4877,7 +4877,7 @@
         "problem_type": "political_slogans",
         "name": "Meta Open Source",
         "commit_link": "https://opensource.fb.com/",
-        "description": "Header Banner   Support Ukraine Help Provide Humanitarian Aid to Ukraine."
+        "description": "Header Banner  Support Ukraine Help Provide Humanitarian Aid to Ukraine."
     },
     {
         "id": 508,
@@ -4909,7 +4909,7 @@
         "problem_type": "political_slogans",
         "name": "NUnit",
         "commit_link": "https://nunit.org",
-        "description": "На главной странице про-украинские лозунги и ссылка на сбор денег, в том числе для ВСУ"
+        "description": "На главной странице про-украинские лозунги и ссылка на сбор денег в том числе для ВСУ"
     },
     {
         "id": 517,
@@ -4957,7 +4957,7 @@
         "problem_type": "political_slogans",
         "name": "innoextract",
         "commit_link": "https://github.com/dscharrer/innoextract",
-        "description": "Программа для извлечения содержимого установщиков, построенных на Inno. Политические лозунги в шапке сайта https://constexpr.org/innoextract/"
+        "description": "Программа для извлечения содержимого установщиков построенных на Inno. Политические лозунги в шапке сайта https://constexpr.org/innoextract/"
     },
     {
         "id": 537,
@@ -4973,7 +4973,7 @@
         "problem_type": "political_slogans",
         "name": "Fluffy Mods для RimWorld",
         "commit_link": "https://github.com/fluffy-mods",
-        "description": "Ссылка на моды в Steam: https://steamcommunity.com/id/FluffyMods/myworkshopfiles/?appid=294100\r\n\r\nРазработчик — из Украины. Описание большинства модов содержит клевету по поводу СВО. Так как в репозиториях имеются .dll в виде бинарей (с закрытыми исходными кодами), то там может быть что-то и похуже политических лозунгов, не хочется проверять."
+        "description": "Ссылка на моды в Steam: https://steamcommunity.com/id/FluffyMods/myworkshopfiles/?appid=294100\r\n\r\nРазработчик — из Украины. Описание большинства модов содержит клевету по поводу СВО. Так как в репозиториях имеются .dll в виде бинарей (с закрытыми исходными кодами) то там может быть что-то и похуже политических лозунгов не хочется проверять."
     },
     {
         "id": 539,
@@ -5045,7 +5045,7 @@
         "problem_type": "political_slogans",
         "name": "Canardoux/flutter_sound",
         "commit_link": "https://github.com/Canardoux/flutter_sound/commit/923de938fca04ded9e5e85c4cba9ff2dae0ebb55",
-        "description": "Flutter plugin for sound. Audio recorder and player. Навставляли картинок в описание пакета https://pub.dev/packages/flutter_sound, может быть что-то еще."
+        "description": "Flutter plugin for sound. Audio recorder and player. Навставляли картинок в описание пакета https://pub.dev/packages/flutter_sound может быть что-то еще."
     },
     {
         "id": 563,
@@ -5053,7 +5053,7 @@
         "problem_type": "political_slogans",
         "name": "Thonny IDE for Python",
         "commit_link": "https://github.com/thonny/thonny-webpage/commit/c13d44bd90dff1a7836a7d7b681457893e487c4c",
-        "description": "Python IDE for beginners. Политические лозунги на главной странице https://thonny.org/, оскорбления по национальному признаку."
+        "description": "Python IDE for beginners. Политические лозунги на главной странице https://thonny.org/ оскорбления по национальному признаку."
     },
     {
         "id": 564,
@@ -5061,7 +5061,7 @@
         "problem_type": "political_slogans",
         "name": "World Air Quality Index",
         "commit_link": "aqicn.org",
-        "description": "Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.\r\nThe library EventSource displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199"
+        "description": "Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.\r\nThe library EventSource displays political slogans on your site. To do this it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199"
     },
     {
         "id": 569,
@@ -5109,7 +5109,7 @@
         "problem_type": "political_slogans",
         "name": "PyText",
         "commit_link": "https://github.com/facebookresearch/pytext/commit/a2faf473f7ba652d5aed5cd09c3a5297e9cce24e",
-        "description": "Очередной фейсбучный репозиторий, куда вставили политический баннер в readme"
+        "description": "Очередной фейсбучный репозиторий куда вставили политический баннер в readme"
     },
     {
         "id": 606,
@@ -5141,7 +5141,7 @@
         "problem_type": "political_slogans",
         "name": "NoCoDB",
         "commit_link": "https://github.com/nocodb/nocodb",
-        "description": "Зависит от es5-ext, смотрите описание проблемы с es5-ext"
+        "description": "Зависит от es5-ext смотрите описание проблемы с es5-ext"
     },
     {
         "id": 616,
@@ -5149,7 +5149,7 @@
         "problem_type": "political_slogans",
         "name": "nestjs-pino",
         "commit_link": "https://github.com/iamolegga/nestjs-pino/commit/246847e2bc77429a11a3ac38da6170c9ccc60c2c",
-        "description": "логгер для NestJS. Политические лозунги, сбор денег"
+        "description": "логгер для NestJS. Политические лозунги сбор денег"
     },
     {
         "id": 617,
@@ -5221,7 +5221,7 @@
         "problem_type": "political_slogans",
         "name": "Downie 4 (macOS)",
         "commit_link": "software.charliemonroe.net/downie/",
-        "description": "Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг, если у вас русская локаль. Сейчас можно отключить в настройках."
+        "description": "Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг если у вас русская локаль. Сейчас можно отключить в настройках."
     },
     {
         "id": 634,
@@ -5229,7 +5229,7 @@
         "problem_type": "political_slogans",
         "name": "bestwebsoft",
         "commit_link": "https://bestwebsoft.com/ ",
-        "description": "плагины для Wordpress recaptcha, Sitemap, Captcha, Contact form, Gallery, BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины, донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
+        "description": "плагины для Wordpress recaptcha Sitemap Captcha Contact form Gallery BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах."
     },
     {
         "id": 637,
@@ -5245,7 +5245,7 @@
         "problem_type": "political_slogans",
         "name": "AdBlockPlus (browser extension)",
         "commit_link": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/",
-        "description": "ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/\r\nТ.е. ABP заменяет чужую \"неприемлемую\" рекламу, на проплаченную \"приемлемую\". Среди \"приемлемой\" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы, например uBlock Origin"
+        "description": "ABP в 2016 году запустил сервис Acceptable Ads Platform https://habr.com/ru/post/310006/\r\nТ.е. ABP заменяет чужую \"неприемлемую\" рекламу на проплаченную \"приемлемую\". Среди \"приемлемой\" рекламы замечены случаи показа украинской пропаганды. Рекомендуется использовать честные блокировщики рекламы например uBlock Origin"
     },
     {
         "id": 644,
@@ -5269,7 +5269,7 @@
         "problem_type": "political_slogans",
         "name": "exler",
         "commit_link": "exler.ru",
-        "description": "Флаг Украины в шапке сайта, ведущий на сбор пожертвований для Украины"
+        "description": "Флаг Украины в шапке сайта ведущий на сбор пожертвований для Украины"
     },
     {
         "id": 651,
@@ -5341,7 +5341,7 @@
         "problem_type": "political_slogans",
         "name": "Keenetic",
         "commit_link": "https://blog.keenetic.com/statement-on-ukraine/",
-        "description": "Keenetic перестал быть российской компанией, и переписывает свою историю в Википедии. Успехов вам на рынке Европы."
+        "description": "Keenetic перестал быть российской компанией и переписывает свою историю в Википедии. Успехов вам на рынке Европы."
     },
     {
         "id": 679,
@@ -5373,7 +5373,7 @@
         "problem_type": "political_slogans",
         "name": "preactjs/preact-www (Preact JS)",
         "commit_link": "https://github.com/preactjs/preact-www/commit/b04ccc87e480c950a8a55b2a376d24dea09dda36#diff-71dbb35ea3b8b527f82a89549131f93ab71aa72acc533bff9c704c1fb8f99d52R28",
-        "description": "В шапке сайта https://preactjs.com/ баннер в поддержку Украины. А ведь раньше там был лозунг BLM. Это что же, для вас жизни белых снова важнее черных?"
+        "description": "В шапке сайта https://preactjs.com/ баннер в поддержку Украины. А ведь раньше там был лозунг BLM. Это что же для вас жизни белых снова важнее черных?"
     },
     {
         "id": 687,
@@ -5405,7 +5405,7 @@
         "problem_type": "political_slogans",
         "name": "butzist/ActivityLauncher (Activity Launcher)",
         "commit_link": "https://github.com/butzist/ActivityLauncher",
-        "description": "Приложение https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher не доступно в РФ, русский язык заменён украинским."
+        "description": "Приложение https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher не доступно в РФ русский язык заменён украинским."
     },
     {
         "id": 691,
@@ -5445,7 +5445,7 @@
         "problem_type": "political_slogans",
         "name": "Tyrrrz/DiscordChatExporter",
         "commit_link": "https://github.com/Tyrrrz/DiscordChatExporter",
-        "description": "С начала конфликта и до версии 2.36.4 при запуске показывалась плашка с пропагандой помощи Украине. С версии 2.37 программа отказывается запускаться, если в системе не прописана переменная среды с оскорблением русского народа. Скриншот: https://imgbox.com/exCP7iOc"
+        "description": "С начала конфликта и до версии 2.36.4 при запуске показывалась плашка с пропагандой помощи Украине. С версии 2.37 программа отказывается запускаться если в системе не прописана переменная среды с оскорблением русского народа. Скриншот: https://imgbox.com/exCP7iOc"
     },
     {
         "id": 722,
@@ -5469,13 +5469,13 @@
         "problem_type": "political_slogans",
         "name": "BetterBird",
         "commit_link": "https://www.betterbird.eu/index.html",
-        "description": "Форк Thunderbird, вывесили плашку с флагом Украины на сайте"
+        "description": "Форк Thunderbird вывесили плашку с флагом Украины на сайте"
     },
     {
         "id": 725,
         "datetime": "2023-02-07 09:10:00",
         "problem_type": "political_slogans",
-        "name": "ShellHacks, Command-Line Tips",
+        "name": "ShellHacks Command-Line Tips",
         "commit_link": "https://www.shellhacks.com/",
         "description": "Баннер \"Stop the War in Urkaine\" со ссылкой на украинский сайт для поддержки войны."
     },
@@ -5485,7 +5485,7 @@
         "problem_type": "political_slogans",
         "name": "ClickHouse",
         "commit_link": "https://clickhouse.com/blog/we-stand-with-ukraine",
-        "description": "Выступли с политическим заявлением у себя в блоге. и заблокировали загрузку из РФ отображая сообщение https://clickhouse.com/service-unavailable-country. Потом пользователей стало мало, загрузку разблокировали."
+        "description": "Выступли с политическим заявлением у себя в блоге. и заблокировали загрузку из РФ отображая сообщение https://clickhouse.com/service-unavailable-country. Потом пользователей стало мало загрузку разблокировали."
     },
     {
         "id": 727,
@@ -5501,7 +5501,7 @@
         "problem_type": "political_slogans",
         "name": "Yet another flags",
         "commit_link": "https://chrome.google.com/webstore/detail/yet-another-flags/dmchcmgddbhmbkakammmklpoonoiiomk",
-        "description": "После обновления от 26.01.2023 иногда показывает флаг Украины и призыв помочь ВФУ. При клике по укр.флагу открывается страница https://savelife.in.ua/en/donate-en/#donate-army-card-once, где собираются деньги для ВФУ. Исходники вероятно здесь https://github.com/kipupuseja/yet-another-flags-extension, но обновлений не было с 2016г"
+        "description": "После обновления от 26.01.2023 иногда показывает флаг Украины и призыв помочь ВФУ. При клике по укр.флагу открывается страница https://savelife.in.ua/en/donate-en/#donate-army-card-once где собираются деньги для ВФУ. Исходники вероятно здесь https://github.com/kipupuseja/yet-another-flags-extension но обновлений не было с 2016г"
     },
     {
         "id": 729,
@@ -5509,7 +5509,7 @@
         "problem_type": "political_slogans",
         "name": "Мракопедия",
         "commit_link": "https://mrakopedia.net",
-        "description": "Призывают поддержать ВСУ, а россиян учат сдаваться. Сайт заблокирован РКН."
+        "description": "Призывают поддержать ВСУ а россиян учат сдаваться. Сайт заблокирован РКН."
     },
     {
         "id": 730,
@@ -5525,7 +5525,7 @@
         "problem_type": "political_slogans",
         "name": "Vectornator",
         "commit_link": "https://www.vectornator.io/blog/standing-with-ukraine/",
-        "description": "Программа-рисовалка. Пропаганда, истории очевидцев только с одной стороны.\r\nПризывают жертвовать фондам, в том числе Come Back Alive, оказывающей поддержку ВСУ."
+        "description": "Программа-рисовалка. Пропаганда истории очевидцев только с одной стороны.\r\nПризывают жертвовать фондам в том числе Come Back Alive оказывающей поддержку ВСУ."
     },
     {
         "id": 732,
@@ -5533,7 +5533,7 @@
         "problem_type": "political_slogans",
         "name": "Pixelmator",
         "commit_link": "https://www.pixelmator.com/community/viewtopic.php?p=66192",
-        "description": "Графический редактор. Литовская компания, в штате есть украинцы. В комментариях https://www.pixelmator.com/community/viewtopic.php?p=66192 команда выражает поддержку Украине:\r\n\"we have a colleague working remotely in Ukraine and, as a Lithuanian-based company, Russia's invasion of Ukraine has quite deeply affected all of us over the past two months, so the codename was chosen as an expression of support for Ukraine\". Высокий риск блокировки услуг для пользователей из РФ."
+        "description": "Графический редактор. Литовская компания в штате есть украинцы. В комментариях https://www.pixelmator.com/community/viewtopic.php?p=66192 команда выражает поддержку Украине:\r\n\"we have a colleague working remotely in Ukraine and as a Lithuanian-based company Russia's invasion of Ukraine has quite deeply affected all of us over the past two months so the codename was chosen as an expression of support for Ukraine\". Высокий риск блокировки услуг для пользователей из РФ."
     },
     {
         "id": 733,
@@ -5605,7 +5605,7 @@
         "problem_type": "political_slogans",
         "name": "mockk/mockk",
         "commit_link": "https://github.com/mockk/mockk",
-        "description": "Баннер со сбором средств на дроны в самом  https://github.com/mockk/mockk/blob/6cfbc12d58d2e5d62a775a7b64946d932aee1e4d/_layouts/default.html#L247"
+        "description": "Баннер со сбором средств на дроны в самом https://github.com/mockk/mockk/blob/6cfbc12d58d2e5d62a775a7b64946d932aee1e4d/_layouts/default.html#L247"
     },
     {
         "id": 748,
@@ -5645,7 +5645,7 @@
         "problem_type": "political_slogans",
         "name": "KLog",
         "commit_link": "https://www.klog.xyz/",
-        "description": "флаг Украины в заголовке. KLog 2.0 – Stop the war. Posted on 26 February, 2022 by Jaime"
+        "description": "флаг Украины в заголовке. KLog 2.0 – Stop the war. Posted on 26 February 2022 by Jaime"
     },
     {
         "id": 754,
@@ -5653,7 +5653,7 @@
         "problem_type": "political_slogans",
         "name": "factorio",
         "commit_link": "https://factorio.com/",
-        "description": "Плашка с поддержкой Украины на главном сайте, mods. и forum. поддоменах, на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
+        "description": "Плашка с поддержкой Украины на главном сайте mods. и forum. поддоменах на wiki. нет. Ведёт на сайт пожертвований. Всё остальное работает."
     },
     {
         "id": 764,
@@ -5693,7 +5693,7 @@
         "problem_type": "political_slogans",
         "name": "pdf-manuals",
         "commit_link": "https://pdf-manuals.ru/",
-        "description": "При загрузке инструкции над кнопкой отображается надпись \"Остановите войну с Украиной\", загруженные файлы вместо инструкций содержат страницу стихотворения с фоном в виде украинского флага"
+        "description": "При загрузке инструкции над кнопкой отображается надпись \"Остановите войну с Украиной\" загруженные файлы вместо инструкций содержат страницу стихотворения с фоном в виде украинского флага"
     },
     {
         "id": 783,
@@ -5709,7 +5709,7 @@
         "problem_type": "political_slogans",
         "name": "Cobain Backup",
         "commit_link": "https://www.cobiansoft.com/",
-        "description": "Баннер, лозунги. Поведение не ясно. Без обновления отказывается работать"
+        "description": "Баннер лозунги. Поведение не ясно. Без обновления отказывается работать"
     },
     {
         "id": 785,
