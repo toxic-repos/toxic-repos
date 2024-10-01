@@ -3096,6 +3096,30 @@
         "description": "Политические лозунги"
     },
     {
+        "id": 815,
+        "datetime": "2024-09-02 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "dmitryvinn",
+        "commit_link": "https://github.com/facebook/create-react-app/commits?author=dmitryvinn",
+        "description": "Встроил лозунг в пакет facebook\t"
+    },
+    {
+        "id": 816,
+        "datetime": "2024-09-25 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "nissl-lab/npoi",
+        "commit_link": "https://github.com/nissl-lab/npoi/commit/63a74df47e64fec9ad93ed96dce816f5acb543e6",
+        "description": "Политические лозунги"
+    },
+    {
+        "id": 817,
+        "datetime": "2024-09-27 09:15:00",
+        "problem_type": "political-slogans",
+        "name": "swagger-api/swagger-ui",
+        "commit_link": "https://github.com/swagger-api/swagger-ui",
+        "description": "https://github.com/swagger-api/swagger-ui/issues/9640 , https://swagger.io/ - Инструмент разработки документации API. Заблокирован доступ к сайту с российских IP"
+    },
+    {
         "id": 3,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
