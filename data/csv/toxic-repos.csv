@@ -585,7 +585,7 @@ If you disagree with this decision or want to learn more please go to https://do
 251,2022-03-29 15:48:48,political_slogans,deskreen,https://deskreen.com,Не опенсурс но не знаю куда ещё отправить эту информацию.,
 252,2022-03-29 15:48:48,political_slogans,The Unarchiver,https://github.com/MacPaw,Проверить есть ли что-то помимо лозунгов пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации.,
 253,2022-03-29 15:48:48,political_slogans,Spark,https://sparkmailapp.com/,Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство что ограничение на клиентской части приложения т.к. отказ пришел с обновлениями),
-254,2022-03-29 15:48:48,political_slogans,GNOME extension ddterm,,Демонстрирует в окне консоли баннер.,
+254,2022-03-29 15:48:48,political_slogans,GNOME extension ddterm,https://extensions.gnome.org/extension/3780/ddterm/,Демонстрирует в окне консоли баннер.,
 255,2022-03-29 15:48:48,political_slogans,plantUml web ресурс,https://plantuml.com/ru/,Я аналитик я не найду пуш в репе. plantUML много где используется как библиотечка для документирования и плагин в Idea. Но конкретно сейчас я нашла это в web версии,
 257,2022-03-29 15:48:48,political_slogans,Codeception for PHP,https://github.com/Codeception/Codeception/commit/eefe1abc60500c0516b85131cbbfbb9a22899db4,"при запуске в консоли выводится ""Codeception PHP Testing Framework v4.1.31 https://helpukrainewin.org""",
 258,2022-03-29 15:48:48,political_slogans,Docusaurus,https://github.com/facebook/docusaurus/pull/6811,Опенсорс проект http://docusaurus.io/,

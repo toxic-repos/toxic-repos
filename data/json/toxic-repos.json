@@ -4675,7 +4675,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "GNOME extension ddterm",
-        "commit_link": "",
+        "commit_link": "https://extensions.gnome.org/extension/3780/ddterm/",
         "description": "Демонстрирует в окне консоли баннер.",
         "PURL-link": null
     },
