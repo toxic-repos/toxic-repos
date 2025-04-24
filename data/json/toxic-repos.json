@@ -634,7 +634,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "hostile_actions",
         "name": "OkayCMS",
-        "commit_link": "https://okay-cms.com/ https://ok-cms.com/",
+        "commit_link": "https://okay-cms.com",
         "description": "Были политические заявления в блоге и на сайте компании указывающие на то что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей",
         "PURL-link": null
     },
@@ -688,8 +688,8 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "hostile_actions",
         "name": "Uptime kuma",
-        "commit_link": "https://github.com/louislam/uptime-kuma/tree/1.12.0 https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released",
-        "description": "Удаляли русский язык просили путина закончить войну что бы вернуть его.",
+        "commit_link": "https://github.com/louislam/uptime-kuma/tree/1.12.0",
+        "description": "Удаляли русский язык просили путина закончить войну что бы вернуть его. https://www.reddit.com/r/UptimeKuma/comments/t1rsqs/uptime_kuma_112_released",
         "PURL-link": null
     },
     {
@@ -697,7 +697,7 @@
         "datetime": "2022-04-08 11:06:54",
         "problem_type": "hostile_actions",
         "name": "PayPal",
-        "commit_link": "paypal.com",
+        "commit_link": "https://paypal.com",
         "description": "Сняли остаток на счёте отвязали привязанную виртуальную карту тинькова. При повторной привязке сообщают об ошибке. В списке карт можно выбрать mastercard/visa/итд а выбор карты МИР - отсутствует. При попытке перевести средства из-за рубежа через форму `https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+user&cmd=_donations&business=user%40domain.com` - предлагают только рубли.",
         "PURL-link": null
     },
@@ -715,7 +715,7 @@
         "datetime": "2022-04-08 11:06:54",
         "problem_type": "hostile_actions",
         "name": "MoneyGram.com",
-        "commit_link": "moneygram.com",
+        "commit_link": "https://moneygram.com",
         "description": "приостановили услуги в России",
         "PURL-link": null
     },
@@ -724,7 +724,7 @@
         "datetime": "2022-04-08 11:06:54",
         "problem_type": "hostile_actions",
         "name": "GitLab",
-        "commit_link": "gitlab.com",
+        "commit_link": "https://gitlab.com",
         "description": "С марта 2022 перестали продлевать и выдавать квоты на новые лицензии",
         "PURL-link": null
     },
@@ -733,7 +733,7 @@
         "datetime": "2022-04-08 11:06:54",
         "problem_type": "hostile_actions",
         "name": "HPE",
-        "commit_link": "hpe.com",
+        "commit_link": "https://hpe.com",
         "description": "HPE заблокировал аккаунты из РФ и Беларуси (Есть файлы которые без зарегистрированного аккаунта с привязанным серийным номером не скачать) 24 марта пришло письмо от \"HPE Headquarters\" <no-reply@hpe.com> Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE.",
         "PURL-link": null
     },
@@ -787,7 +787,7 @@
         "datetime": "2022-04-11 10:28:33",
         "problem_type": "hostile_actions",
         "name": "Sparkpost (рассылка email)",
-        "commit_link": "Sparkpost.com",
+        "commit_link": "https://Sparkpost.com",
         "description": "Удалили аккаунт без объявления причин и не дали скачать данные",
         "PURL-link": null
     },
@@ -805,7 +805,7 @@
         "datetime": "2022-04-11 10:28:33",
         "problem_type": "hostile_actions",
         "name": "Grammarly",
-        "commit_link": "grammarly.com",
+        "commit_link": "https://grammarly.com",
         "description": "Приостановили обслуживание в РФ и Белоруссии. Для россиких IP отображают страницу-заглушку с пропогандой. Перекрасили логотип в цвета украинского флага",
         "PURL-link": null
     },
@@ -913,7 +913,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "hostile_actions",
         "name": "Weblium",
-        "commit_link": "weblium.com",
+        "commit_link": "https://weblium.com",
         "description": "Сообщение \"Weblium приостанавливает все новые продажи продуктов и услуг в России\". Политические лозунги видео. Не пускает в админку сайта",
         "PURL-link": null
     },
@@ -922,7 +922,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "hostile_actions",
         "name": "Parallels",
-        "commit_link": "parallels.com",
+        "commit_link": "https://parallels.com",
         "description": "Удалили русский перевод сайта. Пропаганда.\r\nhttps://imgbox.com/vIwZXDIO\r\nhttps://imgbox.com/ZJ11M8bf",
         "PURL-link": null
     },
@@ -967,7 +967,7 @@
         "datetime": "2022-04-20 11:16:00",
         "problem_type": "hostile_actions",
         "name": "SSL.com",
-        "commit_link": "ssl.com",
+        "commit_link": "https://ssl.com",
         "description": "заблочили продление сертификата для сайта в зоне .com по инфе регистратора домена",
         "PURL-link": null
     },
@@ -1030,7 +1030,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "hostile_actions",
         "name": "Confluence",
-        "commit_link": "https://www.atlassian.com/",
+        "commit_link": "https://www.atlassian.com",
         "description": "Confluence не дает заргистрировать даже бесплатный аккаунт (до 10 пользователей) с IP РФ/РБ:\r\n\"We stand with Ukraine; We have a commitment to our customers to provide a trusted service. In response we are pausing the sales of all new software to Russia\"",
         "PURL-link": null
     },
@@ -1048,7 +1048,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "hostile_actions",
         "name": "Cisco",
-        "commit_link": "cisco.com",
+        "commit_link": "https://cisco.com",
         "description": "9 марта был заблокирован корпоративный аккаунт cisco. Писем-уведомлений не было. После попытки авторизации на странице выдаёт: Access Denied. You don't have permission to access \"http://id.cisco.com/oauth2/default/v1/authorize?\" on this server.",
         "PURL-link": null
     },
@@ -1057,7 +1057,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "hostile_actions",
         "name": "VMware",
-        "commit_link": "vmware.com",
+        "commit_link": "https://vmware.com",
         "description": "Корпоративный аккаунт vmware.com был заблокирован 9 марта все тикеты были сразу закрыты. Прислали письмо:\r\n\r\nThe U.S. Office of Foreign Assets Control and the U.S. Department of Commerce Bureau of Industry & Security have recently issued prohibitions and sanctions according to which U.S. companies (as well as their foreign-affiliated companies) are prohibited from certain or all commercial and/or financial activities with certain entities in Russia Ukraine and Belarus and/or relating to certain products.",
         "PURL-link": null
     },
@@ -1111,7 +1111,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "hostile_actions",
         "name": "Firefox",
-        "commit_link": "-",
+        "commit_link": "",
         "description": "Firefox-based браузеры (Waterfox Librewolf) какое-то время назад удалили поиск Яндекса из настроек поисковиков. Даже если его вернуть вручную настройка поиска по-умолчанию периодически сбрасывается на первый в списке. Учитывая то что Google и DuckDuckGo убрали или понизили в поисковой выдаче российские СМИ обычный пользователь в результатах поиска будет получать преимущественно антироссийскую точку зрения.",
         "PURL-link": null
     },
@@ -1228,7 +1228,7 @@
         "datetime": "2022-06-28 14:47:00",
         "problem_type": "hostile_actions",
         "name": "djinni",
-        "commit_link": "djinni.co",
+        "commit_link": "https://djinni.co",
         "description": "заблокированы аккаунты из России призывы переводить деньги и т. п.",
         "PURL-link": null
     },
@@ -1282,7 +1282,7 @@
         "datetime": "2022-07-07 08:41:00",
         "problem_type": "hostile_actions",
         "name": "Adobe",
-        "commit_link": "adobe.com",
+        "commit_link": "https://adobe.com",
         "description": "stopping all sales in Russia",
         "PURL-link": null
     },
@@ -1363,7 +1363,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "hostile_actions",
         "name": "VirtualBox",
-        "commit_link": "virtualbox.org",
+        "commit_link": "https://virtualbox.org",
         "description": "При попытке входа в старый российский аккаунт (https://login.oracle.com/mysso/signon.jsp) пишет \"неверный логин/пароль\". При регистрации нового аккаунта через VPN нельзя выбрать Россию.",
         "PURL-link": null
     },
@@ -1543,7 +1543,7 @@
         "datetime": "2023-10-16 12:29:00",
         "problem_type": "hostile_actions",
         "name": "Tailscale",
-        "commit_link": "tailscale.com",
+        "commit_link": "https://tailscale.com",
         "description": "Разработчики Tailscale запретили пользоваться их ПО тперь для жителей России в магазинах приложений AppStore и Google Market клиента TailScale не скачать. У кого были скачены продолжают работать но на долго ли ….",
         "PURL-link": null
     },
@@ -1593,13 +1593,22 @@
         "PURL-link": null
     },
     {
+        "id": 826,
+        "datetime": "2022-03-29 15:48:48",
+        "problem_type": "hostile_actions",
+        "name": "OkayCMS",
+        "commit_link": "https://ok-cms.com",
+        "description": "Были политические заявления в блоге и на сайте компании указывающие на то что русских ненавидят. Прямой отказ в обновлениях движка и отправке уже оплаченных ранее модулей",
+        "PURL-link": null
+    },
+    {
         "id": 57,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Игра Top Eleven от nordeus",
-        "commit_link": "eu.nordeus.topeleven.android",
+        "commit_link": "",
         "description": "Удалили для РФ свои приложения в Google Play и Apple Store + заблокировали навсегда учетные записи всем у кого была выбрана страна Россия. Я играл с 2019 года.",
-        "PURL-link": null
+        "PURL-link": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android"
     },
     {
         "id": 58,
@@ -1624,7 +1633,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Elastic search",
-        "commit_link": "Elastic.co",
+        "commit_link": "https://Elastic.co",
         "description": "По ссылке скачать ответ 403",
         "PURL-link": null
     },
@@ -1642,7 +1651,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Elasticsearch",
-        "commit_link": "docker.elastic.co/elasticsearch/elasticsearch",
+        "commit_link": "https://docker.elastic.co/elasticsearch/elasticsearch",
         "description": "Образ не грузится с российского IP. Команда для проверки docker pull docker.elastic.co/elasticsearch/elasticsearch:7.8.1 . См https://ibb.co/kDvN1q3\r\nДоступ к веб сайту https://www.elastic.co/ есть но скачать ничего нельзя. Оставили доступ только к www без www выдает ошибку 403. Компания прекратила продажи в РФ.",
         "PURL-link": null
     },
@@ -1669,8 +1678,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "HPE MyAccount Services",
-        "commit_link": "Пришла E-mail рассылка на почту аккаунта",
-        "description": "Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE.",
+        "commit_link": "",
+        "description": "Due to regulatory requirements HPE registered users in Russia and Belarus were deactivated on 22 March 2022 until further notice. This will result in not being allowed access to information and services that reside within HPE (пришла E-mail рассылка на почту аккаунта)",
         "PURL-link": null
     },
     {
@@ -1705,7 +1714,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Jasper Reports",
-        "commit_link": "Jaspersoft.com",
+        "commit_link": "https://Jaspersoft.com",
         "description": "Ребята из Jaspersoft не пускают на сайт и форум community с российских IP-адресов",
         "PURL-link": null
     },
@@ -1714,7 +1723,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "Doxygen",
-        "commit_link": "doxygen.nl doxygen.org",
+        "commit_link": "https://doxygen.nl",
         "description": "Нет доступа с территории РФ. При использовании VPN всё ок.",
         "PURL-link": null
     },
@@ -1723,8 +1732,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "spamcop",
-        "commit_link": "(connect to vmx.spamcop.net[184.94.240.112]:25: Connection timed out)",
-        "description": "Сервис spamcop не принимает жалобы по почте c ip-адресов РФ. Проверено на нескольких хостах/провайдерах",
+        "commit_link": "",
+        "description": "Сервис spamcop не принимает жалобы по почте c ip-адресов РФ. Проверено на нескольких хостах/провайдерах. (connect to vmx.spamcop.net[184.94.240.112]:25: Connection timed out)",
         "PURL-link": null
     },
     {
@@ -1804,8 +1813,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "ip_block",
         "name": "pnpm",
-        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83  https://github.com/pnpm/pnpm/commit/0066c11b97799",
-        "description": "Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP.",
+        "commit_link": "https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83",
+        "description": "Заблокирован доступ на основной сайт https://pnpm.io для РФ и РБ по IP. https://github.com/pnpm/pnpm/commit/0066c11b97799",
         "PURL-link": null
     },
     {
@@ -1822,7 +1831,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "Oracle",
-        "commit_link": "oracle.com",
+        "commit_link": "https://oracle.com",
         "description": "Отключили ВМ",
         "PURL-link": null
     },
@@ -1876,7 +1885,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "Mouser Electronics Ru",
-        "commit_link": "ru.mouser.com",
+        "commit_link": "https://ru.mouser.com",
         "description": "Отображается \"В Настоящее Время Данный Веб-Сайт Закрыт.\" eu.mouser.com пока работает.",
         "PURL-link": null
     },
@@ -1939,7 +1948,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "Посмотрели",
-        "commit_link": "posmotre.li",
+        "commit_link": "https://posmotre.li",
         "description": "Называли себя \"свободной энциклопедией\" в статье про опен сорс (правда с припиской что не свободны от рекламы). Сперва собирали помощь \"жертвам политических репрессий в РФ и РБ\" на главной а с началом известных действий на Украине закрыли всем доступ \"д",
         "PURL-link": null
     },
@@ -1966,7 +1975,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "Mbed",
-        "commit_link": "os.mbed.com",
+        "commit_link": "https://os.mbed.com",
         "description": "IoT device development. Блокируют доступ по IP из РФ. Сайт доступен через tor.",
         "PURL-link": null
     },
@@ -1984,7 +1993,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "Платежный сервис Xsolla",
-        "commit_link": "secure.xsolla.com",
+        "commit_link": "https://secure.xsolla.com",
         "description": "Не работает из ДНР",
         "PURL-link": null
     },
@@ -2011,7 +2020,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "ip_block",
         "name": "EmBitz",
-        "commit_link": "Embitz.org",
+        "commit_link": "https://Embitz.org",
         "description": "Не совсем опенсорс. Бан по IP и по локали на сайт с русским языком не зайти даже через vpn. Также бан по локали в самой IDE на easyelectronics уже сумели это обойти.",
         "PURL-link": null
     },
@@ -2263,7 +2272,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "ip_block",
         "name": "depesz.com",
-        "commit_link": "depesz.com explain.depesz.com paste.depesz.com",
+        "commit_link": "https://depesz.com",
         "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com paste.depesz.com",
         "PURL-link": null
     },
@@ -2281,7 +2290,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "ip_block",
         "name": "Auth0",
-        "commit_link": "auth0.com",
+        "commit_link": "https://auth0.com",
         "description": "Ошибка 403 на регистрации с редиректом на auth0-stands-with-ukraine с текстом про санкции США",
         "PURL-link": null
     },
@@ -2335,7 +2344,7 @@
         "datetime": "2022-04-25 13:02:00",
         "problem_type": "ip_block",
         "name": "IBM Quantum Lab",
-        "commit_link": "quantum-computing.ibm.com",
+        "commit_link": "https://quantum-computing.ibm.com",
         "description": "Веб-приложение для доступа к вычислениям на квантовых компьютерах от IBM заблокировало доступ с российских IP",
         "PURL-link": null
     },
@@ -2380,7 +2389,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "ip_block",
         "name": "GrayLog",
-        "commit_link": "graylog.org",
+        "commit_link": "https://graylog.org",
         "description": "Через VPN всё открывается.",
         "PURL-link": null
     },
@@ -2551,7 +2560,7 @@
         "datetime": "2022-06-17 12:58:00",
         "problem_type": "ip_block",
         "name": "Syncthing",
-        "commit_link": "syncthing.net",
+        "commit_link": "https://syncthing.net",
         "description": "File synchronization program. Could not connect to apt.syncthing.net:443 (82.196.13.137) connection timed out\r\nДобавили баннер на главной странице\r\nЧерез VPN работает.",
         "PURL-link": null
     },
@@ -2587,7 +2596,7 @@
         "datetime": "2022-06-17 12:58:00",
         "problem_type": "ip_block",
         "name": "kaleido.ai",
-        "commit_link": "kaleido.ai",
+        "commit_link": "https://kaleido.ai",
         "description": "kaleido.ai и их сервисы например remove.bg - слоганы ограничение доступа по региону возможно с сохранением куки/слепка браузера - повторный заход без чистки из обычной вкладки с vpn кидает туда же",
         "PURL-link": null
     },
@@ -2623,7 +2632,7 @@
         "datetime": "2022-06-21 09:24:00",
         "problem_type": "ip_block",
         "name": "devart.com",
-        "commit_link": "devart.com",
+        "commit_link": "https://devart.com",
         "description": "не открывается. В поддержке пообещали отозвать активные подписки и прекратить любую поддержку людям из России и Белоруссии.",
         "PURL-link": null
     },
@@ -2749,7 +2758,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "ip_block",
         "name": "Unscreen",
-        "commit_link": "unscreen.com",
+        "commit_link": "https://unscreen.com",
         "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP",
         "PURL-link": null
     },
@@ -2758,7 +2767,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "ip_block",
         "name": "Remove image background",
-        "commit_link": "remove.bg",
+        "commit_link": "https://remove.bg",
         "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP",
         "PURL-link": null
     },
@@ -2767,7 +2776,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "ip_block",
         "name": "Designify",
-        "commit_link": "designify.com",
+        "commit_link": "https://designify.com",
         "description": "Онлайн обработка фото/видео. Идет редирект на страницу kaleido.ai/ru-no-access которая не открывается ведь ее тоже закрыли для российских IP",
         "PURL-link": null
     },
@@ -2803,7 +2812,7 @@
         "datetime": "2022-08-17 13:11:00",
         "problem_type": "ip_block",
         "name": "Disc Makers",
-        "commit_link": "discmakers.com",
+        "commit_link": "https://discmakers.com",
         "description": "О компании: Компания специализирующаяся по разработке и выпуску физических релизов для независимых музыкантов. Для рядового пользователя может быть примечательным за образцы обложек для упаковок различных музыкальных носителей (футляры для CD и DVD наклейки для аудио-кассет).\r\n\r\nБлокировка: Блокировка доступа пользователям из России и Беларуси через Cloudflare (ошибка 1020). Без проблем обходится с помощью VPN.",
         "PURL-link": null
     },
@@ -2821,7 +2830,7 @@
         "datetime": "2022-09-02 11:05:00",
         "problem_type": "ip_block",
         "name": "WeTransfer",
-        "commit_link": "wetransfer.com",
+        "commit_link": "https://wetransfer.com",
         "description": "Сервис для отправки больших файлов. Заблокировали доступ из РФ и РБ.",
         "PURL-link": null
     },
@@ -2848,7 +2857,7 @@
         "datetime": "2022-09-14 08:03:00",
         "problem_type": "ip_block",
         "name": "strava",
-        "commit_link": "strava.com",
+        "commit_link": "https://strava.com",
         "description": "Сайт с российского ip не открывается. Приложение в российском магазине не доступно.",
         "PURL-link": null
     },
@@ -2866,7 +2875,7 @@
         "datetime": "2022-09-19 08:43:00",
         "problem_type": "ip_block",
         "name": "metafields.guru",
-        "commit_link": "app.metafields.guru",
+        "commit_link": "https://app.metafields.guru",
         "description": "Приложение metafields.guru на сайте shopify.com не работает с российских адресов.\r\nПрименяется геоблок на уровне DNS для России выдает 127.0.0.1 для домена app.metafields.guru",
         "PURL-link": null
     },
@@ -2884,7 +2893,7 @@
         "datetime": "2022-10-16 13:55:00",
         "problem_type": "ip_block",
         "name": "cybersecurity-help",
-        "commit_link": "cybersecurity-help.cz",
+        "commit_link": "https://cybersecurity-help.cz",
         "description": "Политический лозунг блокировка РФ адресов",
         "PURL-link": null
     },
@@ -2929,7 +2938,7 @@
         "datetime": "2022-10-16 13:55:00",
         "problem_type": "ip_block",
         "name": "meteo.paraplan",
-        "commit_link": "meteo.paraplan.net",
+        "commit_link": "https://meteo.paraplan.net",
         "description": "Блокировка доступа из РФ. Флаг Украины и требование сдаться.",
         "PURL-link": null
     },
@@ -2956,7 +2965,7 @@
         "datetime": "2022-11-11 13:00:00",
         "problem_type": "ip_block",
         "name": "NewTek",
-        "commit_link": "newtek.com",
+        "commit_link": "https://newtek.com",
         "description": "Обработка видео. Заблокировали доступ из РФ",
         "PURL-link": null
     },
@@ -2965,7 +2974,7 @@
         "datetime": "2022-11-11 13:00:00",
         "problem_type": "ip_block",
         "name": "Syncfusion",
-        "commit_link": "syncfusion.com",
+        "commit_link": "https://syncfusion.com",
         "description": "UI component suite for developers. Доступ только через VPN https://imgbox.com/MvguElZI",
         "PURL-link": null
     },
@@ -3082,7 +3091,7 @@
         "datetime": "2023-02-07 09:10:00",
         "problem_type": "ip_block",
         "name": "Blackmagic Design",
-        "commit_link": "www.blackmagicdesign.com",
+        "commit_link": "https://www.blackmagicdesign.com",
         "description": "Полностью снесли русскоязнычную часть сайта. При попытке зайти – сбрасывает в англоязычную версию.\r\nВыкинули пункт ресселеров в России на странице продуктов.\r\nhttps://web.archive.org/web/20220306215950/https://www.blackmagicdesign.com/ru\r\nhttps://www.blackmagicdesign.com/ru\r\nhttps://imgbox.com/wsT2Fk3T",
         "PURL-link": null
     },
@@ -3154,7 +3163,7 @@
         "datetime": "2023-02-07 09:10:00",
         "problem_type": "ip_block",
         "name": "github marketplace",
-        "commit_link": "github.com/marketplace",
+        "commit_link": "https://github.com/marketplace",
         "description": "Попытка купить или подписаться на бесплатный сервис или план:\r\nAfter reviewing we have determined that your account is ineligible for GitHub purchases due to restrictions under U.S. economic sanctions. For this reason you will not be able to proceed with your GitHub transaction.\r\nIf you disagree with this decision or want to learn more please go to https://docs.github.com/en/github/site-policy/github-and-trade-controls.",
         "PURL-link": null
     },
@@ -3366,6 +3375,33 @@
         "PURL-link": null
     },
     {
+        "id": 827,
+        "datetime": "2022-03-29 15:48:48",
+        "problem_type": "ip_block",
+        "name": "Doxygen",
+        "commit_link": "https://doxygen.org",
+        "description": "Нет доступа с территории РФ. При использовании VPN всё ок.",
+        "PURL-link": null
+    },
+    {
+        "id": 825,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "depesz.com",
+        "commit_link": "https://explain.depesz.com",
+        "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com paste.depesz.com",
+        "PURL-link": null
+    },
+    {
+        "id": 824,
+        "datetime": "2022-04-18 12:38:00",
+        "problem_type": "ip_block",
+        "name": "depesz.com",
+        "commit_link": "https://paste.depesz.com",
+        "description": "Поляк заблокировал доступ с российских/белорусских IP к своему блогу depesz.com и поддоменам explain.depesz.com paste.depesz.com",
+        "PURL-link": null
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -3532,8 +3568,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "Unity Ads for Android",
-        "commit_link": "https://github.com/Unity-Technologies/unity-ads-android https://unity.com/products/unity-ads",
-        "description": "После встраивания рекламы Unity Ads в мобильную игру пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети",
+        "commit_link": "https://github.com/Unity-Technologies/unity-ads-android",
+        "description": "После встраивания рекламы Unity Ads в мобильную игру пользователям из России игра начинает показывать вместо рекламы политические лозунги о свержении конституционного строя. Причём на устройстве разработчика ничего подобного не проявляется Мы чудом замети. https://unity.com/products/unity-ads",
         "PURL-link": null
     },
     {
@@ -3919,7 +3955,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "FreePBX",
-        "commit_link": "ОТСУТСТВУЕТ",
+        "commit_link": "",
         "description": "При обновлении каждую 5 команду выдает сообщение с призывом остановить РФ",
         "PURL-link": null
     },
@@ -3928,7 +3964,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "Diptrace",
-        "commit_link": "Что за жаргон? Почему не использовать нормальные слова что за гопницкое быдло?",
+        "commit_link": "",
         "description": "После встречи \"пуша в репе\" никакого желания что -либо дальше делать нет общаться с тупой школотой - ну нафиг.",
         "PURL-link": null
     },
@@ -4189,7 +4225,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "mailtrap.io",
-        "commit_link": "mailtrap.io",
+        "commit_link": "https://mailtrap.io",
         "description": "Если зайти под русским ip то показывает страницу политическим лозунгом и видеоматериалами использование сервиса далее заблокировано vpn решает проблему",
         "PURL-link": null
     },
@@ -4270,8 +4306,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "T-Regx",
-        "commit_link": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552 и https://github.com/T-Regx/T-Regx/commit/7e481",
-        "description": "StandWithUkraine banner",
+        "commit_link": "https://github.com/T-Regx/T-Regx/commit/88c05aa62f1931f31e252c68c4084f22336e4552",
+        "description": "StandWithUkraine banner. https://github.com/T-Regx/T-Regx/commit/7e481",
         "PURL-link": null
     },
     {
@@ -4306,7 +4342,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "daemon tools",
-        "commit_link": "daemon-tools.cc",
+        "commit_link": "https://daemon-tools.cc",
         "description": "с главного сайта начали перенаправлять на политический отключили обновления",
         "PURL-link": null
     },
@@ -4324,7 +4360,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "Elmedia Player macOS",
-        "commit_link": "…",
+        "commit_link": "",
         "description": "Вместо проигрывания медиа файлов запускает видео военных действий с политическими лозунгами",
         "PURL-link": null
     },
@@ -4621,7 +4657,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "The Unarchiver",
-        "commit_link": "https://github.com/MacPaw (приватный репозиторий)",
+        "commit_link": "https://github.com/MacPaw",
         "description": "Проверить есть ли что-то помимо лозунгов пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации.",
         "PURL-link": null
     },
@@ -4639,7 +4675,7 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "GNOME extension ddterm",
-        "commit_link": "оф сайт расширений гнома",
+        "commit_link": "https://extensions.gnome.org/extension/3780/ddterm/",
         "description": "Демонстрирует в окне консоли баннер.",
         "PURL-link": null
     },
@@ -4738,8 +4774,8 @@
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "political_slogans",
         "name": "1password.com - менеджер паролей",
-        "commit_link": "Только ссылка",
-        "description": "https://blog.1password.com/responding-to-the-conflict-in-ukraine/",
+        "commit_link": "https://blog.1password.com/responding-to-the-conflict-in-ukraine/",
+        "description": "We are halting new account creation in Russia, along with renewal payments for existing customers in the region",
         "PURL-link": null
     },
     {
@@ -4918,7 +4954,7 @@
         "datetime": "2022-04-02 10:36:34",
         "problem_type": "political_slogans",
         "name": "Gitlab",
-        "commit_link": "gitlab.com",
+        "commit_link": "https://gitlab.com",
         "description": "Логотип перекрашен в цвета флага Украины (появляется не всегда)",
         "PURL-link": null
     },
@@ -5062,7 +5098,7 @@
         "datetime": "2022-04-08 11:14:13",
         "problem_type": "political_slogans",
         "name": "imgur",
-        "commit_link": "imgur.com",
+        "commit_link": "https://imgur.com",
         "description": "Перекрасили логотип в цвета украинского флага",
         "PURL-link": null
     },
@@ -5206,7 +5242,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "political_slogans",
         "name": "Macintosh Repository",
-        "commit_link": "macintoshrepository.org",
+        "commit_link": "https://macintoshrepository.org",
         "description": "Добавлен призыв \"Пожалуйста остановите войну\" внизу страницы https://imgbox.com/5BGEAhrx",
         "PURL-link": null
     },
@@ -5215,7 +5251,7 @@
         "datetime": "2022-04-18 12:38:00",
         "problem_type": "political_slogans",
         "name": "Hacking with Swift",
-        "commit_link": "www.hackingwithswift.com",
+        "commit_link": "https://www.hackingwithswift.com",
         "description": "Образовательный ресурс по программированию на Swift. Добавили украинский флажок: https://imgbox.com/SL27Rljs",
         "PURL-link": null
     },
@@ -5413,7 +5449,7 @@
         "datetime": "2022-05-08 20:53:00",
         "problem_type": "political_slogans",
         "name": "Motix",
-        "commit_link": "motix.ru",
+        "commit_link": "https://motix.ru",
         "description": "Сервис закладок. Вместо сайта motix.ru сделали заглушку c пропагандистким видео и редирект на motix.com.ua. На данный момент сайт заблокирован в РФ.",
         "PURL-link": null
     },
@@ -5467,7 +5503,7 @@
         "datetime": "2022-05-13 09:39:00",
         "problem_type": "political_slogans",
         "name": "The Movie Database (TMDB)",
-        "commit_link": "themoviedb.org",
+        "commit_link": "https://themoviedb.org",
         "description": "заблокировали свой сервис на уровне DNS для российского сегмента интернета",
         "PURL-link": null
     },
@@ -5665,7 +5701,7 @@
         "datetime": "2022-06-17 12:58:00",
         "problem_type": "political_slogans",
         "name": "World Air Quality Index",
-        "commit_link": "aqicn.org",
+        "commit_link": "https://aqicn.org",
         "description": "Air Pollution map. На сайте с некоторой задержкой отображается alert-диалог с пропагандой. Похоже владельцы сайта стали жертвой библиотеки EventSource polyfill. Напишите пожалуйста кто-нибудь разработчикам.\r\nThe library EventSource displays political slogans on your site. To do this it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that the library opens a political/malicious website in a pop-up window. https://github.com/Yaffle/EventSource/issues/199",
         "PURL-link": null
     },
@@ -5701,7 +5737,7 @@
         "datetime": "2022-06-28 14:47:00",
         "problem_type": "political_slogans",
         "name": "Depositphotos",
-        "commit_link": "depositphotos.com",
+        "commit_link": "https://depositphotos.com",
         "description": "Баннер в заголовке. Сам сервис https://ru.depositphotos.com/upscaler.html и загрузка фото пока работают",
         "PURL-link": null
     },
@@ -5836,7 +5872,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "political_slogans",
         "name": "cex.io",
-        "commit_link": "cex.io",
+        "commit_link": "https://cex.io",
         "description": "Криптобиржа. Сбор пожертвований для Украины",
         "PURL-link": null
     },
@@ -5845,7 +5881,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "political_slogans",
         "name": "Downie 4 (macOS)",
-        "commit_link": "software.charliemonroe.net/downie/",
+        "commit_link": "https://software.charliemonroe.net/downie/",
         "description": "Приложение для скачивания видео с видеосервисов. Поменяли иконку в доке на украинский флаг если у вас русская локаль. Сейчас можно отключить в настройках.",
         "PURL-link": null
     },
@@ -5854,7 +5890,7 @@
         "datetime": "2022-08-08 14:00:00",
         "problem_type": "political_slogans",
         "name": "bestwebsoft",
-        "commit_link": "https://bestwebsoft.com/ ",
+        "commit_link": "https://bestwebsoft.com",
         "description": "плагины для Wordpress recaptcha Sitemap Captcha Contact form Gallery BestWebSoft&#039;s Like &amp; Share. На сайте призывы в поддержка Украины донаты в Украинскую армию. Потенциально опасно использовать данные плагины на Российских сайтах.",
         "PURL-link": null
     },
@@ -5899,7 +5935,7 @@
         "datetime": "2022-09-02 11:05:00",
         "problem_type": "political_slogans",
         "name": "exler",
-        "commit_link": "exler.ru",
+        "commit_link": "https://exler.ru",
         "description": "Флаг Украины в шапке сайта ведущий на сбор пожертвований для Украины",
         "PURL-link": null
     },
@@ -6061,7 +6097,7 @@
         "datetime": "2022-11-11 13:00:00",
         "problem_type": "political_slogans",
         "name": "Anivisual",
-        "commit_link": "anivisual.net",
+        "commit_link": "https://anivisual.net",
         "description": "Комиксы. Украинский флаг шапке сайта",
         "PURL-link": null
     },
@@ -6421,7 +6457,7 @@
         "datetime": "2023-11-15 09:15:00",
         "problem_type": "political_slogans",
         "name": "НомерНедели",
-        "commit_link": "номернедели.рф",
+        "commit_link": "https://номернедели.рф",
         "description": "Флаг Украины в шапке и в картинке в результатах поиска",
         "PURL-link": null
     },
