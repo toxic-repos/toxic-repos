@@ -1,4 +1,4 @@
-name: Semgrep Code Scan
+name: Semgrep Security Check
 
 on:
   push:
@@ -25,9 +25,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install semgrep
 
-      # Сканирование только Python:
-      #- name: Run Semgrep (Python security rules)
-      #  run: semgrep --config "p/python" --error
+      - name: Run Semgrep and save report
+        run: |
+          semgrep --config "p/python" --json > semgrep-report.json || true
+        # || true, чтобы job не падал сразу, мы сами обработаем результат
 
-      - name: Run Semgrep (Full Security Rules)
-        run: semgrep --config "p/ci" --error
+      - name: Analyze Semgrep report with inline Python
+        run: |
+          python <<EOF
+          import json, sys
+
+          with open("semgrep-report.json") as f:
+              data = json.load(f)
+
+          findings = data.get("results", [])
+          if findings:
+              print(f"❌ Found {len(findings)} issues!")
+              for r in findings[:10]:  # показываем первые 10 проблем
+                  print(f"- [{r.get('check_id')}] {r.get('extra', {}).get('message')} "
+                        f"({r.get('path')}:{r.get('start', {}).get('line')})")
+              sys.exit(1)  # фейлим конвейер
+          else:
+              print("✅ No issues found. Good job!")
+          EOF
