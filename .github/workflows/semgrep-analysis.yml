@@ -27,7 +27,7 @@ jobs:
 
       - name: Run Semgrep and save report
         run: |
-          semgrep --config "p/python" --json > semgrep-report.json || true
+          semgrep --json > semgrep-report.json || true
         # || true, чтобы job не падал сразу, мы сами обработаем результат
 
       - name: Upload report
