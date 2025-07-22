@@ -35,7 +35,7 @@ jobs:
         with:
           name: semgrep-report
           path: semgrep-report.json
-        retention-days: 10
+          retention-days: 10
 
       - name: Analyze report
         run: |
