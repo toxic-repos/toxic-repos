@@ -7448,5 +7448,45 @@
         "description": "Флаг украины в поддержку, мейнтейнер поддерживает",
         "PURL-link": "https://www.npmjs.com/package/mobx",
         "PURL": null
+    },
+    {
+        "id": 829,
+        "datetime": "2025-10-27 23:39:00",
+        "problem_type": "political_slogans",
+        "name": "jethrodaniel/z",
+        "commit_link": "https://github.com/jethrodaniel/z",
+        "description": "Флаг в description",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 830,
+        "datetime": "2025-10-27 23:39:00",
+        "problem_type": "political_slogans",
+        "name": "anishsinha-io/oidc-go",
+        "commit_link": "https://github.com/anishsinha-io/oidc-go",
+        "description": "Флаг в description",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 831,
+        "datetime": "2025-10-27 23:39:00",
+        "problem_type": "political_slogans",
+        "name": "ArtemZinchenko0111/GLORY-TO-UKRAINE",
+        "commit_link": "https://github.com/ArtemZinchenko0111/GLORY-TO-UKRAINE-/commit/d8fc031b4198b0812402ad6b29f0dd2d6f3041f3",
+        "description": "Протестваре на весь экран",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 832,
+        "datetime": "2025-10-27 23:39:00",
+        "problem_type": "political_slogans",
+        "name": "w3schoolsua/w3schoolsua.github.io",
+        "commit_link": "https://github.com/w3schoolsua/w3schoolsua.github.io/blob/2466a157cc76fd0fda0884be26f32b4ae1001095/html/html_form_elements_es.html#L607",
+        "description": "Политические лозунги на страницах",
+        "PURL-link": "",
+        "PURL": null
     }
 ]
