@@ -582,7 +582,7 @@ If you disagree with this decision or want to learn more please go to https://do
 247,2022-03-29 15:48:48,political_slogans,11ty/11ty-website,https://github.com/11ty/11ty-website/commit/544e54a62947c41381d0e9b59891dfe4dd9f3de6,шильда в шапке Stand with Ukraine ??. До этого была ссылка на донаты для Украины,,
 248,2022-03-29 15:48:48,political_slogans,repo.packagist.org,https://github.com/composer/packagist/pull/1270,composer update - выдает в консоли #StandWithUkraine,,
 249,2022-03-29 15:48:48,political_slogans,RNUILib,https://github.com/wix/react-native-ui-lib/commit/dca74afdc64f76101c105d02534f4a05bb0c771c,Баннер #StandWithUkraine,,
-251,2022-03-29 15:48:48,political_slogans,deskreen,https://deskreen.com,Не опенсурс но не знаю куда ещё отправить эту информацию.,,
+251,2022-03-29 15:48:48,political_slogans,pavlobu/deskreen,https://github.com/pavlobu/deskreen/commit/3f9714df0e0b6de4f75112600c47e524b77e2692,Не опенсурс но не знаю куда ещё отправить эту информацию.,https://www.npmjs.com/package/deskreen,
 252,2022-03-29 15:48:48,political_slogans,The Unarchiver,https://github.com/MacPaw,Проверить есть ли что-то помимо лозунгов пока не удаётся. Лозунги точно показываются на баннере при разархивации/архивации.,,
 253,2022-03-29 15:48:48,political_slogans,Spark,https://sparkmailapp.com/,Из текущего: лозунги и отказ от обслуживания жителей РФ (такое чувство что ограничение на клиентской части приложения т.к. отказ пришел с обновлениями),,
 254,2022-03-29 15:48:48,political_slogans,GNOME extension ddterm,https://extensions.gnome.org/extension/3780/ddterm/,Демонстрирует в окне консоли баннер.,,
