@@ -7438,5 +7438,15 @@
         "description": "На видео присутствуют политические лозунги. Ссылка: https://release.gnome.org/45/#new-image-viewer",
         "PURL-link": null,
         "PURL": null
+    },
+    {
+        "id": 828,
+        "datetime": "2025-10-27 19:44:00",
+        "problem_type": "political_slogans",
+        "name": "mobxjs/mobx",
+        "commit_link": "https://github.com/mobxjs/mobx/pull/3500/commits/c7a28fa4ad01e74ff2ebc6b66ba5b7a7f0faca8f https://github.com/mobxjs/mobx/pull/3500",
+        "description": "Флаг украины в поддержку, мейнтейнер поддерживает",
+        "PURL-link": "https://www.npmjs.com/package/mobx",
+        "PURL": null
     }
 ]
