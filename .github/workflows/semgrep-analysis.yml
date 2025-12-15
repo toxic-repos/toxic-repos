@@ -31,7 +31,7 @@ jobs:
         # || true, чтобы job не падал сразу, мы сами обработаем результат
 
       - name: Upload report
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: semgrep-report
           path: semgrep-report.json
