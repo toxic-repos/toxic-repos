@@ -7448,5 +7448,25 @@
         "description": "Флаг украины в поддержку, мейнтейнер поддерживает",
         "PURL-link": "https://www.npmjs.com/package/mobx",
         "PURL": null
+    },
+    {
+        "id": 829,
+        "datetime": "2026-02-18 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "rocksndiamonds",
+        "commit_link": "http://git.artsoft.org/rocksndiamonds.git",
+        "description": "Герб Украины в меню игры",
+        "PURL-link": "https://bugzilla.altlinux.org/58219",
+        "PURL": null
+    },
+    {
+        "id": 830,
+        "datetime": "2026-02-18 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "artsoft",
+        "commit_link": "http://git.artsoft.org/rocksndiamonds.git",
+        "description": "Герб Украины в меню игры",
+        "PURL-link": "https://bugzilla.altlinux.org/58219",
+        "PURL": null
     }
 ]
