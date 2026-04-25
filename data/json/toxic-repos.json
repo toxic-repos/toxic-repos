@@ -3780,6 +3780,16 @@
         "PURL": null
     },
     {
+        "id": 839,
+        "datetime": "2026-04-25 20:49:00",
+        "problem_type": "ip_block",
+        "name": "Rakudoweekly",
+        "commit_link": "https://rakudoweekly.blog",
+        "description": "Блог с Украинской антивоенными постами",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
         "id": 1,
         "datetime": "2022-03-29 15:48:48",
         "problem_type": "malware",
@@ -7507,6 +7517,46 @@
         "commit_link": "http://git.artsoft.org/rocksndiamonds.git",
         "description": "Герб Украины в меню игры",
         "PURL-link": "https://bugzilla.altlinux.org/58219",
+        "PURL": null
+    },
+    {
+        "id": 835,
+        "datetime": "2026-04-25 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "Raku/REA",
+        "commit_link": "https://github.com/Raku/REA/blob/6f16388a3ca226d199238608577c303045c53602/meta/M/Manifest%3A%3AStopWar/Manifest%3A%3AStopWar%3Aver%3C0.0.9%3E%3Aauth%3Czef%3Aknarkhov%3E.json",
+        "description": "Поилитические лозунги и файлы",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 836,
+        "datetime": "2026-04-25 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "super-productivity/super-productivity",
+        "commit_link": "https://github.com/super-productivity/super-productivity/commit/982399b8468b9dfa00e41a7cb21e8cb8f69f8425",
+        "description": "Баннер, флаг Украины со ссылкой куда деньги переводить",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 837,
+        "datetime": "2026-04-25 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "scylladb/scylladb",
+        "commit_link": "https://github.com/scylladb/scylladb/issues/29039",
+        "description": "сайт scylladb.com, популярной базы данных scylla-db, заблокирован в России",
+        "PURL-link": "",
+        "PURL": null
+    },
+    {
+        "id": 838,
+        "datetime": "2026-04-25 20:49:00",
+        "problem_type": "political_slogans",
+        "name": "aristocratos/btop",
+        "commit_link": "https://github.com/aristocratos/btop/commit/2ca3dd33e4fea7200a7be098d6b7d067b1bd1383",
+        "description": "Донатный баннер с украинской символикой",
+        "PURL-link": "",
         "PURL": null
     }
 ]
